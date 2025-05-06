@@ -18,7 +18,7 @@ TARGET_CHANNELS = [
 ]
 CSV_URL = "https://raw.githubusercontent.com/parotris3/Mfeed/main/difusion.csv"
 BASE_PROGRAM_URL = "https://www.movistarplus.es/programacion-tv/"
-OUTPUT_XML_FILE = "epg_popups_full_desc.xml" # Nuevo nombre de archivo
+OUTPUT_XML_FILE = "popups.xml" # Nuevo nombre de archivo
 REQUEST_DELAY = 0.5
 LOCAL_TIMEZONE = pytz.timezone('Europe/Madrid')
 
