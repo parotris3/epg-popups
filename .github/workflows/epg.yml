@@ -43,7 +43,7 @@ jobs:
       # 4. Ejecutar el script de Python para generar el EPG
       # Asegúrate que el nombre del script coincida con el tuyo
       - name: Generar archivo EPG XML
-        run: python generar_epg_3dias.py
+        run: python epg-popups.py
 
       # 5. Hacer commit y push del archivo XML generado (si cambió)
       - name: Commit y Push EPG XML
@@ -51,7 +51,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           # Añadir el archivo generado (asegúrate que el nombre es correcto)
-          git add epg_popups_3dias.xml
+          git add popups.xml
           # Verificar si hay cambios para hacer commit
           # Si 'git diff --staged --quiet' falla (exit code 1), significa que hay cambios
           if ! git diff --staged --quiet; then
