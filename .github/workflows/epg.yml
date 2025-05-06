@@ -1,0 +1,65 @@
+# .github/workflows/update_epg.yml
+name: Actualizar Guía EPG
+
+on:
+  # Ejecución programada (ej. todos los días a las 4:00 AM UTC)
+  # Ajusta el horario según necesites (formato CRON UTC)
+  # 4:00 UTC son 6:00 CEST (verano) o 5:00 CET (invierno) en España
+  schedule:
+    - cron: '0 0 * * *'
+
+  # Permite la ejecución manual desde la pestaña Actions de GitHub
+  workflow_dispatch:
+
+  # Opcional: Ejecutar en cada push a la rama principal (útil para probar cambios)
+  # Descomenta si quieres que se ejecute también al subir código.
+  # push:
+  #   branches: [ main ]
+
+jobs:
+  build-and-commit-epg:
+    runs-on: ubuntu-latest # Usar un runner Linux estándar
+
+    # Permisos necesarios para que la Action pueda hacer commit al repositorio
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Obtener el código del repositorio
+      - name: Checkout Repositorio
+        uses: actions/checkout@v4
+
+      # 2. Configurar Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # Puedes usar 3.9, 3.10 o 3.11
+          cache: 'pip' # Activa el caché para las dependencias (acelera ejecuciones futuras)
+
+      # 3. Instalar dependencias
+      - name: Instalar Dependencias
+        run: pip install -r requirements.txt
+
+      # 4. Ejecutar el script de Python para generar el EPG
+      # Asegúrate que el nombre del script coincida con el tuyo
+      - name: Generar archivo EPG XML
+        run: python generar_epg_3dias.py
+
+      # 5. Hacer commit y push del archivo XML generado (si cambió)
+      - name: Commit y Push EPG XML
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Añadir el archivo generado (asegúrate que el nombre es correcto)
+          git add epg_popups_3dias.xml
+          # Verificar si hay cambios para hacer commit
+          # Si 'git diff --staged --quiet' falla (exit code 1), significa que hay cambios
+          if ! git diff --staged --quiet; then
+            echo "Detectados cambios en el EPG XML. Haciendo commit..."
+            git commit -m "Actualización automática de EPG - $(date -u +'%Y-%m-%d %H:%M:%S UTC') [skip ci]"
+            git push
+          else
+            echo "No se detectaron cambios en el EPG XML."
+          fi
+        # Fin del bloque run
+# Fin del archivo YAML
