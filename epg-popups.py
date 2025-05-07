@@ -389,7 +389,7 @@ if __name__ == "__main__":
                 # Linea 1: %categoria% | %año% | %calificacion% | *%ratingValue%/%bestRating%
                 line1_elements = []
                 if prog_data.get('categoria'): line1_elements.append(prog_data['categoria'])
-                if prog_data.get('año'): line1_elements.append(prog_data['año'])
+                #if prog_data.get('año'): line1_elements.append(prog_data['año'])
                 if prog_data.get('calificacion'): line1_elements.append(prog_data['calificacion'])
                 
                 rating_val = prog_data.get('ratingValue')
