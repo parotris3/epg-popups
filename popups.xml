@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 01/06/2025 01:49">
+<tv generator-info-name="MultiPopUps FullDesc 02/06/2025 01:38">
   <channel id="M+ Comedia Ñ">
     <display-name>M+ Comedia Ñ</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MESPA%C3%91"/>
@@ -8,6 +8,67 @@
     <display-name>M+E: Tom Cruise</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCRUIS"/>
   </channel>
+  <programme start="20250602045400 +0200" stop="20250602062500 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">El turismo es un gran invento (1968)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.5/5
+· El alcalde Benito está empeñado en convertir su pueblo en un lugar turístico de playa. Que la villa esté en pleno Aragón carece de importancia para él, ya que lo único que necesita es aprender de Marbella y, para ello, viaja a la Costa del Sol.
+· País: España
+· Director: Pedro Lazaga
+· Reparto: Paco Martínez Soria, José Luis López Vázquez, Ingrid Spaey, Rafael López Somoza, Antonio Ozores, Margot Cottens, María Luisa Ponte
+· Guion: Pedro Masó,Vicente Coello
+· Música: Antón García Abril
+· Productora: Filmayer, S.A, Pedro Masó P.C.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3647149?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250602062500 +0200" stop="20250602080000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">La ciudad no es para mí (1966)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.5/5
+· Agustín Valverde es un buen hombre que vive en un pequeño pueblo aragonés. Viudo y con un único hijo- un médico famoso que vive en la capital-, Agustín ayuda a sus vecinos con alegría y jovialidad... pero se siente solo.
+· País: España
+· Director: Pedro Lazaga
+· Reparto: Paco Martínez Soria, Doris Coll, Alfredo Landa, Gracita Morales, Manolo Gómez Bur, Margot Cottens, Cristina Galbó, José Sacristán, Eduardo Fajardo
+· Guion: Pedro Masó,Vicente Coello
+· Música: Antón García Abril
+· Producción: Pedro Masó
+· Productora: Pedro Masó Producciones Cinematográficas</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4044870?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250602080000 +0200" stop="20250602200000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250602200000 +0200" stop="20250603000000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250603000000 +0200" stop="20250603120000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250603000000 +0200" stop="20250603120000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250603120000 +0200" stop="20250604000000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250604000000 +0200" stop="20250604120000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250604000000 +0200" stop="20250604120000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250604120000 +0200" stop="20250605000000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250605000000 +0200" stop="20250605120000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
   <programme start="20250602000000 +0200" stop="20250602120000 +0200" channel="M+E: Tom Cruise">
     <title lang="es">Próximamente Thriller por M+</title>
     <desc lang="es">(Información detallada no disponible)</desc>
@@ -17,6 +78,30 @@
     <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
   <programme start="20250603000000 +0200" stop="20250603120000 +0200" channel="M+E: Tom Cruise">
+    <title lang="es">Próximamente Thriller por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250603000000 +0200" stop="20250603120000 +0200" channel="M+E: Tom Cruise">
+    <title lang="es">Próximamente Thriller por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250603120000 +0200" stop="20250604000000 +0200" channel="M+E: Tom Cruise">
+    <title lang="es">Próximamente Thriller por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250604000000 +0200" stop="20250604120000 +0200" channel="M+E: Tom Cruise">
+    <title lang="es">Próximamente Thriller por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250604000000 +0200" stop="20250604120000 +0200" channel="M+E: Tom Cruise">
+    <title lang="es">Próximamente Thriller por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250604120000 +0200" stop="20250605000000 +0200" channel="M+E: Tom Cruise">
+    <title lang="es">Próximamente Thriller por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250605000000 +0200" stop="20250605120000 +0200" channel="M+E: Tom Cruise">
     <title lang="es">Próximamente Thriller por M+</title>
     <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
