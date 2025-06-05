@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 04/06/2025 01:27">
+<tv generator-info-name="MultiPopUps FullDesc 05/06/2025 01:27">
   <channel id="M+ Comedia Ñ">
     <display-name>M+ Comedia Ñ</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MESPA%C3%91"/>
   </channel>
-  <channel id="M+E: Tom Cruise">
-    <display-name>M+E: Tom Cruise</display-name>
-    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCRUIS"/>
+  <channel id="M+ Thriller">
+    <display-name>M+ Thriller</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTHRI"/>
   </channel>
-  <programme start="20250604000000 +0200" stop="20250604120000 +0200" channel="M+ Comedia Ñ">
-    <title lang="es">Próximamente Todo Chaplin por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250604120000 +0200" stop="20250605000000 +0200" channel="M+ Comedia Ñ">
-    <title lang="es">Próximamente Todo Chaplin por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250605000000 +0200" stop="20250605120000 +0200" channel="M+ Comedia Ñ">
-    <title lang="es">Próximamente Todo Chaplin por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
   <programme start="20250605000000 +0200" stop="20250605120000 +0200" channel="M+ Comedia Ñ">
     <title lang="es">Próximamente Todo Chaplin por M+</title>
     <desc lang="es">(Información detallada no disponible)</desc>
@@ -44,20 +32,571 @@
     <title lang="es">Próximamente Todo Chaplin por M+</title>
     <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
-  <programme start="20250604060000 +0200" stop="20250605000000 +0200" channel="M+E: Tom Cruise">
+  <programme start="20250607000000 +0200" stop="20250607120000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250607120000 +0200" stop="20250608000000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250608000000 +0200" stop="20250608120000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
+  </programme>
+  <programme start="20250605000000 +0200" stop="20250605080000 +0200" channel="M+ Thriller">
     <title lang="es">Próximamente Thriller por M+</title>
     <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
-  <programme start="20250605000000 +0200" stop="20250606000000 +0200" channel="M+E: Tom Cruise">
-    <title lang="es">Próximamente Thriller por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
+  <programme start="20250605080000 +0200" stop="20250605091500 +0200" channel="M+ Thriller">
+    <title lang="es">El hombre que sabía demasiado (1934)</title>
+    <desc lang="es">Thriller | Apto para todos los públicos | *3.1/5
+· Bob y Jill Lawrence son un matrimonio que está de vacaciones en Suiza con su hija Betty. Allí presencian el asesinato de un joven francés, el cual les confiesa una información de vital importancia: un alto mandatario va a ser asesinado.
+· País: R.U
+· Director: Alfred Hitchcock
+· Reparto: Leslie Banks, Edna Best, Peter Lorre</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4294715?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250605000000 +0200" stop="20250606000000 +0200" channel="M+E: Tom Cruise">
-    <title lang="es">Próximamente Thriller por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
+  <programme start="20250605091500 +0200" stop="20250605103000 +0200" channel="M+ Thriller">
+    <title lang="es">Sabotaje (1936)</title>
+    <desc lang="es">Thriller | Apto para todos los públicos | *3.1/5
+· El respetable propietario de un teatro londinense mantiene una doble vida como terrorista a sueldo. Su mujer no sospecha nada.
+· País: R.U
+· Director: Alfred Hitchcock
+· Reparto: Sylvia Sidney, Oskar Homolka, John Loder, Desmond Tester</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4294612?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250606000000 +0200" stop="20250607000000 +0200" channel="M+E: Tom Cruise">
-    <title lang="es">Próximamente Thriller por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
+  <programme start="20250605103000 +0200" stop="20250605112500 +0200" channel="M+ Thriller">
+    <title lang="es">Rapa.  Temporada (T1). Rapa (T1): Ep.1  (2022)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.2/5
+· Amparo Seoane, alcaldesa de Cedeira, es asesinada. El único testigo del crimen es Tomás, un profesor de literatura. La investigación cae en manos de Maite. Lleno de curiosidad por el crimen, Tomás también empieza a hacerse preguntas.
+· País: España
+· Director: Jorge Coira, Elena Trapé
+· Reparto: Javier Cámara, Mónica López, Eva Fernández, Berta Ojea, Lucía Veiga, Toni Salgado
+· Guion: Fran Araújo,Pepe Coira</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4007504?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20250605112500 +0200" stop="20250605122000 +0200" channel="M+ Thriller">
+    <title lang="es">Rapa.  Temporada (T1). Rapa (T1): Ep.2  (2022)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.1/5
+· Mientras Amparo es enterrada, la investigación por su muerte continúa. Una de las hipótesis que se barajan es por razones políticas, pero hay otra sospechosa que no tiene coartada y su coche encaja con la descripción.
+· País: España
+· Director: Jorge Coira, Elena Trapé
+· Reparto: Javier Cámara, Mónica López, Eva Fernández, Berta Ojea, Lucía Veiga, Toni Salgado
+· Guion: Fran Araújo,Pepe Coira</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4007504?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20250605122000 +0200" stop="20250605131500 +0200" channel="M+ Thriller">
+    <title lang="es">Rapa.  Temporada (T1). Rapa (T1): Ep.3  (2022)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.1/5
+· Cedeira se prepara para la tradicional 'rapa das bestas', quizá la última si se aprueba el proyecto de la mina. Tras ser apartada del caso, Maite se siente tan fuera de lugar que acepta colaborar con Tomás en su investigación particular.
+· País: España
+· Director: Jorge Coira, Elena Trapé
+· Reparto: Javier Cámara, Mónica López, Eva Fernández, Berta Ojea, Lucía Veiga, Toni Salgado
+· Guion: Fran Araújo,Pepe Coira</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4007504?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20250605131500 +0200" stop="20250605144500 +0200" channel="M+ Thriller">
+    <title lang="es">Pixie (2020)</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *3.4/5
+· Pixie planea el atraco perfecto para vengar la muerte de su madre.
+· País: R.U
+· Director: Barnaby Thompson
+· Reparto: Olivia Cooke, Fra Fee, Alec Baldwin, Colm Meaney, Pat Shortt
+· Guion: Preston Thompson
+· Música: Gerry Diver
+· Productora: Confit Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3910588?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250605144500 +0200" stop="20250605162500 +0200" channel="M+ Thriller">
+    <title lang="es">Aquellos que desean mi muerte (2021)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.4/5
+· Hannah, vigilante de una torre antiincendios forestales con un trágico pasado, encuentra en los bosques de Montana a un chico que huye de unos asesinos.
+· País: Canadá y EE.UU
+· Director: Taylor Sheridan
+· Reparto: Angelina Jolie, Nicholas Hoult, Finn Little, Aidan Gillen, Medina Senghore, Jon Bernthal
+· Guion: Charles Leavitt,Taylor Sheridan
+· Música: Brian Tyler
+· Productora: BRON Studios</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4015418?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250605162500 +0200" stop="20250605183500 +0200" channel="M+ Thriller">
+    <title lang="es">Jungla de cristal (1988)</title>
+    <desc lang="es">Acción | No recomendado para menores de doce años | *3.6/5
+· En Navidad, el detective John McClane decide viajar a Los Ángeles para intentar rehacer su vida familiar. McClane llega al gigantesco edificio donde su exmujer Holly se encuentra celebrando las fiestas, ignorando todo lo que está a punto de suceder.
+· País: EE.UU
+· Director: John McTiernan
+· Reparto: Bruce Willis, Bonnie Bedelia, Alan Rickman, Reginald VelJohnson, Paul Gleason, De'voreaux White, William Atherton, Hart Bochner, James Shigeta, Alexander Godunov
+· Guion: Jeb Stuart,Steven E. De Souza
+· Música: Michael Kamen
+· Producción: Lawrence Gordon, Joel Silver
+· Productora: Twentieth Century Fox, Gordon Company, Silver Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4092738?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250605183500 +0200" stop="20250605201500 +0200" channel="M+ Thriller">
+    <title lang="es">Pensamientos mortales (1991)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.1/5
+· Dos buenas amigas, Cynthia y Joyce, son interrogadas por la policía cuando el marido de la segunda aparece asesinado.
+· País: EE.UU
+· Director: Alan Rudolph
+· Reparto: Demi Moore, Glenne Headly, Bruce Willis, John Pankow, Harvey Keitel, Billie Neal
+· Guion: William Reilly,Claude Kerven
+· Música: Mark Isham
+· Producción: Mark Tarlov, John Fiedler
+· Productora: New Visions Pictures, Columbia Pictures, Rufglen Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4338876?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250605201500 +0200" stop="20250605220000 +0200" channel="M+ Thriller">
+    <title lang="es">Firewall (2006)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.2/5
+· Un criminal secuestra a la familia de un experto en seguridad financiera para desviar una gran suma de dinero a su cuenta.
+· País: EE.UU
+· Director: Richard Loncraine
+· Reparto: Robert Patrick, Virginia Madsen, Alan Arkin, Harrison Ford, Robert Forster, Paul Bettany, Mary Lynn Rajskub
+· Guion: Joe Forte
+· Música: Alexandre Desplat
+· Producción: Armyan Bernstein, Basil Iwanyk, Jonathan Shestack
+· Productora: Warner Bros. Pictures, Thunder Road Pictures, Beacon Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4367170?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250605220000 +0200" stop="20250606000500 +0200" channel="M+ Thriller">
+    <title lang="es">El truco final (El prestigio) (2006)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.3/5
+· Unidos por la amistad, su habilidad para la magia y las enseñanzas de un mismo mentor, el refinado Robert Angier y el efectista Alfred Borden acaban siendo enemigos a raíz de una tragedia.
+· País: EE.UU y R.U
+· Director: Christopher Nolan
+· Reparto: Hugh Jackman, Christian Bale, Scarlett Johansson, Michael Caine, Piper Perabo, Rebecca Hall, Samantha Mahurin, David Bowie, Olivia Merg, Johnny Liska
+· Guion: Jonathan Nolan,Christopher Nolan
+· Música: David Julyan
+· Producción: Aaron Ryder, Christopher Nolan, Emma Thomas
+· Productora: Newmarket Productions, Syncopy</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4356256?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606000500 +0200" stop="20250606014000 +0200" channel="M+ Thriller">
+    <title lang="es">El extraño (1946)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.4/5
+· La Comisión de Crímenes de Guerra de la II Guerra Mundial libera a un criminal nazi para que les lleve a su jefe, Franz Kindler.
+· País: EE.UU
+· Director: Orson Welles
+· Reparto: Edward G. Robinson, Loretta Young, Orson Welles, Philip Merivale, Richard Long, Byron Keith, Konstantin Shayne, Theodore Gottlieb
+· Guion: Orson Welles,John Huston,Anthony Veiller,Decla Dunning,Victor Trivas
+· Música: Bronislau Kaper
+· Producción: Sam Spiegel
+· Productora: RKO Radio Pictures Inc, International Pictures Inc, Haig Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3928230?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606014000 +0200" stop="20250606034000 +0200" channel="M+ Thriller">
+    <title lang="es">Enviado especial (1940)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.2/5
+· Ante la amenaza de una segunda guerra mundial, el diario norteamericano 'El Globo' envia a Europa a John Jones, uno de sus reporteros más avispados.
+· País: EE.UU
+· Director: Alfred Hitchcock
+· Reparto: Joel McCrea, Laraine Day, Herbert Marshall, George Sanders
+· Guion: Joan Harrison,Charles Bennett
+· Música: Alfred Newman
+· Productora: Walter Wanger Productions, Inc</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4294699?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606034000 +0200" stop="20250606055000 +0200" channel="M+ Thriller">
+    <title lang="es">El premio (1963)</title>
+    <desc lang="es">Thriller | Apto para todos los públicos | *3.4/5
+· Un escritor norteamericano, mujeriego y alcohólico, viaja a Estocolmo para recibir el premio Nobel. Allí descubre un complot.
+· País: EE.UU
+· Director: Mark Robson
+· Reparto: Paul Newman, Edward G. Robinson, Elke Sommer, Diane Baker, Micheline Presle
+· Guion: Ernest Lehman
+· Música: Jerry Goldsmith
+· Producción: Pandro S. Berman
+· Productora: Metro-Goldwyn-Mayer (MGM)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4309683?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606055000 +0200" stop="20250606072000 +0200" channel="M+ Thriller">
+    <title lang="es">El carnicero (1970)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.2/5
+· El carnicero Popaul conoce a la profesora del pueblo en el banquete de una boda en una localidad rural francesa. Desde entonces, su amistad se incrementa. Pero su relación se tambalea  con la aparición de chicas asesinadas en los alrededores del pueblo.
+· País: Francia e Italia
+· Director: Claude Chabrol
+· Reparto: Stéphane Audran, Jean Yanne, Antonio Passalia, Pascal Ferone
+· Guion: Claude Chabrol
+· Música: Pierre Jansen
+· Producción: André Génovès
+· Productora: Les Films de la Boétie, Euro International Film (EIA) S.p.A</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4292877?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606055000 +0200" stop="20250606072000 +0200" channel="M+ Thriller">
+    <title lang="es">El carnicero (1970)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.2/5
+· El carnicero Popaul conoce a la profesora del pueblo en el banquete de una boda en una localidad rural francesa. Desde entonces, su amistad se incrementa. Pero su relación se tambalea  con la aparición de chicas asesinadas en los alrededores del pueblo.
+· País: Francia e Italia
+· Director: Claude Chabrol
+· Reparto: Stéphane Audran, Jean Yanne, Antonio Passalia, Pascal Ferone
+· Guion: Claude Chabrol
+· Música: Pierre Jansen
+· Producción: André Génovès
+· Productora: Les Films de la Boétie, Euro International Film (EIA) S.p.A</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4292877?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606072000 +0200" stop="20250606085500 +0200" channel="M+ Thriller">
+    <title lang="es">Hijo de Caín (2013)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
+· Nico es un adolescente de extraño carácter, inteligencia excepcional y una única obsesión: el ajedrez. Carlos y Coral, preocupados por su hijo, contratan al psicólogo infantil Julio Beltrán, que se adentrará en el inquietante mundo de Nico.
+· País: España
+· Director: Jesús Monllaó, Jesús Monllaó Plana
+· Reparto: José Coronado, Julio Manrique, David Solans, Maria Molins, Abril García
+· Guion: Sergio Barrejón,David Victori
+· Productora: Life &amp; Pictures, FoscaFilms, Salto de Eje Producciones Cinematográficas S.L</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4172622?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606085500 +0200" stop="20250606101500 +0200" channel="M+ Thriller">
+    <title lang="es">Hide &amp; Seek (2021)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *2.9/5
+· Un hombre de negocios llega a un apartamento buscando a su hermano desaparecido. Allí descubre que las paredes esconden un terrible secreto.
+· País: EE.UU
+· Director: Joel David Moore
+· Reparto: Jonathan Rhys Meyers, Joe Pantoliano, Jacinda Barrett, Sue Jean Kim, Joshua Alscher, Quinn McColgan, Eli Golden
+· Guion: Joel David Moore,Jung Huh
+· Música: Tim Jones
+· Producción: Declan Baldwin, Francis Chung
+· Productora: Big Indie Pictures, CJ Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3983273?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606101500 +0200" stop="20250606110900 +0200" channel="M+ Thriller">
+    <title lang="es">Rapa.  Temporada (T1). Rapa (T1): Ep.4  (2022)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.1/5
+· Meses después de la rapa, la investigación del asesinato de Amparo ha dejado de ser una prioridad y va camino de convertirse en uno de tantos casos que quedan sin resolver. Maite regresa a su puesto e intenta retomar la investigación.
+· País: España
+· Director: Jorge Coira, Elena Trapé
+· Reparto: Javier Cámara, Mónica López, Eva Fernández, Berta Ojea, Lucía Veiga, Toni Salgado
+· Guion: Fran Araújo,Pepe Coira</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4007504?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20250606110900 +0200" stop="20250606120300 +0200" channel="M+ Thriller">
+    <title lang="es">Rapa.  Temporada (T1). Rapa (T1): Ep.5  (2022)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.1/5
+· Tirando de uno de los hilos dejados por Amparo con sus últimas palabras, Tomás y Maite comienzan a acercarse, sin saberlo, a la verdad y han de darse prisa si quieren evitar que quien la mató vuelva a cometer un crimen.
+· País: España
+· Director: Jorge Coira, Elena Trapé
+· Reparto: Javier Cámara, Mónica López, Eva Fernández, Berta Ojea, Lucía Veiga, Toni Salgado
+· Guion: Fran Araújo,Pepe Coira</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4007504?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20250606120300 +0200" stop="20250606125900 +0200" channel="M+ Thriller">
+    <title lang="es">Rapa.  Temporada (T1). Rapa (T1): Ep.6  (2022)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.2/5
+· Final de temporada. Cedeira ha sido escenario de dos crímenes en pocos meses. Maite y Tomás están convencidos de que ha sido la misma persona la responsable de los dos asesinatos.
+· País: España
+· Director: Jorge Coira, Elena Trapé
+· Reparto: Javier Cámara, Mónica López, Eva Fernández, Berta Ojea, Lucía Veiga, Toni Salgado
+· Guion: Fran Araújo,Pepe Coira</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4007504?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20250606125900 +0200" stop="20250606144500 +0200" channel="M+ Thriller">
+    <title lang="es">Funny Games: juegos divertidos (1997)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.1/5
+· Una pareja de psicópatas secuestra a una familia entera, a cuyos miembros obliga a realizar juegos sadomasoquistas.
+· País: Austria
+· Director: Michael Haneke
+· Reparto: Susanne Lothar, Ulrich Mühe, Frank Giering, Arno Frisch</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4365309?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606144500 +0200" stop="20250606164500 +0200" channel="M+ Thriller">
+    <title lang="es">Out of sight (Un romance muy peligroso) (1998)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.1/5
+· Jack Foley, un atracador de bancos al que siempre atrapan, se enfrenta a una condena de 30 años que no tiene intención de cumplir. Ya en prisión, excava un túnel que lo lleva al descampado donde lo espera su compinche Buddy... y alguien más.
+· País: EE.UU
+· Director: Steven Soderbergh
+· Reparto: George Clooney, Jennifer Lopez, Ving Rhames, Don Cheadle, Dennis Farina, Albert Brooks, Catherine Keener, Steve Zahn, Viola Davis
+· Guion: Scott Frank
+· Música: David Holmes
+· Producción: Stacey Sher, Michael Shamberg, Danny DeVito
+· Productora: Universal, Jersey Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4075230?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606164500 +0200" stop="20250606185000 +0200" channel="M+ Thriller">
+    <title lang="es">Spy game (Juego de espías) (2001)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.8/5
+· Año 1991. Cuando le queda solo un día para retirarse, el veterano agente de la CIA Nathan Muir se entera de que un antiguo discípulo, Tom 'Boy Scout' Bishop, está prisionero en un país extranjero acusado de espionaje y va a ser ejecutado en 24 horas.
+· País: Alemania, EE.UU, Francia, Japón y R.U
+· Director: Tony Scott
+· Reparto: Brad Pitt, Robert Redford, Catherine McCormack, Stephen Dillane, Marianne Jean-Baptiste, Larry Bryggman
+· Guion: David Arata,Michael Frost Beckner
+· Música: Harry Gregson-Williams
+· Producción: Marc Abraham, Douglas Wick
+· Productora: Lauren Films, Red Wagon Productions, Universal Pictures, Beacon Pictures, Beacon Communications LLC, Zaltman Film</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4268263?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606185000 +0200" stop="20250606202500 +0200" channel="M+ Thriller">
+    <title lang="es">Calma total (1989)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.6/5
+· Un matrimonio que navega en alta mar rescata al único superviviente de un barco naufragado. Su travesía se convierte en un viaje de terror.
+· País: Australia
+· Director: Phillip Noyce
+· Reparto: Nicole Kidman, Sam Neill, Billy Zane, Rod Mullinar, Joshua Tilden, George Shevtsov, Michael Long
+· Guion: Terry Hayes
+· Música: Graeme Revell
+· Producción: Terry Hayes, George Miller, Doug Mitchell
+· Productora: Warner Bros, Kennedy Miller Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4054943?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606202500 +0200" stop="20250606220000 +0200" channel="M+ Thriller">
+    <title lang="es">Venganza (2008)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.8/5
+· Kim, una adolescente estadounidense de viaje en París, es secuestrada por una banda dedicada a la trata de blancas. Su padre viaja a Europa para rescatar a su hija cueste lo que cueste.
+· País: EE.UU y Francia
+· Director: Pierre Morel
+· Reparto: Liam Neeson, Maggie Grace, Leland Orser, Jon Gries, David Warshofsky, Holly Valance, Katie Cassidy, Xander Berkeley, Olivier Rabourdin
+· Guion: Luc Besson,Robert Mark Kamen
+· Música: Nathaniel Mechaly
+· Producción: Michael Mandaville, Franck Lebreton, Luc Besson
+· Productora: Europa Corp, M6 Films, Grive Productions, Canal+, TPS Star, Twentieth Century Fox</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3816708?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606220000 +0200" stop="20250606233000 +0200" channel="M+ Thriller">
+    <title lang="es">Venganza: Conexión Estambul (2012)</title>
+    <desc lang="es">Acción | No recomendado para menores de doce años | *3.6/5
+· El antiguo agente de la CIA Bryan Mills se encuentra disfrutando de unas vacaciones en Estambul cuando un grupo de sicarios intenta secuestrarlo a él, a su hija y a su ex mujer. Kim, la hija de Bryan, deberá ser quien rescate esta vez a su padre.
+· País: EE.UU y Francia
+· Director: Olivier Megaton
+· Reparto: Liam Neeson, Maggie Grace, Famke Janssen, Leland Orser, Jon Gries
+· Guion: Luc Besson,Robert Mark Kamen
+· Música: Nathaniel Mechaly
+· Producción: Luc Besson
+· Productora: Europa Corp</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3857826?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250606233000 +0200" stop="20250607011500 +0200" channel="M+ Thriller">
+    <title lang="es">V3nganza (2014)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.7/5
+· La reconciliación de Bryan Mills se ha visto inesperadamente truncada tras el brutal asesinato de su exmujer. Consumido por la ira y acusado de la muerte de su exesposa, Mills se ve obligado a huir de la persecución de la CIA, el FBI y la policía.
+· País: EE.UU y Francia
+· Director: Olivier Megaton
+· Reparto: Liam Neeson, Forest Whitaker, Maggie Grace, Famke Janssen, Dougray Scott
+· Guion: Luc Besson,Robert Mark Kamen
+· Música: Nathaniel Mechaly
+· Producción: Luc Besson
+· Productora: Europacorp, M6 Films, Twentieth Century Fox, Canal+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3957508?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607011500 +0200" stop="20250607031000 +0200" channel="M+ Thriller">
+    <title lang="es">Ocean's Eleven (2001)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.5/5
+· Danny Ocean es un hombre de acción, irónico y carismático ladrón, que menos de 24 horas después de salir en libertad condicional ya está preparando su siguiente plan: robar más de 150 millones de dólares de tres casinos de Las Vegas.
+· País: EE.UU
+· Director: Steven Soderbergh
+· Reparto: George Clooney, Brad Pitt, Julia Roberts, Matt Damon, Andy Garcia, Elliott Gould, Casey Affleck, Scott Caan, Don Cheadle, Carl Reiner, Bernie Mac, Shaobo Qin
+· Guion: Ted Griffin
+· Música: David Holmes
+· Producción: Jerry Weintraub
+· Productora: Warner Bros, Village Roadshow Pictures, NPV Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4014935?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607031000 +0200" stop="20250607051000 +0200" channel="M+ Thriller">
+    <title lang="es">Ocean's Twelve: Uno más entra en juego (2004)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.6/5
+· Han pasado tres años desde que Danny Ocean y su equipo robaron la impenetrable cámara acorazada del casino de Terry Benedict. Tras repartirse el botín, intentan pasar desapercibidos y llevar una vida legal... pero no les va a resultar tan fácil.
+· País: Australia y EE.UU
+· Director: Steven Soderbergh
+· Reparto: George Clooney, Brad Pitt, Julia Roberts, Catherine Zeta-Jones, Andy Garcia, Matt Damon, Don Cheadle, Bernie Mac, Casey Affleck
+· Guion: George Nolfi
+· Música: David Holmes
+· Producción: Jerry Weintraub
+· Productora: Warner Bros. Pictures, Village Roadshow Pictures, Section Eight Ltd., Jerry Weintraub Productions, WV Films III</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3736666?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607051000 +0200" stop="20250607071000 +0200" channel="M+ Thriller">
+    <title lang="es">Ocean's 13 (2007)</title>
+    <desc lang="es">Acción | No recomendado para menores de siete años | *3.7/5
+· Danny Ocean y su banda vuelven a tener una razón para realizar su golpe más ambicioso y arriesgado: defender a uno de los suyos. Willy Bank, despiadado propietario de un casino, no se imaginaba que le iba a costar tan caro traicionar a Reuben Tishkoff.
+· País: EE.UU
+· Director: Steven Soderbergh
+· Reparto: George Clooney, Brad Pitt, Matt Damon, Al Pacino, Andy Garcia, Don Cheadle, Bernie Mac, Ellen Barkin, Elliott Gould
+· Guion: David Levien,Brian Koppelman
+· Música: David Holmes
+· Producción: Jerry Weintraub
+· Productora: Warner Bros. Pictures, Village Roadshow Pictures, Jerry Weintraub Productions, Section Eight Ltd.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3736661?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607051000 +0200" stop="20250607071000 +0200" channel="M+ Thriller">
+    <title lang="es">Ocean's 13 (2007)</title>
+    <desc lang="es">Acción | No recomendado para menores de siete años | *3.7/5
+· Danny Ocean y su banda vuelven a tener una razón para realizar su golpe más ambicioso y arriesgado: defender a uno de los suyos. Willy Bank, despiadado propietario de un casino, no se imaginaba que le iba a costar tan caro traicionar a Reuben Tishkoff.
+· País: EE.UU
+· Director: Steven Soderbergh
+· Reparto: George Clooney, Brad Pitt, Matt Damon, Al Pacino, Andy Garcia, Don Cheadle, Bernie Mac, Ellen Barkin, Elliott Gould
+· Guion: David Levien,Brian Koppelman
+· Música: David Holmes
+· Producción: Jerry Weintraub
+· Productora: Warner Bros. Pictures, Village Roadshow Pictures, Jerry Weintraub Productions, Section Eight Ltd.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3736661?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607071000 +0200" stop="20250607092000 +0200" channel="M+ Thriller">
+    <title lang="es">Corrupción en Miami (2006)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.3/5
+· Los agentes antivicio Sonny Crockett y Ricardo Tubbs descubren que un soplo ha causado la muerte de un confidente y dos agentes federales. La investigación no tarda en llevarlos ante la puerta de los brutales asesinos de la Hermandad Aria.
+· País: Alemania y EE.UU
+· Director: Michael Mann
+· Reparto: Colin Farrell, Jamie Foxx, Gong Li, Naomie Harris, Ciarán Hinds, Justin Theroux, Barry Shabaka Henley, Luis Tosar, John Ortiz, Elizabeth Rodriguez
+· Guion: Michael Mann,Anthony Yerkovich
+· Música: John Murphy
+· Producción: Michael Mann, Pieter Jan Brugge
+· Productora: Universal Pictures, Forward Pass, Metropolis Films, Foqus Arte Digital, Michael Mann Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3817785?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607092000 +0200" stop="20250607101500 +0200" channel="M+ Thriller">
+    <title lang="es">El largo río de las almas.  Temporada (T1). El largo río de... (T1): Ep.1 Esas chicas (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
+· La agente Mickey Fitzpatrick investiga el caso de varias chicas muertas aparentemente por una sobredosis, pero ella sospecha que podría haber algo más.
+· País: EE.UU
+· Director: Hagar Ben-Asher, Nikki Toscano
+· Reparto: Amanda Seyfried, Nicholas Pinnock, Ashleigh Cummings, Callum Vinson, John Doman</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4349089?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20250607101500 +0200" stop="20250607110500 +0200" channel="M+ Thriller">
+    <title lang="es">El largo río de las almas.  Temporada (T1). El largo río de... (T1): Ep.2 Déjame entrar (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
+· Las preguntas se acumulan en la investigación a medida que Mickey lidia con su propia angustia por la desaparición de Kacey. Después de aclarar las cosas con su antiguo compañero Truman, éste decide ayudarla.
+· País: EE.UU
+· Director: Hagar Ben-Asher, Nikki Toscano
+· Reparto: Amanda Seyfried, Nicholas Pinnock, Ashleigh Cummings, Callum Vinson, John Doman</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4349089?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20250607110500 +0200" stop="20250607125500 +0200" channel="M+ Thriller">
+    <title lang="es">Death Proof (2007)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.5/5
+· Stuntman Mike es un especialista de cine retirado que sólo se siente completo tras el volante de su mastodóntico coche, un Dodge con una calavera pintada en el capó. Juntos recorren las carreteras en busca de hermosas y jóvenes mujeres a las que matar.
+· País: EE.UU
+· Director: Quentin Tarantino
+· Reparto: Kurt Russell, Rosario Dawson, Vanessa Ferlito, Rose McGowan, Sydney Tamiia Poitier, Jordan Ladd, Tracie Thoms, Mary Elizabeth Winstead, Zoë Bell
+· Guion: Quentin Tarantino
+· Música: Jack Nitzsche
+· Producción: Robert Rodríguez, Erica Steinberg, Quentin Tarantino
+· Productora: Troublemaker Studios, Dimension Films, The Weinstein Company, Rodriguez International Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3920878?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607125500 +0200" stop="20250607142500 +0200" channel="M+ Thriller">
+    <title lang="es">The Last Stop in Yuma County (2023)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.5/5
+· En los años 70, en el desierto de Yuma, un vendedor de cuchillos se detiene en una gasolinera sin combustible. Descubre un robo bancario y, cuando los ladrones llegan, se desata una tensa situación de rehenes con una camarera y un ranchero.
+· País: EE.UU
+· Director: Francis Galluppi
+· Reparto: Jim Cummings, Jocelin Donahue, Sierra McCormick, Nicholas Logan, Michael Abbott Jr
+· Guion: Francis Galluppi
+· Música: Matthew Compton
+· Producción: Matt O'Neill, Atif Malik
+· Productora: Local Boogeyman Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4346549?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607142500 +0200" stop="20250607161000 +0200" channel="M+ Thriller">
+    <title lang="es">La trampa (2024)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.1/5
+· Un padre y su hija adolescente asisten a un concierto de música pop, donde se dan cuenta de que están en el centro de un oscuro y siniestro suceso.
+· País: Canadá y EE.UU
+· Director: M. Night Shyamalan
+· Reparto: Josh Hartnett, Ariel Donoghue, Hayley Mills, Alison Pill, Saleka Night Shyamalan
+· Guion: M. Night Shyamalan
+· Música: Herdís Stefánsdóttir
+· Producción: Ashwin Rajan, Marc Bienstock, M. Night Shyamalan
+· Productora: Blinding Edge Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4358038?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607161000 +0200" stop="20250607180500 +0200" channel="M+ Thriller">
+    <title lang="es">El silencio de los corderos (1991)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *4.2/5
+· Clarice Starling, una aventajada alumna de la academia del FBI, recibe el encargo de investigar una serie de crueles asesinatos cometidos por un psicópata apodado Búfalo Bill.
+· País: EE.UU
+· Director: Jonathan Demme
+· Reparto: Jodie Foster, Anthony Hopkins, Anthony Heald, Ted Levine, Scott Glenn
+· Guion: Ted Tally
+· Música: Howard Shore
+· Producción: Edward Saxon, Kenneth Utt
+· Productora: Orion Pictures, Orion Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4364954?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607180500 +0200" stop="20250607200500 +0200" channel="M+ Thriller">
+    <title lang="es">Poder absoluto (1997)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.7/5
+· Luther es un frío, calculador y precavido maestro del robo que trabaja con un cuidado exquisito, con infinito tacto, paciencia y precisión. Cerca de su retiro, planea un gran golpe: limpiar la mansión de uno de los hombres más ricos del país.
+· País: EE.UU
+· Director: Clint Eastwood
+· Reparto: Clint Eastwood, Gene Hackman, Ed Harris, Laura Linney, Scott Glenn, Kenneth Welsh, Joy Ehrlich, Mark Margolis, Judy Davis, Dennis Haysbert
+· Guion: William Goldman
+· Música: Lennie Niehaus, Clint Eastwood
+· Producción: Clint Eastwood, Karen S. Spiegel
+· Productora: Castle Rock Entertainment, Malpaso Productions, The Malpaso Company, Columbia Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4366206?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607200500 +0200" stop="20250607220000 +0200" channel="M+ Thriller">
+    <title lang="es">Juego de patriotas (1992)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.5/5
+· Jack Ryan, un antiguo analista de la CIA,  intenta disfrutar de unas vacaciones en Inglaterra junto a su mujer y su hija. Allí, es testigo, por casualidad, de un atentado terrorista del IRA contra Lord Colmes, un miembro de la Casa Real al que salva.
+· País: EE.UU
+· Director: Phillip Noyce
+· Reparto: Harrison Ford, Anne Archer, Patrick Bergin, Sean Bean, Thora Birch, James Fox, Samuel L. Jackson, J.E Freeman, James Earl Jones, Polly Walker, Richard Harris, Alex Norton
+· Guion: W. Peter Iliff,Donald Stewart
+· Música: James Horner, Clannad
+· Producción: Mace Neufeld, Robert Rehme
+· Productora: Paramount Pictures, Mace Neufeld Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4341661?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250607220000 +0200" stop="20250608002000 +0200" channel="M+ Thriller">
+    <title lang="es">Peligro inminente (1994)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.3/5
+· Jack Ryan, analista de la CIA, es nombrado Director de Inteligencia en funciones debido a la enfermedad de su superior. Una de sus primeras tareas será investigar el asesinato de un afamado financiero, amigo íntimo del Presidente de EE.UU.
+· País: EE.UU y México
+· Director: Phillip Noyce
+· Reparto: Harrison Ford, Willem Dafoe, Anne Archer, Joaquim de Almeida, Henry Czerny, Harris Yulin, Miguel Sandoval, Benjamin Bratt, Raymond Cruz
+· Guion: Steven Zaillian,John Milius
+· Música: James Horner
+· Productora: Paramount Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4341665?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250608002000 +0200" stop="20250608022000 +0200" channel="M+ Thriller">
+    <title lang="es">Pánico nuclear (2002)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.3/5
+· En 1973, un avión israelí cargado con una bomba nuclear es derribado en Oriente Próximo. En 2002, en EE UU, el analista de la CIA Jack Ryan informa al Presidente sobre Alexander Nemerov, nuevo líder de la Federación Rusa.
+· País: Alemania, Canadá y EE.UU
+· Director: Phil Alden Robinson
+· Reparto: Ben Affleck, Morgan Freeman, James Cromwell, Liev Schreiber, Alan Bates, Ciarán Hinds, Bridget Moynahan, Ken Jenkins, John Beasley, Bruce McGill, Philip Baker Hall
+· Guion: Daniel Pyne,Paul Attanasio
+· Música: Jerry Goldsmith
+· Producción: Mace Neufeld
+· Productora: Paramount Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4341697?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250608022000 +0200" stop="20250608041000 +0200" channel="M+ Thriller">
+    <title lang="es">Amenaza en la sombra (1973)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.1/5
+· Un matrimonio que vive torturado por la reciente muerte de su hija menor, conoce a una vidente que les hablará de la niña.
+· País: Italia y R.U
+· Director: Nicolas Roeg
+· Reparto: Donald Sutherland, Clelia Matania, Massimo Serato, Julie Christie, Leopoldo Trieste, Hilary Mason, Sharon Williams, Renato Scarpa, Giorgio Trestini, David Tree, Ann Rye, Nicholas Salter, Bruno Cattaneo, Adelina Poerio
+· Guion: Allan Scott,Chris Bryant,Daphne Du Maurier
+· Música: Pino Donaggio
+· Producción: Steve Previn, Frederick Muller, Peter Katz
+· Productora: Casey, Casey Silver Productions, Eldorado Films, s.r.l</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4235245?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250608041000 +0200" stop="20250608053000 +0200" channel="M+ Thriller">
+    <title lang="es">Cinco muñecas para la luna de agosto (1970)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.0/5
+· George Stark reúne en su isla a un grupo de amigos. Allí, varios crímenes se suceden en torno a una novedosa fórmula científica.
+· País: Italia
+· Director: Mario Bava
+· Reparto: Ira Fürstenberg, Edwige Fenech, William Berger
+· Guion: Mario di Nardo
+· Productora: Produzioni Atlas Consorziate (P.A.C.)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4165285?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250608053000 +0200" stop="20250608071000 +0200" channel="M+ Thriller">
+    <title lang="es">Asesinato (1930)</title>
+    <desc lang="es">Thriller | Apto para todos los públicos | *3.2/5
+· Una mujer es acusada de asesinato y juzgada por ello. Todo el jurado popular cree en su culpabilidad salvo un hombre que hará todo lo posible por defender su inocencia.
+· País: R.U
+· Director: Alfred Hitchcock
+· Reparto: Herbert Marshall, Norah Baring, Phyllis Konstam, Edward Chapman, Miles Mander
+· Guion: Alma Reville
+· Música: John Reynders
+· Productora: British International Pictures (BIP)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4294732?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
