@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 08/06/2025 01:43">
+<tv generator-info-name="MultiPopUps FullDesc 09/06/2025 01:41">
   <channel id="M+ Comedia Ñ">
     <display-name>M+ Comedia Ñ</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MESPA%C3%91"/>
@@ -8,18 +8,6 @@
     <display-name>M+ Thriller</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTHRI"/>
   </channel>
-  <programme start="20250608000000 +0200" stop="20250608120000 +0200" channel="M+ Comedia Ñ">
-    <title lang="es">Próximamente Todo Chaplin por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250608120000 +0200" stop="20250609000000 +0200" channel="M+ Comedia Ñ">
-    <title lang="es">Próximamente Todo Chaplin por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250609000000 +0200" stop="20250609120000 +0200" channel="M+ Comedia Ñ">
-    <title lang="es">Próximamente Todo Chaplin por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
   <programme start="20250609000000 +0200" stop="20250609120000 +0200" channel="M+ Comedia Ñ">
     <title lang="es">Próximamente Todo Chaplin por M+</title>
     <desc lang="es">(Información detallada no disponible)</desc>
@@ -44,174 +32,17 @@
     <title lang="es">Próximamente Todo Chaplin por M+</title>
     <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
-  <programme start="20250608053000 +0200" stop="20250608071000 +0200" channel="M+ Thriller">
-    <title lang="es">Asesinato (1930)</title>
-    <desc lang="es">Thriller | Apto para todos los públicos | *3.2/5
-· Una mujer es acusada de asesinato y juzgada por ello. Todo el jurado popular cree en su culpabilidad salvo un hombre que hará todo lo posible por defender su inocencia.
-· País: R.U
-· Director: Alfred Hitchcock
-· Reparto: Herbert Marshall, Norah Baring, Phyllis Konstam, Edward Chapman, Miles Mander
-· Guion: Alma Reville
-· Música: John Reynders
-· Productora: British International Pictures (BIP)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4294732?od[]=Z1V:MM3_V"/>
+  <programme start="20250611000000 +0200" stop="20250611120000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
-  <programme start="20250608071000 +0200" stop="20250608085500 +0200" channel="M+ Thriller">
-    <title lang="es">Firewall (2006)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.2/5
-· Un criminal secuestra a la familia de un experto en seguridad financiera para desviar una gran suma de dinero a su cuenta.
-· País: EE.UU
-· Director: Richard Loncraine
-· Reparto: Robert Patrick, Virginia Madsen, Alan Arkin, Harrison Ford, Robert Forster, Paul Bettany, Mary Lynn Rajskub
-· Guion: Joe Forte
-· Música: Alexandre Desplat
-· Producción: Armyan Bernstein, Basil Iwanyk, Jonathan Shestack
-· Productora: Warner Bros. Pictures, Thunder Road Pictures, Beacon Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4367170?od[]=Z1V:MM3_V"/>
+  <programme start="20250611120000 +0200" stop="20250612000000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
-  <programme start="20250608085500 +0200" stop="20250608095000 +0200" channel="M+ Thriller">
-    <title lang="es">El largo río de las almas.  Temporada (T1). El largo río de... (T1): Ep.3 Madre loba (2025)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
-· Mickey se pone en peligro al seguir una pista sobre su hermana y sufrir un encontronazo con un tipo que podría conocerla. Truman tiene una nueva pista. Thomas se interesa por conocer detalles sobre la familia.
-· País: EE.UU
-· Director: Hagar Ben-Asher, Nikki Toscano
-· Reparto: Amanda Seyfried, Nicholas Pinnock, Ashleigh Cummings, Callum Vinson, John Doman</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4349089?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250608095000 +0200" stop="20250608104000 +0200" channel="M+ Thriller">
-    <title lang="es">El largo río de las almas.  Temporada (T1). El largo río de... (T1): Ep.4 Punto ciego (2025)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
-· El cumpleaños de Thomas desata tensiones con Simon al mismo tiempo que reaviva en Mickey recuerdos dolorosos. Una nueva teoría sobre la identidad del asesino cobra fuerza.
-· País: EE.UU
-· Director: Hagar Ben-Asher, Nikki Toscano
-· Reparto: Amanda Seyfried, Nicholas Pinnock, Ashleigh Cummings, Callum Vinson, John Doman</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4349089?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250608104000 +0200" stop="20250608122500 +0200" channel="M+ Thriller">
-    <title lang="es">En tierra de santos y pecadores (2023)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.3/5
-· En los años 70, el antiguo sicario Finbar Murphy intenta comenzar una nueva vida, lejos del crimen, en un pequeño pueblo de Irlanda del Norte. Sin embargo, cuando una célula del IRA llega al pueblo, Murphy se verá obligado a hacer un último trabajo.
-· País: Irlanda
-· Director: Robert Lorenz
-· Reparto: Liam Neeson, Kerry Condon, Jack Gleeson, Ciarán Hinds, Colm Meaney
-· Guion: Mark Michael McNally,Terry Loane
-· Música: Diego Baldenweg, Nora Baldenweg, Lionel Baldenweg
-· Producción: Philip Lee, Markus Barmettler
-· Productora: Prodigal Films, Facing East Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4331041?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250608122500 +0200" stop="20250608141500 +0200" channel="M+ Thriller">
-    <title lang="es">Naturaleza salvaje (2024)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.1/5
-· Alice Russell y cuatros compañeras participan en una actividad para ejecutivos en un bosque de Melbourne. Mientras, el agente federal Aaron Falk está investigando su empresa, todo se tuerce cuando Alice, testigo clave y confidente de Falk, desaparece.
-· País: Australia y EE.UU
-· Director: Robert Connolly
-· Reparto: Eric Bana, Anna Torv, Deborra-Lee Furness
-· Guion: Robert Connolly
-· Música: Peter Raeburn
-· Productora: Arenamedia</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4347219?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250608141500 +0200" stop="20250608165100 +0200" channel="M+ Thriller">
-    <title lang="es">Zodiac (2007)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.8/5
-· San Francisco, década de 1960. Un asesino en serie conocido como 'El asesino del zodíaco' aterroriza a la población con sus espeluznantes crímenes, de los que se vanagloria en la prensa a través de sus propios comunicados.
-· País: EE.UU
-· Director: David Fincher
-· Reparto: Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo, Anthony Edwards, Brian Cox, John Carroll Lynch, Richmond Arquette, Chloë Sevigny, Elias Koteas
-· Guion: James Vanderbilt
-· Música: David Shire
-· Producción: Brad Fischer, Ceán Chaffin, James Vanderbilt, Arnold Messer, Mike Medavoy
-· Productora: Paramount Pictures, Phoenix Pictures, Warner Bros, Road Rebel</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3848527?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250608165100 +0200" stop="20250608192600 +0200" channel="M+ Thriller">
-    <title lang="es">American Gangster (2007)</title>
-    <desc lang="es">Policíaco | No recomendado para menores de dieciocho años | *3.5/5
-· Nueva York, década de 1960. Frank Lucas, chófer de un jefe de la mafia de Harlem, decide hacerse con el poder cuando éste muere, Richie Roberts, un policía marginado, presiente que algo está cambiando en la mafia y comienza a investigar.
-· País: EE.UU y R.U
-· Director: Ridley Scott
-· Reparto: Denzel Washington, Russell Crowe, Josh Brolin, Carla Gugino, Cuba Gooding Jr., John Hawkes, Ted Levine, Chiwetel Ejiofor, Lymari Nadal, Ruby Dee, Armand Assante, Kevin Corrigan, Clarence Williams, Ric Young, Jon Polito, John Ortiz
-· Guion: Steven Zaillian,Mark Jacobson
-· Música: Marc Streitenfeld
-· Producción: Brian Grazer, Ridley Scott
-· Productora: Universal Pictures, Imagine Entertainment, Film Rites, Scott Free Productions, Relativity Media</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4381540?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250608192600 +0200" stop="20250608220000 +0200" channel="M+ Thriller">
-    <title lang="es">Prisioneros (2013)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *4.0/5
-· Keller Dover se enfrenta a la peor pesadilla de un padre: Anna, su hija de seis años, ha desaparecido junto a su amiga Joy y, a medida que los minutos se convierten en horas, le va invadiendo el pánico.
-· País: EE.UU
-· Director: Denis Villeneuve
-· Reparto: Hugh Jackman, Jake Gyllenhaal, Viola Davis, Maria Bello, Terrence Howard, Paul Dano
-· Guion: Aaron Guzikowski
-· Música: Jóhann Jóhannsson
-· Producción: Kira Davis, Broderick Johnson, Adam Kolbrenner, Andrew A. Kosove
-· Productora: Warner Bros, Madhouse Entertainment, Alcon Entertainment, 8:38 Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4000377?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250608220000 +0200" stop="20250608235500 +0200" channel="M+ Thriller">
-    <title lang="es">El ejecutor (2024)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.3/5
-· Cuando las pruebas de varios casos coinciden en que un asesino en serie anda suelto, el excéntrico equipo del detective veterano Seo Do-cheol es el encargado de pararle los pies, pero pronto se ve superado por su intelecto y sus amenazas.
-· País: Corea del Sur
-· Director: Seung-wan Ryu
-· Reparto: Hwang Jung-min, Ahn  Bo Hyun, Oh Dae-hwan, Oh Dal-su, Jung Hae-in
-· Guion: Ryoo Seung-wan
-· Música: Chang Ki-ha
-· Productora: Filmmaker R&amp;K</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4351243?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250608235500 +0200" stop="20250609013000 +0200" channel="M+ Thriller">
-    <title lang="es">Red de traición (2024)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *2.8/5
-· Ben Malloy y su esposa Bella están de misión para la CIA cuando una explosión de gas mata a Bella. Ben comienza a investigar lo sucedido y pronto descubre que la muerte de su esposa no fue un accidente.
-· País: EE.UU
-· Director: Jesse V. Johnson
-· Reparto: Aaron Eckhart, Olga Kurylenko, Alex Pettyfer, Daniel Bernhardt, Chris Petrovski, Nick Moran, Kris Johnson
-· Guion: George Mahaffey
-· Música: Sean Murray
-· Producción: Steve Lee Jones, Matthew Shreder
-· Productora: Concourse Media, Bee Holder Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4319246?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250609013000 +0200" stop="20250609025500 +0200" channel="M+ Thriller">
-    <title lang="es">Asalto a la comisaría (Jericho Ridge) (2023)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.3/5
-· Cuando un supuesto cerrajero irrumpe en la oficina del 'sheriff' después de un robo, la agente Tabby, lesionada y sola en comisaría, deberá defender el fuerte con tan solo un arma, un sistema de vigilancia de mala calidad y una radio de policía.
-· País: Kosovo y R.U
-· Director: Will Gilbey
-· Reparto: Nikki Amuka-Bird, Trim Ademi, Philipp Christopher, Simon Kunz, Solly McLeod, Zack Morris, Chris Reilly
-· Guion: Will Gilbey
-· Música: Christopher Benstead
-· Producción: Harvey Ascott, Mark O'Sullivan
-· Productora: DLNQNT, Silver Lining Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4295266?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250609025500 +0200" stop="20250609042700 +0200" channel="M+ Thriller">
-    <title lang="es">Hijo de Caín (2013)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
-· Nico es un adolescente de extraño carácter, inteligencia excepcional y una única obsesión: el ajedrez. Carlos y Coral, preocupados por su hijo, contratan al psicólogo infantil Julio Beltrán, que se adentrará en el inquietante mundo de Nico.
-· País: España
-· Director: Jesús Monllaó, Jesús Monllaó Plana
-· Reparto: José Coronado, Julio Manrique, David Solans, Maria Molins, Abril García
-· Guion: Sergio Barrejón,David Victori
-· Productora: Life &amp; Pictures, FoscaFilms, Salto de Eje Producciones Cinematográficas S.L</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4172622?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250609042700 +0200" stop="20250609062100 +0200" channel="M+ Thriller">
-    <title lang="es">El bastardo (2023)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.3/5
-· Marco es un 'kopino' (hijo ilegítimo de filipina y surcoreano) que se gana la vida en peleas ilegales, intentando conseguir dinero para la operación que necesita su madre. Su última esperanza es encontrar a su padre y que él pague el tratamiento.
-· País: Corea del Sur
-· Director: Park Hoon-jung
-· Reparto: Kim Seon-ho, Kang Tae-ju, Kim Kang-woo, Go Ara, Lee Ki-young, Heo Jun-seok
-· Guion: Park Hoon-jung
-· Música: Mowg
-· Producción: Park Hoon-jung
-· Productora: Studio &amp; New, Goldmoon Film</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4201000?od[]=Z1V:MM3_V"/>
+  <programme start="20250612000000 +0200" stop="20250612120000 +0200" channel="M+ Comedia Ñ">
+    <title lang="es">Próximamente Todo Chaplin por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
   <programme start="20250609042700 +0200" stop="20250609062100 +0200" channel="M+ Thriller">
     <title lang="es">El bastardo (2023)</title>
@@ -597,5 +428,196 @@
 · Música: John Reynders
 · Productora: British International Pictures (BIP)</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4294732?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250611051000 +0200" stop="20250611065000 +0200" channel="M+ Thriller">
+    <title lang="es">Asesinato (1930)</title>
+    <desc lang="es">Thriller | Apto para todos los públicos | *3.2/5
+· Una mujer es acusada de asesinato y juzgada por ello. Todo el jurado popular cree en su culpabilidad salvo un hombre que hará todo lo posible por defender su inocencia.
+· País: R.U
+· Director: Alfred Hitchcock
+· Reparto: Herbert Marshall, Norah Baring, Phyllis Konstam, Edward Chapman, Miles Mander
+· Guion: Alma Reville
+· Música: John Reynders
+· Productora: British International Pictures (BIP)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4294732?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250611065000 +0200" stop="20250611081000 +0200" channel="M+ Thriller">
+    <title lang="es">Cinco muñecas para la luna de agosto (1970)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.0/5
+· George Stark reúne en su isla a un grupo de amigos. Allí, varios crímenes se suceden en torno a una novedosa fórmula científica.
+· País: Italia
+· Director: Mario Bava
+· Reparto: Ira Fürstenberg, Edwige Fenech, William Berger
+· Guion: Mario di Nardo
+· Productora: Produzioni Atlas Consorziate (P.A.C.)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4165285?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250611081000 +0200" stop="20250611095500 +0200" channel="M+ Thriller">
+    <title lang="es">No tengo miedo (2002)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.3/5
+· Un niño de nueve años descubre los claroscuros del mundo de los adultos tras encontrar a un chico de su edad oculto en un pozo.
+· País: España, Italia y R.U
+· Director: Gabriele Salvatores
+· Reparto: Giuseppe Cristiano, Mattia Di Pierro, Aitana Sánchez-Gijón, Diego Abatantuono, Fabio Tetta, Dino Abbrescia, Giorgio Careccia
+· Guion: Francesca Marciano,Niccolò Ammaniti
+· Música: Ezio Bosso, Pepo Scherman
+· Producción: Giovanni Stabilini, Maurizio Totti, Riccardo Tozzi, Marco Chimenz
+· Productora: Colorado Film Production, Medusa Film, Cattleya, Alquimia Cinema S.A, Medusa Produzione, The Producers Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3726385?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250611095500 +0200" stop="20250611105000 +0200" channel="M+ Thriller">
+    <title lang="es">Rapa.  Temporada (T3). Rapa (T3): Ep.1  (2024)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.1/5
+· Una joven desaparece en extrañas circunstancias. Se trata de Lúa, miembro de la familia dueña de una importante empresa farmacéutica. Maite se ocupa del caso, y Tomás no puede evitar involucrarse, a pesar de que vive una situación personal extrema.
+· País: España
+· Director: Jorge Coira, Javier Cámara
+· Reparto: Javier Cámara, Mónica López, Darío Loureiro, Adrián Ríos, Cristina Castaño, Mercedes Sampietro, Sheyla Fariña, Xosé Manuel Esperante, Eva Barreiro, Miguel de Lira, Diego Anido, Aida Oset
+· Guion: Pepe Coira,Fran Araújo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4260995?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20250611105000 +0200" stop="20250611115000 +0200" channel="M+ Thriller">
+    <title lang="es">Rapa.  Temporada (T3). Rapa (T3): Ep.2  (2024)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.1/5
+· Maite y Yuste, la experta en secuestros que ha venido de Madrid, trabajan en averiguar quién y dónde tienen secuestrada a Lúa. Maite y Tomás descubren que en la familia Támoga hay tensiones y secretos.
+· País: España
+· Director: Jorge Coira, Javier Cámara
+· Reparto: Javier Cámara, Mónica López, Darío Loureiro, Adrián Ríos, Cristina Castaño, Mercedes Sampietro, Sheyla Fariña, Xosé Manuel Esperante, Eva Barreiro, Miguel de Lira, Diego Anido, Aida Oset
+· Guion: Pepe Coira,Fran Araújo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4260995?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20250611115000 +0200" stop="20250611124500 +0200" channel="M+ Thriller">
+    <title lang="es">Rapa.  Temporada (T3). Rapa (T3): Ep.3  (2024)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.1/5
+· Tomás se entera que un gran amigo ha sido detenido como sospechoso de asesinato. Maite, por su parte, está volcada en salvar a Lúa de su secuestrador.
+· País: España
+· Director: Jorge Coira, Javier Cámara
+· Reparto: Javier Cámara, Mónica López, Darío Loureiro, Adrián Ríos, Cristina Castaño, Mercedes Sampietro, Sheyla Fariña, Xosé Manuel Esperante, Eva Barreiro, Miguel de Lira, Diego Anido, Aida Oset
+· Guion: Pepe Coira,Fran Araújo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4260995?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20250611124500 +0200" stop="20250611143000 +0200" channel="M+ Thriller">
+    <title lang="es">The Thicket (2024)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.3/5
+· Después de que su hermana sea secuestrada por un violento asesino, un joven recluta a un resentido cazarrecompensas que, a regañadientes, se convierte en el líder de un grupo de marginados en busca de la raptada.
+· País: EE.UU
+· Director: Elliott Lester
+· Reparto: Peter Dinklage, Juliette Lewis, Esme Creed-Miles, Levon Hawke, Macon Blair</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4333930?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250611143000 +0200" stop="20250611160000 +0200" channel="M+ Thriller">
+    <title lang="es">Pixie (2020)</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *3.4/5
+· Pixie planea el atraco perfecto para vengar la muerte de su madre.
+· País: R.U
+· Director: Barnaby Thompson
+· Reparto: Olivia Cooke, Fra Fee, Alec Baldwin, Colm Meaney, Pat Shortt
+· Guion: Preston Thompson
+· Música: Gerry Diver
+· Productora: Confit Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3910588?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250611160000 +0200" stop="20250611181500 +0200" channel="M+ Thriller">
+    <title lang="es">Diabolik (2021)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.1/5
+· Década de 1960. El escurridizo ladrón &quot;Diabolik&quot;, cuya verdadera identidad se desconoce, planea un nuevo golpe maestro: hacerse con el famoso diamante rosa, una pieza de incalculable valor que porta consigo la rica y enigmática heredera Eva Kant.
+· País: Italia
+· Director: Antonio Manetti, Marco Manetti
+· Reparto: Luca Marinelli, Miriam Leone, Valerio Mastandrea, Alessandro Roja, Serena Rossi, Roberto Citran, Claudia Gerini, Urbano Barberini, Pier Giorgio Bellocchio
+· Guion: Marco Manetti,Michelangelo La Neve,Antonio Manetti
+· Música: Aldo De Scalzi, Pivio
+· Producción: Antonio Manetti, Marco Manetti
+· Productora: Rai Cinema, Mompracem, Astorina</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4076412?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250611181500 +0200" stop="20250611202000 +0200" channel="M+ Thriller">
+    <title lang="es">Diabolik: ¿quién eres? (2023)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
+· Tras ser capturados por una banda criminal, el excepcional ladrón Diabolik y el inspector Ginko se encuentran encerrados en una celda sin salida. En esta situación, en la que la presencia de la muerte es constante, Diabolik revela a Ginko su pasado.
+· País: Francia e Italia
+· Director: Antonio Manetti, Marco Manetti
+· Reparto: Giacomo Gianniotti, Miriam Leone, Valerio Mastandrea, Monica Bellucci, Pier Giorgio Bellocchio, Chiara Martegiani
+· Guion: Antonio Manetti,Marco Manetti,Michelangelo La Neve
+· Música: Pivio, Aldo De Scalzi
+· Producción: Pier Giorgio Bellocchio, Paolo del Brocco
+· Productora: Mompracem, Rai Cinema</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4295747?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250611202000 +0200" stop="20250611220000 +0200" channel="M+ Thriller">
+    <title lang="es">Red de traición (2024)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *2.8/5
+· Ben Malloy y su esposa Bella están de misión para la CIA cuando una explosión de gas mata a Bella. Ben comienza a investigar lo sucedido y pronto descubre que la muerte de su esposa no fue un accidente.
+· País: EE.UU
+· Director: Jesse V. Johnson
+· Reparto: Aaron Eckhart, Olga Kurylenko, Alex Pettyfer, Daniel Bernhardt, Chris Petrovski, Nick Moran, Kris Johnson
+· Guion: George Mahaffey
+· Música: Sean Murray
+· Producción: Steve Lee Jones, Matthew Shreder
+· Productora: Concourse Media, Bee Holder Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4319246?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250611220000 +0200" stop="20250611234000 +0200" channel="M+ Thriller">
+    <title lang="es">El halcón maltés (1941)</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.5/5
+· Un agudo y cínico detective, se ve en medio de la investigación de varios asesinatos y el robo de una valiosa estatua del siglo XVI.
+· País: EE.UU
+· Director: John Huston
+· Reparto: Humphrey Bogart, Mary Astor, Peter Lorre, Ward Bond, Barton MacLane, Elisha Cook Jr, Gladys George, James L Burke, Lee Patrick
+· Guion: John Huston
+· Música: Adolph Deutsch
+· Producción: Hal B. Wallis
+· Productora: Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4078199?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250611234000 +0200" stop="20250612012500 +0200" channel="M+ Thriller">
+    <title lang="es">Narc (2002)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.4/5
+· Tras varios meses de suspensión por haber disparado accidentalmente sobre una mujer embarazada en el curso de una operación encubierta, el agente NickTellis tiene la oportunidad de redimirse participando en otra investigación policial.
+· País: Canadá y EE.UU
+· Director: Joe Carnahan
+· Reparto: Jason Patric, Ray Liotta, Dan Leis, Chi McBride, Booth Savage, Karen Robinson, Krista Bridges, Alan C. Peterson
+· Guion: Joe Carnahan
+· Música: Cliff Martinez
+· Producción: Michelle Grace, Ray Liotta, Diane Nabatoff, Julius R. Nasso
+· Productora: Paramount Pictures, Lions Gate Films Inc, Cruise-Wagner Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3646184?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250612012500 +0200" stop="20250612033500 +0200" channel="M+ Thriller">
+    <title lang="es">Corrupción en Miami (2006)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.3/5
+· Los agentes antivicio Sonny Crockett y Ricardo Tubbs descubren que un soplo ha causado la muerte de un confidente y dos agentes federales. La investigación no tarda en llevarlos ante la puerta de los brutales asesinos de la Hermandad Aria.
+· País: Alemania y EE.UU
+· Director: Michael Mann
+· Reparto: Colin Farrell, Jamie Foxx, Gong Li, Naomie Harris, Ciarán Hinds, Justin Theroux, Barry Shabaka Henley, Luis Tosar, John Ortiz, Elizabeth Rodriguez
+· Guion: Michael Mann,Anthony Yerkovich
+· Música: John Murphy
+· Producción: Michael Mann, Pieter Jan Brugge
+· Productora: Universal Pictures, Forward Pass, Metropolis Films, Foqus Arte Digital, Michael Mann Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3817785?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250612033500 +0200" stop="20250612054000 +0200" channel="M+ Thriller">
+    <title lang="es">El truco final (El prestigio) (2006)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.3/5
+· Unidos por la amistad, su habilidad para la magia y las enseñanzas de un mismo mentor, el refinado Robert Angier y el efectista Alfred Borden acaban siendo enemigos a raíz de una tragedia.
+· País: EE.UU y R.U
+· Director: Christopher Nolan
+· Reparto: Hugh Jackman, Christian Bale, Scarlett Johansson, Michael Caine, Piper Perabo, Rebecca Hall, Samantha Mahurin, David Bowie, Olivia Merg, Johnny Liska
+· Guion: Jonathan Nolan,Christopher Nolan
+· Música: David Julyan
+· Producción: Aaron Ryder, Christopher Nolan, Emma Thomas
+· Productora: Newmarket Productions, Syncopy</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4356256?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250612054000 +0200" stop="20250612074500 +0200" channel="M+ Thriller">
+    <title lang="es">El fugitivo (1993)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.2/5
+· El Dr. Kimble, perseguido constantemente por un agente federal, deberá huir sin descanso e intentar descubrir al verdadero asesino de su esposa.
+· País: EE.UU
+· Director: Andrew Davis
+· Reparto: Harrison Ford, Tommy Lee Jones, Sela Ward, Julianne Moore, Joe Pantoliano, Andreas Katsulas, Jeroen Krabbé, Daniel Roebuck, Tom Wood, Miguel Nino, Ron Dean, L. Scott Caldwell, John Drummond, Joseph F. Kosala, Tony Fosco
+· Guion: David Twohy,Jeb Stuart
+· Música: James Newton Howard
+· Producción: Arnold Kopelson
+· Productora: Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4366196?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
