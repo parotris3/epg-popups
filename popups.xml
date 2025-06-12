@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 11/06/2025 01:29">
+<tv generator-info-name="MultiPopUps FullDesc 12/06/2025 01:28">
   <channel id="M+ Todo Chaplin">
     <display-name>M+ Todo Chaplin</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCHAP"/>
@@ -8,23 +8,11 @@
     <display-name>M+ Thriller</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTHRI"/>
   </channel>
-  <programme start="20250611000000 +0200" stop="20250611120000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente M+ Todo Chaplin</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250611120000 +0200" stop="20250612000000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente M+ Todo Chaplin</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
   <programme start="20250612000000 +0200" stop="20250612080000 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Próximamente M+ Todo Chaplin</title>
     <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
-  <programme start="20250612000000 +0200" stop="20250612080000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente M+ Todo Chaplin</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250612080000 +0200" stop="20250612084000 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612080000 +0200" stop="20250612084200 +0200" channel="M+ Todo Chaplin">
     <title lang="es">¡Armas al hombro! (1918)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.6/5
 · Sutil parodia antibelicista, protagonizada y dirigida por Charles Chaplin, ambientada en plena Primera Guerra Mundial.
@@ -37,7 +25,7 @@
 · Productora: First National Pictures Inc</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378054?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612084000 +0200" stop="20250612091500 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612084200 +0200" stop="20250612091900 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Vida de perro (1918)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.3/5
 · Charlot, un vagabundo sin empleo, intenta robar comida y escapa de la policía. Salva a un perro callejero y conoce a una cantante desilusionada en un cabaret. Juntos sueñan con una vida mejor.
@@ -50,7 +38,7 @@
 · Productora: First National Pictures Inc</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379176?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612091500 +0200" stop="20250612094700 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612091900 +0200" stop="20250612095100 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Al sol (1919)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.2/5
 · Charlie Chaplin trabaja en el Hotel Evergreen, donde su jefe lo maltrata. Allí, intenta impresionar a Edna, una chica del pueblo pero la llegada de un sofisticado forastero lo complica todo.
@@ -59,7 +47,7 @@
 · Reparto: Charles Chaplin, Edna Purviance, Henry Bergman, Tom Wilson</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379232?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612094700 +0200" stop="20250612100900 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612095100 +0200" stop="20250612101300 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Un día de juerga (1919)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
 · Una nueva entrega de las alocadas aventuras de Chaplin, esta vez disfrutando de un apacible día de campo pero lleno de enredos.
@@ -68,7 +56,7 @@
 · Reparto: Charles Chaplin, Edna Purviance, Jackie Coogan, Bob Kelly</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379224?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612100900 +0200" stop="20250612110400 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612101300 +0200" stop="20250612110800 +0200" channel="M+ Todo Chaplin">
     <title lang="es">El chico (1921)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.8/5
 · Una pobre mujer de Londres abandona a su hijo ilegítimo en un ambiente de lujo, pero el azar y la policía hacen que el niño vaya a parar a las manos de un vagabundo.
@@ -80,7 +68,7 @@
 · Productora: Charles Chaplin Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378018?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612110400 +0200" stop="20250612113500 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612110800 +0200" stop="20250612113900 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Vacaciones (1921)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.5/5
 · En una comedia de enredos, el Vagabundo causa caos en un campo de golf al robar pelotas, generando conflictos entre los jugadores. Es confundido con el marido de una mujer, desencadenando malentendidos cómicos.
@@ -89,7 +77,7 @@
 · Reparto: Charles Chaplin, Edna Purviance, Henry Bergman</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379242?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612113500 +0200" stop="20250612120000 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612113900 +0200" stop="20250612120600 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Día de paga (1922)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.6/5
 · Charlot trabaja de peón. Cuando la hija del capataz aparece, Charlot pierde la cabeza por ella.
@@ -98,7 +86,7 @@
 · Reparto: Charles Chaplin, Phyllis Allen, Mack Swain, Edna Purviance</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379191?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612120000 +0200" stop="20250612132300 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612120600 +0200" stop="20250612132900 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Una mujer de París (1923)</title>
     <desc lang="es">Drama | Apto para todos los públicos | *3.4/5
 · Ante la incomprensión de sus familias, una pareja de jóvenes enamorados decide fugarse a París. Sin embargo, la súbita muerte del padre del chico hace que ella, creyéndose plantada en la estación, decida irse sola.
@@ -109,7 +97,7 @@
 · Música: Charles Chaplin, Louis F. Gottschalk, Fritz Stahlberg</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378106?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612132300 +0200" stop="20250612140800 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612132900 +0200" stop="20250612141000 +0200" channel="M+ Todo Chaplin">
     <title lang="es">El peregrino (1923)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
 · Charlie Chaplin interpreta a un fugitivo que, tras robar la ropa de un ministro para escapar, es confundido con el nuevo párroco del pueblo.
@@ -121,7 +109,7 @@
 · Productora: Chaplin - First National</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378090?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612140800 +0200" stop="20250612143100 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612141000 +0200" stop="20250612143100 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Un día de juerga (1919)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
 · Una nueva entrega de las alocadas aventuras de Chaplin, esta vez disfrutando de un apacible día de campo pero lleno de enredos.
@@ -130,7 +118,7 @@
 · Reparto: Charles Chaplin, Edna Purviance, Jackie Coogan, Bob Kelly</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379224?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612143100 +0200" stop="20250612145600 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612143100 +0200" stop="20250612145400 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Día de paga (1922)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.6/5
 · Charlot trabaja de peón. Cuando la hija del capataz aparece, Charlot pierde la cabeza por ella.
@@ -139,20 +127,17 @@
 · Reparto: Charles Chaplin, Phyllis Allen, Mack Swain, Edna Purviance</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379191?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612145600 +0200" stop="20250612161100 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">La quimera del oro (1925)</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.9/5
-· Un buscador de oro llega a Alaska con la intención de encontrar un filón de oro que le saque de la pobreza en la que vive.
+  <programme start="20250612145400 +0200" stop="20250612160900 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">La quimera del oro (versión 1942) (1942)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *5.0/5
+· A finales del siglo XIX, en plena fiebre del oro, Charlot llega a Alaska, como tantos otros, atraído por la posibilidad de encontrar un filón con el suficiente oro como para salir de la pobreza.
 · País: EE.UU
 · Director: Charles Chaplin
-· Reparto: Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman, Chester Conklin, Tiny Sandford, Georgia Hale, Malcolm Waite, Ernest Garcia, Art Walker, Betty Morrissey
-· Guion: Charles Chaplin
-· Música: Charles Chaplin, William P Perry, Carli Elinor, Max Terr
-· Producción: Charles Chaplin
-· Productora: Charles Chaplin Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378040?od[]=Z1V:MM3_V"/>
+· Reparto: Charles Chaplin, Malcolm Waite, Henry Bergman, Georgia Hale, Tom Murray, Mack Swain
+· Guion: Charles Chaplin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378118?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612161100 +0200" stop="20250612172600 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612160900 +0200" stop="20250612172400 +0200" channel="M+ Todo Chaplin">
     <title lang="es">El circo (1928)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.8/5
 · Un patoso vagabundo se ve acosado por la policía por un absurdo malentendido, lo que le hace irrumpir en un circo cercano.
@@ -164,7 +149,7 @@
 · Productora: Charles Chaplin Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378072?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612172600 +0200" stop="20250612185400 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250612172400 +0200" stop="20250612185400 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Luces de la ciudad (1931)</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.9/5
 · Charlot, un pobre vagabuno sin hogar, conoce a una florista ciega y se enamora de ella.
@@ -223,17 +208,14 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378106?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20250613001900 +0200" stop="20250613013400 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">La quimera del oro (1925)</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.9/5
-· Un buscador de oro llega a Alaska con la intención de encontrar un filón de oro que le saque de la pobreza en la que vive.
+    <title lang="es">La quimera del oro (versión 1942) (1942)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *5.0/5
+· A finales del siglo XIX, en plena fiebre del oro, Charlot llega a Alaska, como tantos otros, atraído por la posibilidad de encontrar un filón con el suficiente oro como para salir de la pobreza.
 · País: EE.UU
 · Director: Charles Chaplin
-· Reparto: Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman, Chester Conklin, Tiny Sandford, Georgia Hale, Malcolm Waite, Ernest Garcia, Art Walker, Betty Morrissey
-· Guion: Charles Chaplin
-· Música: Charles Chaplin, William P Perry, Carli Elinor, Max Terr
-· Producción: Charles Chaplin
-· Productora: Charles Chaplin Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378040?od[]=Z1V:MM3_V"/>
+· Reparto: Charles Chaplin, Malcolm Waite, Henry Bergman, Georgia Hale, Tom Murray, Mack Swain
+· Guion: Charles Chaplin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378118?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20250613013400 +0200" stop="20250613021400 +0200" channel="M+ Todo Chaplin">
     <title lang="es">¡Armas al hombro! (1918)</title>
@@ -331,7 +313,7 @@
 · Música: Charles Chaplin, Louis F. Gottschalk, Fritz Stahlberg</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378106?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613065700 +0200" stop="20250613073900 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613065700 +0200" stop="20250613074000 +0200" channel="M+ Todo Chaplin">
     <title lang="es">El peregrino (1923)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
 · Charlie Chaplin interpreta a un fugitivo que, tras robar la ropa de un ministro para escapar, es confundido con el nuevo párroco del pueblo.
@@ -343,7 +325,7 @@
 · Productora: Chaplin - First National</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378090?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613073900 +0200" stop="20250613080000 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613074000 +0200" stop="20250613080000 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Un día de juerga (1919)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
 · Una nueva entrega de las alocadas aventuras de Chaplin, esta vez disfrutando de un apacible día de campo pero lleno de enredos.
@@ -352,7 +334,7 @@
 · Reparto: Charles Chaplin, Edna Purviance, Jackie Coogan, Bob Kelly</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379224?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613080000 +0200" stop="20250613094800 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613080000 +0200" stop="20250613094700 +0200" channel="M+ Todo Chaplin">
     <title lang="es">La condesa de Hong Kong (1967)</title>
     <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *3.3/5
 · Cuando el lujoso transatlántico en el que viaja Ogden Mears, un millonario americano, hace escala en Hong Kong, Ogden decide pasar la noche en tierra donde conoce a Natascha, una empobrecida condesa rusa que vive como dama de alterne en la ciudad.
@@ -364,7 +346,16 @@
 · Productora: Chaplin Film Productions Ltd, Universal Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378036?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613094800 +0200" stop="20250613113800 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613094700 +0200" stop="20250613101000 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Día de paga (1922)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.6/5
+· Charlot trabaja de peón. Cuando la hija del capataz aparece, Charlot pierde la cabeza por ella.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Phyllis Allen, Mack Swain, Edna Purviance</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379191?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250613101000 +0200" stop="20250613115700 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Un rey en Nueva York (1957)</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.6/5
 · Al estallar una revolución en su país, el rey Shahdov de Estrovia tiene que exiliarse en Estados Unidos. Allí, por accidente, se convierte en un objeto mediático, víctima del marketing, el sensacionalismo y la política.
@@ -376,9 +367,9 @@
 · Productora: Charles Chaplin Productions, Archway Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378102?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613113800 +0200" stop="20250613125300 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613115700 +0200" stop="20250613130900 +0200" channel="M+ Todo Chaplin">
     <title lang="es">La quimera del oro (versión 1942) (1942)</title>
-    <desc lang="es">Comedia dramática | Apto para todos los públicos
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *5.0/5
 · A finales del siglo XIX, en plena fiebre del oro, Charlot llega a Alaska, como tantos otros, atraído por la posibilidad de encontrar un filón con el suficiente oro como para salir de la pobreza.
 · País: EE.UU
 · Director: Charles Chaplin
@@ -386,7 +377,7 @@
 · Guion: Charles Chaplin</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378118?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613125300 +0200" stop="20250613150000 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613130900 +0200" stop="20250613151300 +0200" channel="M+ Todo Chaplin">
     <title lang="es">El gran dictador (1940)</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *4.2/5
 · Herido durante la Primera Guerra Mundial, un barbero judío retorna a su hogar, recuperado pero amnésico. Por su parte, el dictador de Tomaína (con quien tiene un gran parecido físico) ordena reiterados ataques a la comunidad hebrea.
@@ -399,7 +390,7 @@
 · Productora: Charles Chaplin Productions, One Production Company</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378006?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613150000 +0200" stop="20250613162200 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613151300 +0200" stop="20250613163400 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Una mujer de París (1923)</title>
     <desc lang="es">Drama | Apto para todos los públicos | *3.4/5
 · Ante la incomprensión de sus familias, una pareja de jóvenes enamorados decide fugarse a París. Sin embargo, la súbita muerte del padre del chico hace que ella, creyéndose plantada en la estación, decida irse sola.
@@ -410,7 +401,7 @@
 · Música: Charles Chaplin, Louis F. Gottschalk, Fritz Stahlberg</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378106?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613162200 +0200" stop="20250613171600 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613163400 +0200" stop="20250613172600 +0200" channel="M+ Todo Chaplin">
     <title lang="es">El chico (1921)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.8/5
 · Una pobre mujer de Londres abandona a su hijo ilegítimo en un ambiente de lujo, pero el azar y la policía hacen que el niño vaya a parar a las manos de un vagabundo.
@@ -422,20 +413,17 @@
 · Productora: Charles Chaplin Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378018?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613171600 +0200" stop="20250613183100 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">La quimera del oro (1925)</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.9/5
-· Un buscador de oro llega a Alaska con la intención de encontrar un filón de oro que le saque de la pobreza en la que vive.
+  <programme start="20250613172600 +0200" stop="20250613183800 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">La quimera del oro (versión 1942) (1942)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *5.0/5
+· A finales del siglo XIX, en plena fiebre del oro, Charlot llega a Alaska, como tantos otros, atraído por la posibilidad de encontrar un filón con el suficiente oro como para salir de la pobreza.
 · País: EE.UU
 · Director: Charles Chaplin
-· Reparto: Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman, Chester Conklin, Tiny Sandford, Georgia Hale, Malcolm Waite, Ernest Garcia, Art Walker, Betty Morrissey
-· Guion: Charles Chaplin
-· Música: Charles Chaplin, William P Perry, Carli Elinor, Max Terr
-· Producción: Charles Chaplin
-· Productora: Charles Chaplin Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378040?od[]=Z1V:MM3_V"/>
+· Reparto: Charles Chaplin, Malcolm Waite, Henry Bergman, Georgia Hale, Tom Murray, Mack Swain
+· Guion: Charles Chaplin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378118?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613183100 +0200" stop="20250613194700 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613183800 +0200" stop="20250613195100 +0200" channel="M+ Todo Chaplin">
     <title lang="es">El circo (1928)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.8/5
 · Un patoso vagabundo se ve acosado por la policía por un absurdo malentendido, lo que le hace irrumpir en un circo cercano.
@@ -447,7 +435,7 @@
 · Productora: Charles Chaplin Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378072?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613194700 +0200" stop="20250613220000 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613195100 +0200" stop="20250613220000 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Monsieur Verdoux (1947)</title>
     <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.8/5
 · Henri Verdoux se acaba de quedar sin trabajo, sin embargo, ha encontrado la forma de seguir manteniendo a su esposa y a su hijo. Ahora, el &quot;negocio&quot; está en casarse con viudas infelices y ricas para, más tarde, asesinarlas.
@@ -460,7 +448,7 @@
 · Productora: Charles Chaplin Productions, United Artists</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378094?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613220000 +0200" stop="20250613232500 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250613220000 +0200" stop="20250613232200 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Una mujer de París (1923)</title>
     <desc lang="es">Drama | Apto para todos los públicos | *3.4/5
 · Ante la incomprensión de sus familias, una pareja de jóvenes enamorados decide fugarse a París. Sin embargo, la súbita muerte del padre del chico hace que ella, creyéndose plantada en la estación, decida irse sola.
@@ -471,20 +459,17 @@
 · Música: Charles Chaplin, Louis F. Gottschalk, Fritz Stahlberg</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378106?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250613232500 +0200" stop="20250614004000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">La quimera del oro (1925)</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.9/5
-· Un buscador de oro llega a Alaska con la intención de encontrar un filón de oro que le saque de la pobreza en la que vive.
+  <programme start="20250613232200 +0200" stop="20250614003400 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">La quimera del oro (versión 1942) (1942)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *5.0/5
+· A finales del siglo XIX, en plena fiebre del oro, Charlot llega a Alaska, como tantos otros, atraído por la posibilidad de encontrar un filón con el suficiente oro como para salir de la pobreza.
 · País: EE.UU
 · Director: Charles Chaplin
-· Reparto: Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman, Chester Conklin, Tiny Sandford, Georgia Hale, Malcolm Waite, Ernest Garcia, Art Walker, Betty Morrissey
-· Guion: Charles Chaplin
-· Música: Charles Chaplin, William P Perry, Carli Elinor, Max Terr
-· Producción: Charles Chaplin
-· Productora: Charles Chaplin Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378040?od[]=Z1V:MM3_V"/>
+· Reparto: Charles Chaplin, Malcolm Waite, Henry Bergman, Georgia Hale, Tom Murray, Mack Swain
+· Guion: Charles Chaplin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378118?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250614004000 +0200" stop="20250614020600 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250614003400 +0200" stop="20250614020000 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Tiempos modernos (1936)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *4.3/5
 · Extenuado por el frenético ritmo de la cadena de montaje, un obrero metalúrgico acaba perdiendo la razón.
@@ -497,7 +482,7 @@
 · Productora: United Artists, Charles Chaplin Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378032?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250614020600 +0200" stop="20250614024600 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250614020000 +0200" stop="20250614024100 +0200" channel="M+ Todo Chaplin">
     <title lang="es">El peregrino (1923)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
 · Charlie Chaplin interpreta a un fugitivo que, tras robar la ropa de un ministro para escapar, es confundido con el nuevo párroco del pueblo.
@@ -509,7 +494,7 @@
 · Productora: Chaplin - First National</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378090?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250614024600 +0200" stop="20250614030800 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250614024100 +0200" stop="20250614030300 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Día de paga (1922)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.6/5
 · Charlot trabaja de peón. Cuando la hija del capataz aparece, Charlot pierde la cabeza por ella.
@@ -518,7 +503,7 @@
 · Reparto: Charles Chaplin, Phyllis Allen, Mack Swain, Edna Purviance</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379191?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250614030800 +0200" stop="20250614033800 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250614030300 +0200" stop="20250614033300 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Vacaciones (1921)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.5/5
 · En una comedia de enredos, el Vagabundo causa caos en un campo de golf al robar pelotas, generando conflictos entre los jugadores. Es confundido con el marido de una mujer, desencadenando malentendidos cómicos.
@@ -527,7 +512,7 @@
 · Reparto: Charles Chaplin, Edna Purviance, Henry Bergman</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379242?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250614033800 +0200" stop="20250614035800 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250614033300 +0200" stop="20250614035300 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Un día de juerga (1919)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
 · Una nueva entrega de las alocadas aventuras de Chaplin, esta vez disfrutando de un apacible día de campo pero lleno de enredos.
@@ -536,7 +521,7 @@
 · Reparto: Charles Chaplin, Edna Purviance, Jackie Coogan, Bob Kelly</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379224?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250614035800 +0200" stop="20250614052300 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250614035300 +0200" stop="20250614051800 +0200" channel="M+ Todo Chaplin">
     <title lang="es">Luces de la ciudad (1931)</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.9/5
 · Charlot, un pobre vagabuno sin hogar, conoce a una florista ciega y se enamora de ella.
@@ -549,7 +534,7 @@
 · Productora: Charles Chaplin Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378022?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250614052300 +0200" stop="20250614061500 +0200" channel="M+ Todo Chaplin">
+  <programme start="20250614051800 +0200" stop="20250614061100 +0200" channel="M+ Todo Chaplin">
     <title lang="es">El chico (1921)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.8/5
 · Una pobre mujer de Londres abandona a su hijo ilegítimo en un ambiente de lujo, pero el azar y la policía hacen que el niño vaya a parar a las manos de un vagabundo.
@@ -561,196 +546,237 @@
 · Productora: Charles Chaplin Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378018?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250611051000 +0200" stop="20250611065000 +0200" channel="M+ Thriller">
-    <title lang="es">Asesinato (1930)</title>
-    <desc lang="es">Thriller | Apto para todos los públicos | *3.2/5
-· Una mujer es acusada de asesinato y juzgada por ello. Todo el jurado popular cree en su culpabilidad salvo un hombre que hará todo lo posible por defender su inocencia.
+  <programme start="20250614051800 +0200" stop="20250614061100 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">El chico (1921)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.8/5
+· Una pobre mujer de Londres abandona a su hijo ilegítimo en un ambiente de lujo, pero el azar y la policía hacen que el niño vaya a parar a las manos de un vagabundo.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Jackie Coogan, Carl Miller, Edna Purviance
+· Guion: Charles Chaplin
+· Música: Charles Chaplin
+· Productora: Charles Chaplin Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378018?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614061100 +0200" stop="20250614073600 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Tiempos modernos (1936)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *4.3/5
+· Extenuado por el frenético ritmo de la cadena de montaje, un obrero metalúrgico acaba perdiendo la razón.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Paulette Goddard, Chester Conklin, Henry Bergman, Tiny Sandford, Hank Mann, Allan Garcia, Stanley J. Sandford, Stanley Blystone
+· Guion: Charles Chaplin
+· Música: Charles Chaplin
+· Producción: Charles Chaplin
+· Productora: United Artists, Charles Chaplin Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378032?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614073600 +0200" stop="20250614075500 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Un día de juerga (1919)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
+· Una nueva entrega de las alocadas aventuras de Chaplin, esta vez disfrutando de un apacible día de campo pero lleno de enredos.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Edna Purviance, Jackie Coogan, Bob Kelly</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379224?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614075500 +0200" stop="20250614082000 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Día de paga (1922)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.6/5
+· Charlot trabaja de peón. Cuando la hija del capataz aparece, Charlot pierde la cabeza por ella.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Phyllis Allen, Mack Swain, Edna Purviance</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379191?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614082000 +0200" stop="20250614090300 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">El peregrino (1923)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
+· Charlie Chaplin interpreta a un fugitivo que, tras robar la ropa de un ministro para escapar, es confundido con el nuevo párroco del pueblo.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Edna Purviance, Kitty Bradbury, Sydney Chaplin, Mack Swain, Mai Wells
+· Guion: Charles Chaplin
+· Producción: Charles Chaplin
+· Productora: Chaplin - First National</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378090?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614090300 +0200" stop="20250614111600 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Candilejas (1952)</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.9/5
+· Londres, 1914. Un viejo cómico venido a menos salva del suicidio a una joven bailarina a la que cuida, enseñándole todo lo que él sabe sobre el mundo del teatro y la vida.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Buster Keaton, Claire Bloom, Nigel Bruce
+· Guion: Charles Chaplin
+· Música: Charles Chaplin
+· Producción: Charles Chaplin
+· Productora: Charles Chaplin Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378010?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614111600 +0200" stop="20250614124100 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Luces de la ciudad (1931)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.9/5
+· Charlot, un pobre vagabuno sin hogar, conoce a una florista ciega y se enamora de ella.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Florence Lee, Virginia Cherrill, Al Ernest García, Harry Myers, Hank Mann
+· Guion: Charles Chaplin
+· Música: Charles Chaplin
+· Producción: Charles Chaplin
+· Productora: Charles Chaplin Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378022?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614124100 +0200" stop="20250614135300 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">El circo (1928)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.8/5
+· Un patoso vagabundo se ve acosado por la policía por un absurdo malentendido, lo que le hace irrumpir en un circo cercano.
+· País: EE.UU
+· Director: Charlie Chaplin, Charles Chaplin
+· Reparto: Charlie Chaplin, Al Ernest García, Merna Kennedy, Steve Murphy, Harry Crocker, George Davis, Tiny Sandford, Charles Chaplin, Henry Bergman, Allan Garcia, Stanley J. Sandford, John Rand
+· Guion: Charlie Chaplin
+· Música: Charlie Chaplin
+· Productora: Charles Chaplin Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378072?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614135300 +0200" stop="20250614141000 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Un día de juerga (1919)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
+· Una nueva entrega de las alocadas aventuras de Chaplin, esta vez disfrutando de un apacible día de campo pero lleno de enredos.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Edna Purviance, Jackie Coogan, Bob Kelly</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379224?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614141000 +0200" stop="20250614154300 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Chaplin. Espíritu gitano (2024)</title>
+    <desc lang="es">Biografía | Apto para todos los públicos | *3.0/5
+· Una carta descubierta en la mesilla de Chaplin por sus hijos, cuando este había muerto, les revelaba sus desconocidos orígenes. Michael Chaplin, uno de los hijos mayores del artista, emprende un viaje por Europa para descubrir la verdad.
+· País: España, Países Bajos y R.U
+· Director: Carmen Chaplin
+· Guion: Isaki Lacuesta</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378014?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614154300 +0200" stop="20250614165600 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">La quimera del oro (versión 1942) (1942)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *5.0/5
+· A finales del siglo XIX, en plena fiebre del oro, Charlot llega a Alaska, como tantos otros, atraído por la posibilidad de encontrar un filón con el suficiente oro como para salir de la pobreza.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Malcolm Waite, Henry Bergman, Georgia Hale, Tom Murray, Mack Swain
+· Guion: Charles Chaplin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378118?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614165600 +0200" stop="20250614181600 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Una mujer de París (1923)</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.4/5
+· Ante la incomprensión de sus familias, una pareja de jóvenes enamorados decide fugarse a París. Sin embargo, la súbita muerte del padre del chico hace que ella, creyéndose plantada en la estación, decida irse sola.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Edna Purviance, Lydia Knott, Charles K French, Carl Miller
+· Guion: Charles Chaplin
+· Música: Charles Chaplin, Louis F. Gottschalk, Fritz Stahlberg</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378106?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614181600 +0200" stop="20250614194400 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Tiempos modernos (1936)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *4.3/5
+· Extenuado por el frenético ritmo de la cadena de montaje, un obrero metalúrgico acaba perdiendo la razón.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Paulette Goddard, Chester Conklin, Henry Bergman, Tiny Sandford, Hank Mann, Allan Garcia, Stanley J. Sandford, Stanley Blystone
+· Guion: Charles Chaplin
+· Música: Charles Chaplin
+· Producción: Charles Chaplin
+· Productora: United Artists, Charles Chaplin Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378032?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614194400 +0200" stop="20250614220000 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Candilejas (1952)</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.9/5
+· Londres, 1914. Un viejo cómico venido a menos salva del suicidio a una joven bailarina a la que cuida, enseñándole todo lo que él sabe sobre el mundo del teatro y la vida.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Buster Keaton, Claire Bloom, Nigel Bruce
+· Guion: Charles Chaplin
+· Música: Charles Chaplin
+· Producción: Charles Chaplin
+· Productora: Charles Chaplin Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378010?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614220000 +0200" stop="20250614233500 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Chaplin. Espíritu gitano (2024)</title>
+    <desc lang="es">Biografía | Apto para todos los públicos | *3.0/5
+· Una carta descubierta en la mesilla de Chaplin por sus hijos, cuando este había muerto, les revelaba sus desconocidos orígenes. Michael Chaplin, uno de los hijos mayores del artista, emprende un viaje por Europa para descubrir la verdad.
+· País: España, Países Bajos y R.U
+· Director: Carmen Chaplin
+· Guion: Isaki Lacuesta</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378014?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614233500 +0200" stop="20250615002900 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">El chico (1921)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.8/5
+· Una pobre mujer de Londres abandona a su hijo ilegítimo en un ambiente de lujo, pero el azar y la policía hacen que el niño vaya a parar a las manos de un vagabundo.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Jackie Coogan, Carl Miller, Edna Purviance
+· Guion: Charles Chaplin
+· Música: Charles Chaplin
+· Productora: Charles Chaplin Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378018?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250615002900 +0200" stop="20250615014200 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">La quimera del oro (versión 1942) (1942)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *5.0/5
+· A finales del siglo XIX, en plena fiebre del oro, Charlot llega a Alaska, como tantos otros, atraído por la posibilidad de encontrar un filón con el suficiente oro como para salir de la pobreza.
+· País: EE.UU
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Malcolm Waite, Henry Bergman, Georgia Hale, Tom Murray, Mack Swain
+· Guion: Charles Chaplin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378118?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250615014200 +0200" stop="20250615033000 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Un rey en Nueva York (1957)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.6/5
+· Al estallar una revolución en su país, el rey Shahdov de Estrovia tiene que exiliarse en Estados Unidos. Allí, por accidente, se convierte en un objeto mediático, víctima del marketing, el sensacionalismo y la política.
 · País: R.U
-· Director: Alfred Hitchcock
-· Reparto: Herbert Marshall, Norah Baring, Phyllis Konstam, Edward Chapman, Miles Mander
-· Guion: Alma Reville
-· Música: John Reynders
-· Productora: British International Pictures (BIP)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4294732?od[]=Z1V:MM3_V"/>
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Maxine Audley, Jerry Desmonde, Dawn Addams, Oliver Johnston
+· Guion: Charles Chaplin
+· Música: Charles Chaplin
+· Productora: Charles Chaplin Productions, Archway Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378102?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250611065000 +0200" stop="20250611081000 +0200" channel="M+ Thriller">
-    <title lang="es">Cinco muñecas para la luna de agosto (1970)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.0/5
-· George Stark reúne en su isla a un grupo de amigos. Allí, varios crímenes se suceden en torno a una novedosa fórmula científica.
-· País: Italia
-· Director: Mario Bava
-· Reparto: Ira Fürstenberg, Edwige Fenech, William Berger
-· Guion: Mario di Nardo
-· Productora: Produzioni Atlas Consorziate (P.A.C.)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4165285?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250611081000 +0200" stop="20250611095600 +0200" channel="M+ Thriller">
-    <title lang="es">No tengo miedo (2002)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.3/5
-· Un niño de nueve años descubre los claroscuros del mundo de los adultos tras encontrar a un chico de su edad oculto en un pozo.
-· País: España, Italia y R.U
-· Director: Gabriele Salvatores
-· Reparto: Giuseppe Cristiano, Mattia Di Pierro, Aitana Sánchez-Gijón, Diego Abatantuono, Fabio Tetta, Dino Abbrescia, Giorgio Careccia
-· Guion: Francesca Marciano,Niccolò Ammaniti
-· Música: Ezio Bosso, Pepo Scherman
-· Producción: Giovanni Stabilini, Maurizio Totti, Riccardo Tozzi, Marco Chimenz
-· Productora: Colorado Film Production, Medusa Film, Cattleya, Alquimia Cinema S.A, Medusa Produzione, The Producers Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3726385?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250611095600 +0200" stop="20250611105100 +0200" channel="M+ Thriller">
-    <title lang="es">Rapa.  Temporada (T3). Rapa (T3): Ep.1  (2024)</title>
-    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.1/5
-· Una joven desaparece en extrañas circunstancias. Se trata de Lúa, miembro de la familia dueña de una importante empresa farmacéutica. Maite se ocupa del caso, y Tomás no puede evitar involucrarse, a pesar de que vive una situación personal extrema.
-· País: España
-· Director: Jorge Coira, Javier Cámara
-· Reparto: Javier Cámara, Mónica López, Darío Loureiro, Adrián Ríos, Cristina Castaño, Mercedes Sampietro, Sheyla Fariña, Xosé Manuel Esperante, Eva Barreiro, Miguel de Lira, Diego Anido, Aida Oset
-· Guion: Pepe Coira,Fran Araújo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4260995?od[]=Z1H:MORIG3_H"/>
-  </programme>
-  <programme start="20250611105100 +0200" stop="20250611115000 +0200" channel="M+ Thriller">
-    <title lang="es">Rapa.  Temporada (T3). Rapa (T3): Ep.2  (2024)</title>
-    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.1/5
-· Maite y Yuste, la experta en secuestros que ha venido de Madrid, trabajan en averiguar quién y dónde tienen secuestrada a Lúa. Maite y Tomás descubren que en la familia Támoga hay tensiones y secretos.
-· País: España
-· Director: Jorge Coira, Javier Cámara
-· Reparto: Javier Cámara, Mónica López, Darío Loureiro, Adrián Ríos, Cristina Castaño, Mercedes Sampietro, Sheyla Fariña, Xosé Manuel Esperante, Eva Barreiro, Miguel de Lira, Diego Anido, Aida Oset
-· Guion: Pepe Coira,Fran Araújo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4260995?od[]=Z1H:MORIG3_H"/>
-  </programme>
-  <programme start="20250611115000 +0200" stop="20250611124600 +0200" channel="M+ Thriller">
-    <title lang="es">Rapa.  Temporada (T3). Rapa (T3): Ep.3  (2024)</title>
-    <desc lang="es">Policíaca | No recomendado para menores de dieciséis años | *3.1/5
-· Tomás se entera que un gran amigo ha sido detenido como sospechoso de asesinato. Maite, por su parte, está volcada en salvar a Lúa de su secuestrador.
-· País: España
-· Director: Jorge Coira, Javier Cámara
-· Reparto: Javier Cámara, Mónica López, Darío Loureiro, Adrián Ríos, Cristina Castaño, Mercedes Sampietro, Sheyla Fariña, Xosé Manuel Esperante, Eva Barreiro, Miguel de Lira, Diego Anido, Aida Oset
-· Guion: Pepe Coira,Fran Araújo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4260995?od[]=Z1H:MORIG3_H"/>
-  </programme>
-  <programme start="20250611124600 +0200" stop="20250611143000 +0200" channel="M+ Thriller">
-    <title lang="es">The Thicket (2024)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.3/5
-· Después de que su hermana sea secuestrada por un violento asesino, un joven recluta a un resentido cazarrecompensas que, a regañadientes, se convierte en el líder de un grupo de marginados en busca de la raptada.
+  <programme start="20250615033000 +0200" stop="20250615053500 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Monsieur Verdoux (1947)</title>
+    <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.8/5
+· Henri Verdoux se acaba de quedar sin trabajo, sin embargo, ha encontrado la forma de seguir manteniendo a su esposa y a su hijo. Ahora, el &quot;negocio&quot; está en casarse con viudas infelices y ricas para, más tarde, asesinarlas.
 · País: EE.UU
-· Director: Elliott Lester
-· Reparto: Peter Dinklage, Juliette Lewis, Esme Creed-Miles, Levon Hawke, Macon Blair</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4333930?od[]=Z1V:MM3_V"/>
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Mady Correll, Allison Roddan, Robert Lewis, Audrey Betz, Martha Raye
+· Guion: Charles Chaplin
+· Música: Charles Chaplin
+· Producción: Charles Chaplin
+· Productora: Charles Chaplin Productions, United Artists</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378094?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250611143000 +0200" stop="20250611160100 +0200" channel="M+ Thriller">
-    <title lang="es">Pixie (2020)</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *3.4/5
-· Pixie planea el atraco perfecto para vengar la muerte de su madre.
-· País: R.U
-· Director: Barnaby Thompson
-· Reparto: Olivia Cooke, Fra Fee, Alec Baldwin, Colm Meaney, Pat Shortt
-· Guion: Preston Thompson
-· Música: Gerry Diver
-· Productora: Confit Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3910588?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250611160100 +0200" stop="20250611181600 +0200" channel="M+ Thriller">
-    <title lang="es">Diabolik (2021)</title>
-    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.1/5
-· Década de 1960. El escurridizo ladrón &quot;Diabolik&quot;, cuya verdadera identidad se desconoce, planea un nuevo golpe maestro: hacerse con el famoso diamante rosa, una pieza de incalculable valor que porta consigo la rica y enigmática heredera Eva Kant.
-· País: Italia
-· Director: Antonio Manetti, Marco Manetti
-· Reparto: Luca Marinelli, Miriam Leone, Valerio Mastandrea, Alessandro Roja, Serena Rossi, Roberto Citran, Claudia Gerini, Urbano Barberini, Pier Giorgio Bellocchio
-· Guion: Marco Manetti,Michelangelo La Neve,Antonio Manetti
-· Música: Aldo De Scalzi, Pivio
-· Producción: Antonio Manetti, Marco Manetti
-· Productora: Rai Cinema, Mompracem, Astorina</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4076412?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250611181600 +0200" stop="20250611202200 +0200" channel="M+ Thriller">
-    <title lang="es">Diabolik: ¿quién eres? (2023)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
-· Tras ser capturados por una banda criminal, el excepcional ladrón Diabolik y el inspector Ginko se encuentran encerrados en una celda sin salida. En esta situación, en la que la presencia de la muerte es constante, Diabolik revela a Ginko su pasado.
-· País: Francia e Italia
-· Director: Antonio Manetti, Marco Manetti
-· Reparto: Giacomo Gianniotti, Miriam Leone, Valerio Mastandrea, Monica Bellucci, Pier Giorgio Bellocchio, Chiara Martegiani
-· Guion: Antonio Manetti,Marco Manetti,Michelangelo La Neve
-· Música: Pivio, Aldo De Scalzi
-· Producción: Pier Giorgio Bellocchio, Paolo del Brocco
-· Productora: Mompracem, Rai Cinema</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4295747?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250611202200 +0200" stop="20250611220000 +0200" channel="M+ Thriller">
-    <title lang="es">Red de traición (2024)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *2.8/5
-· Ben Malloy y su esposa Bella están de misión para la CIA cuando una explosión de gas mata a Bella. Ben comienza a investigar lo sucedido y pronto descubre que la muerte de su esposa no fue un accidente.
+  <programme start="20250615053500 +0200" stop="20250615055500 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Un día de juerga (1919)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
+· Una nueva entrega de las alocadas aventuras de Chaplin, esta vez disfrutando de un apacible día de campo pero lleno de enredos.
 · País: EE.UU
-· Director: Jesse V. Johnson
-· Reparto: Aaron Eckhart, Olga Kurylenko, Alex Pettyfer, Daniel Bernhardt, Chris Petrovski, Nick Moran, Kris Johnson
-· Guion: George Mahaffey
-· Música: Sean Murray
-· Producción: Steve Lee Jones, Matthew Shreder
-· Productora: Concourse Media, Bee Holder Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4319246?od[]=Z1V:MM3_V"/>
+· Director: Charles Chaplin
+· Reparto: Charles Chaplin, Edna Purviance, Jackie Coogan, Bob Kelly</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379224?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250611220000 +0200" stop="20250611234000 +0200" channel="M+ Thriller">
-    <title lang="es">El halcón maltés (1941)</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.5/5
-· Un agudo y cínico detective, se ve en medio de la investigación de varios asesinatos y el robo de una valiosa estatua del siglo XVI.
-· País: EE.UU
-· Director: John Huston
-· Reparto: Humphrey Bogart, Mary Astor, Peter Lorre, Ward Bond, Barton MacLane, Elisha Cook Jr, Gladys George, James L Burke, Lee Patrick
-· Guion: John Huston
-· Música: Adolph Deutsch
-· Producción: Hal B. Wallis
-· Productora: Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4078199?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250611234000 +0200" stop="20250612012500 +0200" channel="M+ Thriller">
-    <title lang="es">Narc (2002)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.4/5
-· Tras varios meses de suspensión por haber disparado accidentalmente sobre una mujer embarazada en el curso de una operación encubierta, el agente NickTellis tiene la oportunidad de redimirse participando en otra investigación policial.
-· País: Canadá y EE.UU
-· Director: Joe Carnahan
-· Reparto: Jason Patric, Ray Liotta, Dan Leis, Chi McBride, Booth Savage, Karen Robinson, Krista Bridges, Alan C. Peterson
-· Guion: Joe Carnahan
-· Música: Cliff Martinez
-· Producción: Michelle Grace, Ray Liotta, Diane Nabatoff, Julius R. Nasso
-· Productora: Paramount Pictures, Lions Gate Films Inc, Cruise-Wagner Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3646184?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250612012500 +0200" stop="20250612033500 +0200" channel="M+ Thriller">
-    <title lang="es">Corrupción en Miami (2006)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.3/5
-· Los agentes antivicio Sonny Crockett y Ricardo Tubbs descubren que un soplo ha causado la muerte de un confidente y dos agentes federales. La investigación no tarda en llevarlos ante la puerta de los brutales asesinos de la Hermandad Aria.
-· País: Alemania y EE.UU
-· Director: Michael Mann
-· Reparto: Colin Farrell, Jamie Foxx, Gong Li, Naomie Harris, Ciarán Hinds, Justin Theroux, Barry Shabaka Henley, Luis Tosar, John Ortiz, Elizabeth Rodriguez
-· Guion: Michael Mann,Anthony Yerkovich
-· Música: John Murphy
-· Producción: Michael Mann, Pieter Jan Brugge
-· Productora: Universal Pictures, Forward Pass, Metropolis Films, Foqus Arte Digital, Michael Mann Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3817785?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250612033500 +0200" stop="20250612054000 +0200" channel="M+ Thriller">
-    <title lang="es">El truco final (El prestigio) (2006)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.3/5
-· Unidos por la amistad, su habilidad para la magia y las enseñanzas de un mismo mentor, el refinado Robert Angier y el efectista Alfred Borden acaban siendo enemigos a raíz de una tragedia.
-· País: EE.UU y R.U
-· Director: Christopher Nolan
-· Reparto: Hugh Jackman, Christian Bale, Scarlett Johansson, Michael Caine, Piper Perabo, Rebecca Hall, Samantha Mahurin, David Bowie, Olivia Merg, Johnny Liska
-· Guion: Jonathan Nolan,Christopher Nolan
-· Música: David Julyan
-· Producción: Aaron Ryder, Christopher Nolan, Emma Thomas
-· Productora: Newmarket Productions, Syncopy</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4356256?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250612054000 +0200" stop="20250612074500 +0200" channel="M+ Thriller">
-    <title lang="es">El fugitivo (1993)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.2/5
-· El Dr. Kimble, perseguido constantemente por un agente federal, deberá huir sin descanso e intentar descubrir al verdadero asesino de su esposa.
-· País: EE.UU
-· Director: Andrew Davis
-· Reparto: Harrison Ford, Tommy Lee Jones, Sela Ward, Julianne Moore, Joe Pantoliano, Andreas Katsulas, Jeroen Krabbé, Daniel Roebuck, Tom Wood, Miguel Nino, Ron Dean, L. Scott Caldwell, John Drummond, Joseph F. Kosala, Tony Fosco
-· Guion: David Twohy,Jeb Stuart
-· Música: James Newton Howard
-· Producción: Arnold Kopelson
-· Productora: Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4366196?od[]=Z1V:MM3_V"/>
+  <programme start="20250615055500 +0200" stop="20250615081500 +0200" channel="M+ Todo Chaplin">
+    <title lang="es">Chaplin (1992)</title>
+    <desc lang="es">Biopic | No recomendado para menores de doce años | *3.9/5
+· Charles Chaplin pertenece a una familia que trabaja en teatros de mala muerte en Londres. PPronto inicia su propia carrera.
+· País: EE.UU, Francia, Italia, Japón y R.U
+· Director: Richard Attenborough
+· Reparto: Robert Downey Jr., Milla Jovovich, Geraldine Chaplin, Kevin Kline, Diane Lane</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4377268?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20250612054000 +0200" stop="20250612074500 +0200" channel="M+ Thriller">
     <title lang="es">El fugitivo (1993)</title>
@@ -853,7 +879,7 @@
 · Música: Howard Shore
 · Producción: Ceán Chaffin, John S. Dorsey, David Koepp, Judy Hofflund, Gavin Polone
 · Productora: Columbia Pictures, Columbia Pictures Corporation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3739814?od[]=Z1V:MM3_V"/>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4382842?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20250612181500 +0200" stop="20250612200000 +0200" channel="M+ Thriller">
     <title lang="es">El hombre de las sombras (2012)</title>
@@ -880,7 +906,7 @@
 · Productora: Nordisk Film</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4356558?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612220000 +0200" stop="20250612235500 +0200" channel="M+ Thriller">
+  <programme start="20250612220000 +0200" stop="20250612235400 +0200" channel="M+ Thriller">
     <title lang="es">Múltiple (2016)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.9/5
 · Mientras guarda los regalos de cumpleaños de su hija Claire en el maletero del coche, el señor Benoit es atacado por un desconocido que secuestra a la chica y a sus dos compañeras.
@@ -893,7 +919,7 @@
 · Productora: Blinding Edge Pictures, Blumhouse Productions, Dentsu, Fuji Eight Company Ltd.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4381550?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250612235500 +0200" stop="20250613014000 +0200" channel="M+ Thriller">
+  <programme start="20250612235400 +0200" stop="20250613014000 +0200" channel="M+ Thriller">
     <title lang="es">Beast (2017)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.3/5
 · Moll es una atormentada joven que se siente incómoda en el asfixiante entorno en el que vive. Un día y mientras es acosada por un 'ligue' de una noche, Moll conoce a un enigmático chico que despierta su interés.
@@ -925,7 +951,7 @@
 · Música: David Holmes
 · Producción: Jerry Weintraub
 · Productora: Warner Bros, Village Roadshow Pictures, NPV Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4014935?od[]=Z1V:MM3_V"/>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4382846?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20250613034500 +0200" stop="20250613054500 +0200" channel="M+ Thriller">
     <title lang="es">Ocean's Twelve: Uno más entra en juego (2004)</title>
@@ -938,7 +964,7 @@
 · Música: David Holmes
 · Producción: Jerry Weintraub
 · Productora: Warner Bros. Pictures, Village Roadshow Pictures, Section Eight Ltd., Jerry Weintraub Productions, WV Films III</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3736666?od[]=Z1V:MM3_V"/>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4382848?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20250613054500 +0200" stop="20250613074500 +0200" channel="M+ Thriller">
     <title lang="es">Ocean's 13 (2007)</title>
@@ -951,7 +977,7 @@
 · Música: David Holmes
 · Producción: Jerry Weintraub
 · Productora: Warner Bros. Pictures, Village Roadshow Pictures, Jerry Weintraub Productions, Section Eight Ltd.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3736661?od[]=Z1V:MM3_V"/>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4382844?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20250613054500 +0200" stop="20250613074500 +0200" channel="M+ Thriller">
     <title lang="es">Ocean's 13 (2007)</title>
@@ -964,7 +990,7 @@
 · Música: David Holmes
 · Producción: Jerry Weintraub
 · Productora: Warner Bros. Pictures, Village Roadshow Pictures, Jerry Weintraub Productions, Section Eight Ltd.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3736661?od[]=Z1V:MM3_V"/>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4382844?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20250613074500 +0200" stop="20250613075000 +0200" channel="M+ Thriller">
     <title lang="es">Espacio M+.  Temporada (T1). Espacio M+ (T1): El correo. Crónica de la impunidad (2024)</title>
@@ -1161,5 +1187,177 @@
 · Producción: Park Hoon-jung
 · Productora: Studio &amp; New, Goldmoon Film</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4201000?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614052500 +0200" stop="20250614072000 +0200" channel="M+ Thriller">
+    <title lang="es">El bastardo (2023)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.3/5
+· Marco es un 'kopino' (hijo ilegítimo de filipina y surcoreano) que se gana la vida en peleas ilegales, intentando conseguir dinero para la operación que necesita su madre. Su última esperanza es encontrar a su padre y que él pague el tratamiento.
+· País: Corea del Sur
+· Director: Park Hoon-jung
+· Reparto: Kim Seon-ho, Kang Tae-ju, Kim Kang-woo, Go Ara, Lee Ki-young, Heo Jun-seok
+· Guion: Park Hoon-jung
+· Música: Mowg
+· Producción: Park Hoon-jung
+· Productora: Studio &amp; New, Goldmoon Film</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4201000?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614072000 +0200" stop="20250614090500 +0200" channel="M+ Thriller">
+    <title lang="es">La extorsión (2023)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
+· El 1 de enero, Alejandro Petrossian, un veterano piloto comercial que esconde un secreto, es utilizado por el Servicio de Inteligencia de Argentina para el traslado de maletas de Buenos Aires a Madrid de las que desconoce su contenido.
+· País: Argentina
+· Director: Martino Zaidelis
+· Reparto: Guillermo Francella, Pablo Rago, Andrea Frigerio, Guillermo Arengo, Carlos Portaluppi, Alberto Ajaka, Mónica Villa
+· Guion: Emanuel Diez
+· Música: Pablo Borghi
+· Producción: Muriel Cabeza, Axel Kuschevatzky
+· Productora: 100 Bares Producciones, Cimarrón Cine</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4340862?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614090500 +0200" stop="20250614104500 +0200" channel="M+ Thriller">
+    <title lang="es">Betibú (2014)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.1/5
+· En una exclusiva urbanización de las afueras de Buenos Aires, un poderoso empresario es hallado muerto. Para dar cobertura a lo que será la noticia del año, el director del periódico de mayor tirada del país convoca a una prestigiosa novelista.
+· País: Argentina y España
+· Director: Miguel Cohan
+· Reparto: Mercedes Morán, Daniel Fanego, Alberto Ammann, José Coronado, Norman Briski, Lito Cruz, Marina Bellati, Fabián Arenillas, Ammann Alberto
+· Guion: Ana Cohan,Miguel Cohan
+· Música: Federico Jusid
+· Producción: Gerardo Herrero, Mariela Besuievsky, Vanessa Ragone, Juliet Blake
+· Productora: Haddock Films, Tornasol Films, Televisión Federal (Telefe), Instituto Nacional de Cine y Artes Audiovisuales (INCAA)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4367908?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614104500 +0200" stop="20250614113500 +0200" channel="M+ Thriller">
+    <title lang="es">El largo río de las almas.  Temporada (T1). El largo río de... (T1): Ep.5 A dónde vas (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
+· Mientras Mickey y Truman estrechan su relación aparece una nueva pista que deciden seguir. El hallazgo del cadáver de otra chica aumenta la presión sobre el caso.
+· País: EE.UU
+· Director: Hagar Ben-Asher, Nikki Toscano
+· Reparto: Amanda Seyfried, Nicholas Pinnock, Ashleigh Cummings, Callum Vinson, John Doman</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4349089?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20250614113500 +0200" stop="20250614123000 +0200" channel="M+ Thriller">
+    <title lang="es">El largo río de las almas.  Temporada (T1). El largo río de... (T1): Ep.6 Hereditario (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
+· Se acerca la Navidad. Mickey sigue convencida de que Sean Kelly no es el asesino. Su conexión con Truman se afianza mientras hace un descubrimiento sorprendente sobre el propietario de la furgoneta roja.
+· País: EE.UU
+· Director: Hagar Ben-Asher, Nikki Toscano
+· Reparto: Amanda Seyfried, Nicholas Pinnock, Ashleigh Cummings, Callum Vinson, John Doman</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4349089?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20250614123000 +0200" stop="20250614143500 +0200" channel="M+ Thriller">
+    <title lang="es">El fugitivo (1993)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.2/5
+· El Dr. Kimble, perseguido constantemente por un agente federal, deberá huir sin descanso e intentar descubrir al verdadero asesino de su esposa.
+· País: EE.UU
+· Director: Andrew Davis
+· Reparto: Harrison Ford, Tommy Lee Jones, Sela Ward, Julianne Moore, Joe Pantoliano, Andreas Katsulas, Jeroen Krabbé, Daniel Roebuck, Tom Wood, Miguel Nino, Ron Dean, L. Scott Caldwell, John Drummond, Joseph F. Kosala, Tony Fosco
+· Guion: David Twohy,Jeb Stuart
+· Música: James Newton Howard
+· Producción: Arnold Kopelson
+· Productora: Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4366196?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614143500 +0200" stop="20250614164500 +0200" channel="M+ Thriller">
+    <title lang="es">Jungla de cristal (1988)</title>
+    <desc lang="es">Acción | No recomendado para menores de doce años | *3.6/5
+· En Navidad, el detective John McClane decide viajar a Los Ángeles para intentar rehacer su vida familiar. McClane llega al gigantesco edificio donde su exmujer Holly se encuentra celebrando las fiestas, ignorando todo lo que está a punto de suceder.
+· País: EE.UU
+· Director: John McTiernan
+· Reparto: Bruce Willis, Bonnie Bedelia, Alan Rickman, Reginald VelJohnson, Paul Gleason, De'voreaux White, William Atherton, Hart Bochner, James Shigeta, Alexander Godunov
+· Guion: Jeb Stuart,Steven E. De Souza
+· Música: Michael Kamen
+· Producción: Lawrence Gordon, Joel Silver
+· Productora: Twentieth Century Fox, Gordon Company, Silver Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4092738?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614164500 +0200" stop="20250614182500 +0200" channel="M+ Thriller">
+    <title lang="es">Pensamientos mortales (1991)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
+· Dos buenas amigas, Cynthia y Joyce, son interrogadas por la policía cuando el marido de la segunda aparece asesinado.
+· País: EE.UU
+· Director: Alan Rudolph
+· Reparto: Demi Moore, Glenne Headly, Bruce Willis, John Pankow, Harvey Keitel, Billie Neal
+· Guion: William Reilly,Claude Kerven
+· Música: Mark Isham
+· Producción: Mark Tarlov, John Fiedler
+· Productora: New Visions Pictures, Columbia Pictures, Rufglen Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4338876?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614182500 +0200" stop="20250614201500 +0200" channel="M+ Thriller">
+    <title lang="es">A pleno sol (1960)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.4/5
+· Tom Ripley es un cazafortunas que recibe el encargo de buscar a un joven playboy americano y hacerle volver a Estados Unidos. Éste no se lo pondrá fácil y Ripley comenzará a obsesionarse con su modo de vida.
+· País: Francia e Italia
+· Director: René Clément
+· Reparto: Alain Delon, Marie Laforêt, Maurice Ronet, Frank Latimore, Romy Schneider, Elvire Popesco, Erno Crisa, Ave Ninchi, Billy Kearns, Viviane Chantel, Nicolas Petrov, Lily Romanelli
+· Guion: Paul Gégauff
+· Música: Nino Rota
+· Producción: Raymond Hakim, Robert Hakim</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4270512?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614201500 +0200" stop="20250614220000 +0200" channel="M+ Thriller">
+    <title lang="es">El tercer hombre (1949)</title>
+    <desc lang="es">Thriller | Apto para todos los públicos | *3.8/5
+· Un escritor llega a Viena para encontrarse con un excompañero. Allí descubre que él ha fallecido y la investigación de su muerte le lleva a descubrir una intrincada trama criminal.
+· País: R.U
+· Director: Carol Reed
+· Reparto: Orson Welles, Joseph Cotten, Alida Valli, Trevor Howard, Bernard Lee
+· Guion: Graham Greene
+· Música: Anton Karas
+· Producción: Carol Reed</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4382840?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614220000 +0200" stop="20250614234500 +0200" channel="M+ Thriller">
+    <title lang="es">Crimen perfecto (1954)</title>
+    <desc lang="es">Drama | No recomendado para menores de siete años | *3.8/5
+· El intento de asesinato de la rica esposa de un ex campeón de tenis, da pie a una investigación policial que fijará su atención sobre el marido, como principal sospechoso de contratar los servicios de un asesino a sueldo.
+· País: EE.UU
+· Director: Alfred Hitchcock
+· Reparto: Ray Milland, Grace Kelly, Robert Cummings, Anthony Dawson, John Williams, Patrick Allen, Leo Britt, George Leigh, George Alderson, Robin Hughes
+· Guion: Frederick Knott
+· Música: Dimitri Tiomkin
+· Producción: Alfred Hitchcock
+· Productora: Warner Bros, Warner Bros. Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4294724?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250614234500 +0200" stop="20250615020500 +0200" channel="M+ Thriller">
+    <title lang="es">Uno de los nuestros (1990)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.9/5
+· Brooklyn, Nueva York, 1955. Henry Hill, un niño de 13 años, hijo de un inmigrante irlandés y de una siciliana, ha sentido desde siempre una gran atracción por los grupos de mafiosos de su Brooklyn natal, que llevan una vida de respeto, honor y poder.
+· País: EE.UU
+· Director: Martin Scorsese
+· Reparto: Ray Liotta, Robert De Niro, Joe Pesci, Lorraine Bracco, Paul Sorvino, Frank Sivero, Tony Darrow, Mike Starr, Frank Vincent
+· Guion: Martin Scorsese,Nicholas Pileggi
+· Música: Pete Townshend
+· Producción: Irwin Winkler
+· Productora: Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4364944?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250615020500 +0200" stop="20250615043500 +0200" channel="M+ Thriller">
+    <title lang="es">American Gangster (2007)</title>
+    <desc lang="es">Policíaco | No recomendado para menores de dieciocho años | *3.5/5
+· Nueva York, década de 1960. Frank Lucas, chófer de un jefe de la mafia de Harlem, decide hacerse con el poder cuando éste muere, Richie Roberts, un policía marginado, presiente que algo está cambiando en la mafia y comienza a investigar.
+· País: EE.UU y R.U
+· Director: Ridley Scott
+· Reparto: Denzel Washington, Russell Crowe, Josh Brolin, Carla Gugino, Cuba Gooding Jr., John Hawkes, Ted Levine, Chiwetel Ejiofor, Lymari Nadal, Ruby Dee, Armand Assante, Kevin Corrigan, Clarence Williams, Ric Young, Jon Polito, John Ortiz
+· Guion: Steven Zaillian,Mark Jacobson
+· Música: Marc Streitenfeld
+· Producción: Brian Grazer, Ridley Scott
+· Productora: Universal Pictures, Imagine Entertainment, Film Rites, Scott Free Productions, Relativity Media</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4381540?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250615043500 +0200" stop="20250615062000 +0200" channel="M+ Thriller">
+    <title lang="es">Firewall (2006)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.2/5
+· Un criminal secuestra a la familia de un experto en seguridad financiera para desviar una gran suma de dinero a su cuenta.
+· País: EE.UU
+· Director: Richard Loncraine
+· Reparto: Robert Patrick, Virginia Madsen, Alan Arkin, Harrison Ford, Robert Forster, Paul Bettany, Mary Lynn Rajskub
+· Guion: Joe Forte
+· Música: Alexandre Desplat
+· Producción: Armyan Bernstein, Basil Iwanyk, Jonathan Shestack
+· Productora: Warner Bros. Pictures, Thunder Road Pictures, Beacon Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4367170?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
