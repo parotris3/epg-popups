@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 07/07/2025 01:42">
+<tv generator-info-name="MultiPopUps FullDesc 08/07/2025 01:37">
   <channel id="M+ Todo Chaplin">
     <display-name>M+ Todo Chaplin</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCHAP"/>
@@ -8,94 +8,4 @@
     <display-name>M+ Thriller</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTHRI"/>
   </channel>
-  <programme start="20250707054400 +0200" stop="20250707074500 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">El gran dictador (1940)</title>
-    <desc lang="es">Comedia dramática | Apto para todos los públicos | *4.2/5
-· Herido durante la Primera Guerra Mundial, un barbero judío retorna a su hogar, recuperado pero amnésico. Por su parte, el dictador de Tomaína (con quien tiene un gran parecido físico) ordena reiterados ataques a la comunidad hebrea.
-· País: EE.UU
-· Director: Charles Chaplin
-· Reparto: Charles Chaplin, Jack Oakie, Reginald Gardiner, Henry Daniell, Paulette Goddard, Billy Gilbert, Grace Hayle, Carter DeHaven
-· Guion: Charles Chaplin
-· Música: Charles Chaplin, Meredith Willson
-· Producción: Charles Chaplin
-· Productora: Charles Chaplin Productions, One Production Company</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378006?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250707074500 +0200" stop="20250707081600 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Al sol (1919)</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.2/5
-· Charlie Chaplin trabaja en el Hotel Evergreen, donde su jefe lo maltrata. Allí, intenta impresionar a Edna, una chica del pueblo pero la llegada de un sofisticado forastero lo complica todo.
-· País: EE.UU
-· Director: Charles Chaplin
-· Reparto: Charles Chaplin, Edna Purviance, Henry Bergman, Tom Wilson</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379232?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250707081600 +0200" stop="20250707201600 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250707201600 +0200" stop="20250708000000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708120000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708120000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250708120000 +0200" stop="20250709000000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709120000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709120000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250709120000 +0200" stop="20250710000000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250710000000 +0200" stop="20250710120000 +0200" channel="M+ Todo Chaplin">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250707053200 +0200" stop="20250707080500 +0200" channel="M+ Thriller">
-    <title lang="es">Un profeta (2009)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.9/5
-· Malik es un chico de apenas 19 años que no sabe ni leer y escribir, y entra en la cárcel con una condena de 6 años. Siendo el más débil, será sometido a diversas pruebas, pero aprenderá pronto a plantar cara a la mafia corsa que controla la prisión.
-· País: Francia e Italia
-· Director: Jacques Audiard
-· Reparto: Tahar Rahim, Niels Arestrup, Adel Bencherif, Jean-Philippe Ricci
-· Guion: Jacques Audiard,Thomas Bidegain
-· Música: Alexandre Desplat
-· Productora: Why Not Productions, Chic Films, Page 114, France 2 Cinéma</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4067788?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250707080500 +0200" stop="20250707200500 +0200" channel="M+ Thriller">
-    <title lang="es">Próximamente Vacaciones por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250707200500 +0200" stop="20250708000000 +0200" channel="M+ Thriller">
-    <title lang="es">Próximamente Vacaciones por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708060000 +0200" channel="M+ Thriller">
-    <title lang="es">Próximamente Vacaciones por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250708060000 +0200" stop="20250709060000 +0200" channel="M+ Thriller">
-    <title lang="es">Próx. Vacaciones por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250709060000 +0200" stop="20250710060000 +0200" channel="M+ Thriller">
-    <title lang="es">Próx. Vacaciones por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
 </tv>
