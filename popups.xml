@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 12/07/2025 01:42">
+<tv generator-info-name="MultiPopUps FullDesc 13/07/2025 01:49">
   <channel id="M+ Wéstern">
     <display-name>M+ Wéstern</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCHAP"/>
@@ -8,18 +8,6 @@
     <display-name>M+ Vacaciones</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVCIVA"/>
   </channel>
-  <programme start="20250712000000 +0200" stop="20250712120000 +0200" channel="M+ Wéstern">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250712120000 +0200" stop="20250713000000 +0200" channel="M+ Wéstern">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
-  <programme start="20250713000000 +0200" stop="20250713120000 +0200" channel="M+ Wéstern">
-    <title lang="es">Próximamente Wéstern por M+</title>
-    <desc lang="es">(Información detallada no disponible)</desc>
-  </programme>
   <programme start="20250713000000 +0200" stop="20250713120000 +0200" channel="M+ Wéstern">
     <title lang="es">Próximamente Wéstern por M+</title>
     <desc lang="es">(Información detallada no disponible)</desc>
@@ -44,197 +32,17 @@
     <title lang="es">Próximamente Wéstern por M+</title>
     <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
-  <programme start="20250712055200 +0200" stop="20250712072900 +0200" channel="M+ Vacaciones">
-    <title lang="es">Dragon Ball Super: Broly (2018)</title>
-    <desc lang="es">Anime | No recomendado para menores de siete años | *3.1/5
-· La Tierra disfruta en paz la celebración de el Torneo del Poder. Sin embargo, Goku es consciente de que existen enemigos aún por descubrir en el Universo, por lo que sigue entrenando sin descanso para alcanzar cotas de poder nunca antes conocidas.
-· País: Japón
-· Director: Tatsuya Nagamine
-· Guion: Akira Toriyama
-· Música: Norihito Sumitomo
-· Productora: Toei, Fox International Productions (FIP), Shueisha, Fox International Channels</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3702583?od[]=Z1V:MM3_V"/>
+  <programme start="20250715000000 +0200" stop="20250715120000 +0200" channel="M+ Wéstern">
+    <title lang="es">Próximamente Wéstern por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
-  <programme start="20250712072900 +0200" stop="20250712075500 +0200" channel="M+ Vacaciones">
-    <title lang="es">Tiddler (2024)</title>
-    <desc lang="es">Corto animación | Apto para todos los públicos | *3.0/5
-· Un pequeño pez con una gran imaginación se pierde en el profundo océano hasta que su propia historia lo salva.
-· País: R.U
-· Director: Andy Martin, Alex Bain</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4338746?od[]=Z1V:MM3_V"/>
+  <programme start="20250715120000 +0200" stop="20250716000000 +0200" channel="M+ Wéstern">
+    <title lang="es">Próximamente Wéstern por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
-  <programme start="20250712075500 +0200" stop="20250712093000 +0200" channel="M+ Vacaciones">
-    <title lang="es">Pico de Oro y sus amigos (2021)</title>
-    <desc lang="es">Animación | No recomendado para menores de siete años | *3.1/5
-· Criado por una mamá gallina en un pueblo lejano, Pico De Oro, un aguilucho perdido, lucha por encajar. Decidido a descubrir su verdadera identidad, emprende un viaje hacia Ciudad Aviar, donde encuentra su linaje y se une a los exploradores águila.
-· País: China
-· Director: Nigel W. Tierney, Dong Long
-· Guion: Robert N. Skir,Jeff Sloniker,Vivian Yoon
-· Productora: Liang Zi Film, Tierney Corp Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4339279?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250712093000 +0200" stop="20250712110900 +0200" channel="M+ Vacaciones">
-    <title lang="es">Un rey supermono (2023)</title>
-    <desc lang="es">Animación | No recomendado para menores de siete años | *3.0/5
-· El futuro del Cielo y de la Tierra depende de Shimmy, un inocente mono, que acaba de descubrir sus superpoderes para evitar que aquellas fuerzas demoníacas que acechan el mundo acaben con toda la creación y conduzcan al planeta a un imparable caos.
-· País: China
-· Director: Dick Zondag, Ralph Zondag</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4241021?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250712110900 +0200" stop="20250712130000 +0200" channel="M+ Vacaciones">
-    <title lang="es">La bella y la bestia (2014)</title>
-    <desc lang="es">Fantástico | No recomendado para menores de siete años | *3.5/5
-· 1810. Tras el naufragio de sus navíos, un mercader arruinado debe irse al campo con sus seis hijos. Entre ellos se encuentra la encantadora y alegre Bella. Después de un viaje agotador, el mercader descubre que están en los dominios mágicos de la Bestia.
-· País: Alemania y Francia
-· Director: Christophe Gans
-· Reparto: Vincent Cassel, Léa Seydoux, André Dussollier, Eduardo Noriega, Myriam Charleins
-· Guion: Christophe Gans,Sandra Vo-Anh
-· Música: Pierre Adenot
-· Producción: Richard Grandpierre
-· Productora: Eskwad, Pathé Entertainment, Studio Babelsberg, Pathé, TF1 Films Production</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4259463?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250712130000 +0200" stop="20250712130800 +0200" channel="M+ Vacaciones">
-    <title lang="es">Extras de Caminando entre dinosaurios. Extras de Caminando...: Últimos días (2025)</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *4.3/5
-· En este episodio, seguimos la historia de una cría de Triceratops y un T-rex adulto, que fueron dos de los últimos dinosaurios en caminar sobre la Tierra, testigos de este increíble evento, una época aún envuelta en misterio.
-· País: R.U
-· Producción: Kirsty Wilson</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4373499?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250712130800 +0200" stop="20250712135800 +0200" channel="M+ Vacaciones">
-    <title lang="es">Caminando entre dinosaurios. Caminando entre...: La huérfana Triceratops (2025)</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
-· Hace 66 millones de años, una cría de Triceratops tuvo que aprender a sobrevivir sola. Hoy, paleontólogos han descubierto sus fósiles para que podamos revivir los peligros a los que tuvo que enfrentarse, entre ellos al temible T-rex.
-· País: R.U
-· Producción: Kirsty Wilson</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4373499?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250712135800 +0200" stop="20250712140800 +0200" channel="M+ Vacaciones">
-    <title lang="es">Extras de Caminando entre dinosaurios. Extras de Caminando...: Creando al Spinosaurus (2025)</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *4.3/5
-· El Spinosaurus es un dinosaurio único, capaz de sobrevivir tanto en el agua como en la tierra. Dar vida a esta extraña criatura representó un desafío único para el equipo de BBC.
-· País: R.U
-· Producción: Kirsty Wilson</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4373499?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250712140800 +0200" stop="20250712145900 +0200" channel="M+ Vacaciones">
-    <title lang="es">Caminando entre dinosaurios. Caminando entre...: La lucha en el río del Spinosaurus (2025)</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *4.3/5
-· En el norte de África, hace cien millones de años, un padre Spinosaurus debe embarcarse en un peligroso viaje para alimentar a sus crías. Para llegar a su destino, debe guiar a su joven familia a través de uno de los entornos más mortíferos.
-· País: R.U
-· Producción: Kirsty Wilson</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4373499?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250712145900 +0200" stop="20250712163500 +0200" channel="M+ Vacaciones">
-    <title lang="es">Dragonkeeper: Guardiana de dragones (2024)</title>
-    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.1/5
-· En los tiempos oscuros, cuando los nigromantes amenazaban el mundo, humanos y dragones forjaron un poderoso vínculo que permitió derrotar a las fuerzas del mal. Poco después, el emperador, envidioso del poder de esa alianza, dio caza a los dragones...
-· País: China y España
-· Director: Salvador Simó, Li Jianping
-· Guion: Pablo Castrillo,Ignacio Ferreras,Rosanna Cecchini,Wang Xianping
-· Música: Arturo Cardelús
-· Producción: Larry Levene, Fu Ruoqing
-· Productora: Guardián de dragones, A.I.E., China Film Animation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4339986?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250712163500 +0200" stop="20250712181200 +0200" channel="M+ Vacaciones">
-    <title lang="es">Vacaciones (2015)</title>
-    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.7/5
-· Rusty Griswold, convertido en esposo y padre de dos hijos, sueña con fortalecer los vínculos familiares. Así, decide organizar para ellos las mismas vacaciones que vivió con sus padres 30 años antes: un viaje  al parque de atracciones de Walley World.
-· País: EE.UU
-· Director: John Francis Daley, Jonathan Goldstein
-· Reparto: Ed Helms, Christina Applegate, Skyler Gisondo, Steele Stebbins, Leslie Mann, Chris Hemsworth, Chevy Chase, Beverly D'Angelo
-· Guion: John Francis Daley
-· Música: Mark Mothersbaugh
-· Producción: David Dobkin, Chris Bender
-· Productora: David Dobkin Productions, New Line Cinema, Benderspink Production</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3779220?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250712181200 +0200" stop="20250712193700 +0200" channel="M+ Vacaciones">
-    <title lang="es">Un regalo para papá y mamá (2024)</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.1/5
-· Durante una cena familiar, Jen y Eric deciden contarles a sus tres hijos, que se van a separar. El anuncio es como esperaban, pero luego sucede algo extraño: el día retrocede hasta la mañana.
-· País: EE.UU
-· Director: Christian Ditter
-· Reparto: Isla Fisher, Greg Kinnear, Easton Rocket Sweda, Shay Rudolph, Mason Shea Joyce, Ryan Guzman
-· Guion: Jay Martel
-· Música: Fil Eisler
-· Producción: Stuart Ford, Linda McDonough
-· Productora: AGC Studios, Catchlight Studios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4331315?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250712193700 +0200" stop="20250712213300 +0200" channel="M+ Vacaciones">
-    <title lang="es">Shin Godzilla (2016)</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de siete años | *3.1/5
-· Godzilla, fuerza destructiva insondable para el hombre, resucita en el Tokio de hoy en día para acosar de nuevo a la civilización. Un país aún atormentado por las secuelas de un desastre natural, experimenta de repente el horror catastrófico de Godzilla.
-· País: Japón
-· Director: Hideaki Anno, Shinji Higuchi
-· Reparto: Hiroki Hasegawa, Yutaka Takenouchi, Satomi Ishihara, Ren Ôsugi, Akira Emoto, Kengo Kôra
-· Guion: Hideaki Anno
-· Música: Shiro Sagisu
-· Producción: Kazutoshi Wadakura, Yoshihiro Satô, Masaya Shibusawa, Taichi Ueda
-· Productora: Toho Company Ltd, Toho Pictures, Cine Bazar</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4338773?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250712213300 +0200" stop="20250712220000 +0200" channel="M+ Vacaciones">
-    <title lang="es">Leo talks.  Temporada (T2). Leo talks (T2): Obsesión por la salud (2023)</title>
-    <desc lang="es">Humor | No recomendado para menores de doce años | *3.0/5
-· Leo nos habla de salud. Hay que cuidarse, pero sin caer en el exceso. La gente que come pescado hervido con verduras, lleva reloj para medir sus constantes y se hace una revisión cada 15 días más que evitar el hospital, parece que quieren vivir en uno.
-· País: España
-· Presenta: Leo Harlem</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4119466?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20250712220000 +0200" stop="20250712234700 +0200" channel="M+ Vacaciones">
-    <title lang="es">Venom: el último baile (2024)</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.3/5
-· El periodista venido a menos Eddie Brock y su simbionte Venom deben permanecer juntos para subsistir. El problema es que, si lo hacen, quizá no subsista el resto de la humanidad.
-· País: EE.UU
-· Director: Kelly Marcel
-· Reparto: Tom Hardy, Chiwetel Ejiofor, Juno Temple, Rhys Ifans, Stephen Graham, Andy Serkis
-· Guion: Kelly Marcel
-· Música: Dan Deacon
-· Producción: Avi Arad, Kelly Marcel
-· Productora: Arad Productions, Marvel Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4330896?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250712234700 +0200" stop="20250713020500 +0200" channel="M+ Vacaciones">
-    <title lang="es">Wonder Woman (2017)</title>
-    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.0/5
-· En la isla de Temiscira, protegida del mundo de los hombres por el propio Zeus, las amazonas se entrenan para hacer frente al traidor Ares. Una de ellas es Diana, quien un día ve cómo un avión traspasa la protección de Zeus y se estrella junto a la isla.
-· País: China, EE.UU, Hong Kong y R.U
-· Director: Patty Jenkins
-· Reparto: Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright, Danny Huston, David Thewlis, Ewen Bremner, Elena Anaya, Saïd Taghmaoui
-· Guion: Allan Heinberg
-· Música: Rupert Gregson-Williams
-· Producción: Charles Roven, Zack Snyder, Deborah Snyder, Richard Suckle
-· Productora: DC Entertainment, Cruel &amp; Unusual Films, Atlas Entertainment, Warner Bros, RatPac-Dune Entertainment, Tencent Pictures, Wanda Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3927181?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250713020500 +0200" stop="20250713043100 +0200" channel="M+ Vacaciones">
-    <title lang="es">Wonder Woman 1984 (2020)</title>
-    <desc lang="es">Acción | No recomendado para menores de doce años | *3.2/5
-· En la década de 1980, Diana Prince trabaja como arqueóloga y antropóloga en el Smithsonian. Aunque conserva sus poderes como Wonder Woman, rara vez los utiliza y vive una vida tranquila en la que echa de menos a sus antiguos amigos, muertos hace tiempo.
-· País: EE.UU, España y R.U
-· Director: Patty Jenkins
-· Reparto: Gal Gadot, Chris Pine, Kristen Wiig, Pedro Pascal, Robin Wright, Connie Nielsen
-· Guion: Patty Jenkins,Geoff Johns,Dave Callaham
-· Música: Hans Zimmer
-· Productora: Atlas Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3905397?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250713043100 +0200" stop="20250713063700 +0200" channel="M+ Vacaciones">
-    <title lang="es">Spider-Man: Lejos de casa (2019)</title>
-    <desc lang="es">Acción | No recomendado para menores de siete años | *4.3/5
-· Peter Parker se va de viaje a Europa con sus compañeros. Pese a que tiene pensado dejar atrás su identidad de superhéroe durante las vacaciones, Nick Fury le pide ayuda cuando los elementales empiezan a sembrar el caos.
-· País: EE.UU
-· Director: Jon Watts
-· Reparto: Tom Holland, Zendaya, Samuel L. Jackson, Jake Gyllenhaal, Marisa Tomei, Jon Favreau, Cobie Smulders
-· Guion: Chris McKenna,Erik Sommers
-· Música: Michael Giacchino
-· Producción: Kevin Feige, Amy Pascal
-· Productora: Pascal Pictures, Columbia Pictures, Marvel Studios Inc</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4299862?od[]=Z1V:HBOMAX_V"/>
+  <programme start="20250716000000 +0200" stop="20250716120000 +0200" channel="M+ Wéstern">
+    <title lang="es">Próximamente Wéstern por M+</title>
+    <desc lang="es">(Información detallada no disponible)</desc>
   </programme>
   <programme start="20250713043100 +0200" stop="20250713063700 +0200" channel="M+ Vacaciones">
     <title lang="es">Spider-Man: Lejos de casa (2019)</title>
@@ -310,7 +118,7 @@
   </programme>
   <programme start="20250713141500 +0200" stop="20250713150100 +0200" channel="M+ Vacaciones">
     <title lang="es">The Americas. The Americas: México (2024)</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
+    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
 · En el desierto de Sonora, las cámaras capturan a una madre lechuza guiando a sus polluelos. En el mar de Cortés, las orcas utilizan complejas estrategias de equipo para cazar delfines, un comportamiento poco común entre estos superdepredadores.
 · País: R.U
 · Guion: Tom Hanks
@@ -320,7 +128,7 @@
   </programme>
   <programme start="20250713150100 +0200" stop="20250713163100 +0200" channel="M+ Vacaciones">
     <title lang="es">Un lío de millones (2024)</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.2/5
+    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.3/5
 · Bego y Agustín, un matrimonio jubilado, idean un arriesgado plan para reunirse con sus hijos distanciados fingiendo haber ganado la lotería y ser millonarios, esperando que así regresen a casa.
 · País: España
 · Director: Susan Béjar
@@ -647,5 +455,222 @@
 · Producción: Basil Iwanyk, Alex Proyas
 · Productora: Summit Entertainment, Pyramania, Mystery Clock Cinema, TIK Films, Thunder Road Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4201178?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715054400 +0200" stop="20250715074900 +0200" channel="M+ Vacaciones">
+    <title lang="es">Dioses de Egipto (2016)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.4/5
+· El Antiguo Egipto es gobernado por dos poderosos dioses hermanos: Osiris, rey de las fértiles tierras bañadas por el Nilo, y Set, rey del yermo desierto. Cuando Osiris decide coronar como rey a su hijo Horus, la unión de los hermanos es puesta a prueba.
+· País: Australia, EE.UU y R.U
+· Director: Alex Proyas
+· Reparto: Nikolaj Coster-Waldau, Gerard Butler, Brenton Thwaites, Geoffrey Rush, Chadwick Boseman, Élodie Yung, Courtney Eaton, Rufus Sewell, Bryan Brown
+· Guion: Matt Sazama,Burk Sharpless
+· Música: Marco Beltrami
+· Producción: Basil Iwanyk, Alex Proyas
+· Productora: Summit Entertainment, Pyramania, Mystery Clock Cinema, TIK Films, Thunder Road Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4201178?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715074900 +0200" stop="20250715080000 +0200" channel="M+ Vacaciones">
+    <title lang="es">La panadería de Boris (2023)</title>
+    <desc lang="es">Corto animación | Apto para todos los públicos | *3.0/5
+· Boris, el panadero del pueblo, ofrece pan crujiente a sus vecinos todas la mañanas, hasta que un día... ¡Estornuda! Ya no puede parar de estornudar.
+· País: Croacia, Francia y Suiza
+· Director: Maša Avramovic</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4254645?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715080000 +0200" stop="20250715093400 +0200" channel="M+ Vacaciones">
+    <title lang="es">Mazinger Z: Infinity (2017)</title>
+    <desc lang="es">Anime | No recomendado para menores de siete años | *3.5/5
+· Diez años después de que Mazinger exterminase a las fuerzas del mal, el Doctor Infierno y sus secuaces vuelven a sembrar el caos y obligan a Koji Kabuto a volver a ponerse a los mandos del Mazinger Z.
+· País: Japón
+· Director: Junji Shimizu
+· Guion: Takahiro Ozawa
+· Música: Toshiyuki Watanabe
+· Productora: Toei Animation, Toei Animation Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4098594?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715093400 +0200" stop="20250715100400 +0200" channel="M+ Vacaciones">
+    <title lang="es">Lola y el piano rompecabezas (2024)</title>
+    <desc lang="es">Corto animación | Apto para todos los públicos | *3.0/5
+· Lola, se da cuenta de la sensibilidad de su hermano a los sonidos ocultos. Junto con su amiga Rolih, deciden construir una máquina de ruidos para comunicarse con él.
+· País: Francia
+· Director: Augusto Zanovello</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4326619?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715100400 +0200" stop="20250715103000 +0200" channel="M+ Vacaciones">
+    <title lang="es">One Zoo Three. One Zoo Three: Trabajos extraños (2022)</title>
+    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
+· El verano en el zoo ha sido ajetreado y los hermanos se están poniendo al día con algunas tareas importantes. Algunos hábitats de animales sólo necesitan mejoras, otros necesitan una renovación completa.
+· País: R.U
+· Producción: Tim Duck</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4099519?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715103000 +0200" stop="20250715120300 +0200" channel="M+ Vacaciones">
+    <title lang="es">Monstruos contra alienígenas (2009)</title>
+    <desc lang="es">Animación | Apto para todos los públicos | *3.1/5
+· Una mujer es golpeada accidentalmente por un meteorito lleno de mugre espacial en el día de su boda. A partir de entonces crece misteriosamente y los militares deciden capturarla y llevarla a unas instalaciones gubernamentales secretas.
+· País: EE.UU
+· Director: Conrad Vernon, Rob Letterman
+· Guion: Maya Forbes,Rob Letterman,Jonathan Aibel,Glenn Berger,Wallace Wolodarsky
+· Música: Henry Jackman
+· Producción: Lisa Stewart
+· Productora: DreamWorks Animation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3769547?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715120300 +0200" stop="20250715132900 +0200" channel="M+ Vacaciones">
+    <title lang="es">La Patrulla Canina: la superpelícula (2023)</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.0/5
+· Cuando un meteorito mágico se estrella en Ciudad Aventura, los cachorros de la Patrulla Canina adquieren superpoderes. Sin embargo, todo se complica cuando el malvado Humdinger, amenaza con robarles sus superpoderes para convertirse en supervillano.
+· País: Canadá y EE.UU
+· Director: Cal Brunker
+· Guion: Cal Brunker,Bob Barlen
+· Música: Pinar Toprak
+· Producción: Laura Clunie, Jennifer Dodge
+· Productora: Paramount Animation, Nickelodeon Movies</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4146782?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715132900 +0200" stop="20250715141300 +0200" channel="M+ Vacaciones">
+    <title lang="es">Elsbeth.  Temporada (T1). Elsbeth (T1): Ep.7 Algo azul (2024)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de doce años | *3.1/5
+· La boda de la hija de un acaudalado asesor financiero acaba en tragedia cuando descubren el cuerpo del novio en un carrito de golf del club de campo. Por su parte Elsbeth prepara una fiesta para inaugurar su nuevo piso.
+· País: EE.UU
+· Director: Robert King
+· Reparto: Carrie Preston, Wendell Pierce, Carra Patterson, Stephen Moyer, Jane Krakowski, Linda Lavin, Retta
+· Guion: Michelle King,Robert King
+· Música: David Buckley</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4168821?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20250715141300 +0200" stop="20250715145700 +0200" channel="M+ Vacaciones">
+    <title lang="es">Elsbeth.  Temporada (T1). Elsbeth (T1): Ep.8 Genio artificial (2024)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de doce años | *3.0/5
+· Elsbeth tiene que desenmascarar a una joven directora de una innovadora aplicación de alerta de delitos que trata de crear un falso culpable ayudada por la tecnología. El capitán intenta eludir una investigación del Departamento de Justicia.
+· País: EE.UU
+· Director: Robert King
+· Reparto: Carrie Preston, Wendell Pierce, Carra Patterson, Stephen Moyer, Jane Krakowski, Linda Lavin, Retta
+· Guion: Michelle King,Robert King
+· Música: David Buckley</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4208348?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715145700 +0200" stop="20250715165900 +0200" channel="M+ Vacaciones">
+    <title lang="es">Batman y Robin (1997)</title>
+    <desc lang="es">Acción | No recomendado para menores de siete años | *3.1/5
+· Míster Frío y la perversa Hiedra Venenosa amenazan Gotham. Batman, Robin y ahora también Batgirl, deben enfrentarse a ellos.
+· País: EE.UU y R.U
+· Director: Joel Schumacher
+· Reparto: George Clooney, Chris O'Donnell, Arnold Schwarzenegger, Uma Thurman, Vivica A. Fox, Elle Macpherson
+· Guion: Akiva Goldsman
+· Música: Elliot Goldenthal
+· Producción: Peter MacGregor-Scott
+· Productora: PolyGram Filmed Entertainment, Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4023019?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715165900 +0200" stop="20250715184300 +0200" channel="M+ Vacaciones">
+    <title lang="es">Gremlins (1984)</title>
+    <desc lang="es">Fantástico | No recomendado para menores de siete años | *4.2/5
+· Un adolescente recibe un extraño animalito llamado Guizmo como regalo. Para su cuidado solo hay que seguir tres sencillas reglas... que nunca se deben saltar.
+· País: EE.UU
+· Director: Joe Dante
+· Reparto: Zach Galligan, Phoebe Cates, Hoyt Axton, Polly Holliday, Frances Lee McCain, Judge Reinhold, Dick Miller, Harry Carey Jr., Keye Luke, Corey Feldman, Scott Brady, John Louie
+· Guion: Chris Columbus
+· Música: Jerry Goldsmith
+· Producción: Michael Finnell
+· Productora: Amblin Entertainment, Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3803962?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715184300 +0200" stop="20250715202800 +0200" channel="M+ Vacaciones">
+    <title lang="es">Gremlins 2, la nueva generación (1990)</title>
+    <desc lang="es">Fantástico | Apto para todos los públicos | *3.8/5
+· La vida del pequeño Guizmo corre serio peligro cuando un ambicioso empresario intenta adquirir la tienda en la que se oculta.
+· País: EE.UU
+· Director: Chuck Jones, Joe Dante
+· Reparto: Zach Galligan, Phoebe Cates, John Glover, Robert Prosky, Robert Picardo, Christopher Lee, Haviland Morris, Dick Miller, Gedde Watanabe, Jackie Joseph
+· Guion: Charles S. Haas
+· Música: Jerry Goldsmith
+· Producción: Michael Finnell
+· Productora: Amblin Entertainment, Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3803965?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715202800 +0200" stop="20250715220000 +0200" channel="M+ Vacaciones">
+    <title lang="es">Un verano loco (1986)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *2.9/5
+· El instituto ha terminado y Hoops, un joven que sueña con ser escritor y dibujante de cómics, se marcha de vacaciones con un amigo. Éste será el inicio de un verano inolvidable.
+· País: EE.UU
+· Director: Savage Steve Holland
+· Reparto: Demi Moore, John Cusack, Joel Murray, Kristen Goelz, Linda Warren, Grenville Cuyler, Laura Waterbury
+· Guion: Savage Steve Holland
+· Música: Cory Lerios
+· Producción: Michael Jaffe</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4338510?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715220000 +0200" stop="20250715233100 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ruby, aventuras de una kraken adolescente (2023)</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.0/5
+· Ruby es una adolescente que sueña con ir al baile de graduación con el chico que le gusta. Sin embargo, todo se complica cuando descubre que pertenece a una generación de reinas guerreras kraken y que debe subir al trono para proteger el mar.
+· País: EE.UU y Japón
+· Director: Kirk DeMicco, Faryn Pearl
+· Guion: Pam Brady,Brian C. Brown,Elliott DiGuiseppi
+· Música: Stephanie Economou
+· Producción: Kelly Cooney, Rachel Zusser
+· Productora: DreamWorks Animation, Universal Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4348778?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250715233100 +0200" stop="20250716010000 +0200" channel="M+ Vacaciones">
+    <title lang="es">Harold y el lápiz mágico (2024)</title>
+    <desc lang="es">Fantástico | Especialmente recomendado para la infancia | *3.1/5
+· En el mundo animado de Harold, todo lo que dibuja con su lápiz morado se convierte en realidad. De hecho, cuando un día se dibuja a sí mismo, es el propio Harold el que cobra vida fuera de las páginas de su libro y aparece en el mundo real.
+· País: EE.UU
+· Director: Carlos Saldanha
+· Reparto: Zachary Levi, Benjamin Bottani, Lil Rel Howery, Tanya Reynolds, Zooey Deschanel, Jemaine Clement
+· Guion: David Guion,Michael Handelman
+· Música: Batu Sener
+· Producción: John Davis
+· Productora: Davis Entertainment, TSG Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4363202?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250716010000 +0200" stop="20250716023200 +0200" channel="M+ Vacaciones">
+    <title lang="es">Dilili en París (2018)</title>
+    <desc lang="es">Animación | Apto para todos los públicos | *3.1/5
+· Recién llegada desde el otro lado del mundo, la pequeña Dilili no para de maravillarse con cada rincón de París. Sus vacaciones se ponen más interesantes cuando descubre que varias niñas están siendo secuestradas. Dilili se propone resolver el misterio.
+· País: Alemania, Bélgica y Francia
+· Director: Michel Ocelot
+· Guion: Michel Ocelot
+· Música: Gabriel Yared
+· Producción: Philip Boëffard, Christophe Rossignon
+· Productora: arte France Cinéma, Mars Films, Wild Bunch, Artémis Productions, Senator Film Produktion GmbH, Mac Guff Ligne</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3769116?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250716023200 +0200" stop="20250716040800 +0200" channel="M+ Vacaciones">
+    <title lang="es">Angry Birds. La película (2016)</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.5/5
+· En una isla poblada por felices pájaros no voladores viven Red, un pájaro cuyos problemas de carácter lo llevan a ser condenado a asistir a clases de control de la ira.
+· País: EE.UU
+· Director: Clay Kaytis, Fergal Reilly
+· Guion: John Cohen,Mikael Hed,Mikko Pöllä,Jon Vitti
+· Música: Heitor Pereira
+· Producción: John Cohen, Catherine Winder
+· Productora: Rovio Entertainment, Columbia Pictures, LStar Capital, Sony Pictures Imageworks, Sony Pictures Animation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3995967?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250716040800 +0200" stop="20250716053600 +0200" channel="M+ Vacaciones">
+    <title lang="es">El gato del rabino (2011)</title>
+    <desc lang="es">Animación | Apto para todos los públicos | *3.1/5
+· En Argelia en 1920, el gato del rabino se ha comido a un periquito y ahora puede hablar. Y no piensa dejar pasar la oportunidad: se dedica a poner a prueba la moral y la fe de los humanos que le rodean discutiendo sobre sus costumbres, su religión, etc.
+· País: Francia
+· Director: Joann Sfar, Antoine Delesvaux
+· Guion: Sandrina Jardel
+· Productora: France 3 Cinéma, TF1 Droits Audiovisuels, Autochenille Production</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3596392?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250716053600 +0200" stop="20250716070500 +0200" channel="M+ Vacaciones">
+    <title lang="es">Kung Fu Panda (2008)</title>
+    <desc lang="es">Animación | Apto para todos los públicos | *3.6/5
+· Entusiasta, grande y patoso, Po es un loco del kung-fu, un pasatiempo que no encaja muy bien con su trabajo en el restaurante de tallarines de la familia. Pero el destino quiere que Po sea el escogido para cumplir con una antigua profecía...
+· País: EE.UU
+· Director: Mark Osborne, John Stevenson, Johnny Stevenson
+· Reparto: Dustin Hoffman, Ian McShane, Jackie Chan, Angelina Jolie, Jack Black, Lucy Liu
+· Guion: Jonathan Aibel,Glenn Berger,Ethan Reiff,Cyrus Voris
+· Música: John Powell, Hans Zimmer
+· Producción: Melissa Cobb
+· Productora: DreamWorks Animation, Pacific Data Images (PDI)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3903453?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
