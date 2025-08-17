@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 16/08/2025 01:26">
+<tv generator-info-name="MultiPopUps FullDesc 17/08/2025 01:44">
   <channel id="M+ Wéstern">
     <display-name>M+ Wéstern</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MWEST"/>
@@ -8,186 +8,6 @@
     <display-name>M+ Vacaciones</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVCIVA"/>
   </channel>
-  <programme start="20250816053400 +0200" stop="20250816070500 +0200" channel="M+ Wéstern">
-    <title lang="es">Sillas de montar calientes (1974)</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *2.8/5
-· Buscando que los habitantes de Rock Ridge abandonen el pueblo para poder vender sus terrenos, un avaricioso gobernador nombra como sheriff a Bart, un esclavo negro condenado a la horca por atacar a un guardia.
-· País: EE.UU
-· Director: Mel Brooks
-· Reparto: Cleavon Little, Gene Wilder, Slim Pickens, Madeleine Kahn, Harvey Korman, Mel Brooks, Jack Starrett, Alex Karras, John Hillerman, David Huddleston, George Furth, Liam Dunn
-· Guion: Andrew Bergman,Richard Pryor,Mel Brooks,Alan Uger,Norman Steinberg
-· Música: Mel Brooks, John Morris, Vernon Duke
-· Producción: Michael Hertzberg
-· Productora: Warner Bros, Crossbow Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3800785?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816070500 +0200" stop="20250816080000 +0200" channel="M+ Wéstern">
-    <title lang="es">Billy el Niño.  Temporada (T1). Billy el Niño (T1): Ep.2 Cascabel (2022)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
-· Kathleen emprende un viaje a Santa Fe con sus hijos Billy y Joe. La vida es dura, pero allí consigue un trabajo como camarera y conoce a un hombre que podría cambiarles la vida.
-· País: EE.UU
-· Director: Otto Bathurst
-· Reparto: Tom Blyth, Eileen O'Higgins, Daniel Webber, Jamie Beamish, Jonah Collier, Ryan Kennedy, Sean Owen Roberts
-· Guion: Michael Hirst
-· Música: Mark Korven
-· Productora: Epix Studios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4028838?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816080000 +0200" stop="20250816094400 +0200" channel="M+ Wéstern">
-    <title lang="es">Y en Nochebuena... ¡se armó el Belén! (1994)</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.2/5
-· Se acerca la Navidad y Maw siente nostalgia por sus dos hijos ausentes. Escribe a Travis pidiéndole que busque a su hermano.
-· País: Alemania e Italia
-· Director: Terence Hill
-· Reparto: Terence Hill, Bud Spencer, Ron Carey, Neil Summers, Anne Kasprik
-· Guion: Jess Hill
-· Música: Pino Donaggio
-· Producción: Matthias Wendlandt
-· Productora: Rialto Film</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4339259?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816094400 +0200" stop="20250816121900 +0200" channel="M+ Wéstern">
-    <title lang="es">El asesinato de Jesse James por el cobarde Robert Ford (2007)</title>
-    <desc lang="es">Oeste | No recomendado para menores de doce años | *3.3/5
-· Tras un último atraco, la banda del legendario Jesse James se disuelve, por lo que se ve forzado a contratar a gente de menos confianza. Recurre a los hermanos Ford, un clan al que pertenece el joven Robert, un tipo irritante obsesinado con Jesse.
-· País: Canadá, EE.UU y R.U
-· Director: Andrew Dominik
-· Reparto: Brad Pitt, Casey Affleck, Sam Shepard, Mary-Louise Parker, Paul Schneider, Sam Rockwell, Ted Levine, Zooey Deschanel, Jeremy Renner
-· Guion: Andrew Dominik
-· Música: Nick Cave, Warren Ellis
-· Productora: Warner Bros. Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4062051?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816121900 +0200" stop="20250816134100 +0200" channel="M+ Wéstern">
-    <title lang="es">Buffalo Kids (2024)</title>
-    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.0/5
-· Siglo XIX. Tom y Mary, dos hermanos huérfanos, desembarcan en Nueva York para reunirse con su tío que vive en California. Para llegar allí, los niños se colarán en un tren que lleva a huérfanos para ser adoptados por los pioneros del Salvaje Oeste.
-· País: España
-· Director: Pedro Solís, J.J. García Galocha `Galo´
-· Guion: Jordi Gasull,Javier López Barreira
-· Música: Fernando Velázquez
-· Producción: Jaime Ortiz de Artiñano, Toni Novella
-· Productora: Little Big Boy, A.I.E., Atresmedia Cine</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4322398?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816134100 +0200" stop="20250816153000 +0200" channel="M+ Wéstern">
-    <title lang="es">Dos hombres y un destino (1969)</title>
-    <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *3.6/5
-· Butch Cassidy y Sundance Kid asaltan los bancos de Wyoming hasta que un día, forman un trío de románticos fugitivos.
-· País: EE.UU
-· Director: George Roy Hill
-· Reparto: Paul Newman, Robert Redford, Katharine Ross, Strother Martin, Henry Jones, Jeff Corey, George Furth, Cloris Leachman
-· Guion: William Goldman
-· Música: Burt Bacharach
-· Producción: John Foreman
-· Productora: Campanile Productions, Inc., A George Roy Hill-Paul Monash Production, Newman-Foreman Company, Estudios Churubusco Azteca S.A.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4357747?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816153000 +0200" stop="20250816181800 +0200" channel="M+ Wéstern">
-    <title lang="es">El bueno, el feo y el malo (1966)</title>
-    <desc lang="es">Oeste | No recomendado para menores de doce años | *4.1/5
-· Tres pistoleros deben ayudarse para encontrar una fortuna escondida en un cementerio, pero ninguno está dispuesto a compartirla.
-· País: Alemania, España e Italia
-· Director: Sergio Leone
-· Reparto: Clint Eastwood, Lee Van Cleef, Eli Wallach, Aldo Giuffrè, Mario Brega
-· Guion: Furio Scarpelli,Agenore Inorocci,Luciano Vincenzoni,Sergio Leone
-· Música: Ennio Morricone
-· Producción: Alberto Grimaldi
-· Productora: Produzioni Europee Associati (PEA), Constantin Film Produktion GmbH, Arturo González Producciones Cinematográficas, S.A</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3670298?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816181800 +0200" stop="20250816195900 +0200" channel="M+ Wéstern">
-    <title lang="es">El sabor de la venganza (1963)</title>
-    <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *3.1/5
-· Unos forajidos intentan robar unos caballos en un rancho perdido. Cuando el dueño intenta evitar el robo, le asesinan y tratan de violar a su esposa. Ella sobrevive pero a partir de ese día dedicará su vida a alimentar el deseo de venganza en sus hijos.
-· País: España, Italia y México
-· Director: Joaquín Luis Romero Marchent, Alberto Mariscal
-· Reparto: Richard Harrison, Gloria Milland, Robert Hundar, Fernando Sancho, Carlos Romero Marchent, Gloria Osuna, Isela Vega, Helena Rojo, Rogelio Guerra, Jorge Luke, Mario Almada, Roberto Undari
-· Guion: Rafael Romero Marchent,Marcello Fondato,Joaquín Luis Romero Marchent,Alberto Mariscal,Jesús Navarro Carrión,Ricardo Garibay,Toni Sbert
-· Música: Riz Ortolani
-· Productora: Produzioni Europee Associati (PEA), Centauro Films, Cinematográfica Marte S.A</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3779261?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816195900 +0200" stop="20250816215500 +0200" channel="M+ Wéstern">
-    <title lang="es">Le llamaban Trinidad (1970)</title>
-    <desc lang="es">Oeste | Apto para todos los públicos | *3.8/5
-· Después de atravesar medio desierto, Trinidad, un tipo muy diestro con el revólver, descubre que su hermano mayor, otro granuja como él, es ahora el 'sheriff' de un pequeño pueblo. Como no tiene nada urgente que hacer, Trinidad decide quedarse.
-· País: Italia
-· Director: Enzo Barboni
-· Reparto: Terence Hill, Bud Spencer, Farley Granger, Steffen Zacharias, Dan Sturkie, Gisela Hahn, Elena Pedemonte
-· Guion: Enzo Barboni,Gene Luotto
-· Música: Franco Micalizzi
-· Producción: Donald Taylor Black, Italo Zingarelli, Joseph E Levine, Donald Taylor</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3800009?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816215500 +0200" stop="20250816220000 +0200" channel="M+ Wéstern">
-    <title lang="es">Boyero recomienda.  Temporada (T1). Boyero recomienda (T1): Boyero recomienda &quot;Los profesionales&quot; (2025)</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.0/5
-· El crítico de cine Carlos Boyero es un enamorado del western. un género mítico que sigue vivo en su memoria y mirada experta. El periodista habla de sus sensaciones al ver el largometraje &quot;Los profesionales”, de Richard Brooks (1966).
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4388008?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816220000 +0200" stop="20250817003700 +0200" channel="M+ Wéstern">
-    <title lang="es">El asesinato de Jesse James por el cobarde Robert Ford (2007)</title>
-    <desc lang="es">Oeste | No recomendado para menores de doce años | *3.3/5
-· Tras un último atraco, la banda del legendario Jesse James se disuelve, por lo que se ve forzado a contratar a gente de menos confianza. Recurre a los hermanos Ford, un clan al que pertenece el joven Robert, un tipo irritante obsesinado con Jesse.
-· País: Canadá, EE.UU y R.U
-· Director: Andrew Dominik
-· Reparto: Brad Pitt, Casey Affleck, Sam Shepard, Mary-Louise Parker, Paul Schneider, Sam Rockwell, Ted Levine, Zooey Deschanel, Jeremy Renner
-· Guion: Andrew Dominik
-· Música: Nick Cave, Warren Ellis
-· Productora: Warner Bros. Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4062051?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250817003700 +0200" stop="20250817020100 +0200" channel="M+ Wéstern">
-    <title lang="es">Solo ante el peligro (1952)</title>
-    <desc lang="es">Oeste | Apto para todos los públicos | *3.7/5
-· Kane,`sheriff'de un pequeño pueblo, acaba de contraer matrimonio. De pronto, empieza a comentarse que el malvado Frank Miller, un criminal que Kane había atrapado y llevado ante la justicia, ha salido de la cárcel y va en busca de venganza.
-· País: EE.UU
-· Director: Fred Zinnemann
-· Reparto: Gary Cooper, Thomas Mitchell, Lloyd Bridges, Katy Jurado, Grace Kelly, Harry Morgan, Lon Chaney Jr.
-· Guion: Carl Foreman
-· Música: Dimitri Tiomkin
-· Productora: Stanley Kramer Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4380652?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250817020100 +0200" stop="20250817033900 +0200" channel="M+ Wéstern">
-    <title lang="es">Old Henry (2021)</title>
-    <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *4.0/5
-· Oklahoma, 1906. Henry, un granjero viudo, vive con su hijo en una aislada granja. Tras encontrar un caballo sin jinete y con la silla manchada de sangre, Henry decide buscar a su dueño, al que descubre moribundo junto a una pistola y una bolsa de dinero.
-· País: EE.UU
-· Director: Potsy Ponciroli
-· Reparto: Tim Blake Nelson, Scott Haze, Gavin Lewis, Trace Adkins, Stephen Dorff, Max Arciniega
-· Guion: Potsy Ponciroli
-· Música: Jordan Lehning
-· Producción: Michael Hagerty, Shannon Houchins
-· Productora: Hideout Pictures, Shout! Factory, Shout! Studios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3973110?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250817033900 +0200" stop="20250817050700 +0200" channel="M+ Wéstern">
-    <title lang="es">El zorro gris (1982)</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.6/5
-· Bill Miner es un vaquero que ha estado en prisión 33 años. A su salida de la cárcel en 1901, descubre que el mundo ha cambiado mucho en todo ese tiempo que ha estado encerrado.
-· País: Canadá
-· Director: Phillip Borsos
-· Reparto: Richard Farnsworth, Ken Pogue, Wayne Robson, Jackie Burroughs, Timothy Webber
-· Guion: John Hunter
-· Productora: David Brady Productions, Mercury Pictures, The Canadian Film Development Corporation (CFDC), Famous Players</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4383250?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250817050700 +0200" stop="20250817081100 +0200" channel="M+ Wéstern">
-    <title lang="es">Wyatt Earp (1994)</title>
-    <desc lang="es">Oeste | No recomendado para menores de dieciocho años | *3.3/5
-· Wyatt Earp es miembro de una familia de granjeros de Iowa que, al no prosperar su negocio, decide participar en la Conquista del Oeste.
-· País: EE.UU
-· Director: Lawrence Kasdan
-· Reparto: Kevin Costner, Dennis Quaid, Gene Hackman, Annabeth Gish, Téa Leoni, Tom Sizemore, Mark Harmon, Isabella Rossellini, Adam Baldwin, Todd Allen, Michael Madsen, David Bair, Catherine O'Hara, David Andrews, Bill Pullman
-· Guion: Lawrence Kasdan,Dan Gordon
-· Música: James Newton Howard
-· Producción: Kevin Costner, Jim Wilson, Lawrence Kasdan
-· Productora: Warner Bros, Tig Productions, Paragon Motion Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4356246?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20250817050700 +0200" stop="20250817081100 +0200" channel="M+ Wéstern">
     <title lang="es">Wyatt Earp (1994)</title>
     <desc lang="es">Oeste | No recomendado para menores de dieciocho años | *3.3/5
@@ -545,193 +365,215 @@
 · Productora: Columbia Pictures Corporation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4092129?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250816055500 +0200" stop="20250816082500 +0200" channel="M+ Vacaciones">
-    <title lang="es">Wonder Woman 1984 (2020)</title>
-    <desc lang="es">Acción | No recomendado para menores de doce años | *3.2/5
-· En la década de 1980, Diana Prince trabaja como arqueóloga y antropóloga en el Smithsonian. Aunque conserva sus poderes como Wonder Woman, rara vez los utiliza y vive una vida tranquila en la que echa de menos a sus antiguos amigos, muertos hace tiempo.
-· País: EE.UU, España y R.U
-· Director: Patty Jenkins
-· Reparto: Gal Gadot, Chris Pine, Kristen Wiig, Pedro Pascal, Robin Wright, Connie Nielsen
-· Guion: Patty Jenkins,Geoff Johns,Dave Callaham
-· Música: Hans Zimmer
-· Productora: Atlas Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3905397?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816082500 +0200" stop="20250816090100 +0200" channel="M+ Vacaciones">
-    <title lang="es">Una guitarra en el mar (2024)</title>
-    <desc lang="es">Corto animación | Apto para todos los públicos | *3.0/5
-· Una comadreja recorre el campo con una guitarra y su pequeña maleta, para vender magníficas corbatas a los animales de la granja.
-· País: Francia
-· Director: Sophie Roze</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4284201?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816090100 +0200" stop="20250816104100 +0200" channel="M+ Vacaciones">
-    <title lang="es">Angry Birds. La película (2016)</title>
-    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.5/5
-· En una isla poblada por felices pájaros no voladores viven Red, un pájaro cuyos problemas de carácter lo llevan a ser condenado a asistir a clases de control de la ira.
+  <programme start="20250819043200 +0200" stop="20250819060300 +0200" channel="M+ Wéstern">
+    <title lang="es">El tren de las 3:10 (1957)</title>
+    <desc lang="es">Oeste | No recomendado para menores de doce años | *3.6/5
+· El jefe de unos forajidos es detenido y hay que trasladarlo para celebrar el juicio. Sólo hay un tren que llegue hasta Yuma así que su banda intentará que su jefe no suba dentro.
 · País: EE.UU
-· Director: Clay Kaytis, Fergal Reilly
-· Guion: John Cohen,Mikael Hed,Mikko Pöllä,Jon Vitti
-· Música: Heitor Pereira
-· Producción: John Cohen, Catherine Winder
-· Productora: Rovio Entertainment, Columbia Pictures, LStar Capital, Sony Pictures Imageworks, Sony Pictures Animation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3995967?od[]=Z1V:MM3_V"/>
+· Director: Delmer Daves
+· Reparto: Glenn Ford, Van Heflin, Felicia Farr, Leora Dana, Henry Jones, Richard Jaeckel, Ford Rainey
+· Guion: Elmore Leonard,Halsted Welles
+· Música: George Duning, Ned Washington
+· Productora: Columbia Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4092129?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250816104100 +0200" stop="20250816122000 +0200" channel="M+ Vacaciones">
-    <title lang="es">Angry Birds 2. La película (2019)</title>
-    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.3/5
-· Red se ha convertido en todo un héroe para los habitantes de Isla Pájaro que siguen lidiando con los cerditos verdes de la isla de enfrente. Pero el verdadero problema para ambas especies llegará con el descubrimiento de una tercera isla... ¡de hielo!
-· País: EE.UU y Finlandia
-· Director: Thurop Van Orman, John Rice
-· Guion: Jonathon E. Stewart,Eyal Podell,Peter Ackerman
-· Música: Heitor Pereira
-· Producción: John Cohen
-· Productora: Sony Pictures Animation, Rovio Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4089391?od[]=Z1V:MM3_V"/>
+  <programme start="20250819060300 +0200" stop="20250819073300 +0200" channel="M+ Wéstern">
+    <title lang="es">Los despiadados (1967)</title>
+    <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *2.9/5
+· Tras la Guerra de Secesión, un grupo de soldados de la Confederación, dirigido por el Coronel Carter recorren los caminos robando a las patrullas del ejército vencedor. Su idea es formar un nuevo ejército que restablezca el poder del Sur.
+· País: España e Italia
+· Director: Sergio Corbucci
+· Reparto: Joseph Cotten, Julián Mateos, John Ericson, Aldo Sambrell, Ángel Aranda, Norma Bengell, Al Mulock
+· Guion: Albert Band,Louis Garfinkle,Virgil C. Gerlach,José Gutiérrez Maesso,Ugo Liberatore
+· Música: Ennio Morricone
+· Producción: Albert Band
+· Productora: Enzo Barboni, Alba Cinematografica, Tecisa, PEFSA (Productores Exhibidores Films Sociedad Anónima)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4233999?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250816122000 +0200" stop="20250816135100 +0200" channel="M+ Vacaciones">
-    <title lang="es">Patrick (2023)</title>
-    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.0/5
-· Patrick, una valiente mariposa de una sola ala, se esconde en un remolque de algodoncillo junto a su mejor amigo, una oruga llamada Marty, y a Jennifer, una mariposa con vértigo. Este viaje cambiará sus vidas.
-· País: Alemania y Canadá
-· Director: Sophie Roy
-· Guion: Heidi Foss,Lienne Sawatsky,Michael Solomon
-· Música: Martin Roy
-· Producción: Marie-Claude Beauchamp, Emely Christians
-· Productora: Ulysses, CarpeDiem Film &amp; TV</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4342275"/>
-  </programme>
-  <programme start="20250816135100 +0200" stop="20250816144100 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ballenas con Steve Backshall. Ballenas con Steve...: Cazadoras (2023)</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
-· Todas las ballenas y delfines son grandes depredadores que utilizan la habilidad, el trabajo en equipo y el ingenio para atrapar a sus presas. Steve Backshall observa cómo cazan para entender qué los convierte en los principales cazadores del océano.
-· País: R.U
-· Presenta: Steve Backshall
-· Productora: SKY Studios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4153953?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250816144100 +0200" stop="20250816160600 +0200" channel="M+ Vacaciones">
-    <title lang="es">Migración. Un viaje patas arriba (2023)</title>
-    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.5/5
-· Los Mallard son una familia de patos un tanto estancada. Mientras que el padre se conforma con mantener a su familia a salvo nadando alrededor de su estanque de Nueva Inglaterra, la madre quiere enseñarles a sus hijos el mundo entero.
+  <programme start="20250819073300 +0200" stop="20250819082700 +0200" channel="M+ Wéstern">
+    <title lang="es">Billy el Niño.  Temporada (T1). Billy el Niño (T1): Ep.3 Antrim (2022)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
+· Antrim, Kathleen y los dos chicos se trasladan a Silver City con la esperanza de empezar una vida mejor lejos de sus acreedores. Billy busca trabajo y hace un nuevo amigo.
 · País: EE.UU
-· Director: Benjamin Renner, Guylo Homsy
-· Guion: Benjamin Renner,Mike White
-· Música: John Powell
-· Producción: Christopher Meledandri
-· Productora: Universal Pictures, Illumination Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4212773?od[]=Z1V:MM3_V"/>
+· Director: Rachel Leiterman
+· Reparto: Tom Blyth, Eileen O'Higgins, Daniel Webber, Jamie Beamish, Jonah Collier, Ryan Kennedy, Sean Owen Roberts
+· Guion: Michael Hirst
+· Música: Mark Korven
+· Productora: Epix Studios</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4029903?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20250816160600 +0200" stop="20250816175600 +0200" channel="M+ Vacaciones">
-    <title lang="es">Mamma Mia! (2008)</title>
-    <desc lang="es">Cine musical | Apto para todos los públicos | *3.7/5
-· Sophie, que vive junto a su madre en una isla griega, está a punto de casarse y quiere que su padre la lleve al altar. El problema es que no sabe quién es. Cuando descubre que hay tres candidatos, decide invitarlos a todos.
-· País: Alemania, EE.UU y R.U
-· Director: Phyllida Lloyd
-· Reparto: Meryl Streep, Pierce Brosnan, Colin Firth, Julie Walters, Amanda Seyfried, Stellan Skarsgård, Dominic Cooper, Christine Baranski, Rachel McDowall
-· Guion: Catherine Johnson
-· Música: Benny Andersson, Björn Ulvaeus
-· Producción: Judy Craymer, Gary Goetzman
-· Productora: Universal Pictures, Littlestar Productions, Playtone, Relativity Media</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4362919?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816175600 +0200" stop="20250816195000 +0200" channel="M+ Vacaciones">
-    <title lang="es">Mamma Mia! Una y otra vez (2018)</title>
-    <desc lang="es">Cine musical | No recomendado para menores de dieciséis años | *3.7/5
-· Sophie tiene prácticamente todo preparado para la reinauguración del hotel de la isla griega de Kalokairi que era el gran sueño de su difunta madre Donna... hasta ha preparado las invitaciones para sus tres posibles padres y para su abuela materna.
-· País: EE.UU y R.U
-· Director: Ol Parker
-· Reparto: Amanda Seyfried, Meryl Streep, Andy Garcia, Lily James, Pierce Brosnan, Jeremy Irvine, Colin Firth, Hugh Skinner, Josh Dylan, Stellan Skarsgård, Alexa Davies, Jessica Keenan Wynn, Julie Walters, Christine Baranski, Dominic Cooper, Cher
-· Guion: Ol Parker
-· Música: Anne Dudley, Björn Ulvaeus
-· Producción: Judy Craymer, Gary Goetzman
-· Productora: Universal Pictures, Legendary Entertainment, Perfect World Pictures, Littlestar Productions, Playtone</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4363022?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250816195000 +0200" stop="20250816213200 +0200" channel="M+ Vacaciones">
-    <title lang="es">Amigas para siempre (1995)</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.5/5
-· Cuatro amigas de la infancia se reúnen en 1995 y rememoran un verano de 1970, cuando intentaron reunir dinero para una casa del árbol e investigaron la muerte de Dear Johnny.
+  <programme start="20250819082700 +0200" stop="20250819095800 +0200" channel="M+ Wéstern">
+    <title lang="es">Sillas de montar calientes (1974)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *2.8/5
+· Buscando que los habitantes de Rock Ridge abandonen el pueblo para poder vender sus terrenos, un avaricioso gobernador nombra como sheriff a Bart, un esclavo negro condenado a la horca por atacar a un guardia.
 · País: EE.UU
-· Director: Lesli Linka Glatter
-· Reparto: Gaby Hoffmann, Ashleigh Aston Moore, Rita Wilson, Melanie Griffith, Christina Ricci, Demi Moore, Rosie O'Donnell, Thora Birch
-· Guion: I. Marlene King
-· Música: Cliff Eidelman
-· Producción: Suzanne Todd
-· Productora: Demi Moore</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4337739?od[]=Z1V:MM3_V"/>
+· Director: Mel Brooks
+· Reparto: Cleavon Little, Gene Wilder, Slim Pickens, Madeleine Kahn, Harvey Korman, Mel Brooks, Jack Starrett, Alex Karras, John Hillerman, David Huddleston, George Furth, Liam Dunn
+· Guion: Andrew Bergman,Richard Pryor,Mel Brooks,Alan Uger,Norman Steinberg
+· Música: Mel Brooks, John Morris, Vernon Duke
+· Producción: Michael Hertzberg
+· Productora: Warner Bros, Crossbow Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3800785?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250816213200 +0200" stop="20250816220000 +0200" channel="M+ Vacaciones">
-    <title lang="es">Leo talks.  Temporada (T3). Leo talks (T3): Fiebre por viajar (2024)</title>
-    <desc lang="es">Humor | No recomendado para menores de doce años | *3.0/5
-· Estamos viajando más de la cuenta. Y lo hacemos porque nos han metido en la cabeza que es lo mejor del mundo. Leo está atónito porque, al parecer, más de la mitad de las españolas prefiere viajar a practicar sexo. ¿En qué mundo vivimos?
+  <programme start="20250819095800 +0200" stop="20250819113700 +0200" channel="M+ Wéstern">
+    <title lang="es">El sabor de la venganza (1963)</title>
+    <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *3.1/5
+· Unos forajidos intentan robar unos caballos en un rancho perdido. Cuando el dueño intenta evitar el robo, le asesinan y tratan de violar a su esposa. Ella sobrevive pero a partir de ese día dedicará su vida a alimentar el deseo de venganza en sus hijos.
+· País: España, Italia y México
+· Director: Joaquín Luis Romero Marchent, Alberto Mariscal
+· Reparto: Richard Harrison, Gloria Milland, Robert Hundar, Fernando Sancho, Carlos Romero Marchent, Gloria Osuna, Isela Vega, Helena Rojo, Rogelio Guerra, Jorge Luke, Mario Almada, Roberto Undari
+· Guion: Rafael Romero Marchent,Marcello Fondato,Joaquín Luis Romero Marchent,Alberto Mariscal,Jesús Navarro Carrión,Ricardo Garibay,Toni Sbert
+· Música: Riz Ortolani
+· Productora: Produzioni Europee Associati (PEA), Centauro Films, Cinematográfica Marte S.A</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3779261?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819113700 +0200" stop="20250819144300 +0200" channel="M+ Wéstern">
+    <title lang="es">Wyatt Earp (1994)</title>
+    <desc lang="es">Oeste | No recomendado para menores de dieciocho años | *3.3/5
+· Wyatt Earp es miembro de una familia de granjeros de Iowa que, al no prosperar su negocio, decide participar en la Conquista del Oeste.
+· País: EE.UU
+· Director: Lawrence Kasdan
+· Reparto: Kevin Costner, Dennis Quaid, Gene Hackman, Annabeth Gish, Téa Leoni, Tom Sizemore, Mark Harmon, Isabella Rossellini, Adam Baldwin, Todd Allen, Michael Madsen, David Bair, Catherine O'Hara, David Andrews, Bill Pullman
+· Guion: Lawrence Kasdan,Dan Gordon
+· Música: James Newton Howard
+· Producción: Kevin Costner, Jim Wilson, Lawrence Kasdan
+· Productora: Warner Bros, Tig Productions, Paragon Motion Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4356246?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819144300 +0200" stop="20250819144600 +0200" channel="M+ Wéstern">
+    <title lang="es">Boyero recomienda.  Temporada (T1). Boyero recomienda (T1): Boyero recomienda &quot;La balada de Cable Hogue&quot; (2025)</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años
+· El crítico de cine Carlos Boyero es un enamorado del western. un género mítico que sigue vivo en su memoria y mirada experta. El periodista habla de sus sensaciones al ver el largometraje &quot;La balada del cable Hogue”, de Sam Peckinpah (1970).
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4388455?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819144600 +0200" stop="20250819153200 +0200" channel="M+ Wéstern">
+    <title lang="es">Billy el Niño.  Temporada (T1). Billy el Niño (T1): Ep.4 Interludio (2022)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
+· Billy huye de Silver City, pero se topa con un tal Alias que le persuade de unirse a él en un robo de ganado. Los problemas no han hecho más que empezar.
+· País: EE.UU
+· Director: Rachel Leiterman
+· Reparto: Tom Blyth, Eileen O'Higgins, Daniel Webber, Jamie Beamish, Jonah Collier, Ryan Kennedy, Sean Owen Roberts
+· Guion: Michael Hirst
+· Música: Mark Korven
+· Productora: Epix Studios</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4029903?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20250819153200 +0200" stop="20250819172000 +0200" channel="M+ Wéstern">
+    <title lang="es">Álvarez Kelly (1966)</title>
+    <desc lang="es">Oeste | No recomendado para menores de dieciocho años | *2.9/5
+· Un solitario aventurero, que trata de mantenerse al margen de la Guerra de Secesión, acepta trasladar unas reses hasta Virginia.
+· País: EE.UU
+· Director: Edward Dmytryk
+· Reparto: William Holden, Shirley Temple, Janice Rule, Richard Widmark, Patrick O'Neal, Victoria Shaw
+· Guion: Elliott Arnold,Franklin Coen
+· Música: Johnny Green
+· Producción: Sol C Siegel, Ray David
+· Productora: Columbia Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4384152?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819172000 +0200" stop="20250819172500 +0200" channel="M+ Wéstern">
+    <title lang="es">Boyero recomienda.  Temporada (T1). Boyero recomienda (T1): Boyero recomienda &quot;Solo ante el peligro&quot; (2025)</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.3/5
+· El crítico de cine Carlos Boyero es un enamorado del western. un género mítico que sigue vivo en su memoria y mirada experta. El periodista habla de sus sensaciones al ver el largometraje &quot; Solo ante el peligro”, de Fred Zinnemann (1952).
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4388000?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819172500 +0200" stop="20250819185400 +0200" channel="M+ Wéstern">
+    <title lang="es">El sabor del odio (1968)</title>
+    <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *3.1/5
+· Jim Slade, soldado nordista, es condenado a trabajos forzados por negarse a luchar. Finalizada la guerra es indultado.
+· País: España e Italia
+· Director: Umberto Lenzi
+· Reparto: Eduardo Fajardo, Julio Peña, Piero Lulli, Raf Baldassarre, Gloria Osuna, John Ireland, Peter Lee Lawrence, Víctor Israel
+· Guion: Eduardo Brochero,Vittorio Salerno,Marco Leto
+· Música: Angelo Francesco Lavagnino
+· Productora: Tritone Cinematografica, Copercines, Cooperativa Cinematográfica</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4381458?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819185400 +0200" stop="20250819203200 +0200" channel="M+ Wéstern">
+    <title lang="es">Gentleman Jo (1967)</title>
+    <desc lang="es">Oeste | No recomendado para menores de siete años | *3.5/5
+· En el pueblo fronterizo de Daglas, que está a la espera de saber si sigue como parte de los EEUU, o pasa a control de México, el pelotón que mantiene el orden en el lugar debe partir, quedándose como representante de la ley el Capitán Clay Reese.
+· País: España e Italia
+· Director: Giorgio Stegani
+· Reparto: Anthony Steffen, Eduardo Fajardo, Silvia Solar, Mariano Vidal Molina, Benito Stefanelli
+· Guion: Jaime Jesús Balcázar,Melchiade Coletti
+· Música: Bruno Nicolai
+· Producción: Franco Palaggi
+· Productora: Alvaro Mancori Produzioni Cinematografica, Balcázar Producciones Cinematográficas, Balcázar Producciones Cinematográficas S.A</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4375724?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819203200 +0200" stop="20250819220000 +0200" channel="M+ Wéstern">
+    <title lang="es">Aquí llega Condemor (el pecador de la pradera) (1996)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.2/5
+· En los años del salvaje Oeste, el pintoresco aristócrata francés Condemor y su criado mexicano, Lucas, dos cobardicas, arruinados y siempre metidos en líos, viajan sin rumbo definido por las áridas praderas americanas.
 · País: España
-· Presenta: Leo Harlem</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4233256?od[]=Z1V:MORIG3_V"/>
+· Director: Álvaro Sáenz de Heredia
+· Reparto: Chiquito de la Calzada, Bigote Arrocet, Sol Abad, Naïm Thomas, Julio Tejela, Maria José Nieto
+· Guion: Álvaro Sáenz de Heredia
+· Música: Ramón Farrán
+· Producción: Julio Parra, Sonia Vives, Álvaro Sáenz de Heredia
+· Productora: Producciones ASH Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3755834?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250816220000 +0200" stop="20250816235100 +0200" channel="M+ Vacaciones">
-    <title lang="es">Super 8 (2011)</title>
-    <desc lang="es">Thriller | No recomendado para menores de siete años | *3.9/5
-· En el verano de 1979, un grupo de amigos de un pueblecito de Ohio se dispone a hacer una película de zombis. Mientras ruedan su filme en formato Súper 8, son testigos de un catastrófico accidente de tren. Pronto descubrirán que no fue un accidente.
+  <programme start="20250819220000 +0200" stop="20250820010800 +0200" channel="M+ Wéstern">
+    <title lang="es">Wyatt Earp (1994)</title>
+    <desc lang="es">Oeste | No recomendado para menores de dieciocho años | *3.3/5
+· Wyatt Earp es miembro de una familia de granjeros de Iowa que, al no prosperar su negocio, decide participar en la Conquista del Oeste.
 · País: EE.UU
-· Director: J.J. Abrams
-· Reparto: Elle Fanning, Joel Courtney, Kyle Chandler, Riley Griffiths, Ryan Lee, Ron Eldard, Gabriel Basso, Zach Mills, Noah Emmerich, David Gallagher, Glynn Turman, Jessica Tuck, Joel McKinnon Miller, AJ Michalka
-· Guion: J.J. Abrams
-· Música: Michael Giacchino
-· Producción: Bryan Burk, Steven Spielberg
-· Productora: Paramount Pictures, Amblin Entertainment, Bad Robot, K/O Camera Toys</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3644634?od[]=Z1V:MM3_V"/>
+· Director: Lawrence Kasdan
+· Reparto: Kevin Costner, Dennis Quaid, Gene Hackman, Annabeth Gish, Téa Leoni, Tom Sizemore, Mark Harmon, Isabella Rossellini, Adam Baldwin, Todd Allen, Michael Madsen, David Bair, Catherine O'Hara, David Andrews, Bill Pullman
+· Guion: Lawrence Kasdan,Dan Gordon
+· Música: James Newton Howard
+· Producción: Kevin Costner, Jim Wilson, Lawrence Kasdan
+· Productora: Warner Bros, Tig Productions, Paragon Motion Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4356246?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250816235100 +0200" stop="20250817013700 +0200" channel="M+ Vacaciones">
-    <title lang="es">Men in Black 3 (2012)</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.5/5
-· En sus 15 años de servicio, el agente J ha visto cosas inexplicables, pero nada le produce tanta perplejidad como su compañero, el agente K. Cuando el destino del planeta y la vida de K son puestos en peligro, J tendrá que hacer un viaje al pasado.
-· País: EE.UU y Emiratos Árabes Unidos
-· Director: Barry Sonnenfeld
-· Reparto: Tommy Lee Jones, Will Smith, Josh Brolin, Jemaine Clement, Emma Thompson, Keone Young, David Rasche, Will Arnett, Michael Stuhlbarg, Alice Eve, Bill Hader, Michael Chernus, Mike Colter, Nicole Scherzinger
-· Guion: Etan Cohen
-· Música: Danny Elfman
-· Producción: Laurie MacDonald, Walter F. Parkes
-· Productora: Columbia Pictures, Amblin Entertainment, Hemisphere Media Capital</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4043249?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250817013700 +0200" stop="20250817040100 +0200" channel="M+ Vacaciones">
-    <title lang="es">Marte (The Martian) (2015)</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de siete años | *4.2/5
-· Cuando solo llevan 18 jornadas en Marte, envueltos en una violenta y peligrosa tormenta, los miembros de la tripulación del Ares III de la NASA se ven obligados a abortar su misión y abandonar el planeta.
+  <programme start="20250820010800 +0200" stop="20250820024000 +0200" channel="M+ Wéstern">
+    <title lang="es">Sillas de montar calientes (1974)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *2.8/5
+· Buscando que los habitantes de Rock Ridge abandonen el pueblo para poder vender sus terrenos, un avaricioso gobernador nombra como sheriff a Bart, un esclavo negro condenado a la horca por atacar a un guardia.
 · País: EE.UU
-· Director: Ridley Scott
-· Reparto: Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels, Michael Peña, Kate Mara, Sean Bean, Sebastian Stan, Aksel Hennie, Chiwetel Ejiofor
-· Guion: Drew Goddard
-· Música: Harry Gregson-Williams
-· Producción: Simon Kinberg, Ridley Scott, Michael Schaefer, Aditya Sood, Mark Huffam
-· Productora: Twentieth Century-Fox Film Corporation, TSG Entertainment, Scott Free Productions, Genre Films, International Traders, Kinberg Genre, Mid Atlantic Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4064161?od[]=Z1V:MM3_V"/>
+· Director: Mel Brooks
+· Reparto: Cleavon Little, Gene Wilder, Slim Pickens, Madeleine Kahn, Harvey Korman, Mel Brooks, Jack Starrett, Alex Karras, John Hillerman, David Huddleston, George Furth, Liam Dunn
+· Guion: Andrew Bergman,Richard Pryor,Mel Brooks,Alan Uger,Norman Steinberg
+· Música: Mel Brooks, John Morris, Vernon Duke
+· Producción: Michael Hertzberg
+· Productora: Warner Bros, Crossbow Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3800785?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20250817040100 +0200" stop="20250817053600 +0200" channel="M+ Vacaciones">
-    <title lang="es">Monstruos contra alienígenas (2009)</title>
-    <desc lang="es">Animación | Apto para todos los públicos | *3.1/5
-· Una mujer es golpeada accidentalmente por un meteorito lleno de mugre espacial en el día de su boda. A partir de entonces crece misteriosamente y los militares deciden capturarla y llevarla a unas instalaciones gubernamentales secretas.
+  <programme start="20250820024000 +0200" stop="20250820042000 +0200" channel="M+ Wéstern">
+    <title lang="es">El sabor de la venganza (1963)</title>
+    <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *3.1/5
+· Unos forajidos intentan robar unos caballos en un rancho perdido. Cuando el dueño intenta evitar el robo, le asesinan y tratan de violar a su esposa. Ella sobrevive pero a partir de ese día dedicará su vida a alimentar el deseo de venganza en sus hijos.
+· País: España, Italia y México
+· Director: Joaquín Luis Romero Marchent, Alberto Mariscal
+· Reparto: Richard Harrison, Gloria Milland, Robert Hundar, Fernando Sancho, Carlos Romero Marchent, Gloria Osuna, Isela Vega, Helena Rojo, Rogelio Guerra, Jorge Luke, Mario Almada, Roberto Undari
+· Guion: Rafael Romero Marchent,Marcello Fondato,Joaquín Luis Romero Marchent,Alberto Mariscal,Jesús Navarro Carrión,Ricardo Garibay,Toni Sbert
+· Música: Riz Ortolani
+· Productora: Produzioni Europee Associati (PEA), Centauro Films, Cinematográfica Marte S.A</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3779261?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250820042000 +0200" stop="20250820042400 +0200" channel="M+ Wéstern">
+    <title lang="es">Boyero recomienda.  Temporada (T1). Boyero recomienda (T1): Boyero recomienda &quot;La balada de Cable Hogue&quot; (2025)</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años
+· El crítico de cine Carlos Boyero es un enamorado del western. un género mítico que sigue vivo en su memoria y mirada experta. El periodista habla de sus sensaciones al ver el largometraje &quot;La balada del cable Hogue”, de Sam Peckinpah (1970).
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4388455?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250820042400 +0200" stop="20250820072900 +0200" channel="M+ Wéstern">
+    <title lang="es">Wyatt Earp (1994)</title>
+    <desc lang="es">Oeste | No recomendado para menores de dieciocho años | *3.3/5
+· Wyatt Earp es miembro de una familia de granjeros de Iowa que, al no prosperar su negocio, decide participar en la Conquista del Oeste.
 · País: EE.UU
-· Director: Conrad Vernon, Rob Letterman
-· Guion: Maya Forbes,Rob Letterman,Jonathan Aibel,Glenn Berger,Wallace Wolodarsky
-· Música: Henry Jackman
-· Producción: Lisa Stewart
-· Productora: DreamWorks Animation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3769547?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20250817053600 +0200" stop="20250817073600 +0200" channel="M+ Vacaciones">
-    <title lang="es">Prometheus (2012)</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.6/5
-· Una pareja de científicos cree haber encontrado una pista sobre el origen de la humanidad en la Tierra. Este hallazgo los embarca a ellos, y a un grupo de exploradores, en un viaje emocionante a los rincones más oscuros del Universo.
-· País: Alemania, EE.UU y R.U
-· Director: Ridley Scott
-· Reparto: Noomi Rapace, Michael Fassbender, Charlize Theron, Idris Elba, Guy Pearce, Logan Marshall-Green
-· Guion: Jon Spaihts,Damon Lindelof,John Spaihts
-· Música: Marc Streitenfeld
-· Producción: Ridley Scott, Walter Hill, David Giler
-· Productora: Twentieth Century Fox, Scott Free Productions, Dune Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4040802?od[]=Z1V:MM3_V"/>
+· Director: Lawrence Kasdan
+· Reparto: Kevin Costner, Dennis Quaid, Gene Hackman, Annabeth Gish, Téa Leoni, Tom Sizemore, Mark Harmon, Isabella Rossellini, Adam Baldwin, Todd Allen, Michael Madsen, David Bair, Catherine O'Hara, David Andrews, Bill Pullman
+· Guion: Lawrence Kasdan,Dan Gordon
+· Música: James Newton Howard
+· Producción: Kevin Costner, Jim Wilson, Lawrence Kasdan
+· Productora: Warner Bros, Tig Productions, Paragon Motion Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4356246?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20250817053600 +0200" stop="20250817073600 +0200" channel="M+ Vacaciones">
     <title lang="es">Prometheus (2012)</title>
@@ -1122,5 +964,179 @@
 · Producción: Charles Roven, Zack Snyder, Deborah Snyder, Richard Suckle
 · Productora: DC Entertainment, Cruel &amp; Unusual Films, Atlas Entertainment, Warner Bros, RatPac-Dune Entertainment, Tencent Pictures, Wanda Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3927181?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819054000 +0200" stop="20250819080000 +0200" channel="M+ Vacaciones">
+    <title lang="es">Wonder Woman (2017)</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.0/5
+· En la isla de Temiscira, protegida del mundo de los hombres por el propio Zeus, las amazonas se entrenan para hacer frente al traidor Ares. Una de ellas es Diana, quien un día ve cómo un avión traspasa la protección de Zeus y se estrella junto a la isla.
+· País: China, EE.UU, Hong Kong y R.U
+· Director: Patty Jenkins
+· Reparto: Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright, Danny Huston, David Thewlis, Ewen Bremner, Elena Anaya, Saïd Taghmaoui
+· Guion: Allan Heinberg
+· Música: Rupert Gregson-Williams
+· Producción: Charles Roven, Zack Snyder, Deborah Snyder, Richard Suckle
+· Productora: DC Entertainment, Cruel &amp; Unusual Films, Atlas Entertainment, Warner Bros, RatPac-Dune Entertainment, Tencent Pictures, Wanda Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3927181?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819080000 +0200" stop="20250819083500 +0200" channel="M+ Vacaciones">
+    <title lang="es">Una guitarra en el mar (2024)</title>
+    <desc lang="es">Corto animación | Apto para todos los públicos | *3.0/5
+· Una comadreja recorre el campo con una guitarra y su pequeña maleta, para vender magníficas corbatas a los animales de la granja.
+· País: Francia
+· Director: Sophie Roze</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4284201?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819083500 +0200" stop="20250819100400 +0200" channel="M+ Vacaciones">
+    <title lang="es">Top Secret (1984)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.6/5
+· La famosa estrella estadounidense de 'rock' Nick Rivers llega a Alemania Oriental para promocionarse en un festival de música que los dirigentes alemanes han decidido organizar para distraer la atención del mundo exterior.
+· País: EE.UU y R.U
+· Director: Jim Abrahams, David Zucker, Jerry Zucker
+· Reparto: Val Kilmer, Lucy Gutteridge, Omar Sharif, Christopher Villiers, Michael Gough, Peter Cushing
+· Guion: Jerry Zucker,David Zucker,Jim Abrahams,Martyn Burke
+· Música: Maurice Jarre
+· Producción: Jon Davison, Hunt Lowry, Jim Abrahams, Jerry Zucker, David Zucker, Tom Jacobson
+· Productora: Paramount Pictures, Kingsmere Prod., Kingsmere Properties</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3924017?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819100400 +0200" stop="20250819102900 +0200" channel="M+ Vacaciones">
+    <title lang="es">One Zoo Three. One Zoo Three: Sonrisas sensacionales (2022)</title>
+    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
+· Comienza un nuevo día y Cam está intentando sacarle la foto perfecta a su familia para el nuevo cartel del zoo. Para lucir una sonrisa perfecta, los animales también tienen que cuidarse la boca. Hoy la cosa va de dientes en el One, Zoo, Three.
+· País: R.U
+· Producción: Tim Duck</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4107930?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20250819102900 +0200" stop="20250819124500 +0200" channel="M+ Vacaciones">
+    <title lang="es">Robin Hood (2010)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de doce años | *3.7/5
+· Al morir Ricardo Corazón de León, el experto arquero Robin Hood vuelve a su ciudad, Nottingham, aplastada bajo la tiranía de un 'sheriff' despótico. Allí se enamora de lady Marion, que duda de la identidad y de las motivaciones de este hombre del bosque.
+· País: EE.UU y R.U
+· Director: Ridley Scott
+· Reparto: Russell Crowe, Cate Blanchett, Max von Sydow, William Hurt, Mark Strong, Mark Addy, Oscar Isaac, Danny Huston, Eileen Atkins
+· Guion: Brian Helgeland,Ethan Reiff,Cyrus Voris
+· Música: Marc Streitenfeld
+· Producción: Brian Grazer, Ridley Scott, Russell Crowe
+· Productora: Universal Pictures, Imagine Entertainment, Relativity Media</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3749158?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819124500 +0200" stop="20250819142600 +0200" channel="M+ Vacaciones">
+    <title lang="es">Los futbolísimos (2018)</title>
+    <desc lang="es">Comedia | Especialmente recomendado para la infancia | *3.8/5
+· Paco (alias 'Pakete' por su 'afición' a fallar penaltis) tiene 11 años, juega en el Sotoalto Fútbol Club y vive en un pueblo donde nunca ha pasado nada... hasta ahora.
+· País: España
+· Director: Miguel Ángel Lamata
+· Reparto: Joaquín Reyes, Carmen Ruiz, Toni Acosta, Antonio Pagudo, Norma Ruiz, Julio Bohigas-Couto, Milene Mayer, Marcos Milara, Iker Castiñeira, Samantha Jaramillo, Roberto Rodríguez, Martina Cabrera, Daniel Crego, Jorge Usón, Gerald B. Fillmore
+· Guion: Roberto Santiago,Pablo Fernández Vázquez,Miguel Ángel Lamata,Álvaro Ron
+· Música: Fernando Velázquez
+· Producción: Fernando de Miguel, Gustavo Ferrada, Mercedes Gamero, Mikel Lejarza, José Alberto Sánchez
+· Productora: Atresmedia Cine, Chester Producciones, Wandermoon, Los futbolísimos</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3637283?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819142600 +0200" stop="20250819151300 +0200" channel="M+ Vacaciones">
+    <title lang="es">Agatha Christie: Matar es fácil.  Temporada (T1). Agatha Christie:... (T1): Ep.2  (2023)</title>
+    <desc lang="es">Policíaca | No recomendado para menores de doce años | *3.3/5
+· Los habitantes de Wychwood se ven afectados por una nueva muerte. El descubrimiento de una nueva prueba coge por sorpresa a Fitzwilliam y le hace plantearse en quién pone su confianza.
+· País: R.U
+· Director: Meenu Gaur
+· Reparto: David Jonsson, Morfydd Clark, Mathew Baynton, Penelope Wilton, Mark Bonnar, Nimra Bucha, Sinéad Matthews
+· Guion: Sian Ejiwunmi-Le Berre</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4200809?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20250819151300 +0200" stop="20250819174200 +0200" channel="M+ Vacaciones">
+    <title lang="es">Le Mans '66 (2019)</title>
+    <desc lang="es">Drama | No recomendado para menores de siete años | *4.1/5
+· Tras ganar las 24 horas de Le Mans en 1959, el piloto Carroll Shelby se ve obligado a retirarse por problemas de salud. Reconvertido en diseñador y vendedor de coches, Carroll, junto al huraño Ken Miles, se embarcará en una aventura que hizo historia.
+· País: EE.UU
+· Director: James Mangold
+· Reparto: Matt Damon, Christian Bale, Jon Bernthal, Caitriona Balfe, Tracy Letts, Josh Lucas, Noah Jupe, Ray McKinnon
+· Guion: Jez Butterworth,John-Henry Butterworth,Jason Keller
+· Música: Marco Beltrami, Buck Sanders
+· Producción: James Mangold, Jenno Topping, Peter Chernin
+· Productora: Chernin Entertainment, TSG Entertainment, Turnpike Films, Twentieth Century Fox</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3809406?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819174200 +0200" stop="20250819200700 +0200" channel="M+ Vacaciones">
+    <title lang="es">War Horse (Caballo de batalla) (2011)</title>
+    <desc lang="es">Bélico | No recomendado para menores de siete años | *3.3/5
+· A las puertas de la Primera Guerra Mundial, una familia inglesa de granjeros compra a Joey, un fogoso potro del que su hijo Albert se hace inseparable. Cuando la guerra estalla, Joey es vendido a la caballería inglesa para luchar en el frente.
+· País: EE.UU e India
+· Director: Steven Spielberg
+· Reparto: Jeremy Irvine, Emily Watson, Peter Mullan, David Thewlis, Niels Arestrup, Benedict Cumberbatch, Tom Hiddleston
+· Guion: Richard Curtis,Lee Hall,Michael Morpurgo
+· Productora: Amblin Entertainment, DreamWorks SKG, The Kennedy/Marshall Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4062498?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819200700 +0200" stop="20250819220000 +0200" channel="M+ Vacaciones">
+    <title lang="es">El teorema de Marguerite (2023)</title>
+    <desc lang="es">Drama | No recomendado para menores de siete años | *3.9/5
+· En el último año de su doctorado, una genio de las matemáticas parece tenerlo todo bajo control para la exposición de su tesis. Pero, un día, su director de tesis la traiciona y la traición lleva al error y el error lleva a abandonarlo todo.
+· País: Francia y Suiza
+· Director: Anna Novion
+· Reparto: Ella Rumpf, Jean-Pierre Darroussin, Clotilde Courau, Julien Frison, Sonia Bonny
+· Guion: Anna Novion,Mathieu Robin
+· Música: Pascal Bideau
+· Producción: Miléna Poylo, Gilles Sacuto
+· Productora: TS Productions, France 2 Cinéma</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4347787?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819220000 +0200" stop="20250819233800 +0200" channel="M+ Vacaciones">
+    <title lang="es">Peter Rabbit (2018)</title>
+    <desc lang="es">Comedia | Especialmente recomendado para la infancia | *3.3/5
+· El travieso conejo Peter lleva años colándose en el huerto del viejo e irascible McGregor para robar comida del huerto. Cuando el anciano muere, Peter, su familia y amigos piensan que todos sus males han acabado... hasta que llega el heredero McGregor.
+· País: Australia y EE.UU
+· Director: Will Gluck
+· Reparto: Domhnall Gleeson, Rose Byrne
+· Guion: Rob Lieber,Will Gluck
+· Música: Dominic Lewis
+· Productora: Olive Bridge Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4069801?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250819233800 +0200" stop="20250820001500 +0200" channel="M+ Vacaciones">
+    <title lang="es">Una guitarra en el mar (2024)</title>
+    <desc lang="es">Corto animación | Apto para todos los públicos | *3.0/5
+· Una comadreja recorre el campo con una guitarra y su pequeña maleta, para vender magníficas corbatas a los animales de la granja.
+· País: Francia
+· Director: Sophie Roze</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4284201?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250820001500 +0200" stop="20250820022200 +0200" channel="M+ Vacaciones">
+    <title lang="es">The Upside (2017)</title>
+    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.4/5
+· `Remake norteamericano del gran éxito del cine francés &quot;Intocable&quot; (2011), que aborda la relación que se desarrolla entre un parapléjico y un desempleado con antecedentes criminales que es contratado como asistente personal para ayudarle en el día a día
+· País: EE.UU
+· Director: Neil Burger
+· Reparto: Bryan Cranston, Kevin Hart, Nicole Kidman, Aja Naomi King, Jahi Di'Allo Winston
+· Guion: John Hartmere
+· Música: Rob Simonsen
+· Producción: Todd Black, Jason Blumenthal
+· Productora: Escape Artists</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3703767?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250820022200 +0200" stop="20250820042400 +0200" channel="M+ Vacaciones">
+    <title lang="es">El becario (2015)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.8/5
+· En esta tierna y divertida comedia, el gran Robert De Niro da vida al 'becario sénior' de un exitoso negocio de moda 'online' fundado y dirigido por la joven, entusiasta e hiperactiva Jules Ostin (Anne Hathaway).
+· País: EE.UU
+· Director: Nancy Meyers
+· Reparto: Robert De Niro, Anne Hathaway, Rene Russo, Anders Holm, JoJo Kushner, Andrew Rannells, Linda Lavin, Zack Pearlman, Adam DeVine, Nat Wolff, Drena De Niro
+· Guion: Nancy Meyers
+· Música: Theodore Shapiro
+· Producción: Nancy Meyers, Suzanne McNeill Farwell
+· Productora: Waverly Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3777668?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20250820042400 +0200" stop="20250820060600 +0200" channel="M+ Vacaciones">
+    <title lang="es">Hunt for the Wilderpeople (A la caza de los ñumanos) (2016)</title>
+    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.7/5
+· Ricky Baker, un problemático huérfano que no termina de encajar en ninguna casa de acogida, es adoptado por Bella y Hec, una pareja que vive en una remota granja de Nueva Zelanda.
+· País: Nueva Zelanda
+· Director: Taika Waititi
+· Reparto: Sam Neill, Julian Dennison, Rima Te Wiata, Rachel House, Tioreore Ngatai-Melbourne, Oscar Kightley, Stan Walker
+· Guion: Taika Waititi
+· Música: Lukasz Pawel Buda, Samuel Scott, Conrad Wedde
+· Producción: Carthew Neal, Matt Noonan
+· Productora: Riki Films, Defender Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4071764?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
