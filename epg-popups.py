@@ -66,46 +66,105 @@ def formatear_fecha_xmltv(fecha_iso):
 
 def obtener_programacion_movistar(url, canal_nombre_target):
     print(f"INFO: Obteniendo programación para '{canal_nombre_target}' desde {url}")
-    programas = []; program_details_from_html = {}
+    programas = []
     try:
-        headers = {'User-Agent': 'Mozilla/5.0'}; response = requests.get(url, headers=headers, timeout=15); response.raise_for_status()
+        # Extraer la fecha de la URL para construir las fechas completas
+        date_match = re.search(r'/(\d{4}-\d{2}-\d{2})$', url)
+        if not date_match:
+            print(f"ERROR: No se pudo extraer la fecha de la URL: {url}")
+            return []
+        current_date_str = date_match.group(1)
+        current_date_obj = datetime.strptime(current_date_str, '%Y-%m-%d').date()
+
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        response = requests.get(url, headers=headers, timeout=15)
+        response.raise_for_status()
         soup = BeautifulSoup(response.text, 'lxml')
-        program_blocks = soup.find_all('div', class_=lambda x: x and 'container_box' in x.split())
+
+        # 1. Encontrar todos los bloques de programas por su clase 'container_box'
+        # Usamos una función lambda para que coincida aunque tenga más clases (ej. "container_box g_CN")
+        program_blocks = soup.find_all('div', class_=lambda c: c and 'container_box' in c.split())
+        
+        if not program_blocks:
+            print(f"ADVERTENCIA: No se encontró ningún bloque 'container_box' para '{canal_nombre_target}'.")
+            return []
+
+        # 2. Extraer la información "en bruto" de cada bloque
+        parsed_items = []
         for block in program_blocks:
-            link_tag = block.find('a', href=True); title_tag = block.find('li', class_='title'); time_tag = block.find('li', class_='time')
+            link_tag = block.find('a', href=True)
+            title_tag = block.find('li', class_='title')
+            time_tag = block.find('li', class_='time')
+
             if link_tag and title_tag and time_tag:
-                detail_url = link_tag['href']
-                if detail_url.startswith('/'): detail_url = f"https://www.movistarplus.es{detail_url}"
-                title = title_tag.get_text(strip=True); time_str = time_tag.get_text(strip=True); norm_title = ' '.join(title.lower().split())
-                program_details_from_html[(time_str, norm_title)] = detail_url
-        scripts_jsonld = soup.find_all('script', type='application/ld+json')
-        if not scripts_jsonld: return []
-        for script in scripts_jsonld:
-            try:
-                data = json.loads(script.string); item_list = []
-                if isinstance(data, dict) and 'itemListElement' in data: item_list = data['itemListElement']
-                elif isinstance(data, list): item_list = data
-                for item_data in item_list:
-                    item = item_data.get("item", item_data)
-                    if item.get("@type") == "BroadcastEvent":
-                        nombre_programa = item.get("name"); fecha_inicio_iso = item.get("startDate"); fecha_fin_iso = item.get("endDate")
-                        servicio_emision = item.get("publishedOn"); nombre_canal_json = servicio_emision.get("name") if isinstance(servicio_emision, dict) else None
-                        if nombre_programa and fecha_inicio_iso and fecha_fin_iso and nombre_canal_json == canal_nombre_target:
-                            fecha_inicio_xmltv = formatear_fecha_xmltv(fecha_inicio_iso); fecha_fin_xmltv = formatear_fecha_xmltv(fecha_fin_iso)
-                            if fecha_inicio_xmltv and fecha_fin_xmltv:
-                                detail_url_found = None
-                                try:
-                                    dt_start_utc = datetime.fromisoformat(fecha_inicio_iso.replace('Z', '+00:00'))
-                                    dt_start_local = dt_start_utc.astimezone(LOCAL_TIMEZONE)
-                                    time_str_local = dt_start_local.strftime("%H:%M"); norm_title_json = ' '.join(nombre_programa.lower().split())
-                                    if (time_str_local, norm_title_json) in program_details_from_html:
-                                        detail_url_found = program_details_from_html[(time_str_local, norm_title_json)]
-                                except Exception: pass
-                                programas.append({"original_titulo": nombre_programa, "inicio": fecha_inicio_xmltv, "fin": fecha_fin_xmltv, "canal_nombre": nombre_canal_json, "detail_url": detail_url_found})
-            except Exception: continue
-        print(f"INFO: Programación JSON para '{canal_nombre_target}'. Total: {len(programas)}")
+                hora_inicio_str = time_tag.get_text(strip=True)  # "05:43"
+                titulo = title_tag.get_text(strip=True)
+                detail_url = link_tag.get('href', '')
+                if detail_url.startswith('/'):
+                    detail_url = f"https://www.movistarplus.es{detail_url}"
+
+                # Construir el objeto datetime de inicio con la fecha y la zona horaria
+                try:
+                    hora, minuto = map(int, hora_inicio_str.split(':'))
+                    dt_start = LOCAL_TIMEZONE.localize(datetime.combine(current_date_obj, datetime.min.time())).replace(hour=hora, minute=minuto)
+                    
+                    # Si el programa empieza de madrugada (ej. 00:00 a 06:00), es probable que pertenezca al día siguiente 
+                    # en el contexto de la parrilla del día anterior. Hay que manejar esto si causa problemas,
+                    # pero por ahora lo dejamos así ya que la web los lista en el día correcto.
+
+                    parsed_items.append({
+                        "original_titulo": titulo,
+                        "dt_start": dt_start,
+                        "canal_nombre": canal_nombre_target,
+                        "detail_url": detail_url
+                    })
+                except ValueError:
+                    print(f"ADVERTENCIA: Formato de hora inesperado '{hora_inicio_str}' para '{titulo}'.")
+                    continue
+        
+        if not parsed_items:
+            print(f"INFO: No se encontraron items de programa parseables para '{canal_nombre_target}'.")
+            return []
+
+        # 3. Deducir la hora de fin a partir del inicio del siguiente programa
+        for i, prog in enumerate(parsed_items):
+            dt_end = None
+            if i + 1 < len(parsed_items):
+                # La hora de fin es la hora de inicio del siguiente programa
+                dt_end = parsed_items[i+1]['dt_start']
+                
+                # Comprobación por si el siguiente programa es del día siguiente (la parrilla cruza la medianoche)
+                if dt_end < prog['dt_start']:
+                    dt_end += timedelta(days=1)
+
+            else:
+                # Es el último programa listado. No podemos saber el fin. Lo omitimos para no tener datos incorrectos.
+                print(f"ADVERTENCIA: No se puede determinar la hora de fin para el último programa del día: '{prog['original_titulo']}'. Se omitirá.")
+                continue
+
+            # Formatear fechas a XMLTV
+            fecha_inicio_xmltv = prog['dt_start'].strftime("%Y%m%d%H%M%S %z")
+            fecha_fin_xmltv = dt_end.strftime("%Y%m%d%H%M%S %z")
+
+            programas.append({
+                "original_titulo": prog['original_titulo'],
+                "inicio": fecha_inicio_xmltv,
+                "fin": fecha_fin_xmltv,
+                "canal_nombre": prog['canal_nombre'],
+                "detail_url": prog['detail_url']
+            })
+
+        print(f"INFO: Programación extraída para '{canal_nombre_target}'. Total: {len(programas)}")
         return programas
-    except Exception as e: print(f"ERROR en Programación URL {url}: {e}"); return []
+
+    except requests.exceptions.RequestException as e:
+        print(f"ERROR en Programación URL {url}: {e}")
+        return []
+    except Exception as e:
+        import traceback
+        print(f"ERROR inesperado procesando programación para '{canal_nombre_target}': {e}")
+        traceback.print_exc()
+        return []
 
 def prettify_xml(elem):
     rough_string = ET.tostring(elem, 'utf-8'); reparsed = minidom.parseString(rough_string)
@@ -437,3 +496,4 @@ if __name__ == "__main__":
 
     end_time_global = time.time()
     print(f"--- Proceso finalizado en {end_time_global - start_time_global:.2f} segundos ---")
+
