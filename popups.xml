@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 27/09/2025 01:17">
+<tv generator-info-name="MultiPopUps FullDesc 28/09/2025 01:27">
   <channel id="M+ Cómic">
     <display-name>M+ Cómic</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCOMIC"/>
@@ -8,172 +8,6 @@
     <display-name>M+ San Sebastián</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MSANSE"/>
   </channel>
-  <programme start="20250927041300 +0200" stop="20250927063800 +0200" channel="M+ Cómic">
-    <title lang="es">Wonder Woman 1984 (2020)</title>
-    <desc lang="es">Acción | No recomendado para menores de doce años | *3.2/5
-· En la década de 1980, Diana Prince trabaja como arqueóloga y antropóloga en el Smithsonian. Aunque conserva sus poderes como Wonder Woman, rara vez los utiliza y vive una vida tranquila en la que echa de menos a sus antiguos amigos, muertos hace tiempo.
-· País: EE.UU, España y R.U
-· Director: Patty Jenkins
-· Reparto: Gal Gadot, Chris Pine, Kristen Wiig, Pedro Pascal, Robin Wright, Connie Nielsen
-· Guion: Patty Jenkins,Geoff Johns,Dave Callaham
-· Música: Hans Zimmer
-· Productora: Atlas Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3905397?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927063800 +0200" stop="20250927075000 +0200" channel="M+ Cómic">
-    <title lang="es">Doctor Mordrid (1992)</title>
-    <desc lang="es">Fantástico | No recomendado para menores de doce años | *3.0/5
-· La misión en la Tierra del poderoso hechicero Doctor Mordrid es estar preparado para el letal ataque del Señor de la Muerte… y acaban de producirse las primeras señales de su llegada.
-· País: EE.UU
-· Director: Albert Band, Charles Band
-· Reparto: Jeffrey Combs, Brian Thompson, Yvette Nipar, Keith Coulouris, Jay Acovone
-· Guion: Charles Band,C. Courtney Joyner
-· Música: Richard Band
-· Producción: Charles Band
-· Productora: Full Moon Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4207363?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927075000 +0200" stop="20250927092400 +0200" channel="M+ Cómic">
-    <title lang="es">Shin Chan: el superhéroe (2023)</title>
-    <desc lang="es">Anime | No recomendado para menores de siete años | *3.7/5
-· Shin Chan está jugando tranquilamente en casa cuando una misteriosa luz cae del cielo y le concede extraños superpoderes sin que él lo sepa. Al mismo tiempo, una luz oscura alcanza a un chico algo gafe.
-· País: Japón
-· Director: Hitoshi Ône
-· Guion: Hitoshi Ône,Yoshito Usui
-· Música: Taisei Iwasaki
-· Producción: Takanobu Sano
-· Productora: ADK, Futabasha, Shin Ei Animation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4375716?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927092400 +0200" stop="20250927100800 +0200" channel="M+ Cómic">
-    <title lang="es">Essex County.  Temporada (T1). Essex County (T1): Ep.5  (2023)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
-· Anne visita a su hija en la universidad y en su interior se reavivan viejas ambiciones. Ken recibe noticias que hacen que el futuro parezca más estable. Lester se da cuenta de que no está solo en su dolor, y Lou busca la paz.
-· País: Canadá
-· Director: Andrew Cividino, Jeff Lemire
-· Reparto: Molly Parker, Finlay Wojtak-Hissong, Stephen McHattie, Kevin Durand, Brian J. Smith</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4296866?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927100800 +0200" stop="20250927120600 +0200" channel="M+ Cómic">
-    <title lang="es">Gundala (2019)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.0/5
-· Gundala, el notable superhéroe de cómic de Indonesia y su alter ego Sancaka ingresan al universo cinematográfico para luchar contra el malvado Pengkor y su escuadrón.
-· País: Indonesia
-· Director: Joko Anwar
-· Reparto: Abimana Aryasatya, Tara Basro, Bront Palarae, Ario Bayu, Marissa Anita
-· Guion: Joko Anwar
-· Productora: Screenplay Films, Bumilangit Studios, Legacy Pictures, Ideosource Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4280661?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927120600 +0200" stop="20250927130100 +0200" channel="M+ Cómic">
-    <title lang="es">De Rubén a Rubius. El viaje de un Virtual Hero (2018)</title>
-    <desc lang="es">Tendencias | No recomendado para menores de doce años | *3.6/5
-· Cuando un YouTuber con 31 millones de suscriptores dice que va a hacer una serie anime, crea una gran expectación pero ¿cómo se pasa de ser un YouTuber que sube vídeos desde su habitación a conseguir ser el Virtual Hero de tu propio anime?
-· País: España
-· Director: Luis Álvarez Sanz
-· Guion: Felipe Jiménez Luna,Raquel Soto
-· Productora: Movistar+</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3590747?od[]=Z1H:MORIG3_H"/>
-  </programme>
-  <programme start="20250927130100 +0200" stop="20250927152000 +0200" channel="M+ Cómic">
-    <title lang="es">El hombre de acero (2013)</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *3.8/5
-· Nacido como Kal-El en Krypton y criado como Clark Kent en la Tierra, descubre de niño que tiene poderes extraordinarios y que viene de otro planeta. Años después, cuando unos kriptonianos pretenden invadir la Tierra, debe elegir entre los dos mundos.
-· País: EE.UU y R.U
-· Director: Zack Snyder
-· Reparto: Henry Cavill, Amy Adams, Michael Shannon, Kevin Costner, Diane Lane, Russell Crowe, Laurence Fishburne
-· Guion: David S. Goyer,Christopher Nolan
-· Música: Hans Zimmer
-· Productora: Warner Bros, Legendary Pictures, Syncopy</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3806574?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927152000 +0200" stop="20250927175000 +0200" channel="M+ Cómic">
-    <title lang="es">Batman v Superman: El amanecer de la justicia (2016)</title>
-    <desc lang="es">Acción | No recomendado para menores de doce años | *3.5/5
-· Ante el temor de que las acciones de Superman queden sin control, Batman aparece en escena para mantener a raya al defensor de Metrópolis. Mientras, el mundo debate qué tipo de héroe necesita.
-· País: EE.UU
-· Director: Zack Snyder
-· Reparto: Ben Affleck, Henry Cavill, Amy Adams, Diane Lane, Jeremy Irons, Jesse Eisenberg, Laurence Fishburne
-· Guion: Chris Terrio,David S. Goyer
-· Música: Junkie XL, Hans Zimmer
-· Producción: Charles Roven, Deborah Snyder
-· Productora: DC Comics, DC Entertainment, Warner Bros. Pictures, RatPac-Dune Entertainment, Atlas Entertainment, Cruel &amp; Unusual Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3820574?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927175000 +0200" stop="20250927195500 +0200" channel="M+ Cómic">
-    <title lang="es">Batman (1989)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *4.0/5
-· Un millonario se dedica a combatir el crimen en la corrupta y peligrosa ciudad de Gotham ataviado con un traje de murciélago.
-· País: EE.UU
-· Director: Tim Burton
-· Reparto: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl, Pat Hingle, Billy Dee Williams, Jack Palance, Jerry Hall
-· Guion: Warren Skaaren,Sam Hamm
-· Música: Danny Elfman
-· Producción: Peter Guber, Jon Peters
-· Productora: PolyGram Filmed Entertainment, Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3885201?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927195500 +0200" stop="20250927220000 +0200" channel="M+ Cómic">
-    <title lang="es">Batman vuelve (1992)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.7/5
-· Batman debe defender una vez más la ciudad de Gotham del acoso de &quot;El pingüino&quot;, un malvado que pretende someterla a su tiranía.
-· País: EE.UU y R.U
-· Director: Tim Burton
-· Reparto: Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken, Michael Murphy, Pat Hingle, Michael Gough, John Strong, Jan Hooks, Rick Zumwalt, Vincent Schiavelli
-· Guion: Bob Kane,Daniel Waters,Sam Hamm
-· Música: Danny Elfman
-· Producción: Tim Burton, Denise Di Novi
-· Productora: PolyGram Filmed Entertainment, Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4023023?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927220000 +0200" stop="20250928000000 +0200" channel="M+ Cómic">
-    <title lang="es">Batman Forever (1995)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.2/5
-· Batman sigue combatiendo el crimen en Gotham. Ahora, con la ayuda de Robin, se enfrenta a los malvados &quot;Dos caras&quot; y &quot;El enigma&quot;.
-· País: EE.UU
-· Director: Joel Schumacher
-· Reparto: Val Kilmer, Tommy Lee Jones, Jim Carrey, Nicole Kidman, Chris O'Donnell, Michael Gough, Pat Hingle, Drew Barrymore
-· Guion: Akiva Goldsman,Lee Batchler,Janet Scott Batchler
-· Música: Elliot Goldenthal
-· Producción: Tim Burton
-· Productora: Warner Bros, PolyGram Filmed Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4023015?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927000000 +0200" stop="20250927020200 +0200" channel="M+ Cómic">
-    <title lang="es">Batman y Robin (1997)</title>
-    <desc lang="es">Acción | No recomendado para menores de siete años | *3.1/5
-· Míster Frío y la perversa Hiedra Venenosa amenazan Gotham. Batman, Robin y ahora también Batgirl, deben enfrentarse a ellos.
-· País: EE.UU y R.U
-· Director: Joel Schumacher
-· Reparto: George Clooney, Chris O'Donnell, Arnold Schwarzenegger, Uma Thurman, Vivica A. Fox, Elle Macpherson
-· Guion: Akiva Goldsman
-· Música: Elliot Goldenthal
-· Producción: Peter MacGregor-Scott
-· Productora: PolyGram Filmed Entertainment, Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4023019?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927020200 +0200" stop="20250927031800 +0200" channel="M+ Cómic">
-    <title lang="es">Batman: la máscara del fantasma (1993)</title>
-    <desc lang="es">Animación | Apto para todos los públicos | *3.2/5
-· Bruce Wayne (alter ego de Batman) está, por error, implicado en los asesinatos de los jefes de la mafia de Gotham City.
-· País: EE.UU
-· Director: Eric Radowski, Bruce W. Timm, Eric Radomski
-· Reparto: Kevin Conroy, Dana Delany
-· Guion: Bruce Timm,Eric Radomski</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4367916?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927031800 +0200" stop="20250927050500 +0200" channel="M+ Cómic">
-    <title lang="es">Wanted (Se busca) (2008)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.4/5
-· Wes tiene 25 años y es el zángano más desencantado y aburrido que habita en el planeta. Su jefe se mete con él sin parar, su novia no le hace caso y su vida carece de alicientes. Pero todo cambia cuando conoce a una mujer 'sexy' y letal llamada Fox.
-· País: Alemania y EE.UU
-· Director: Timur Bekmambetov
-· Reparto: James McAvoy, Morgan Freeman, Angelina Jolie, Terence Stamp, Common
-· Guion: Derek Haas
-· Música: Danny Elfman
-· Productora: Spyglass Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3694069?od[]=Z1H:MM3_H"/>
-  </programme>
   <programme start="20250928050500 +0200" stop="20250928063400 +0200" channel="M+ Cómic">
     <title lang="es">Hiroshima 2 (1986)</title>
     <desc lang="es">Anime | No recomendado para menores de doce años | *3.1/5
@@ -348,165 +182,6 @@ un nuevo dispositivo experimental de realidad virtual, las gafas ORV.
 · Productora: DC Comics, DC Entertainment, Warner Bros. Pictures, RatPac-Dune Entertainment, Atlas Entertainment, Cruel &amp; Unusual Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3820574?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20250927045200 +0200" stop="20250927070800 +0200" channel="M+ San Sebastián">
-    <title lang="es">La sustancia (2024)</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciocho años | *3.1/5
-· Elizabeth Sparkles, una estrella de Hollywood en declive, empieza a ver que la industria la está dejando de lado a causa de la edad y decide introducirse en un dudoso tratamiento, con imprevisibles resultados, que promete devolverle su ansiada juventud.
-· País: EE.UU
-· Director: Coralie Fargeat
-· Reparto: Demi Moore, Dennis Quaid, Margaret Qualley, Edward Hamilton-Clark, Gore Abrams
-· Guion: Coralie Fargeat
-· Música: Raffertie
-· Productora: Working Title Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4329169?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927070800 +0200" stop="20250927085400 +0200" channel="M+ San Sebastián">
-    <title lang="es">El cielo abierto (2000)</title>
-    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.3/5
-· Miguel, un joven psiquiatra que es abandonado por su pareja, se ve obligado a acoger a su antigua suegra en casa durante unos días.
-· País: España
-· Director: Miguel Albaladejo
-· Reparto: Sergi López, Mariola Fuentes, María José Alfonso, Geli Albaladejo, Emilio Gutiérrez Caba, Víctor Israel, Silvia Casanova, Félix Álvarez, Melanie Lauda, David Alcázar
-· Guion: Elvira Lindo,Miguel Albadalejo
-· Música: Lucio Godoy
-· Producción: Francisco Ramos, Fernando de Garcillán
-· Productora: Televisión Española (TVE), Canal+ España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F2587508?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927085400 +0200" stop="20250927103600 +0200" channel="M+ San Sebastián">
-    <title lang="es">Alegre ma non troppo (1994)</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.0/5
-· Un joven veinteañero homosexual tiene tres deseos en la vida: ser músico, agradar a su madre y encontrar al chico de su vida. Tras una crisis sentimental motivada por la ruptura con su novio, intenta ingresar como trompa en la Joven Orquesta Nacional.
-· País: España
-· Director: Fernando Colomo
-· Reparto: Penélope Cruz, Pere Ponce, Óscar Ladoire, Rosa Maria Sardà, Jordi Mollà, Nathalie Seseña
-· Guion: Fernando Colomo,Joaquim Oristrell
-· Música: Aleksandr Borodin, Edmon Colomer
-· Producción: Fernando Colomo
-· Productora: Fernando Colomo Producciones Cinematográficas, S.L., Antena 3 Televisión</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4066472?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927103600 +0200" stop="20250927121800 +0200" channel="M+ San Sebastián">
-    <title lang="es">La buena estrella (1997)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.4/5
-· La existencia de Rafael está marcada por la automarginación desde que un accidente de trabajo lo dejó sin testículos. Su vida parece cambiar con la llegada de Marina, una joven a la que recoge de la calle cuando su novio le está dando una paliza.
-· País: España, Francia e Italia
-· Director: Ricardo Franco
-· Reparto: Antonio Resines, Maribel Verdú, Jordi Mollà, Elvira Mínguez, Ramón Barea
-· Guion: Ricardo Franco,Ángeles González Sinde
-· Música: Eva Gancedo
-· Producción: Enrique Cerezo, Pedro Costa
-· Productora: Enrique Cerezo Producciones Cinematográficas S.A, Eurimages, GA&amp;A Productions, Mat Films, Pedro Costa Producciones Cinematográficas S.A, Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3778357?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927121800 +0200" stop="20250927134000 +0200" channel="M+ San Sebastián">
-    <title lang="es">El hombre bueno (2024)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.3/5
-· Vera y Juan, junto a su hija Manuela, deciden pasar sus vacaciones en la casa de Alonso, un antiguo compañero de trabajo de Juan que, tras perder a su pareja, decidió retirarse. Ahora, Vera quiere que Alonso sea el mediador en su separación.
-· País: España
-· Director: David Trueba
-· Reparto: Jorge Sanz, Macarena Sanz, Vito Sanz, Aia Pérez
-· Guion: David Trueba
-· Productora: Buenavida Producciones, Perdidos Gestión Cultural</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4269942?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927134000 +0200" stop="20250927152100 +0200" channel="M+ San Sebastián">
-    <title lang="es">Muy lejos (2025)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.5/5
-· Sergio viaja a Utrecht para asistir a un partido de fútbol. Antes de coger el vuelo de regreso, sufre un ataque de ansiedad y decide quedarse en Holanda. Incapaz de dar una explicación a los suyos, corta el contacto y comienza una nueva vida.
-· País: España y Países Bajos
-· Director: Gerard Oms
-· Reparto: Mario Casas, David Verdaguer, Ilyass El Ouahdani, Jetty Mathurin, Hanneke van der Paardt, Raúl Prieto, Nausicaa Bonnín, Albert Baró, Achraf Koutet, Daniel Medrán
-· Guion: Gerard Oms
-· Música: Sílvia Pérez Cruz
-· Producción: Carles Torras, Sergio Adrià
-· Productora: Zabriskie Films, Revolver Amsterdam, Radio Televisión Española (RTVE), Crea SGR, 3Cat</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4388906?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927152100 +0200" stop="20250927165500 +0200" channel="M+ San Sebastián">
-    <title lang="es">Los pequeños amores (2024)</title>
-    <desc lang="es">Drama | No recomendado para menores de siete años | *3.1/5
-· Teresa cambia sus planes de vacaciones para ayudar a su madre, que ha sufrido un pequeño accidente. Madre e hija pasarán juntas un verano de lo más sofocante, en el que no conseguirán ponerse de acuerdo ni en las cosas más triviales.
-· País: España
-· Director: Celia Rico Clavellino
-· Reparto: María Vázquez, Adriana Ozores, Aimar Vega, David Aguilar
-· Guion: Celia Rico Clavellino
-· Producción: Sandra Tapia, Ibón Cormenzana
-· Productora: Viracocha Films, A.I.E., Arcadia Motion Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4219842?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927165500 +0200" stop="20250927184400 +0200" channel="M+ San Sebastián">
-    <title lang="es">Segundo premio (2024)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
-· En plena efervescencia artística, es el momento de sacar un tercer disco, sin embargo, Los Planetas están en su peor momento. May acaba de abandonar el grupo, los problemas con las drogas son imparables y el control sobre sus vidas se ha perdido.
-· País: España y Francia
-· Director: Isaki Lacuesta, Pol Rodríguez
-· Reparto: Daniel Ibáñez, Stéphanie Magnin Vella, Cristalino, Mafo, Chesco Ruiz, Daniel Molina, Eduardo Rejón
-· Guion: Isaki Lacuesta,Fernando Navarro
-· Música: Ylia
-· Producción: Cristóbal García, Marta Velasco
-· Productora: Toxicosmos, A.I.E., La Terraza Films, S.L.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4269193?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927184400 +0200" stop="20250927202100 +0200" channel="M+ San Sebastián">
-    <title lang="es">En lo alto (2022)</title>
-    <desc lang="es">Drama | No recomendado para menores de siete años | *3.1/5
-· El famoso cineasta Byungsoo y su hija Jeongsu, a la que lleva 5 años sin ver, visitan a la señora Kim, una antigua amiga del director, para que aconseje a su hija sobre su carrera.
-· País: Corea del Sur
-· Director: Hong Sang-soo
-· Reparto: Kwon Haehyo, Lee Hye-yeong, Song Seon-mi
-· Guion: Hong Sang-soo
-· Música: Hong Sang-soo
-· Productora: Finecut, Jeonwonsa Film</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4206257?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927202100 +0200" stop="20250927220000 +0200" channel="M+ San Sebastián">
-    <title lang="es">Sorda (2025)</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *4.1/5
-· Ángela, una mujer sorda, va a tener un bebé con Héctor, su pareja oyente. Ambos se preparan para el nacimiento de su primer hijo, un momento vital que hacen aflorar en Ángela viejos miedos, entre ellos, el cómo podrá comunicarse con su hija.
-· País: España
-· Director: Eva Libertad
-· Reparto: Miriam Garlo, Álvaro Cervantes, Elena Irureta, Joaquín Notario
-· Guion: Eva Libertad
-· Música: Aránzazu Calleja
-· Producción: Miriam Porté, Adolfo Blanco
-· Productora: Diverso Films, A.I.E., Distinto Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4384181?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927220000 +0200" stop="20250927235800 +0200" channel="M+ San Sebastián">
-    <title lang="es">La infiltrada (2024)</title>
-    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.1/5
-· Con 22 años, una agente de policía, bajo el pseudónimo de Aranzazu Berradre Marín, se infiltró en la banda terrorista ETA. Ahí comenzó la misión más difícil de su vida: convivir con dos terroristas e ir informando a sus superiores de todo.
-· País: España
-· Director: Arantxa Echevarría
-· Reparto: Carolina Yuste, Luis Tosar, Diego Anido, Iñigo Gastesi, Nausicaa Bonnín
-· Guion: Amèlia Mora,Arantxa Echevarría,María Luisa Gutiérrez
-· Música: Fernando Velázquez
-· Producción: María Luisa Gutiérrez, Mercedes Gamero
-· Productora: Infiltrada LP, A.I.E., Bowfinger International Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4344066?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927235800 +0200" stop="20250928020300 +0200" channel="M+ San Sebastián">
-    <title lang="es">Sujo (2024)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *2.9/5
-· Cuando un sicario es asesinado, deja atrás a Sujo, su hijo de 4 años. La sombra de la violencia acecha a Sujo en cada etapa de su vida y cumplir el destino de su padre parece algo inevitable.
-· País: EE.UU, Francia y México
-· Director: Astrid Rondero, Fernanda Valadez
-· Reparto: Juan Jesús Varela, Yadira Pérez, Alexis Varela, Jairo Hernandez
-· Guion: Astrid Rondero,Fernanda Valadez</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4370152?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20250927020300 +0200" stop="20250927041700 +0200" channel="M+ San Sebastián">
-    <title lang="es">Parthenope (2024)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
-· Esta es la vida de Parthenope, una mujer sin prejuicios y adelantada a su tiempo, que desde que nació trata de aprender el oficio de vivir, una vida en la que los grandes amores y las decisiones lo cambian todo para siempre.
-· País: Italia
-· Director: Paolo Sorrentino
-· Reparto: Celeste Dalla Porta, Gary Oldman, Stefania Sandrelli, Luisa Ranieri, Dario Aita
-· Guion: Umberto Contarello
-· Música: Lele Marchitelli</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4361942?od[]=Z1H:MM3_H"/>
-  </programme>
   <programme start="20250928041700 +0200" stop="20250928070300 +0200" channel="M+ San Sebastián">
     <title lang="es">La semilla de la higuera sagrada (2024)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
@@ -561,7 +236,7 @@ un nuevo dispositivo experimental de realidad virtual, las gafas ORV.
   </programme>
   <programme start="20250928140900 +0200" stop="20250928143700 +0200" channel="M+ San Sebastián">
     <title lang="es">Estrellas del Festival de San Sebastián 2025 (2025)</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.2/5
 · Desde la 73ª edición del Festival de San Sebastián os mostramos todas las estrellas que han pasado por el certamen, 9 días de cine con Jennifer Lawrence, Álvaro Morte, Bárbara Lennie, Eduard Fernández, Alba Flores, Antonio de la Torre o Leiva.
 · País: España
 · Presenta: Cristina Teva</desc>
@@ -569,7 +244,7 @@ un nuevo dispositivo experimental de realidad virtual, las gafas ORV.
   </programme>
   <programme start="20250928143700 +0200" stop="20250928163000 +0200" channel="M+ San Sebastián">
     <title lang="es">Sirat (2025)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
 · Durante una 'rave' en las montañas del sur de Marruecos, Luis y su hijo Esteban enseñan a los raveros la foto de la hermana del niño, desaparecida hace meses en una de esas multitudinarias fiestas.
 · País: España y Francia
 · Director: Oliver Laxe
@@ -621,7 +296,7 @@ un nuevo dispositivo experimental de realidad virtual, las gafas ORV.
   </programme>
   <programme start="20250928220000 +0200" stop="20250928223200 +0200" channel="M+ San Sebastián">
     <title lang="es">Estrellas del Festival de San Sebastián 2025 (2025)</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.2/5
 · Desde la 73ª edición del Festival de San Sebastián os mostramos todas las estrellas que han pasado por el certamen, 9 días de cine con Jennifer Lawrence, Álvaro Morte, Bárbara Lennie, Eduard Fernández, Alba Flores, Antonio de la Torre o Leiva.
 · País: España
 · Presenta: Cristina Teva</desc>
@@ -629,13 +304,13 @@ un nuevo dispositivo experimental de realidad virtual, las gafas ORV.
   </programme>
   <programme start="20250928223200 +0200" stop="20250929002700 +0200" channel="M+ San Sebastián">
     <title lang="es">Vivir el momento (2024)</title>
-    <desc lang="es">Drama romántico | No recomendado para menores de doce años | *3.2/5
+    <desc lang="es">Drama romántico | No recomendado para menores de doce años | *3.4/5
 · Aunque se conocieron por accidente, Almut y Tobias estaban destinados a estar juntos el resto de su vida... una vida, como todas, marcada por momentos buenos y, también, por momentos malos.
 · País: Francia y R.U
 · Director: John Crowley
 · Reparto: Andrew Garfield, Florence Pugh, Grace Delaney
 · Guion: Nick Payne</desc>
-    <icon src="https://www.movistarplus.es/recorte/r/caratulaH/no-disp-horz"/>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4370041?od[]=Z1H:MM3_H"/>
   </programme>
   <programme start="20250928002700 +0200" stop="20250928022700 +0200" channel="M+ San Sebastián">
     <title lang="es">La luz que imaginamos (2024)</title>
