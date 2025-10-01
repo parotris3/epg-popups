@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 30/09/2025 01:20">
-  <channel id="M+ Cómic">
-    <display-name>M+ Cómic</display-name>
+<tv generator-info-name="MultiPopUps FullDesc 01/10/2025 01:28">
+  <channel id="M+ Romance">
+    <display-name>M+ Romance</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCOMIC"/>
   </channel>
-  <channel id="M+ San Sebastián">
-    <display-name>M+ San Sebastián</display-name>
+  <channel id="M+ Terror">
+    <display-name>M+ Terror</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MSANSE"/>
   </channel>
 </tv>
