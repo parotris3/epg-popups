@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 07/10/2025 06:23">
+<tv generator-info-name="MultiPopUps FullDesc 08/10/2025 01:19">
   <channel id="M+ Romance">
     <display-name>M+ Romance</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MROMA"/>
@@ -8,482 +8,335 @@
     <display-name>M+ Terror</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TERROR"/>
   </channel>
-  <programme start="20251007060000 +0200" stop="20251007075000 +0200" channel="M+ Romance">
-    <title lang="es">Telediario Matinal (2023)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+  <programme start="20251009080000 +0200" stop="20251009093100 +0200" channel="M+ Romance">
+    <title lang="es">¿Qué me pasa, doctor? (1972)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.6/5
+· La vida de un despistado investigador musical se vuelve caótica cuando conoce a una alocada colega.
+· País: EE.UU
+· Director: Peter Bogdanovich
+· Reparto: Barbra Streisand, Ryan O'Neal, Madeline Kahn, Kenneth Mars, Michael Murphy, Sorrell Booke, Austin Pendleton, Stefan Gierasch, John Hillerman
+· Guion: Peter Bogdanovich,David Newman,Robert Benton,Buck Henry
+· Música: Artie Butler
+· Producción: Peter Bogdanovich
+· Productora: Saticoy Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4048727?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009093100 +0200" stop="20251009110600 +0200" channel="M+ Romance">
+    <title lang="es">Dicen por ahí... (2005)</title>
+    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.3/5
+· Una joven con miedo a casarse, descubre un gran secreto: su familia inspiró el libro y la película de &quot;El graduado&quot;.
+· País: Australia y EE.UU
+· Director: Rob Reiner
+· Reparto: Jennifer Aniston, Kevin Costner, Shirley MacLaine, Mark Ruffalo, Richard Jenkins, Mena Suvari, Christopher McDonald
+· Guion: Ted Griffin
+· Música: Marc Shaiman
+· Producción: Paula Weinstein, Ben Cosgrove
+· Productora: Warner Bros. Pictures, Village Roadshow Pictures, Spring Creek Production, Section Eight Ltd., Spring Creek Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3804976?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009110600 +0200" stop="20251009124600 +0200" channel="M+ Romance">
+    <title lang="es">Una canción irlandesa (2020)</title>
+    <desc lang="es">Romántico | No recomendado para menores de siete años | *3.4/5
+· En los idílicos paisajes de la Irlanda rural, la obstinada granjera Rosemary Muldoon quiere ganarse el amor de su tímido vecino Anthony Reilly, pero este permanece impasible ante su hermosa admiradora.
+· País: EE.UU, Irlanda y R.U
+· Director: John Patrick Shanley
+· Reparto: Emily Blunt, Jamie Dornan, Jon Hamm, Dearbhla Molloy, Christopher Walken, Don Wycherley, Danielle Ryan
+· Guion: John Patrick Shanley
+· Música: Amelia Warner
+· Productora: Amasia Entertainment, Likely Story, Aperture Media Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3931576?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009124600 +0200" stop="20251009141100 +0200" channel="M+ Romance">
+    <title lang="es">A toda máquina (2024)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *2.8/5
+· Marco, un intrépido camarero, y Marianne, una oficial de submarino con una fuerte personalidad, se encuentran durante una escala. Lo que comienza como una aventura puntual se convierte rápidamente en una trepidante aventura romántica.
+· País: Bélgica y Francia
+· Director: Lucas Bernard
+· Reparto: Pio Marmaï, Eye Haidara, José García, Victor Pontecorvo, Anne Loiret, Arthur Choisnet, Pauline Huruguen, Frédéric Maranber, Calixte Broisin-Doutaz
+· Guion: Lucas Bernard
+· Música: Christophe Danvin
+· Producción: Sidonie Dumas, Florian Mole
+· Productora: Gaumont, Les grands espaces</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4384004?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009141100 +0200" stop="20251009162000 +0200" channel="M+ Romance">
+    <title lang="es">Fly Me to the Moon (2024)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de siete años | *3.4/5
+· En 1969, la embaucadora publicista Kelly Jones es contratada por la NASA para dirigir, junto al director del lanzamiento Cole Davis, la campaña de marketing de la exitosa (aunque haya que mentir) llegada del hombre a la luna.
+· País: EE.UU y R.U
+· Director: Greg Berlanti
+· Reparto: Scarlett Johansson, Channing Tatum, Woody Harrelson, Ray Romano, Jim Rash, Anna Garcia
+· Guion: Rose Gilroy
+· Música: Daniel Pemberton
+· Producción: Keenan Flynn, Scarlett Johansson
+· Productora: Apple Studios, These Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4374701?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009162000 +0200" stop="20251009184000 +0200" channel="M+ Romance">
+    <title lang="es">El gran Gatsby (2013)</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.6/5
+· Nick Carraway es un aspirante a escritor que llega a Long Island en 1922, una época de decadencia moral, &quot;jazz&quot; y pujanza económica. Persiguiendo su propio 'sueño americano', Nick acaba siendo vecino de Jay Gatsby, un misterioso millonario.
+· País: Australia y EE.UU
+· Director: Baz Luhrmann
+· Reparto: Leonardo DiCaprio, Tobey Maguire, Carey Mulligan, Joel Edgerton, Isla Fisher, Jason Clarke, Frank Aldridge, Amitabh Bachchan, Lisa Adam, Steve Bisley, Richard Carter
+· Guion: Baz Luhrmann,Craig Pearce
+· Música: Craig Armstrong
+· Producción: Lucy Fisher
+· Productora: Warner Bros, Village Roadshow Pictures, A&amp;E Television Networks Inc</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3839711?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009184000 +0200" stop="20251009202600 +0200" channel="M+ Romance">
+    <title lang="es">Algo para recordar (1993)</title>
+    <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.6/5
+· Tras la muerte de su esposa, el arquitecto Sam Baldwin no cree que pueda volver a encontrar el amor. Jonah, su hijo de ocho años, piensa que su padre necesita una mujer en su vida, así que decide llamar a un programa de radio para contar su historia.
+· País: EE.UU y R.U
+· Director: Nora Ephron
+· Reparto: Tom Hanks, Meg Ryan, Ross Malinger, Rita Wilson, David Bair, Victor Garber, Rosie O'Donnell, Gaby Hoffmann, Carey Lowell, David Hyde Pierce, Tom Riis Farrell, Bill Pullman
+· Guion: Nora Ephron,Jeff Arch,David S. Ward
+· Música: Marc Shaiman
+· Producción: Gary Foster
+· Productora: TriStar Pictures, Columbia Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4365301?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009202600 +0200" stop="20251009220000 +0200" channel="M+ Romance">
+    <title lang="es">Luna nueva (1940)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
+· El director de un periódico sensacionalista utiliza el caso de un infeliz acusado de asesinato para vender más ejemplares.
+· País: EE.UU
+· Director: Howard Hawks
+· Reparto: Cary Grant, Rosalind Russell, Ralph Bellamy, Gene Lockhart, Porter Hall, Regis Toomey, Cliff Edwards, Clarence Kolb, Ernest Truex
+· Guion: Charles Lederer
+· Música: Felix Mills, Sidney Cutner
+· Producción: Howard Hawks
+· Productora: Columbia Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3821556?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009220000 +0200" stop="20251009235100 +0200" channel="M+ Romance">
+    <title lang="es">Vivir el momento (2024)</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de doce años | *3.6/5
+· Aunque se conocieron por accidente, Almut y Tobias estaban destinados a estar juntos el resto de su vida... una vida, como todas, marcada por momentos buenos y, también, por momentos malos.
+· País: Francia y R.U
+· Director: John Crowley
+· Reparto: Andrew Garfield, Florence Pugh, Grace Delaney
+· Guion: Nick Payne</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4370041?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009235100 +0200" stop="20251010014400 +0200" channel="M+ Romance">
+    <title lang="es">Sígueme el rollo (2011)</title>
+    <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.7/5
+· Un cirujano plástico, que mantiene un romance con una maestra de escuela mucho menor que él, convence a su leal asistente para que finja ser su futura exmujer y cubrir una mentira tonta.
+· País: EE.UU
+· Director: Dennis Dugan
+· Reparto: Adam Sandler, Jennifer Aniston, Nicole Kidman, Nick Swardson, Bailee Madison, Dave Matthews Band, Brooklyn Decker, Heidi Montag, Colby Kline, Newton Deleon
+· Guion: Allan Loeb,Timothy Dowling
+· Música: Rupert Gregson-Williams
+· Productora: Columbia Pictures, Happy Madison Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4034923?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009014400 +0200" stop="20251009033100 +0200" channel="M+ Romance">
+    <title lang="es">Exposados (2010)</title>
+    <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.2/5
+· Milo Boyd es un cazarrecompensas que está viviendo una mala racha, hasta que le asignan el encargo de sus sueños: capturar a su exmujer, la periodista Nicole Hurley, que ha violado su libertad condicional.
+· País: EE.UU
+· Director: Andy Tennant
+· Reparto: Gerard Butler, Jennifer Aniston, Matt Malloy, Jason Sudeikis
+· Guion: Sarah Thorp
+· Música: George Fenton
+· Productora: Columbia Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4426698?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009033100 +0200" stop="20251009051700 +0200" channel="M+ Romance">
+    <title lang="es">Cha-cha-chá (1998)</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.3/5
+· Lucía y María se conocen desde niñas y lo comparten todo... todo menos a Pablo, el novio de María, del que Lucía está perdidamente enamorada.
 · País: España
-· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP518404"/>
+· Director: Antonio del Real
+· Reparto: Eduardo Noriega, Ana Álvarez, María Adánez, Jorge Sanz, Gabino Diego, Marta Belaustegui, Elisa Matilla
+· Guion: Antonio del Real,Carlos Asorey,Fernando León de Aranoa
+· Música: Pablo Miyar
+· Producción: César Benítez
+· Productora: Canal+ España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3679228?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251007075000 +0200" stop="20251007103500 +0200" channel="M+ Romance">
-    <title lang="es">La hora de La 1: La hora de la actualidad.  Temporada (T8). La hora de La 1: La hora de la actualidad (T8) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+  <programme start="20251010051700 +0200" stop="20251010071700 +0200" channel="M+ Romance">
+    <title lang="es">Sólo los amantes sobreviven (Only Lovers Left Alive) (2013)</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de doce años | *3.5/5
+· En Detroit, Adam, un músico 'underground' deprimido por la dirección que han tomado los actos de la Humanidad, habla de su angustia con su dura y enigmática amante, Eve, que vive en Tánger. Ambos comparten una historia de amor que ha prevalecido siglos.
+· País: Alemania, Francia, Grecia y R.U
+· Director: Jim Jarmusch
+· Reparto: Tilda Swinton, Tom Hiddleston, Mia Wasikowska, Anton Yelchin, John Hurt, Jeffrey Wright, Henri Verneuil
+· Guion: Jim Jarmusch
+· Música: Jozef van Wissem
+· Producción: Reinhard Brundig, Jeremy Thomas
+· Productora: Recorded Picture Company, Pandora Filmproduktion, Snow Wolf Produktion</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4293999?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010071700 +0200" stop="20251010073300 +0200" channel="M+ Romance">
+    <title lang="es">Las bellas cicatrices (2024)</title>
+    <desc lang="es">Corto animación | No recomendado para menores de siete años | *3.0/5
+· Gaspard sigue muy enamorado de Leïla. Se encuentran en un bar abarrotado un mes después de que ella le dejara.
+· País: Francia
+· Director: Raphael Jouzeau</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4309675?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010073300 +0200" stop="20251010092600 +0200" channel="M+ Romance">
+    <title lang="es">Segundas oportunidades (2023)</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de siete años | *3.2/5
+· Eva se siente que el tiempo se acaba pero, tras desarrollar una amistad con el gran actor Harald Skoog se da cuenta de que la vida aún no ha terminado, de hecho, es posible que incluso haya comenzado.
+· País: Suecia
+· Director: Mårten Klineberg
+· Reparto: Lena Olin, Rolf Lassgård, Lars Väringer</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4384108?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010092600 +0200" stop="20251010110100 +0200" channel="M+ Romance">
+    <title lang="es">Barcelona, noche de verano (2013)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
+· La noche del 18 de agosto de 2013 el cometa Rose cruzó el cielo de la ciudad de Barcelona ofreciendo un espectáculo que no volverá a repetirse hasta dentro de varios siglos. Esa  noche hubo 567 historias de amor. En esta película se cuentan 6 de ellas.
 · País: España
-· Director: Silvia Intxaurrondo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP3898133"/>
+· Director: Dani de la Orden
+· Reparto: Àlex Monner, Luis Fernández, Joan Dausà, Sara Espígul, Jan Cornet, Francesc Colomer
+· Guion: Daniel González,Eric Navarro,Eduard Solà
+· Música: Joan Dausà
+· Productora: Cameo, El Terrat, Filmin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4373543?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251007103500 +0200" stop="20251007150000 +0200" channel="M+ Romance">
-    <title lang="es">Mañaneros 360.  Temporada (T2). Mañaneros 360 (T2) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.1/5
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+  <programme start="20251010110100 +0200" stop="20251010130400 +0200" channel="M+ Romance">
+    <title lang="es">8 (2025)</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de siete años | *3.5/5
+· En la madrugada del 14 de abril de 1931, justo cuando se proclama la II República, Octavio y Adela llegan al mundo en dos pueblos vecinos de la sierra de Madrid. Desde ese momento, sus destinos están unidos.
 · País: España
-· Presenta: Adela González,Javier Ruiz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4108659"/>
+· Director: Julio Medem
+· Reparto: Ana Rujas, Javier Rey, Tamar Novas, Loreto Mauleón, Carla Díaz, María Isasi, Mateo Medina
+· Guion: Julio Medem
+· Música: Lucas Vidal
+· Producción: Álvaro Longoria, Rodrigo Espinel
+· Productora: Barbazul la película, A.I.E., Morena Films S.L</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4383472?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251007150000 +0200" stop="20251007153500 +0200" channel="M+ Romance">
-    <title lang="es">Telediario 1 (2014)</title>
-    <desc lang="es">Informativo | *3.1/5
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+  <programme start="20251010130400 +0200" stop="20251010144200 +0200" channel="M+ Romance">
+    <title lang="es">Amanece en Samaná (2024)</title>
+    <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.1/5
+· Dos parejas de amigos, Ale y Santi, Natalia y Mario, celebran con unas vacaciones en Samaná que llevan 20 años juntos. Una noche de fiesta, bajo los efectos del alcohol, Ale confiesa un secreto que está a punto de cambiarlo todo por arte de magia.
+· País: España y República Dominicana
+· Director: Rafa Cortés
+· Reparto: Luis Tosar, Luisa Mayol, Luis Zahera, Bárbara Santa-Cruz, Alfredo Castro, Charles Dance
+· Guion: Rafa Cortés
+· Música: Nacho Mastretta
+· Producción: Rafa Cortés, Miguel González Familiar, Eduardo Jiménez, Nadine Rothschild, Inés Massa
+· Productora: A Name Like This, Materia Cinema, Quexito Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4351339?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010144200 +0200" stop="20251010163200 +0200" channel="M+ Romance">
+    <title lang="es">Definitivamente, quizás (2008)</title>
+    <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.6/5
+· Will es un padre de treinta y pico años, residente en Manhattan, a punto de divorciarse. Maya, su hija de diez años, empieza a preguntarle sobre su vida antes de casarse. Maya quiere saberlo todo, cómo se conocieron sus padres y cómo se enamoraron.
+· País: Alemania, EE.UU, Francia y R.U
+· Director: Adam Brooks
+· Reparto: Ryan Reynolds, Rachel Weisz, Derek Luke, Abigail Breslin, Dana Eskelson, Elizabeth Banks, Isla Fisher, Kevin Kline, Fiona Lane
+· Guion: Adam Brooks
+· Música: Clint Mansell
+· Producción: Tim Bevan, Eric Fellner
+· Productora: Universal Pictures, StudioCanal, Working Title Films, Ringerike Erste Filmproduktion</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3828561?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010163200 +0200" stop="20251010182500 +0200" channel="M+ Romance">
+    <title lang="es">Noche de fin de año (2011)</title>
+    <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.5/5
+· Es Nochevieja y varias vidas se cruzan: la de una madre soltera que aún ve a su hija como una niña, la de una mujer encargada de hacer caer la 'Bola de Año Nuevo' de Times Square, la de un hombre que odia las fiestas navideñas...
+· País: EE.UU
+· Director: Garry Marshall
+· Reparto: Michelle Pfeiffer, Zac Efron, Robert De Niro, Halle Berry, Jessica Biel, Ashton Kutcher, Sarah Jessica Parker, Katherine Heigl, Jon Bon Jovi, Hilary Swank, Sofía Vergara, Jim Belushi, Charlotte Marshall-Fricker, Fiona Choi, Mary Marguerite Keane
+· Guion: Katherine Fugate
+· Música: John Debney
+· Producción: Mike Karz, Garry Marshall
+· Productora: Rice Films, Karz Entertainment, New Line Cinema</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3798819?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010182500 +0200" stop="20251010200800 +0200" channel="M+ Romance">
+    <title lang="es">Sucedió en Manhattan (2002)</title>
+    <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.2/5
+· Marisa es una madre soltera trabajadora, inteligente y decidida que sueña con tener una vida mejor. Mientras trabaja como limpiadora en un hotel de lujo, conoce a Christopher Marshall, aspirante a senador y uno de los solteros de oro de Manhattan.
+· País: EE.UU
+· Director: Wayne Wang
+· Reparto: Jennifer Lopez, Ralph Fiennes, Stanley Tucci, Frances Conroy, Natasha Richardson, Bob Hoskins, Tyler Posey, Chris Eigeman, Amy Sedaris
+· Guion: Kevin Wade
+· Música: Alan Silvestri
+· Producción: Deborah Schindler, Paul Schiff, Elaine Goldsmith-Thomas
+· Productora: Columbia Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3975793?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010200800 +0200" stop="20251010220000 +0200" channel="M+ Romance">
+    <title lang="es">French Kiss (1995)</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.4/5
+· Kate está comprometida con un hombre que se ha enamorado de una bella francesa. Para recuperarlo viaja a París pero en el avión su vida cambia.
+· País: EE.UU y R.U
+· Director: Lawrence Kasdan
+· Reparto: Meg Ryan, Kevin Kline, Timothy Hutton, Jean Reno, François Cluzet, Renée Humphrey, Michael Riley, Susan Anbeh, Laurent Spielvogel
+· Guion: Adam Brooks
+· Música: James Newton Howard
+· Producción: Eric Fellner, Meg Ryan, Tim Bevan, Kathryn F. Galan
+· Productora: Prufrock Pictures, Twentieth Century Fox, Working Title Films, PolyGram Filmed Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4106264?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010220000 +0200" stop="20251010235900 +0200" channel="M+ Romance">
+    <title lang="es">Tienes un e-mail (1998)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.7/5
+· Dos enemigos irreconciliables, enfrentados por la competencia en sus negocios, inician un idilio por correo electrónico.
+· País: EE.UU y Francia
+· Director: Nora Ephron
+· Reparto: Tom Hanks, Meg Ryan, Greg Kinnear, Parker Posey, Jean Stapleton, Steve Zahn, Dave Chappelle, Dabney Coleman, John Wayne Randolph
+· Guion: Delia Ephron,Nora Ephron
+· Música: George Fenton
+· Producción: Lauren Shuler Donner, Nora Ephron
+· Productora: Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M2393218V179905"/>
+  </programme>
+  <programme start="20251010235900 +0200" stop="20251011001600 +0200" channel="M+ Romance">
+    <title lang="es">El drama de época de Jane Austen (2024)</title>
+    <desc lang="es">Corto de comedia | No recomendado para menores de doce años | *3.1/5
+· Inglaterra, 1813. En medio de una propuesta de matrimonio largamente esperada, a la señorita Estrogenia Talbot le viene la regla.
+· País: EE.UU
+· Reparto: Nicole Alyse Nelson, Hugo Armstrong</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4410053?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010001600 +0200" stop="20251010020800 +0200" channel="M+ Romance">
+    <title lang="es">Virgen a los 40 (2005)</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *3.5/5
+· A sus 40 años, Andy no ha hecho demasiadas cosas en su vida. Tiene un trabajo rutinario en una tienda de electrodomésticos, un apartamento lleno de cómics y muñecos de goma, buenos amigos y una virginidad totalmente intacta.
+· País: EE.UU
+· Director: Judd Apatow
+· Reparto: Steve Carell, Catherine Keener, Paul Rudd, Romany Malco, Seth Rogen, Elizabeth Banks, Leslie Mann, Jane Lynch, Kat Dennings, Gerry Bednob, Shelley Malil
+· Guion: Judd Apatow,Steve Carell
+· Música: Lyle Workman
+· Producción: Judd Apatow, Shauna Robertson, Clayton Townsend
+· Productora: Apatow Productions, Universal Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3821565?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010020800 +0200" stop="20251010034500 +0200" channel="M+ Romance">
+    <title lang="es">El secreto del orfebre (2025)</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de siete años | *3.4/5
+· De viaje desde España a Nueva York, Juan Pablo, un orfebre anclado en un romance del pasado, vuelve a su pueblo natal en busca del gran amor de su juventud, aquel que cambió su vida para siempre.
 · País: España
-· Presenta: Alejandra Herranz
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP518438"/>
+· Director: Olga Osorio
+· Reparto: Mario Casas, Michelle Jenner, Zoe Bonafonte, Enzo Oliver
+· Guion: Olga Osorio
+· Música: Lau Nau
+· Producción: Adrián Guerra, Núria Valls
+· Productora: Nostromo Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4367641?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251007153500 +0200" stop="20251007154000 +0200" channel="M+ Romance">
-    <title lang="es">Deportes 1 (2025)</title>
-    <desc lang="es">Programa deportes | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP3921384"/>
-  </programme>
-  <programme start="20251007154000 +0200" stop="20251007154500 +0200" channel="M+ Romance">
-    <title lang="es">El tiempo (2014)</title>
-    <desc lang="es">Meteorología | *3.2/5
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP332735"/>
-  </programme>
-  <programme start="20251007154500 +0200" stop="20251007155500 +0200" channel="M+ Romance">
-    <title lang="es">Informativo territorial 2 (2023)</title>
-    <desc lang="es">Informativo | *3.0/5
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP2189999"/>
-  </programme>
-  <programme start="20251007155500 +0200" stop="20251007173000 +0200" channel="M+ Romance">
-    <title lang="es">Directo al grano.  Temporada (T1). Directo al grano (T1) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.2/5
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich,Gonzalo Miró</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4123147"/>
-  </programme>
-  <programme start="20251007173000 +0200" stop="20251007182000 +0200" channel="M+ Romance">
-    <title lang="es">Valle Salvaje (2025)</title>
-    <desc lang="es">Telenovela | No recomendado para menores de doce años | *3.1/5
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
-· Productora: Bambú Producciones</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4105453"/>
-  </programme>
-  <programme start="20251007182000 +0200" stop="20251007192500 +0200" channel="M+ Romance">
-    <title lang="es">La Promesa.  Temporada (T1). La Promesa (T1) (2023)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.7/5
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho
-· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP2162814"/>
-  </programme>
-  <programme start="20251007192500 +0200" stop="20251007203000 +0200" channel="M+ Romance">
-    <title lang="es">Malas lenguas.  Temporada (T2). Malas lenguas (T2) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.8/5
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Director: Jesús Cintora</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MLA2P4123276"/>
-  </programme>
-  <programme start="20251007203000 +0200" stop="20251007210000 +0200" channel="M+ Romance">
-    <title lang="es">Aquí la Tierra (2025)</title>
-    <desc lang="es">Magacín | Apto para todos los públicos | *3.1/5
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4108661"/>
-  </programme>
-  <programme start="20251007210000 +0200" stop="20251007214000 +0200" channel="M+ Romance">
-    <title lang="es">Telediario 2 (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP518466"/>
-  </programme>
-  <programme start="20251007214000 +0200" stop="20251007214500 +0200" channel="M+ Romance">
-    <title lang="es">Deportes 2 (2025)</title>
-    <desc lang="es">Programa deportes | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP3921386"/>
-  </programme>
-  <programme start="20251007214500 +0200" stop="20251007230000 +0200" channel="M+ Romance">
-    <title lang="es">La revuelta.  Temporada (T2). La revuelta (T2) (2025)</title>
-    <desc lang="es">Entrevista | No recomendado para menores de doce años | *3.1/5
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano
-· Productora: Radio Televisión Española (RTVE), El Terrat</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4385109"/>
-  </programme>
-  <programme start="20251007230000 +0200" stop="20251008001700 +0200" channel="M+ Romance">
-    <title lang="es">Late Xou con Marc Giró.  Temporada (T4). Late Xou con Marc Giró (T4) (2025)</title>
-    <desc lang="es">Entrevista | No recomendado para menores de doce años | *3.0/5
-· Marc recibe en su sofá a dos personalidades del panorama nacional.
-· País: España
-· Presenta: Marc Giró
-· Productora: RTVE Play</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4124793"/>
-  </programme>
-  <programme start="20251007001700 +0200" stop="20251007013500 +0200" channel="M+ Romance">
-    <title lang="es">Late Xou con Marc Giró.  Temporada (T4). Late Xou con Marc Giró (T4) (2025)</title>
-    <desc lang="es">Entrevista | No recomendado para menores de doce años | *3.0/5
-· Marc recibe en su sofá a dos personalidades del panorama nacional.
-· País: España
-· Presenta: Marc Giró
-· Productora: RTVE Play</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4124793"/>
-  </programme>
-  <programme start="20251007013500 +0200" stop="20251007041000 +0200" channel="M+ Romance">
-    <title lang="es">La noche en 24 horas (2025)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Director: Xabier Fortes
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP4108663"/>
-  </programme>
-  <programme start="20251007041000 +0200" stop="20251007053000 +0200" channel="M+ Romance">
-    <title lang="es">Noticias 24H (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4315170"/>
-  </programme>
-  <programme start="20251008060000 +0200" stop="20251008075000 +0200" channel="M+ Romance">
-    <title lang="es">Telediario Matinal (2023)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP518404"/>
-  </programme>
-  <programme start="20251008075000 +0200" stop="20251008103500 +0200" channel="M+ Romance">
-    <title lang="es">La hora de La 1: La hora de la actualidad.  Temporada (T8). La hora de La 1: La hora de la actualidad (T8) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Director: Silvia Intxaurrondo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP3898133"/>
-  </programme>
-  <programme start="20251008103500 +0200" stop="20251008150000 +0200" channel="M+ Romance">
-    <title lang="es">Mañaneros 360.  Temporada (T2). Mañaneros 360 (T2) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.1/5
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González,Javier Ruiz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4108659"/>
-  </programme>
-  <programme start="20251008150000 +0200" stop="20251008153500 +0200" channel="M+ Romance">
-    <title lang="es">Telediario 1 (2014)</title>
-    <desc lang="es">Informativo | *3.1/5
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP518438"/>
-  </programme>
-  <programme start="20251008153500 +0200" stop="20251008154000 +0200" channel="M+ Romance">
-    <title lang="es">Deportes 1 (2025)</title>
-    <desc lang="es">Programa deportes | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP3921384"/>
-  </programme>
-  <programme start="20251008154000 +0200" stop="20251008154500 +0200" channel="M+ Romance">
-    <title lang="es">El tiempo (2014)</title>
-    <desc lang="es">Meteorología | *3.2/5
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP332735"/>
-  </programme>
-  <programme start="20251008154500 +0200" stop="20251008155500 +0200" channel="M+ Romance">
-    <title lang="es">Informativo territorial 2 (2023)</title>
-    <desc lang="es">Informativo | *3.0/5
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP2189999"/>
-  </programme>
-  <programme start="20251008155500 +0200" stop="20251008173000 +0200" channel="M+ Romance">
-    <title lang="es">Directo al grano.  Temporada (T1). Directo al grano (T1) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.2/5
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich,Gonzalo Miró</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4123147"/>
-  </programme>
-  <programme start="20251008173000 +0200" stop="20251008182000 +0200" channel="M+ Romance">
-    <title lang="es">Valle Salvaje (2025)</title>
-    <desc lang="es">Telenovela | No recomendado para menores de doce años | *3.1/5
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
-· Productora: Bambú Producciones</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4105453"/>
-  </programme>
-  <programme start="20251008182000 +0200" stop="20251008192500 +0200" channel="M+ Romance">
-    <title lang="es">La Promesa.  Temporada (T1). La Promesa (T1) (2023)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.7/5
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho
-· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP2162814"/>
-  </programme>
-  <programme start="20251008192500 +0200" stop="20251008203000 +0200" channel="M+ Romance">
-    <title lang="es">Malas lenguas.  Temporada (T2). Malas lenguas (T2) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.8/5
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Director: Jesús Cintora</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MLA2P4123276"/>
-  </programme>
-  <programme start="20251008203000 +0200" stop="20251008210000 +0200" channel="M+ Romance">
-    <title lang="es">Aquí la Tierra (2025)</title>
-    <desc lang="es">Magacín | Apto para todos los públicos | *3.1/5
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4108661"/>
-  </programme>
-  <programme start="20251008210000 +0200" stop="20251008214000 +0200" channel="M+ Romance">
-    <title lang="es">Telediario 2 (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP518466"/>
-  </programme>
-  <programme start="20251008214000 +0200" stop="20251008214500 +0200" channel="M+ Romance">
-    <title lang="es">Deportes 2 (2025)</title>
-    <desc lang="es">Programa deportes | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP3921386"/>
-  </programme>
-  <programme start="20251008214500 +0200" stop="20251008230000 +0200" channel="M+ Romance">
-    <title lang="es">La revuelta.  Temporada (T2). La revuelta (T2) (2025)</title>
-    <desc lang="es">Entrevista | No recomendado para menores de doce años | *3.1/5
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano
-· Productora: Radio Televisión Española (RTVE), El Terrat</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4385109"/>
-  </programme>
-  <programme start="20251008230000 +0200" stop="20251009001700 +0200" channel="M+ Romance">
-    <title lang="es">Late Xou con Marc Giró.  Temporada (T4). Late Xou con Marc Giró (T4) (2025)</title>
-    <desc lang="es">Entrevista | No recomendado para menores de doce años | *3.0/5
-· Marc recibe en su sofá a dos personalidades del panorama nacional.
-· País: España
-· Presenta: Marc Giró
-· Productora: RTVE Play</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4124793"/>
-  </programme>
-  <programme start="20251008001700 +0200" stop="20251008013500 +0200" channel="M+ Romance">
-    <title lang="es">Late Xou con Marc Giró.  Temporada (T4). Late Xou con Marc Giró (T4) (2025)</title>
-    <desc lang="es">Entrevista | No recomendado para menores de doce años | *3.0/5
-· Marc recibe en su sofá a dos personalidades del panorama nacional.
-· País: España
-· Presenta: Marc Giró
-· Productora: RTVE Play</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4124793"/>
-  </programme>
-  <programme start="20251008013500 +0200" stop="20251008041000 +0200" channel="M+ Romance">
-    <title lang="es">La noche en 24 horas (2025)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Director: Xabier Fortes
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP4108663"/>
-  </programme>
-  <programme start="20251008041000 +0200" stop="20251008053000 +0200" channel="M+ Romance">
-    <title lang="es">Noticias 24H (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4315170"/>
-  </programme>
-  <programme start="20251009060000 +0200" stop="20251009075000 +0200" channel="M+ Romance">
-    <title lang="es">Telediario Matinal (2023)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP518404"/>
-  </programme>
-  <programme start="20251009075000 +0200" stop="20251009103500 +0200" channel="M+ Romance">
-    <title lang="es">La hora de La 1: La hora de la actualidad.  Temporada (T8). La hora de La 1: La hora de la actualidad (T8) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Director: Silvia Intxaurrondo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP3898133"/>
-  </programme>
-  <programme start="20251009103500 +0200" stop="20251009150000 +0200" channel="M+ Romance">
-    <title lang="es">Mañaneros 360.  Temporada (T2). Mañaneros 360 (T2) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.1/5
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González,Javier Ruiz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4108659"/>
-  </programme>
-  <programme start="20251009150000 +0200" stop="20251009153500 +0200" channel="M+ Romance">
-    <title lang="es">Telediario 1 (2014)</title>
-    <desc lang="es">Informativo | *3.1/5
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP518438"/>
-  </programme>
-  <programme start="20251009153500 +0200" stop="20251009154000 +0200" channel="M+ Romance">
-    <title lang="es">Deportes 1 (2025)</title>
-    <desc lang="es">Programa deportes | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP3921384"/>
-  </programme>
-  <programme start="20251009154000 +0200" stop="20251009154500 +0200" channel="M+ Romance">
-    <title lang="es">El tiempo (2014)</title>
-    <desc lang="es">Meteorología | *3.2/5
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP332735"/>
-  </programme>
-  <programme start="20251009154500 +0200" stop="20251009155500 +0200" channel="M+ Romance">
-    <title lang="es">Informativo territorial 2 (2023)</title>
-    <desc lang="es">Informativo | *3.0/5
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP2189999"/>
-  </programme>
-  <programme start="20251009155500 +0200" stop="20251009173000 +0200" channel="M+ Romance">
-    <title lang="es">Directo al grano.  Temporada (T1). Directo al grano (T1) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.2/5
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich,Gonzalo Miró</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4123147"/>
-  </programme>
-  <programme start="20251009173000 +0200" stop="20251009182000 +0200" channel="M+ Romance">
-    <title lang="es">Valle Salvaje (2025)</title>
-    <desc lang="es">Telenovela | No recomendado para menores de doce años | *3.1/5
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
-· Productora: Bambú Producciones</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4105453"/>
-  </programme>
-  <programme start="20251009182000 +0200" stop="20251009192500 +0200" channel="M+ Romance">
-    <title lang="es">La Promesa.  Temporada (T1). La Promesa (T1) (2023)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.7/5
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho
-· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP2162814"/>
-  </programme>
-  <programme start="20251009192500 +0200" stop="20251009203000 +0200" channel="M+ Romance">
-    <title lang="es">Malas lenguas.  Temporada (T2). Malas lenguas (T2) (2025)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.8/5
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Director: Jesús Cintora</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MLA2P4123276"/>
-  </programme>
-  <programme start="20251009203000 +0200" stop="20251009210000 +0200" channel="M+ Romance">
-    <title lang="es">Aquí la Tierra (2025)</title>
-    <desc lang="es">Magacín | Apto para todos los públicos | *3.1/5
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4108661"/>
-  </programme>
-  <programme start="20251009210000 +0200" stop="20251009214000 +0200" channel="M+ Romance">
-    <title lang="es">Telediario 2 (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP518466"/>
-  </programme>
-  <programme start="20251009214000 +0200" stop="20251009214500 +0200" channel="M+ Romance">
-    <title lang="es">Deportes 2 (2025)</title>
-    <desc lang="es">Programa deportes | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP3921386"/>
-  </programme>
-  <programme start="20251009214500 +0200" stop="20251009230000 +0200" channel="M+ Romance">
-    <title lang="es">La revuelta.  Temporada (T2). La revuelta (T2) (2025)</title>
-    <desc lang="es">Entrevista | No recomendado para menores de doce años | *3.1/5
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano
-· Productora: Radio Televisión Española (RTVE), El Terrat</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4385109"/>
-  </programme>
-  <programme start="20251009230000 +0200" stop="20251010001700 +0200" channel="M+ Romance">
-    <title lang="es">Late Xou con Marc Giró.  Temporada (T4). Late Xou con Marc Giró (T4) (2025)</title>
-    <desc lang="es">Entrevista | No recomendado para menores de doce años | *3.0/5
-· Marc recibe en su sofá a dos personalidades del panorama nacional.
-· País: España
-· Presenta: Marc Giró
-· Productora: RTVE Play</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4124793"/>
-  </programme>
-  <programme start="20251009001700 +0200" stop="20251009013500 +0200" channel="M+ Romance">
-    <title lang="es">Late Xou con Marc Giró.  Temporada (T4). Late Xou con Marc Giró (T4) (2025)</title>
-    <desc lang="es">Entrevista | No recomendado para menores de doce años | *3.0/5
-· Marc recibe en su sofá a dos personalidades del panorama nacional.
-· País: España
-· Presenta: Marc Giró
-· Productora: RTVE Play</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/MTVEP4124793"/>
-  </programme>
-  <programme start="20251009013500 +0200" stop="20251009041000 +0200" channel="M+ Romance">
-    <title lang="es">La noche en 24 horas (2025)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Director: Xabier Fortes
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M24HP4108663"/>
-  </programme>
-  <programme start="20251009041000 +0200" stop="20251009053000 +0200" channel="M+ Romance">
-    <title lang="es">Noticias 24H (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4315170"/>
+  <programme start="20251010034500 +0200" stop="20251010053300 +0200" channel="M+ Romance">
+    <title lang="es">Alabama Monroe (2012)</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.8/5
+· Elise tiene una tienda de tatuajes y los pies en el suelo. Didier toca el banyo en una banda de bluegrass, es ateo y un romántico empedernido. Cuando se conocen, es amor a primera vista. Su extraordinaria relación da un giro cuando nace Maybelle.
+· País: Bélgica y Países Bajos
+· Director: Felix van Groeningen
+· Reparto: Johan Heldenbergh, Veerle Baetens, Nell Cattrysse, Geert van Rampelberg, Nils De Caster, Robbie Cleiren, Bert Huysentruyt, Jan Bijvoet
+· Guion: Carl Joos,Felix van Groeningen
+· Música: Bjorn Eriksson
+· Producción: Dirk Impens
+· Productora: Topkapi Films, Menuet Producties</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4296748?od[]=Z1H:MM3_H"/>
   </programme>
   <programme start="20251009071500 +0200" stop="20251009091000 +0200" channel="M+ Terror">
     <title lang="es">El silencio de los corderos (1991)</title>
@@ -639,5 +492,191 @@
 · Música: Richard Band
 · Productora: Empire Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4089060?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010052600 +0200" stop="20251010064500 +0200" channel="M+ Terror">
+    <title lang="es">La cueva (2014)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.0/5
+· Tres chicos y tres chicas hacen un viaje mochilero a una isla paradisíaca, pero sus idílicas vacaciones se transforman en una pesadilla cuando quedan atrapados en una cueva, donde la oscuridad y el instinto de supervivencia les llevan al límite.
+· País: España
+· Director: Alfredo Montero
+· Reparto: Marcos Ortiz, Marta Castellote, Eva García-Vacas, Jorge Páez, Xoel Fernández
+· Guion: Javier Gullón,Alfredo Montero
+· Música: Carlos Goñi
+· Producción: Juan Gordon, Alfredo Montero, Marcos Ortiz
+· Productora: Morena Films S.L, Filmax International, Filmax International S.A</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3564058?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010064500 +0200" stop="20251010082500 +0200" channel="M+ Terror">
+    <title lang="es">Cementerio viviente dos (1992)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *2.9/5
+· Un niño y su padre descubren un antiguo cementerio con el poder de resucitar a los muertos.
+· País: EE.UU
+· Director: Mary Lambert
+· Reparto: Anthony Edwards, Clancy Brown, Edward Furlong
+· Guion: Richard Outten
+· Música: Mark Governor
+· Productora: Paramou, Columbus Circle Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4417780?od[]=Z1H:SKYSHOW_H"/>
+  </programme>
+  <programme start="20251010082500 +0200" stop="20251010083500 +0200" channel="M+ Terror">
+    <title lang="es">Jugando a ser dios (2024)</title>
+    <desc lang="es">Corto animación | No recomendado para menores de doce años | *3.0/5
+· Una escultura de arcilla cobra vida a través de la búsqueda obsesiva de la perfección de un escultor.
+· País: Francia e Italia
+· Director: Matteo Burani, Arianna Gheller</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4363429?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010083500 +0200" stop="20251010101000 +0200" channel="M+ Terror">
+    <title lang="es">El hombre del saco (Bagman) (2024)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.1/5
+· Ahogado por las deudas, Patrick decide volver a su antigua casa familiar con su esposa y su hijo. Sin embargo, la tenebrosa criatura que de pequeño le acechó continúa allí y, ahora, amenaza con arrebatarle aquello que más quiere en el mundo.
+· País: EE.UU
+· Director: Colm McCarthy
+· Reparto: Sam Claflin, Antonia Thomas, William Hope, Steven Cree, Frankie Corio
+· Guion: John Hulme
+· Música: Tim Williams
+· Producción: John Fischer
+· Productora: Marty Bowen, Temple Hill Entertainment, Media Capital Technologies</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4325980?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010101000 +0200" stop="20251010115500 +0200" channel="M+ Terror">
+    <title lang="es">Mimic (1997)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.1/5
+· Para erradicar una epidemia, los doctores Susan Tyler y Peter Mann crean un agente biológico capaz de atacar la infección. Tres años después, lo creado en el laboratorio adquiere vida propia y empieza a imitar al predador más peligroso: el ser humano.
+· País: EE.UU
+· Director: Guillermo del Toro
+· Reparto: Mira Sorvino, Jeremy Northam, Alexander Goodwin, Giancarlo Giannini, Josh Brolin, Jeremy Northman, Charles S. Dutton, F. Murray Abraham
+· Guion: Guillermo del Toro,Donald A. Wollheim,Matthew Robbins
+· Música: Marco Beltrami
+· Producción: Ole Bornedal, B.J. Rack, Bob Weinstein
+· Productora: Miramax Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4405037?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010115500 +0200" stop="20251010133500 +0200" channel="M+ Terror">
+    <title lang="es">Los sin nombre (1999)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.1/5
+· Una llamada telefónica sacude la vida de una madre que inicia la búsqueda de su hija, a quien creía asesinada tiempo atrás.
+· País: España
+· Director: Jaume Balagueró
+· Reparto: Karra Elejalde, Tristán Ulloa, Toni Sevilla, Emma Vilarasau, Jordi Dauder, Pep Tosar, Carlos Lasarte, Jessica Del Pozo
+· Guion: Ramsey Campbell,Jaume Balagueró
+· Música: Carles Cases
+· Producción: Julio Fernández, Joan Ginard
+· Productora: Filmax, P.C. Joan Ginard</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4380636?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010133500 +0200" stop="20251010145500 +0200" channel="M+ Terror">
+    <title lang="es">La hierba del diablo (2024)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *2.9/5
+· Mauro, un 'influencer' de gira por Colombia, junto a su mánager Santiago se encuentran con la &quot;vulnerable&quot; y bella Erika, quien les pide ayuda para arreglar su coche. Viendo que la avería no mejora Santiago y Mauro dicen acercarla a una remota casa.
+· País: Colombia y España
+· Director: Ángel Ayllón
+· Reparto: Hamza Zaidi, Max Marieges, Lina Cardona
+· Guion: Fernando Ayllón
+· Producción: Eduardo Ayllón
+· Productora: Take One Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4295262?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010145500 +0200" stop="20251010162000 +0200" channel="M+ Terror">
+    <title lang="es">Maniac Cop (1988)</title>
+    <desc lang="es">Policíaco | No recomendado para menores de dieciocho años | *3.2/5
+· Un hombre vestido con un uniforme de policía mata sin razón aparente en las calles de Nueva York.
+· País: EE.UU
+· Director: William Lustig
+· Reparto: Tom Atkins, Bruce Campbell, Laurene Landon, Richard Roundtree, William Smith, Robert Z'Dar
+· Guion: Larry Cohen
+· Música: Jay Chattaway
+· Producción: Larry Cohen
+· Productora: Shapiro Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3666840?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010162000 +0200" stop="20251010175500 +0200" channel="M+ Terror">
+    <title lang="es">La Llorona (2019)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.2/5
+· Los Ángeles, 1973. Anna es una trabajadora social con ciertos problemas para conciliar su intenso trabajo con la educación de sus dos hijos. En una visita a una de las familias que atiende, la madre, aterrada, le advierte de que sus niños corren peligro.
+· País: EE.UU
+· Director: Michael Chaves
+· Reparto: Linda Cardellini, Patricia Velasquez, Sean Patrick Thomas, Raymond Cruz, Marisol Ramirez, Tony Amendola, Jaynee-Lynne Kinchen, Roman Christou
+· Guion: Mikki Daughtry,Tobias Iaconis
+· Música: Joseph Bishara
+· Producción: James Wan, Emile Gladstone, Gary Dauberman
+· Productora: Atomic Monster, New Line Cinema</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3744154?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010175500 +0200" stop="20251010194500 +0200" channel="M+ Terror">
+    <title lang="es">Expediente Warren: The Conjuring (2013)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *4.0/5
+· A principios de la década de 1970, Ed y Lorraine Warren, renombrados investigadores de fenómenos paranormales, fueron requeridos por una familia aterrorizada por la presencia oscura que advertían en su aislada granja.
+· País: EE.UU
+· Director: James Wan
+· Reparto: Vera Farmiga, Patrick Wilson, Lili Taylor, Ron Livingston, Shanley Caswell, Hayley McFarland, Joey King, Mackenzie Foy, Kyla Deaver
+· Guion: Chad Hayes,Carey Hayes
+· Música: Joseph Bishara
+· Producción: Rob Cowan, Tony Derosa-Grund, Peter Safran
+· Productora: New Line Cinema, The Safran Company, Evergreen Media Group</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3835757?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010194500 +0200" stop="20251010220000 +0200" channel="M+ Terror">
+    <title lang="es">Expediente Warren: El caso Enfield (The Conjuring) (2016)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *4.0/5
+· Mientras Ed y Lorraine Warren investigaban los acontecimientos paranormales de Amityville, otro 'poltergeist' estaba teniendo lugar a miles de kilómetros de distancia en Enfield, Inglaterra.
+· País: Canadá y EE.UU
+· Director: James Wan
+· Reparto: Patrick Wilson, Vera Farmiga, Frances O'Connor, Madison Wolfe, Simon McBurney, Lauren Esposito, Benjamin Haigh, Patrick McAuley, Lili Taylor, Ron Livingston, Maria Doyle Kennedy, Shanley Caswell
+· Guion: Chad Hayes,Carey Hayes,James Wan,David Leslie Johnson,David Johnson
+· Música: Joseph Bishara
+· Producción: James Wan, Rob Cowan, Peter Safran
+· Productora: New Line Cinema, The Safran Company, RatPac-Dune Entertainment, Atomic Monster, Evergreen Media Group, Safran Company, The</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3835753?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010220000 +0200" stop="20251010235100 +0200" channel="M+ Terror">
+    <title lang="es">Expediente Warren: Obligado por el demonio (2021)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.7/5
+· Cuando en 1981 Ed y Lorraine Warren acudieron al exorcismo del niño David Glatzel, todos pensaron que habían puesto fin a meses de tormento, pero, para Arne Johnson, fue sólo el principio.
+· País: EE.UU y R.U
+· Director: Michael Chaves
+· Reparto: Vera Farmiga, Patrick Wilson, Ruairi O'Connor, Sarah Catherine Hook, Julian Hilliard, John Noble, Eugenie Bondurant
+· Guion: David Leslie Johnson-McGoldrick
+· Música: Joseph Bishara
+· Producción: James Wan, Peter Safran
+· Productora: New Line Cinema, Atomic Monster</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3975286?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010235100 +0200" stop="20251011012400 +0200" channel="M+ Terror">
+    <title lang="es">El exorcismo de Georgetown (2024)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *2.9/5
+· Anthony Miller es un actor con problemas que empieza a desmoronarse durante el rodaje de una cinta de terror. Es entonces cuando su distante hija se pregunta si su padre está volviendo a sus adicciones o si detrás de su comportamiento hay algo siniestro.
+· País: EE.UU
+· Director: Joshua John Miller
+· Reparto: Russell Crowe, Ryan Simpkins, Sam Worthington, Chloe Bailey, Adam Goldberg, David Hyde Pierce
+· Guion: M.A. Fortin,Joshua John Miller
+· Música: Danny Bensi, Saunder Jurriaans
+· Producción: Kevin Williamson, Ben Fast
+· Productora: Miramax, Outerbanks Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4268255?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010012400 +0200" stop="20251010025000 +0200" channel="M+ Terror">
+    <title lang="es">Muñecos asesinos (1990)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *2.9/5
+· Las marionetas regresan y cazan a los investigadores de lo paranormal en un intento de llevarse el líquido cefalorraquídeo para su amo, André Toulon.
+· País: EE.UU
+· Director: David Allen
+· Reparto: Elizabeth Mac Lellan, Collin Bernsen, Nita Talbot
+· Guion: David Pabian
+· Productora: Full Moon Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4265935?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251010025000 +0200" stop="20251010041700 +0200" channel="M+ Terror">
+    <title lang="es">Pesadilla final: la muerte de Freddy (1991)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.2/5
+· Freddy Krueger ha conseguido matar a todos los adolescentes y decide mudarse a otra ciudad.
+· País: EE.UU
+· Director: Rachel Talalay
+· Reparto: Robert Englund, Lisa Zane, Shon Greenblatt, Lezlie Deane, Tom Arnold, Yaphet Kotto, Roseanne Arnold, Ricky Dean Logan
+· Guion: Wes Craven,Rachel Talalay,Michael De Luca
+· Música: Brian May
+· Producción: Robert Shaye, Michael De Luca, Michael N. Knue, Aron Warner
+· Productora: Robert Shaye, New Line Cinema</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4049921?od[]=Z1H:MM3_H"/>
   </programme>
 </tv>
