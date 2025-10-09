@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 08/10/2025 01:19">
+<tv generator-info-name="MultiPopUps FullDesc 09/10/2025 01:21">
   <channel id="M+ Romance">
     <display-name>M+ Romance</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MROMA"/>
@@ -48,7 +48,7 @@
   </programme>
   <programme start="20251009124600 +0200" stop="20251009141100 +0200" channel="M+ Romance">
     <title lang="es">A toda máquina (2024)</title>
-    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *2.8/5
+    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *2.9/5
 · Marco, un intrépido camarero, y Marianne, una oficial de submarino con una fuerte personalidad, se encuentran durante una escala. Lo que comienza como una aventura puntual se convierte rápidamente en una trepidante aventura romántica.
 · País: Bélgica y Francia
 · Director: Lucas Bernard
@@ -289,7 +289,7 @@
 · Música: George Fenton
 · Producción: Lauren Shuler Donner, Nora Ephron
 · Productora: Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M2393218V179905"/>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M2393733V179905"/>
   </programme>
   <programme start="20251010235900 +0200" stop="20251011001600 +0200" channel="M+ Romance">
     <title lang="es">El drama de época de Jane Austen (2024)</title>
@@ -338,7 +338,175 @@
 · Productora: Topkapi Films, Menuet Producties</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4296748?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009071500 +0200" stop="20251009091000 +0200" channel="M+ Terror">
+  <programme start="20251011053300 +0200" stop="20251011071500 +0200" channel="M+ Romance">
+    <title lang="es">Amor a lo bestia (2024)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.3/5
+· A la actriz Laura Franco nada le va bien... y todo parece empeorar cuando descubre que en su armario vive un monstruo. Sin embargo, este extraño encuentro será la clave para que la protagonista recobre la seguridad en sí misma que creía haber perdido.
+· País: EE.UU
+· Director: Caroline Lindy
+· Reparto: Melissa Barrera, Tommy Dewey, Edmund Donovan, Meghann Fahy, Kayla Foster, Ikechukwu Ufomadu
+· Guion: Caroline Lindy
+· Música: Tim Williams
+· Producción: Caroline Lindy, Kayla Foster
+· Productora: Bombo Sports &amp; Entertainment, Mermade</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4382447?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011071500 +0200" stop="20251011091100 +0200" channel="M+ Romance">
+    <title lang="es">Daniela Forever (2024)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.3/5
+· Nicolás, un hombre hundido tras la muerte de su novia Daniela, cree encontrar un rayo de esperanza en un nuevo medicamento que permite controlar lo que se sueña. Gracias a él, Nicolás va a reanudar una relación cada vez más idílica.
+· País: Bélgica y España
+· Director: Nacho Vigalondo
+· Reparto: Beatrice Grannò, Henry Golding</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4377690?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011091100 +0200" stop="20251011093200 +0200" channel="M+ Romance">
+    <title lang="es">Antes de Madrid (2022)</title>
+    <desc lang="es">Corto de comedia | No recomendado para menores de dieciséis años | *3.0/5
+· Micaela y Santiago son una pareja adolescente que vive en un pequeño pueblo de Uruguay. Están muy decididos a tener su &quot;primera vez&quot;, o al menos intentarlo...
+· País: Uruguay</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4303984?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011093200 +0200" stop="20251011110900 +0200" channel="M+ Romance">
+    <title lang="es">La chica del valle (1983)</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.2/5
+· Una niña rica de California se enamora durante una fiesta de Randy, un chico encantador que la hacer reír.
+· País: EE.UU
+· Director: Martha Coolidge
+· Reparto: Nicolas Cage, Frederic Forrest, Lee Purcell, Elizabeth Daily, Deborah Foreman, Colleen Camp, Cameron Dye, Michael Bowen
+· Guion: Andrew Lane,Wayne Crawford
+· Música: Scott Wilk, Marc Levinthal
+· Producción: Andrew Lane, Wayne Crawford
+· Productora: Valley 9000</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M2393747V427750"/>
+  </programme>
+  <programme start="20251011110900 +0200" stop="20251011125200 +0200" channel="M+ Romance">
+    <title lang="es">París, distrito 13 (2021)</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.3/5
+· París, barrio de Les Olympiades. Émilie conoce a Camille, que se siente atraído por Nora, que, a su vez, se cruza en el camino de Amber. Tres chicas y un chico. Son amigos, a veces amantes y, a menudo, las dos cosas.
+· País: Francia
+· Director: Jacques Audiard
+· Reparto: Lucie Zhang, Makita Samba, Noémie Merlant, Jehnny Beth, Camille Léon-Fucien
+· Guion: Céline Sciamma,Léa Mysius,Jacques Audiard
+· Música: Rone
+· Producción: Valérie Schermann
+· Productora: Page 114, France 2 Cinéma, Canal+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4016320?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011125200 +0200" stop="20251011142500 +0200" channel="M+ Romance">
+    <title lang="es">El amor en su lugar (2021)</title>
+    <desc lang="es">Drama | No recomendado para menores de siete años | *3.5/5
+· En enero de 1942, un grupo de teatro formado por judíos representa una comedia musical en el gueto de Varsovia, donde más de 400.000 personas llevan un año confinados por los nazis.
+· País: España y R.U
+· Director: Rodrigo Cortés
+· Reparto: Clara Rugaard, Ferdia Walsh-Peelo, Valentina Bellè, Freya Parks, Dalit Streett Tejeda, Mark Ryder, Jack Roth
+· Guion: Rodrigo Cortés,David Safier
+· Música: Víctor Reyes
+· Producción: Adrián Guerra, Núria Valls
+· Productora: Nostromo Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3992154?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011142500 +0200" stop="20251011161400 +0200" channel="M+ Romance">
+    <title lang="es">Paso de ti (2008)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.2/5
+· Peter se encuentra anímicamente destrozado porque su novia lo ha dejado por un cantante de rock británico. Para recuperarse ,decide viajar a Hawái, sin saber que es el mismo destino que ha elegido su ex.
+· País: EE.UU
+· Director: Nicholas Stoller
+· Reparto: Jason Segel, Kristen Bell, Mila Kunis, Paul Rudd, Jonah Hill, Bill Hader, Russell Brand
+· Guion: Jason Segel
+· Música: Lyle Workman
+· Producción: Judd Apatow, Shauna Robertson
+· Productora: Universal Pictures, Apatow Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3695069?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011161400 +0200" stop="20251011175400 +0200" channel="M+ Romance">
+    <title lang="es">Hechizo de luna (1987)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de siete años | *3.4/5
+· Aunque reacia a admitirlo, Loretta se ha enamorado del apasionado y poco convencional Ronny, el hermano de su prometido. Y es que cuando hay luna llena todo puede pasar en el vecindario de Loretta.
+· País: EE.UU
+· Director: Norman Jewison
+· Reparto: Cher, Nicolas Cage, Vincent Gardenia, Olympia Dukakis, Danny Aiello, Nada Despotovich, John Mahoney, Robin Bartlett, Anita Gillette, Julie Bovasso, Helen Hanft, Feodor Jr. Chaliapin, Louis Guss, Robert Weil, Jack Tsirakis, Gina DeAngeles, Betti Orsatti
+· Guion: John Patrick Shanley
+· Música: Dick Hyman
+· Producción: Norman Jewison, Patrick J. Palmer
+· Productora: Metro-Goldwyn-Mayer (MGM)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M2393756V386917"/>
+  </programme>
+  <programme start="20251011175400 +0200" stop="20251011193800 +0200" channel="M+ Romance">
+    <title lang="es">The Artist (2011)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.3/5
+· A George Valentin, estrella del cine mudo, la vida le sonríe. Pero con la llegada de las películas sonoras, su carrera empieza a peligrar. Por su parte, la joven Peppy Miller salta a la fama.
+· País: Bélgica, EE.UU y Francia
+· Director: Michel Hazanavicius
+· Reparto: Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell, Malcolm McDowell, Missi Pyle, Penelope Ann Miller
+· Guion: Michel Hazanavicius
+· Música: Ludovic Bource
+· Productora: France 3 Cinéma, La Petite Reine, Studio 37</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3695427?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011193800 +0200" stop="20251011220000 +0200" channel="M+ Romance">
+    <title lang="es">El gran Gatsby (2013)</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.6/5
+· Nick Carraway es un aspirante a escritor que llega a Long Island en 1922, una época de decadencia moral, &quot;jazz&quot; y pujanza económica. Persiguiendo su propio 'sueño americano', Nick acaba siendo vecino de Jay Gatsby, un misterioso millonario.
+· País: Australia y EE.UU
+· Director: Baz Luhrmann
+· Reparto: Leonardo DiCaprio, Tobey Maguire, Carey Mulligan, Joel Edgerton, Isla Fisher, Jason Clarke, Frank Aldridge, Amitabh Bachchan, Lisa Adam, Steve Bisley, Richard Carter
+· Guion: Baz Luhrmann,Craig Pearce
+· Música: Craig Armstrong
+· Producción: Lucy Fisher
+· Productora: Warner Bros, Village Roadshow Pictures, A&amp;E Television Networks Inc</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3839711?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011220000 +0200" stop="20251012000600 +0200" channel="M+ Romance">
+    <title lang="es">Ghost, más allá del amor (1990)</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de doce años | *3.7/5
+· Una joven pareja de enamorados ve truncada su felicidad cuando él es asesinado por un ladrón en las calles de Manhattan.
+· País: EE.UU
+· Director: Jerry Zucker
+· Reparto: Patrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn, Vincent Schiavelli, Vivian Bonnell, Phil Leeds, Angelina Estrada, Rick Aviles
+· Guion: Bruce Joel Rubin
+· Música: Maurice Jarre, Alex North
+· Producción: Lisa Weinstein, Howard W Koch
+· Productora: Paramount Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4018997?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011000600 +0200" stop="20251011002300 +0200" channel="M+ Romance">
+    <title lang="es">Pietra (2024)</title>
+    <desc lang="es">Corto animación | Apto para todos los públicos | *3.1/5
+· Premio Movistar Plus+ en el IV Certamen de Cine Corto de Tres Cantos.
+
+Soñando despierta, la flor representa un acto de amor en medio de la asfixia.
+· País: España, Polonia y Portugal
+· Director: Cynthia Levitan</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4383157?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011002300 +0200" stop="20251011032900 +0200" channel="M+ Romance">
+    <title lang="es">Doctor Zhivago (1965)</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de doce años | *3.6/5
+· El Dr. Zhivago es capturado durante la I Guerra Mundial, y tiene que exiliarse de Moscú. En el destierro conoce a su gran amor.
+· País: EE.UU e Italia
+· Director: David Lean
+· Reparto: Omar Sharif, Julie Christie, Geraldine Chaplin, Rod Steiger, Alec Guinness, Tom Courtenay
+· Guion: Boris Pasternak,Robert Bolt
+· Música: Maurice Jarre
+· Producción: Carlo Ponti, David Lean
+· Productora: Metro-Goldwyn-Mayer (MGM)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3958158?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011032900 +0200" stop="20251011053700 +0200" channel="M+ Romance">
+    <title lang="es">Leyendas de pasión (1994)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.9/5
+· El coronel Ludlow, un antiguo oficial de caballería que abandonó el ejército por el trato que su Gobierno daba a los indios, vive con sus tres hijos en un rancho de Montana. La Primera Guerra Mundial y la aparición de una mujer cambiarán sus vidas.
+· País: EE.UU
+· Director: Edward Zwick
+· Reparto: Brad Pitt, Anthony Hopkins, Aidan Quinn, Julia Ormond, Henry Thomas, Karina Lombard, Tantoo Cardinal, Paul Desmond, Gordon Tootoosis, Christina Pickles
+· Guion: Bill Wittliff,Susan Shilliday,William D. Wittliff
+· Música: James Horner
+· Producción: Edward Zwick, Marshall Herskovitz, William D. Wittliff
+· Productora: TriStar Pictures, Columbia Pictures, Bedford Falls Productions, Pangaea Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4366204?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251009071500 +0200" stop="20251009091100 +0200" channel="M+ Terror">
     <title lang="es">El silencio de los corderos (1991)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *4.1/5
 · Clarice Starling, una aventajada alumna de la academia del FBI, recibe el encargo de investigar una serie de crueles asesinatos cometidos por un psicópata apodado Búfalo Bill.
@@ -351,7 +519,7 @@
 · Productora: Orion Pictures, Orion Pictures Corporation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4364954?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009091000 +0200" stop="20251009103200 +0200" channel="M+ Terror">
+  <programme start="20251009091100 +0200" stop="20251009103400 +0200" channel="M+ Terror">
     <title lang="es">Diabólica (2024)</title>
     <desc lang="es">Terror | No recomendado para menores de doce años | *3.1/5
 · Una familia corriente es seleccionada para probar una nueva inteligencia artificial, AIA, como promesa de ser la solución a todos los problemas domésticos. Sin embargo, no pasa mucho tiempo hasta que AIA empieza a mostrar comportamientos siniestros.
@@ -364,7 +532,7 @@
 · Productora: Blumhouse Productions, Depth of Field</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4339271?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009103200 +0200" stop="20251009115200 +0200" channel="M+ Terror">
+  <programme start="20251009103400 +0200" stop="20251009115400 +0200" channel="M+ Terror">
     <title lang="es">Puppet Master 5: Capítulo final (1994)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
 · La banda de muñecos vivientes de Andre Toulon deberá enfrentase de nuevo a Sutekh, que no parará hasta vengarse del marionetista que le robó sus secretos.
@@ -374,7 +542,7 @@
 · Productora: Full Moon Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4265947?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009115200 +0200" stop="20251009131600 +0200" channel="M+ Terror">
+  <programme start="20251009115400 +0200" stop="20251009131900 +0200" channel="M+ Terror">
     <title lang="es">La gorgona (1964)</title>
     <desc lang="es">Terror | No recomendado para menores de siete años | *3.2/5
 · En el pueblo de Vandorf se suceden una serie de asesinatos que convierten a las víctimas en seres de piedra. El padre de una de ellas decide averiguar la causa, pero sufre el mismo final.
@@ -387,7 +555,7 @@
 · Productora: Columbia Pictures, Hammer Film Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4351251?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009131600 +0200" stop="20251009152100 +0200" channel="M+ Terror">
+  <programme start="20251009131900 +0200" stop="20251009152200 +0200" channel="M+ Terror">
     <title lang="es">Clasificado “S”: transgresión en la Transición (2024)</title>
     <desc lang="es">Documental cine | No recomendado para menores de dieciséis años | *3.3/5
 · Tras la muerte de Franco, España vivió una revolución cultural en sus pantallas. Este documental, narrado por Iggy Pop, explora el fenómeno de las &quot;Clasificada S&quot;.
@@ -395,7 +563,7 @@
 · Director: Alberto Sedano</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4425041?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009152100 +0200" stop="20251009164300 +0200" channel="M+ Terror">
+  <programme start="20251009152200 +0200" stop="20251009164600 +0200" channel="M+ Terror">
     <title lang="es">Tenement (2024)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *2.9/5
 · Tras la muerte de su madre, Sorya decide viajar a Camboya junto a su novio para saber más sobre el país del que huyó su progenitora. Allí, Sorya se reencuentra con una familia a la que nunca conoció y en la que nada ni nadie es lo que parece.
@@ -408,7 +576,7 @@
 · Productora: Kongchak Pictures, Spanic Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4339287?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009164300 +0200" stop="20251009182300 +0200" channel="M+ Terror">
+  <programme start="20251009164600 +0200" stop="20251009182600 +0200" channel="M+ Terror">
     <title lang="es">It Follows (2014)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.2/5
 · Una adolescente sale corriendo de su casa, aterrorizada. Unos minutos después, tras decirle a su padre que no pasa nada y coger en la casa las llaves del coche, huye en el vehículo hacia una playa. Al día siguiente aparece brutalmente asesinada.
@@ -421,7 +589,7 @@
 · Productora: Northern Light Production, Animal Kingdom, Two Flints, Northern Lights Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3677384?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009182300 +0200" stop="20251009200300 +0200" channel="M+ Terror">
+  <programme start="20251009182600 +0200" stop="20251009200700 +0200" channel="M+ Terror">
     <title lang="es">Saw (2004)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *4.0/5
 · Dos personas se despiertan encadenados en una decrépita habitación. Desde una cinta de casette irán recibiendo instrucciones.
@@ -434,7 +602,7 @@
 · Productora: Lionsgate Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3920693?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009200300 +0200" stop="20251009220000 +0200" channel="M+ Terror">
+  <programme start="20251009200700 +0200" stop="20251009220000 +0200" channel="M+ Terror">
     <title lang="es">La nueva pesadilla de Wes Craven (1994)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.1/5
 · Freddy Krueger espera su oportunidad en la vida real para poder acechar a su víctima. Sexta secuela de Freddy, ese &quot;artista&quot; maligno que se introduce en los sueños de los niños americanos.
@@ -455,7 +623,7 @@
 · Productora: Showbox Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4335895?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009001200 +0200" stop="20251009014200 +0200" channel="M+ Terror">
+  <programme start="20251009001200 +0200" stop="20251009014300 +0200" channel="M+ Terror">
     <title lang="es">Un lugar tranquilo (2018)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.7/5
 · En un mundo invadido y arrasado por unos letales extraterrestres que se guían por el sonido, Evelyn y Lee sobreviven con sus hijos en una granja aislada en el bosque, sumidos en el más profundo silencio.
@@ -468,7 +636,7 @@
 · Productora: Platinum Dunes, Sunday Night</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4066339?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009014200 +0200" stop="20251009034200 +0200" channel="M+ Terror">
+  <programme start="20251009014300 +0200" stop="20251009034400 +0200" channel="M+ Terror">
     <title lang="es">Tiburón (1975)</title>
     <desc lang="es">Terror | No recomendado para menores de doce años | *4.1/5
 · En Amity Island, los bañistas sufren los ataques de un tiburón. Sin embargo, el alcalde no quiere dar publicidad al asunto para no perder ingresos turísticos.
@@ -481,7 +649,7 @@
 · Productora: Zanuck/Brown Productions, Universal Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3794017?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251009034200 +0200" stop="20251009052600 +0200" channel="M+ Terror">
+  <programme start="20251009034400 +0200" stop="20251009052700 +0200" channel="M+ Terror">
     <title lang="es">Re-Animator (1985)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.6/5
 · Herbert West estudia en Europa métodos regenerativos junto a un conocido científico, que muere en extrañas circunstancias. Decide viajar a EE.UU., donde continúa sus estudios con la intención de alcanzar la fórmula que permita reanimar los muertos.
@@ -493,7 +661,7 @@
 · Productora: Empire Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4089060?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251010052600 +0200" stop="20251010064500 +0200" channel="M+ Terror">
+  <programme start="20251010052700 +0200" stop="20251010064500 +0200" channel="M+ Terror">
     <title lang="es">La cueva (2014)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.0/5
 · Tres chicos y tres chicas hacen un viaje mochilero a una isla paradisíaca, pero sus idílicas vacaciones se transforman en una pesadilla cuando quedan atrapados en una cueva, donde la oscuridad y el instinto de supervivencia les llevan al límite.
@@ -507,16 +675,17 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3564058?od[]=Z1H:MM3_H"/>
   </programme>
   <programme start="20251010064500 +0200" stop="20251010082500 +0200" channel="M+ Terror">
-    <title lang="es">Cementerio viviente dos (1992)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *2.9/5
-· Un niño y su padre descubren un antiguo cementerio con el poder de resucitar a los muertos.
-· País: EE.UU
-· Director: Mary Lambert
-· Reparto: Anthony Edwards, Clancy Brown, Edward Furlong
-· Guion: Richard Outten
-· Música: Mark Governor
-· Productora: Paramou, Columbus Circle Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4417780?od[]=Z1H:SKYSHOW_H"/>
+    <title lang="es">Oscuridad total (2023)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.1/5
+· 1956, Francia. Un grupo de mineros y un profesor en busca de muestras quedan atrapados a 1.000 metros bajo tierra. Allí deben encontrar una salida y escapar de la siniestra presencia que acecha en los túneles.
+· País: Francia
+· Director: Mathieu Turi
+· Reparto: Samuel Le Bihan, Amir El Kacem, Jean-Hugues Anglade, Thomas Solivérès, Bruno Sanches, Diego Martín
+· Guion: Mathieu Turi
+· Música: Olivier Derivière
+· Producción: Eric Gendarme, Thomas Lubeau
+· Productora: Fulltime Studio, Marcel Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4331283?od[]=Z1H:MM3_H"/>
   </programme>
   <programme start="20251010082500 +0200" stop="20251010083500 +0200" channel="M+ Terror">
     <title lang="es">Jugando a ser dios (2024)</title>
@@ -678,5 +847,185 @@
 · Producción: Robert Shaye, Michael De Luca, Michael N. Knue, Aron Warner
 · Productora: Robert Shaye, New Line Cinema</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4049921?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011041700 +0200" stop="20251011060200 +0200" channel="M+ Terror">
+    <title lang="es">Terror en la ópera (1987)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.1/5
+· A Betty, una joven cantante de ópera, le ofrecen la oportunidad de debutar como protagonista en el ''Macbeth'' de Verdi, al sufrir un accidente la cantante principal. La obra tiene fama de maldita.
+· País: Italia
+· Director: Dario Argento
+· Reparto: Cristina Marsillach, Ian Charleson, Urbano Barberini, Daria Nicolodi, Antonella Vitale, William McNamara, Coralina Cataldi-Tassoni</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4349529?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011060200 +0200" stop="20251011075000 +0200" channel="M+ Terror">
+    <title lang="es">Rojo oscuro (1975)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.1/5
+· Un pianista presencia el asesinato de una médium mientras charla medio borracho con un amigo en un bar. La policía comienza a investigar el caso hasta que descubre que el artista es el siguiente objetivo del criminal.
+· País: Italia
+· Director: Dario Argento
+· Reparto: Macha Méril, Eros Pagni, David Hemmings, Gabriele Lavia, Daria Nicolodi
+· Guion: Bernardino Zapponi
+· Música: Giorgio Gaslini, Goblin
+· Producción: Salvatore Argento
+· Productora: Rizzoli Film Sp.A, Seda Spettacoli</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4359403?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011075000 +0200" stop="20251011091500 +0200" channel="M+ Terror">
+    <title lang="es">El hombre de mimbre (1973)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.4/5
+· En la localidad de Summerisle, una pacífica isla al oeste de Escocia, ha desaparecido una niña de 12 años. Hasta allí se traslada un agente de policía británico con el fin de iniciar la investigación.
+· País: R.U
+· Director: Robin Hardy
+· Reparto: Christopher Lee, Britt Ekland, Edward Woodward, Ingrid Pitt, Diane Cilento, Lindsay Kemp, Geraldine Cowper, Leslie Mackie, Kevin Collins, Walter Carr</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4113261?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011091500 +0200" stop="20251011105000 +0200" channel="M+ Terror">
+    <title lang="es">La revolución de las ratas (Willard) (1971)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.2/5
+· Los compañeros de trabajo del inadaptado Willard siempre se burlan de él, e intentan restarle mérito a su trabajo. Sus únicas amigas son unas ratas que cría en casa, Ben y Socrates.
+· País: EE.UU
+· Director: Daniel Mann
+· Reparto: Bruce Davison, Elsa Lanchester, Ernest Borgnine, Sondra Locke, Michael Dante, John Myhers, William Hansen, Joan Shawlee, J. Pat O'Malley, Jody Gilbert</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M2392898V1514625"/>
+  </programme>
+  <programme start="20251011105000 +0200" stop="20251011122500 +0200" channel="M+ Terror">
+    <title lang="es">Ben (1972)</title>
+    <desc lang="es">Terror | *3.0/5
+· Un chico solitario se convierte en el mejor amigo de una rata llamada Ben, que es la líder de un grupo de ratas asesinas que matan seres humanos.
+· País: EE.UU
+· Director: Phil Karlson
+· Reparto: Lee Montgomery, Joseph Campanella, Kaz Garas, Kenneth Tobey, Norman Alden, Scott Garrett, James Luisi, Meredith Baxter, Rosemary Murphy, Arthur O'Connell, Paul Carr
+· Guion: Gilbert Ralston,Stephen Gilbert
+· Música: Walter Scharf
+· Producción: Mort Briskin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/M2392899V4127485"/>
+  </programme>
+  <programme start="20251011122500 +0200" stop="20251011135500 +0200" channel="M+ Terror">
+    <title lang="es">La noche de Halloween (1978)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.5/5
+· Hace años, un chico apuñaló a su hermana en la noche de los muertos. Ahora ha huido del psiquiátrico en el que estaba recluido.
+· País: EE.UU
+· Director: John Carpenter
+· Reparto: Donald Pleasence, Jamie Lee Curtis, Nancy Kyes, P.J. Soles, Charles Cyphers, Kyle Richards
+· Guion: John Carpenter,Debra Hill
+· Música: John Carpenter
+· Producción: Debra Hill
+· Productora: Falcon International Productions, Compass International Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4042031"/>
+  </programme>
+  <programme start="20251011135500 +0200" stop="20251011154000 +0200" channel="M+ Terror">
+    <title lang="es">Los otros (2001)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.5/5
+· La II Guerra Mundial ha terminado, pero el marido de Grace no vuelve. Sola en un aislado caserón, Grace educa a sus dos hijos siguiendo estrictas normas religiosas mientras los protege de una enfermedad que les impide recibir directamente la luz del sol.
+· País: EE.UU, España y Francia
+· Director: Alejandro Amenábar
+· Reparto: Nicole Kidman, Fionnula Flanagan, Christopher Eccleston, Alakina Mann, James Bentley, Eric Sykes
+· Guion: Alejandro Amenábar
+· Música: Alejandro Amenábar
+· Producción: Tom Cruise, José Luis Cuerda, Fernando Bovaira, Park Sunmin
+· Productora: Cruise-Wagner Productions, Sociedad General de Cine (Sogecine) S.A, Las Producciones del Escorpión S.L., Dimension Films, Canal+, Canal+ España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3643446?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011154000 +0200" stop="20251011172000 +0200" channel="M+ Terror">
+    <title lang="es">Carrie (2013)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.4/5
+· Carrie es una joven con poderes psíquicos que sufre acoso en el instituto y el fanatismo religioso de su madre. Una humillación durante el baile de graduación desata toda su ira.
+· País: Canadá y EE.UU
+· Director: Kimberly Peirce
+· Reparto: Chloë Grace Moretz, Julianne Moore, Judy Greer, Portia Doubleday, Barry Shabaka Henley, Alex Russell, Ansel Elgort, Gabriella Wilde, Zoë Belkin, Samantha Weinstein
+· Guion: Lawrence D. Cohen,Roberto Aguirre-Sacasa
+· Música: Marco Beltrami
+· Productora: Screen Gems, Misher Films, Metro-Goldwyn-Mayer (MGM)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4373379?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011172000 +0200" stop="20251011190100 +0200" channel="M+ Terror">
+    <title lang="es">Oscuridad total (2023)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.1/5
+· 1956, Francia. Un grupo de mineros y un profesor en busca de muestras quedan atrapados a 1.000 metros bajo tierra. Allí deben encontrar una salida y escapar de la siniestra presencia que acecha en los túneles.
+· País: Francia
+· Director: Mathieu Turi
+· Reparto: Samuel Le Bihan, Amir El Kacem, Jean-Hugues Anglade, Thomas Solivérès, Bruno Sanches, Diego Martín
+· Guion: Mathieu Turi
+· Música: Olivier Derivière
+· Producción: Eric Gendarme, Thomas Lubeau
+· Productora: Fulltime Studio, Marcel Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4331283?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011190100 +0200" stop="20251011202600 +0200" channel="M+ Terror">
+    <title lang="es">Diabólica (2024)</title>
+    <desc lang="es">Terror | No recomendado para menores de doce años | *3.1/5
+· Una familia corriente es seleccionada para probar una nueva inteligencia artificial, AIA, como promesa de ser la solución a todos los problemas domésticos. Sin embargo, no pasa mucho tiempo hasta que AIA empieza a mostrar comportamientos siniestros.
+· País: EE.UU y R.U
+· Director: Chris Weitz
+· Reparto: John Cho, Katherine Waterston, Lukita Maxwell, Isaac Bae
+· Guion: Chris Weitz
+· Música: Alex Weston
+· Producción: Jason Blum, Andrew Miano, Chris Weitz
+· Productora: Blumhouse Productions, Depth of Field</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4339271?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011202600 +0200" stop="20251011220000 +0200" channel="M+ Terror">
+    <title lang="es">La autopsia de Jane Doe (2016)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.8/5
+· Los Douglas han sido asesinados. Toda su casa está llena de sangre, pero eso no es lo que sorprende al 'sheriff' Burke. Lo realmente extraño es la aparición en el sótano del cadáver de una joven desnuda, un cuerpo sin vida... y sin ningún daño físico.
+· País: EE.UU y R.U
+· Director: André Øvredal
+· Reparto: Emile Hirsch, Brian Cox, Ophelia Lovibond, Michael McElhatton, Olwen Catherine Kelly, Jane Perry
+· Guion: Ian Goldberg,Richard Naing,Ian B Goldberg
+· Música: Danny Bensi, Saunder Jurriaans
+· Producción: Fred Berger, Eric Garcia, Ben Pugh, Rory Aitken
+· Productora: 42, IM Global, Impostor Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3963495?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011220000 +0200" stop="20251011233700 +0200" channel="M+ Terror">
+    <title lang="es">La piscina (2024)</title>
+    <desc lang="es">Terror | No recomendado para menores de doce años | *3.1/5
+· Rebeca era una niña cuando el agua de la piscina de su casa la arrastró hasta el fondo. Años más tarde, Ray Waller, una estrella del béisbol retirada prematuramente, convence a su mujer de que esa misma piscina puede ser una buena idea para su familia.
+· País: Australia, EE.UU y R.U
+· Director: Bryce McGuire
+· Reparto: Wyatt Russell, Kerry Condon, Amélie Hoeferle, Gavin Warren, Elijah J. Roberts, Nancy Lenehan
+· Guion: Bryce McGuire
+· Música: Mark Korven
+· Producción: James Wan, Jason Blum
+· Productora: Blumhouse Productions, Atomic Monster</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4340864?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011233700 +0200" stop="20251012014700 +0200" channel="M+ Terror">
+    <title lang="es">Exhuma (2024)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.3/5
+· Una renombrada chamana y su aprendiz son contratados por una adinerada familia para investigar la enfermedad sobrenatural que únicamente afecta a su hijo primogénito. Todo apunta que se trata de una maldición que está a punto de desenterrarse.
+· País: Corea del Sur
+· Director: Jang Jae-hyun
+· Reparto: Kim Go-eun, Choi Min-sik, Lee Do-hyun, Kim Sun-young, Yoo Hae-jin
+· Guion: Jang Jae-hyun
+· Música: Kim Tae-seong
+· Productora: Showbox Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4335895?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011014700 +0200" stop="20251011032300 +0200" channel="M+ Terror">
+    <title lang="es">Birth/Rebirth (2023)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *2.9/5
+· Rose es una técnica de la morgue que tiene una obsesión: reanimar a los muertos. Cuando una noche trágica la hija de una de las enfermeras del hospital muere repentinamente. Ambas mujeres se embarcan en un oscuro camino por devolverla a la vida.
+· País: EE.UU
+· Director: Laura Moss
+· Reparto: Marin Ireland, Judy Reyes, Monique Gabriela Curnen, A. J. Lister, Breeda Wool, Grant Harrison, LaChanze
+· Guion: Laura Moss,Brendan J. O'Brien
+· Música: Ariel Marx
+· Producción: Mali Elfman
+· Productora: Shudder</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4385111?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251011032300 +0200" stop="20251011050000 +0200" channel="M+ Terror">
+    <title lang="es">Cementerio de animales (2019)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.4/5
+· La familia Creed se muda desde la ciudad de Boston a una preciosa casa en Maine, cerca de un bosque... y de un cementerio de animales donde los lugareños entierran a sus mascotas con un extraño ritual mortuorio.
+· País: EE.UU
+· Director: Kevin  Kölsch, Dennis Widmyer
+· Reparto: Jason Clarke, Amy Seimetz, John Lithgow, Jeté Laurence, Hugo Lavoie, Lucas Lavoie
+· Guion: Matt Greenberg,Jeff Buhler
+· Música: Christopher Young
+· Producción: Lorenzo di Bonaventura, Steven Schneider, Mark Vahradian
+· Productora: Alphaville Films, Di Bonaventura Pictures, Paramount Pictures, Room 101</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3743823?od[]=Z1H:MM3_H"/>
   </programme>
 </tv>
