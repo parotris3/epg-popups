@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 17/11/2025 01:27">
+<tv generator-info-name="MultiPopUps FullDesc 18/11/2025 01:26">
   <channel id="M+ En juego">
     <display-name>M+ En juego</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MROMA"/>
@@ -8,182 +8,146 @@
     <display-name>M+E: Nicolas Cage</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCAGE"/>
   </channel>
-  <programme start="20251117044800 +0100" stop="20251117064500 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Mandy (2018) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *2.8/5
-· En 1983, Red Miller y Mandy Bloom viven aislados en una casa en mitad de las Montañas Sombrías. Su idílica vida se ve truncada cuando en su camino se cruza la secta de los Hijos del Nuevo Amanecer.
-· País: Bélgica, EE.UU y R.U
-· Director: Panos Cosmatos, Casper Kelly, Chris Kelly
-· Reparto: Nicolas Cage, Andrea Riseborough, Linus Roache, Ned Dennehy, Olwen Fouere, Richard Brake, Bill Duke, Line Pillet, Clément Baronnet
-· Guion: Panos Cosmatos,Aaron Stewart-Ahn
-· Música: Jóhann Jóhannsson
-· Producción: Nate Bolotin, Martin Metz, Daniel Noah
-· Productora: SpectreVision, Umedia, XYZ Films, Legion M</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3673847?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251117064500 +0100" stop="20251117082500 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Prisioneros de Ghostland (2021) | Movistar Plus+</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *2.6/5
-· Bernice, la joven nieta del gobernador, huye de su casa sin dejar rastro. Pero su ansiada libertad dura poco y termina presa en una oscura región conocida como Ghostland.
-· País: EE.UU y Japón
-· Director: Sion Sono
-· Reparto: Nicolas Cage, Sofia Boutella, Nick Cassavetes, Bill Moseley, Tak Sakaguchi, Young Dais, Charles Glover
-· Guion: Reza Sixo Safai,Aaron Hendry
-· Música: Joseph Trapanese
-· Producción: Nate Bolotin, Michael Mendelsohn
-· Productora: Patriot Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3992100?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251117082500 +0100" stop="20251117100500 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Dream Scenario (2023) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.3/5
-· Paul Matthews es un padre de familia cualquiera, un profesor al que sus alumnos ni escuchan, un hombre que la gente no miraría al cruzarse por la calle. Sin embargo, sin motivo alguno, comienza a aparecerse en los sueños de miles de personas.
-· País: EE.UU
-· Director: Kristoffer Borgli
-· Reparto: Nicolas Cage, Michael Cera, Julianne Nicholson, Kate Berlant, Dylan Baker, Tim Meadows, Dylan Gelula
-· Guion: Kristoffer Borgli
-· Producción: Ari Aster, Tyler Campellone
-· Productora: A24, Square Peg</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4208805?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251117100500 +0100" stop="20251117100800 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Sirat (Extras).  Temporada (T1). Sirat (Extras) (T1): Sergi López es Luis (2025) | Movistar Plus+</title>
-    <desc lang="es">Making of | No recomendado para menores de dieciséis años | *3.0/5
-· Sergi López es Luis en 'Sirat', un padre que busca junto a su hijo pequeño, Esteban, a su hija desaparecida después de una rave. El actor catalán comenta cómo ha sido interpretarlo en un rodaje tan fuera de lo común como ha sido el de esta película.
+  <programme start="20251118060000 +0100" stop="20251118075000 +0100" channel="M+ En juego">
+    <title lang="es">Telediario Matinal (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.1/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
-· Reparto: Sergi López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4417063"/>
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
   </programme>
-  <programme start="20251117100800 +0100" stop="20251117113900 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Objetivo: Bin Laden (2016) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.0/5
-· Basada en la verdadera historia de Gary Faulkner, un exconvicto que intenta 11 veces viajar a la región de Pakistán para dar caza a Osama Bin Laden con sólo una espada.
-· País: EE.UU
-· Director: Larry Charles
-· Reparto: Nicolas Cage, Wendi McLendon-Covey, Russell Brand, Adrian Martinez, Matthew Modine, Rainn Wilson, Paul Scheer, Denis O'Hare, Graeme Duffy, Mark Brandon, Fiona Vroom, Amer Chadha-Patel, Hilary Jardine, Toby Hargrave, Karim Saidi, Tammy Hui
-· Guion: Rajiv Joseph,Scott Rothman
-· Música: David Newman
-· Productora: Endgame Entertainment, Kasbah-Film Tanger, Conde Nast Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4437014?od[]=Z1V:MM3_V"/>
+  <programme start="20251118075000 +0100" stop="20251118103500 +0100" channel="M+ En juego">
+    <title lang="es">La hora de La 1: La hora de la actualidad.  Temporada (T8). La hora de La 1:... (T8): Ep.227 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.4/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4168253"/>
   </programme>
-  <programme start="20251117113900 +0100" stop="20251117132500 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">El cazador de búfalos (2022) | Movistar Plus+</title>
-    <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *3.2/5
-· En 1874, el joven William Andrews abandona la Universidad de Harvard para viajar al Oeste, en donde espera poder dar un significado a su vida. En Kansas, William conoce a Miller, un cazador de búfalos que prepara una gran expedición, y se une a su grupo.
-· País: EE.UU
-· Director: Gabe Polsky
-· Reparto: Nicolas Cage, Fred Hechinger, Xander Berkeley, Rachel Keller, Jeremy Bobb, Paul Raci
-· Guion: Gabe Polsky,Liam Satre-Meloy
-· Música: Leo Birenberg
-· Producción: Gabe Polsky, Molly Conners
-· Productora: Gabe Polsky Productions, Altitude Film Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4172171?od[]=Z1V:MM3_V"/>
+  <programme start="20251118103500 +0100" stop="20251118150000 +0100" channel="M+ En juego">
+    <title lang="es">Mañaneros 360.  Temporada (T2). Mañaneros 360 (T2): Ep.56 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.5/5
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Javier Ruiz</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4171985"/>
   </programme>
-  <programme start="20251117132500 +0100" stop="20251117150700 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Besos de vampiro (1990) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *2.9/5
-· Un agente literario de Nueva York empieza a comportarse de forma muy extraña a raíz de la visita de una misteriosa joven.
-· País: EE.UU y R.U
-· Director: Robert Bierman
-· Reparto: Nicolas Cage, Jennifer Beals, Jessica Lundy, María Conchita Alonso, Elizabeth Ashley, Kasi Lemmons, Bob Lujan, Johnny Walker
-· Productora: Magellan Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4425922?od[]=Z1V:MM3_V"/>
+  <programme start="20251118150000 +0100" stop="20251118153500 +0100" channel="M+ En juego">
+    <title lang="es">Telediario 1 (2014) | Movistar Plus+</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
   </programme>
-  <programme start="20251117150700 +0100" stop="20251117170500 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Birdy (1984) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
-· Para escapar de un mundo irracional, Birdy, un veterano de Vietnam, convalece en estado catatónico en un hospital del ejército, donde él cree que se ha vuelto un ave como las de los sueños de su infancia.
-· País: EE.UU
-· Director: Alan Parker
-· Reparto: Matthew Modine, Nicolas Cage, John Harkins</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4435358?od[]=Z1V:MM3_V"/>
+  <programme start="20251118153500 +0100" stop="20251118154000 +0100" channel="M+ En juego">
+    <title lang="es">Deportes 1 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
   </programme>
-  <programme start="20251117170500 +0100" stop="20251117184300 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Te puede pasar a ti (1994) | Movistar Plus+</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.7/5
-· A Charlie, un policía de Nueva York, le toca un premio de la lotería. El problema es que el día anterior le prometió a una amiga darle la mitad del dinero en caso de ser agraciado. Ahora debe cumplir su promesa.
-· País: EE.UU
-· Director: Andrew Bergman
-· Reparto: Nicolas Cage, Bridget Fonda, Rosie Perez, Wendell Pierce, Isaac Hayes, Stanley Tucci, Seymour Cassel, Víctor Rojas
-· Guion: Jane Anderson
-· Música: Carter Burwell, Joe Mulherin
-· Producción: Mike Lobell
-· Productora: Columbia Pictures, TriStar Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3927835?od[]=Z1V:MM3_V"/>
+  <programme start="20251118154000 +0100" stop="20251118154500 +0100" channel="M+ En juego">
+    <title lang="es">El tiempo (2014) | Movistar Plus+</title>
+    <desc lang="es">Meteorología | *3.2/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
   </programme>
-  <programme start="20251117184300 +0100" stop="20251117202200 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Peggy Sue se casó (1986) | Movistar Plus+</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
-· En una reunión de antiguos alumnos, Peggy Sue, una mujer que está a punto de divorciarse, se ve mágicamente transportada al pasado. Tendrá así una oportunidad para cambiar su vida.
-· País: EE.UU
-· Director: Francis Ford Coppola
-· Reparto: Kathleen Turner, Nicolas Cage, Barry Miller, Catherine Hicks, Joan Allen, Kevin J. O'Connor, Jim Carrey, Helen Hunt, Maureen O'Sullivan, Don Murray, Barbara Harris, Wil Shriner, Harry Basil, Lisa Jane Persky, Ken Grantham, Larry Vann, Martin Scott
-· Guion: Arlene Sarner,Jerry Leichtling
-· Música: John Barry
-· Producción: Paul R. Gurian
-· Productora: TriStar Pictures, Zoetrope Studios, Delphi V Productions, Delphi V, Rastar Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3821559?od[]=Z1V:MM3_V"/>
+  <programme start="20251118154500 +0100" stop="20251118155500 +0100" channel="M+ En juego">
+    <title lang="es">Informativo territorial 2 (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
   </programme>
-  <programme start="20251117202200 +0100" stop="20251117220000 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Tokarev (2014) | Movistar Plus+</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.1/5
-· Un respetado hombre de negocios de pasado oscuro busca venganza después de que su hija sea secuestrada por unos hombres que quieren saldar viejas deudas.
-· País: EE.UU y Francia
-· Director: Paco Cabezas
-· Reparto: Nicolas Cage, Rachel Nichols, Max Ryan, Michael McGrady, Peter Stormare, Pasha D. Lychnikoff
-· Guion: Jim Agnew,Sean Keller
-· Música: Laurent Eyquem
-· Producción: Richard Rionda Del Castro, Josh Cowell, Michael Mendelsohn
-· Productora: Hannibal Pictures, Patriot Pictures, LLC, Marco Polo Production</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4425914?od[]=Z1V:MM3_V"/>
+  <programme start="20251118155500 +0100" stop="20251118173500 +0100" channel="M+ En juego">
+    <title lang="es">Directo al grano.  Temporada (T1). Directo al grano (T1): Ep.46 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Gonzalo Miró</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4171987"/>
   </programme>
-  <programme start="20251117220000 +0100" stop="20251118000100 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Asesinato en 8 mm (1998) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.5/5
-· Tom Welles es un detective privado que lleva una vida modesta y resignada junto a su esposa Amy y su pequeña hija Cindy. Acostumbrado a resolver casos rutinarios, una pequeña bobina de película dará un giro total a su vida.
-· País: Alemania y EE.UU
-· Director: Joel Schumacher
-· Reparto: Nicolas Cage, Joaquin Phoenix, James Gandolfini, Peter Stormare, Chris Bauer, Catherine Keener, Anthony Heald, Myra Carter, Amy Morton, Christopher Bauer
-· Guion: Andrew Kevin Walker
-· Música: Mychael Danna
-· Producción: Peter Lord, Joel Schumacher, Judy Hofflund, Gavin Polone
-· Productora: Columbia Pictures Corporation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4436902?od[]=Z1V:MM3_V"/>
+  <programme start="20251118173500 +0100" stop="20251118183500 +0100" channel="M+ En juego">
+    <title lang="es">Valle Salvaje.  Temporada (T3). Valle Salvaje (T3): Ep.57  (2025) | Movistar Plus+</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años | *3.0/5
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/r/caratula5/no-disp-vert"/>
   </programme>
-  <programme start="20251117000100 +0100" stop="20251117015000 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Sonny (2002) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *2.9/5
-· Sonny es un joven que acaba de licenciarse del ejército y ahora no le queda otra opción que volver a casa, a Nueva Orleáns. Todo este tiempo ha intentado alejarse de un pasado, pero cuando regresa con su madre todo vuelve a ser como antes.
-· País: EE.UU y España
-· Director: Nicolas Cage
-· Reparto: Brenda Blethyn, Harry Dean Stanton, Mena Suvari, James Franco</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4437226?od[]=Z1V:MM3_V"/>
+  <programme start="20251118183500 +0100" stop="20251118193500 +0100" channel="M+ En juego">
+    <title lang="es">La Promesa.  Temporada (T1). La Promesa (T1): Ep.717  (2025) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.0/5
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4171989"/>
   </programme>
-  <programme start="20251117015000 +0100" stop="20251117033000 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Hechizo de luna (1987) | Movistar Plus+</title>
-    <desc lang="es">Comedia romántica | No recomendado para menores de siete años | *3.4/5
-· Aunque reacia a admitirlo, Loretta se ha enamorado del apasionado y poco convencional Ronny, el hermano de su prometido. Y es que cuando hay luna llena todo puede pasar en el vecindario de Loretta.
-· País: EE.UU
-· Director: Norman Jewison
-· Reparto: Cher, Nicolas Cage, Vincent Gardenia, Olympia Dukakis, Danny Aiello, Nada Despotovich, John Mahoney, Robin Bartlett, Anita Gillette, Julie Bovasso, Helen Hanft, Feodor Jr. Chaliapin, Louis Guss, Robert Weil, Jack Tsirakis, Gina DeAngeles, Betti Orsatti
-· Guion: John Patrick Shanley
-· Música: Dick Hyman
-· Producción: Norman Jewison, Patrick J. Palmer
-· Productora: Metro-Goldwyn-Mayer (MGM)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4037921?od[]=Z1V:MM3_V"/>
+  <programme start="20251118193500 +0100" stop="20251118202500 +0100" channel="M+ En juego">
+    <title lang="es">Malas lenguas.  Temporada (T2). Malas lenguas (T2): Ep.46 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.2/5
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4171991"/>
   </programme>
-  <programme start="20251117033000 +0100" stop="20251117053200 +0100" channel="M+E: Nicolas Cage">
-    <title lang="es">Corazón salvaje (1990) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.2/5
-· Durante un permiso carcelario, Sailor, un agresivo convicto, va en busca de su novia Lula Pace Fortune, hija de la adinerada Marietta Fortune, una mujer sureña con ciertos desequilibrios emocionales.
-· País: EE.UU
-· Director: David Lynch
-· Reparto: Nicolas Cage, Laura Dern, Willem Dafoe, Crispin Glover, Diane Ladd, Isabella Rossellini, Harry Dean Stanton, Calvin Lockhart, Grace Zabriskie
-· Guion: David Lynch
-· Música: Angelo Badalamenti
-· Producción: Steve Golin
-· Productora: PolyGram Filmed Entertainment, Propaganda Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3925304?od[]=Z1V:MM3_V"/>
+  <programme start="20251118202500 +0100" stop="20251118205800 +0100" channel="M+ En juego">
+    <title lang="es">Aquí la Tierra (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *3.2/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4108661"/>
+  </programme>
+  <programme start="20251118205800 +0100" stop="20251118213900 +0100" channel="M+ En juego">
+    <title lang="es">Telediario 2 (2021) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20251118213900 +0100" stop="20251118214800 +0100" channel="M+ En juego">
+    <title lang="es">Deportes 2 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20251118214800 +0100" stop="20251118230700 +0100" channel="M+ En juego">
+    <title lang="es">La revuelta.  Temporada (T2). La revuelta (T2): Ep.41 (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de doce años | *3.3/5
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano
+· Productora: Radio Televisión Española (RTVE), El Terrat</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4385109"/>
+  </programme>
+  <programme start="20251118230700 +0100" stop="20251119022000 +0100" channel="M+ En juego">
+    <title lang="es">MasterChef Celebrity.  Temporada (T10). MasterChef Celebrity (T10): Final (2025) | Movistar Plus+</title>
+    <desc lang="es">Concurso | No recomendado para menores de doce años | *2.7/5
+· Llega la gran final del concurso tras doce semanas de competición.
+· País: España
+· Productora: ShineIberia</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4171995"/>
+  </programme>
+  <programme start="20251118022000 +0100" stop="20251118052000 +0100" channel="M+ En juego">
+    <title lang="es">MasterChef Celebrity.  Temporada (T10). MasterChef Celebrity (T10): Semifinal (2025) | Movistar Plus+</title>
+    <desc lang="es">Concurso | No recomendado para menores de doce años | *3.5/5
+· Cinco aspirantes optan por un pase a la final del concurso.
+· País: España
+· Productora: ShineIberia</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MCLANTVP4166693"/>
   </programme>
   <programme start="20251118053200 +0100" stop="20251118070000 +0100" channel="M+E: Nicolas Cage">
     <title lang="es">Pig (2021) | Movistar Plus+</title>
@@ -290,7 +254,11 @@
 · Para escapar de un mundo irracional, Birdy, un veterano de Vietnam, convalece en estado catatónico en un hospital del ejército, donde él cree que se ha vuelto un ave como las de los sueños de su infancia.
 · País: EE.UU
 · Director: Alan Parker
-· Reparto: Matthew Modine, Nicolas Cage, John Harkins</desc>
+· Reparto: Matthew Modine, Nicolas Cage, John Harkins, Sandy Baron, Karen Young, Bruno Kirby, Nancy Fish, George Buck
+· Guion: Jack Behr,Sandy Kroopf
+· Música: Peter Gabriel
+· Producción: Alan Marshall
+· Productora: TriStar Pictures, A&amp;M Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4435358?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20251118210200 +0100" stop="20251118220000 +0100" channel="M+E: Nicolas Cage">
@@ -452,7 +420,11 @@
 · Para escapar de un mundo irracional, Birdy, un veterano de Vietnam, convalece en estado catatónico en un hospital del ejército, donde él cree que se ha vuelto un ave como las de los sueños de su infancia.
 · País: EE.UU
 · Director: Alan Parker
-· Reparto: Matthew Modine, Nicolas Cage, John Harkins</desc>
+· Reparto: Matthew Modine, Nicolas Cage, John Harkins, Sandy Baron, Karen Young, Bruno Kirby, Nancy Fish, George Buck
+· Guion: Jack Behr,Sandy Kroopf
+· Música: Peter Gabriel
+· Producción: Alan Marshall
+· Productora: TriStar Pictures, A&amp;M Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4435358?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20251119195400 +0100" stop="20251119215400 +0100" channel="M+E: Nicolas Cage">
@@ -534,5 +506,175 @@
 · Producción: Ari Aster, Tyler Campellone
 · Productora: A24, Square Peg</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4208805?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120053000 +0100" stop="20251120072000 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">El ladrón de orquídeas (Adaptation) (2002) | Movistar Plus+</title>
+    <desc lang="es">Comedia dramática | No recomendado para menores de dieciséis años | *3.4/5
+· Charlie Kaufman es un guionista lleno de inseguridades que repercuten tanto en su carrera profesional como en su vida personal. Cuando le contratan para la adaptación al cine de &quot;El ladrón de orquídeas&quot;, su vida da un vuelco.
+· País: EE.UU
+· Director: Spike Jonze
+· Reparto: Nicolas Cage, Meryl Streep, Chris Cooper, Brian Cox
+· Guion: Charlie Kaufman
+· Música: Carter Burwell
+· Productora: Columbia Pictures, Intermedia Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3629020?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120072000 +0100" stop="20251120090000 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Te puede pasar a ti (1994) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.7/5
+· A Charlie, un policía de Nueva York, le toca un premio de la lotería. El problema es que el día anterior le prometió a una amiga darle la mitad del dinero en caso de ser agraciado. Ahora debe cumplir su promesa.
+· País: EE.UU
+· Director: Andrew Bergman
+· Reparto: Nicolas Cage, Bridget Fonda, Rosie Perez, Wendell Pierce, Isaac Hayes, Stanley Tucci, Seymour Cassel, Víctor Rojas
+· Guion: Jane Anderson
+· Música: Carter Burwell, Joe Mulherin
+· Producción: Mike Lobell
+· Productora: Columbia Pictures, TriStar Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3927835?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120090000 +0100" stop="20251120090600 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Conoce &quot;Los Tigres&quot;, la nueva película de Alberto Rodríguez (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.0/5
+· El director Alberto Rodríguez nos cuenta junto a sus actores, Antonio de la Torre y Bárbara Lennie, todos los detalles de su última película “Los Tigres”, ya estrenada en cines y próximamente en Movistar Plus+.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4437563?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120090600 +0100" stop="20251120105800 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Con Air (Convictos en el aire) (1997) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.4/5
+· Un grupo de peligrosos y temidos delincuentes secuestra el avión que les traslada a una prisión de máxima seguridad.
+· País: EE.UU
+· Director: Simon West
+· Reparto: Nicolas Cage, John Cusack, John Malkovich, Steve Buscemi
+· Guion: Scott Rosenberg
+· Música: Trevor Rabin
+· Productora: Kouf/Bigelow Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4426171?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120105800 +0100" stop="20251120125700 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Asesinato en 8 mm (1998) | Movistar Plus+</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.5/5
+· Tom Welles es un detective privado que lleva una vida modesta y resignada junto a su esposa Amy y su pequeña hija Cindy. Acostumbrado a resolver casos rutinarios, una pequeña bobina de película dará un giro total a su vida.
+· País: Alemania y EE.UU
+· Director: Joel Schumacher
+· Reparto: Nicolas Cage, Joaquin Phoenix, James Gandolfini, Peter Stormare, Chris Bauer, Catherine Keener, Anthony Heald, Myra Carter, Amy Morton, Christopher Bauer
+· Guion: Andrew Kevin Walker
+· Música: Mychael Danna
+· Producción: Peter Lord, Joel Schumacher, Judy Hofflund, Gavin Polone
+· Productora: Columbia Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4436902?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120125700 +0100" stop="20251120145500 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Mandy (2018) | Movistar Plus+</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *2.8/5
+· En 1983, Red Miller y Mandy Bloom viven aislados en una casa en mitad de las Montañas Sombrías. Su idílica vida se ve truncada cuando en su camino se cruza la secta de los Hijos del Nuevo Amanecer.
+· País: Bélgica, EE.UU y R.U
+· Director: Panos Cosmatos, Casper Kelly, Chris Kelly
+· Reparto: Nicolas Cage, Andrea Riseborough, Linus Roache, Ned Dennehy, Olwen Fouere, Richard Brake, Bill Duke, Line Pillet, Clément Baronnet
+· Guion: Panos Cosmatos,Aaron Stewart-Ahn
+· Música: Jóhann Jóhannsson
+· Producción: Nate Bolotin, Martin Metz, Daniel Noah
+· Productora: SpectreVision, Umedia, XYZ Films, Legion M</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3673847?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120145500 +0100" stop="20251120162900 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Tess y su guardaespaldas (1994) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
+· Un agente especial preparado para estar en la línea de fuego y la acción sin límites, debe proteger a una ex primera dama. Públicamente es una entrañable anciana pero de puertas para adentro presenta un carácter caprichoso e irascible.
+· País: EE.UU
+· Director: Hugh Wilson
+· Reparto: Nicolas Cage, Shirley MacLaine, Edward Albert, John Roselius, David Graf, Austin Pendleton, Richard Griffiths, James Rebhorn, David Graff, Don Yesso, James Lally
+· Guion: Hugh Wilson,Peter Torokvei
+· Música: Michael Convertino
+· Producción: Ned Tanen, Nancy Graham Tanen
+· Productora: TriStar Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4435774?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120162900 +0100" stop="20251120183300 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Corazón salvaje (1990) | Movistar Plus+</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.2/5
+· Durante un permiso carcelario, Sailor, un agresivo convicto, va en busca de su novia Lula Pace Fortune, hija de la adinerada Marietta Fortune, una mujer sureña con ciertos desequilibrios emocionales.
+· País: EE.UU
+· Director: David Lynch
+· Reparto: Nicolas Cage, Laura Dern, Willem Dafoe, Crispin Glover, Diane Ladd, Isabella Rossellini, Harry Dean Stanton, Calvin Lockhart, Grace Zabriskie
+· Guion: David Lynch
+· Música: Angelo Badalamenti
+· Producción: Steve Golin
+· Productora: PolyGram Filmed Entertainment, Propaganda Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3925304?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120183300 +0100" stop="20251120201600 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Besos de vampiro (1990) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *2.9/5
+· Un agente literario de Nueva York empieza a comportarse de forma muy extraña a raíz de la visita de una misteriosa joven.
+· País: EE.UU y R.U
+· Director: Robert Bierman
+· Reparto: Nicolas Cage, Jennifer Beals, Jessica Lundy, María Conchita Alonso, Elizabeth Ashley, Kasi Lemmons, Bob Lujan, Johnny Walker
+· Productora: Magellan Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4425922?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120201600 +0100" stop="20251120220000 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Peggy Sue se casó (1986) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
+· En una reunión de antiguos alumnos, Peggy Sue, una mujer que está a punto de divorciarse, se ve mágicamente transportada al pasado. Tendrá así una oportunidad para cambiar su vida.
+· País: EE.UU
+· Director: Francis Ford Coppola
+· Reparto: Kathleen Turner, Nicolas Cage, Barry Miller, Catherine Hicks, Joan Allen, Kevin J. O'Connor, Jim Carrey, Helen Hunt, Maureen O'Sullivan, Don Murray, Barbara Harris, Wil Shriner, Harry Basil, Lisa Jane Persky, Ken Grantham, Larry Vann, Martin Scott
+· Guion: Arlene Sarner,Jerry Leichtling
+· Música: John Barry
+· Producción: Paul R. Gurian
+· Productora: TriStar Pictures, Zoetrope Studios, Delphi V Productions, Delphi V, Rastar Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3821559?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120220000 +0100" stop="20251120234100 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Prisioneros de Ghostland (2021) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *2.6/5
+· Bernice, la joven nieta del gobernador, huye de su casa sin dejar rastro. Pero su ansiada libertad dura poco y termina presa en una oscura región conocida como Ghostland.
+· País: EE.UU y Japón
+· Director: Sion Sono
+· Reparto: Nicolas Cage, Sofia Boutella, Nick Cassavetes, Bill Moseley, Tak Sakaguchi, Young Dais, Charles Glover
+· Guion: Reza Sixo Safai,Aaron Hendry
+· Música: Joseph Trapanese
+· Producción: Nate Bolotin, Michael Mendelsohn
+· Productora: Patriot Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3992100?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120234100 +0100" stop="20251121012200 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Longlegs (2024) | Movistar Plus+</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.3/5
+· La novata agente del FBI Lee Harker es asignada a la investigación del caso de un asesino en serie particularmente elusivo conocido como 'Longlegs'.
+· País: Canadá y EE.UU
+· Director: Osgood Perkins
+· Reparto: Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt, Michelle Choi-Lee, Kiernan Shipka
+· Guion: Osgood Perkins
+· Música: Elvis Perkins
+· Producción: Dan Kagan, Dave Caplan
+· Productora: C2 Motion Picture Group, Traffic</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4305982?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120012200 +0100" stop="20251120030800 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Color Out of Space (2019) | Movistar Plus+</title>
+    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *2.6/5
+· La familia Gardner vive en una granja en medio del bosque en una localidad llamada Arkham. Una noche, un extraño meteorito de color violeta se estrella cerca de la casa.
+· País: EE.UU y Portugal
+· Director: Richard Stanley
+· Reparto: Nicolas Cage, Joely Richardson, Madeleine Arthur, Brendan Meyer, Julian Hilliard, Elliot Knight, Josh C. Waller
+· Guion: Richard Stanley,Scarlett Amaris
+· Música: Colin Stetson
+· Productora: SpectreVision</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3858552?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251120030800 +0100" stop="20251120044300 +0100" channel="M+E: Nicolas Cage">
+    <title lang="es">Snake Eyes (Ojos de serpiente) (1998) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.3/5
+· Entre la multitud de espectadores de un combate de boxeo, un detective debe descubrir al asesino de un político estadounidense.
+· País: Canadá y EE.UU
+· Director: Brian De Palma
+· Reparto: Nicolas Cage, Gary Sinise, Kevin Dunn, Michael Rispoli, Mike Starr, Stan Shaw, Chip Zien, David Anthony Higgins, Joel Fabiani, Michaella Bassey, Paul Joseph Bernardo, Eric Hoziel
+· Guion: Brian De Palma,David Koepp
+· Música: Ryuichi Sakamoto
+· Producción: Brian De Palma
+· Productora: Paramount Pictures, Touchstone Pictures, DeBart</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4388344?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
