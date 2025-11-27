@@ -1,192 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 26/11/2025 01:26">
+<tv generator-info-name="MultiPopUps FullDesc 27/11/2025 01:25">
   <channel id="M+ En juego">
     <display-name>M+ En juego</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDEPOR"/>
   </channel>
-  <channel id="M+E: Nicolas Cage">
-    <display-name>M+E: Nicolas Cage</display-name>
+  <channel id="M+ Navidad">
+    <display-name>M+ Navidad</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCAGE"/>
   </channel>
-  <programme start="20251126041500 +0100" stop="20251126060500 +0100" channel="M+ En juego">
-    <title lang="es">El clan de los rompehuesos (2005) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.6/5
-· Un jugador de fútbol americano, enviado a prisión por conducción temeraria, es obligado a entrenar a un equipo de presos.
-· País: EE.UU
-· Director: Peter Segal
-· Reparto: Adam Sandler, Chris Rock, Burt Reynolds, James Cromwell, Nelly, William Fichtner, Michael Irvin, Walter Williamson, Terry Crews, Rob Schneider, Bill Goldberg, Nicholas Turturro, Courteney Cox, Jim Rome, Maurice Bryant, Joe Schey, Terrance Joseph
-· Guion: Sheldon Turner,Tracy Keenan Wynn,Albert S. Ruddy
-· Música: Teddy Castellucci
-· Producción: Jack Giarraputo
-· Productora: Paramount Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3746056?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126060500 +0100" stop="20251126074300 +0100" channel="M+ En juego">
-    <title lang="es">Drazen (2024) | Movistar Plus+</title>
-    <desc lang="es">Biopic | No recomendado para menores de doce años | *3.3/5
-· Croacia, 1975. A pesar de sus problemas respiratorios y la insistencia de sus padres para que se dedique a la música, Drazen descubre que el baloncesto es su verdadera pasión. Así nace la leyenda del &quot;Mozart del baloncesto&quot;.
-· País: Croacia
-· Director: Danilo Serbedzija, Ljubo Zdjelarevic
-· Reparto: Domagoj Nizic, Zrinka Cvitesic, Dragan Micanovic
-· Productora: Living Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4387922?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126074300 +0100" stop="20251126075000 +0100" channel="M+ En juego">
-    <title lang="es">La buena suerte. Cuando el pasado te persigue (2025) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.0/5
-· Hablamos con los protagonistas Hugo Silva y Megan Montaner, con la directora Gracia Querejeta y con la escritora de la novela homónima, Rosa Montero, Una película que se centra en Pablo, un arquitecto que decide huir de su vida y comenzar de cero.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4380714?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126075000 +0100" stop="20251126102000 +0100" channel="M+ En juego">
-    <title lang="es">Un domingo cualquiera (1999) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.4/5
-· El veterano entrenador de un equipo de fútbol americano se enfrenta a las exigencias de la nueva propietaria del equipo.
-· País: EE.UU
-· Director: Oliver Stone
-· Reparto: Al Pacino, Cameron Diaz, Dennis Quaid, James Woods, Jamie Foxx, LL Cool J, Charlton Heston, Ann-Margret, Aaron Eckhart, John C. McGinley, Lauren Holly, Elizabeth Berkley, Jim Brown
-· Guion: Oliver Stone,Daniel Pyne,John Logan
-· Música: Richard Horowitz, Paul Kelly, Kelly Paul
-· Producción: Lauren Shuler Donner, Dan Halsted
-· Productora: Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4366401?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126102000 +0100" stop="20251126120500 +0100" channel="M+ En juego">
-    <title lang="es">Tatami (2023) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.2/5
-· Durante una competición internacional, la judoka iraní Leila y su entrenadora Maryam luchan por conseguir la primera medalla de oro del país. Sin embargo, el gobierno tiene otros planes para Leila.
-· País: EE.UU, Georgia y R.U
-· Director: Guy Nattiv, Zar Amir Ebrahimi
-· Reparto: Arienne Mandi, Zar Amir Ebrahimi, Jaime Ray Newman, Nadine Marshall
-· Guion: Guy Nattiv,Elham Erfani
-· Música: Dascha Dauenhauer
-· Producción: Adi Ezroni, Mandy Tagger
-· Productora: Keshet Studios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4319403?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126120500 +0100" stop="20251126141200 +0100" channel="M+ En juego">
-    <title lang="es">Ellas dan el golpe (1992) | Movistar Plus+</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.3/5
-· En 1943, mientras las grandes figuras del béisbol estadounidense pelean en la II Guerra Mundial, el deporte nacional está a punto de desaparecer. Para salvarlo, un grupo de mujeres forma un equipo femenino.
-· País: EE.UU
-· Director: Penny Marshall
-· Reparto: Tom Hanks, Geena Davis, Madonna, Lori Petty, Megan Cavanagh, Rosie O'Donnell, Ann Cusack, Tracy Reiner, Bitty Schram, David Bair, Sergio Corbucci, Jon Lovitz, Garry Marshall, David Strathairn
-· Guion: Babaloo Mandel,Lowell Ganz
-· Música: Hans Zimmer
-· Producción: Elliot Abbott, Robert Greenhut
-· Productora: Parkway Productions, Columbia Pictures Corporation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3840587?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126141200 +0100" stop="20251126142000 +0100" channel="M+ En juego">
-    <title lang="es">Los domingos, Concha de Oro a mejor película en SSIFF (2025) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
-· Los domingos, Concha de Oro a mejor película en SSIFF.
-· País: España
-· Presenta: Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4426333?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20251126142000 +0100" stop="20251126163300 +0100" channel="M+ En juego">
-    <title lang="es">Tin Cup (1996) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.1/5
-· Tin Cup es un temperamental jugador de golf que se enamora de la novia de su mayor rival.
-· País: EE.UU
-· Director: Ron Shelton
-· Reparto: Rene Russo, Kevin Costner, Cheech Marin, Don Johnson, Dennis Burkley, Lou Myers, Linda Hart
-· Guion: Ron Shelton,John Norville
-· Música: William Ross (I)
-· Producción: Gary Foster, David V. Lester
-· Productora: Warner Bros, Regency Enterprises, Regency Entertaintment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4337755?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126163300 +0100" stop="20251126183500 +0100" channel="M+ En juego">
-    <title lang="es">El castañazo (1977) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *3.4/5
-· Un equipo de 'hockey' sobre hielo de tercera categoría está a punto de desaparecer. Todo cambia con la llegada de tres hermanos.
-· País: EE.UU
-· Director: George Roy Hill
-· Reparto: Paul Newman, Michael Ontkean, Lindsay Crouse, Strother Martin, Jennifer Warren, Stephen Mendillo, Jerry Houser, Ned Dowd, Paul D'Amato
-· Guion: Nancy Dowd
-· Producción: Robert J Wunsch
-· Productora: Universal Pictures, Kings Road Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3917297?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126183500 +0100" stop="20251126202800 +0100" channel="M+ En juego">
-    <title lang="es">Rudy, reto a la gloria (1993) | Movistar Plus+</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.3/5
-· Rudy vive en una pequeña ciudad que se sustenta de la industria del acero, pero él sueña con jugar en un equipo de fútbol.
-· País: EE.UU
-· Director: David Anspaugh
-· Reparto: Robert Prosky, Ned Beatty, Sean Astin, Jason Miller, Charles S. Dutton, Jon Favreau, Lili Taylor, Scott Benjaminson, Mary Ann Thebus, Greta Lind
-· Guion: Angelo Pizzo
-· Música: Jerry Goldsmith
-· Producción: Cary Woods, Angelo Pizzo, Robert N. Fried
-· Productora: TriStar Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F2928524?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126202800 +0100" stop="20251126220000 +0100" channel="M+ En juego">
-    <title lang="es">Último asalto (2017) | Movistar Plus+</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.2/5
-· El excampeón de boxeo juvenil, Jimmy McCabe, ha tocado fondo. Se ha convertido en un alcohólico agresivo y ya ha recibido varias notificaciones de desahucio cuando decide volver al gimnasio en el que se formó.
-· País: R.U
-· Director: Thomas Napper
-· Reparto: Johnny Harris, Ray Winstone, Ian McShane, Michael Smiley, Luke J.I Smith, Anna Wilson-Hall
-· Guion: Johnny Harris
-· Música: Paul Weller
-· Producción: Michael Elliott, Johnny Harris
-· Productora: Emu Films, Revolution Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4427171?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126220000 +0100" stop="20251127000600 +0100" channel="M+ En juego">
-    <title lang="es">Toro salvaje (1980) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
-· Jake LaMotta es un joven boxeador que se entrena duramente, ayudado por su hermano Joey, para convertirse en el número uno de los pesos medios. Sus complejos psicológicos y sexuales lo llevan a manifestar su agresividad tanto dentro como fuera del ring.
-· País: EE.UU
-· Director: Martin Scorsese
-· Reparto: Robert De Niro, Cathy Moriarty, Joe Pesci, John Turturro, Ralph Meeker, Frank Vincent, Theresa Saldana, Frank Adonis, Mario Gallo, Nicholas Colasanto, Floyd Anderson, Kevin Mahon, Louis Raftis, Johnny Turner, Joseph Bono, Frank Topham, Lori Anne Flax
-· Guion: Paul Schrader,Jake La Motta,Peter Savage,Mardik Martin,Joseph Carter
-· Música: Robbie Robertson
-· Producción: Irwin Winkler, Robert Chartoff, Peter Savage, Hal W Polaire
-· Productora: United Artists, Chartoff-Winkler Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3955410?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126000600 +0100" stop="20251126020000 +0100" channel="M+ En juego">
-    <title lang="es">Evasión o victoria (1981) | Movistar Plus+</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.8/5
-· Un equipo de oficiales nazis se enfrenta a un combinado de prisioneros de guerra aliados en un épico partido de fútbol. En juego, no sólo el triunfo sino también la libertad.
-· País: EE.UU, Italia y R.U
-· Director: John Huston
-· Reparto: Sylvester Stallone, Michael Caine, Max von Sydow, Pelé, Tim Pigott-Smith, Bobby Moore, Osvaldo Ardiles, Daniel Massey
-· Guion: Yabo Yablonsky,Jeff Maguire,Evan Jones,Djordje Milicevic
-· Música: Bill Conti
-· Producción: Freddie Fields
-· Productora: Lorimar Film Entertainment Pictures, Victory Company, Lorimar Film Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3799982?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126020000 +0100" stop="20251126035000 +0100" channel="M+ En juego">
-    <title lang="es">Quiero ser como Beckham (2002) | Movistar Plus+</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.3/5
-· Una familia india entra en crisis cuando su hija pequeña decide que quiere convertirse en jugadora profesional de fútbol.
-· País: Alemania y R.U
-· Director: Gurinder Chadha
-· Reparto: Parminder Nagra, Keira Knightley, Jonathan Rhys Meyers, Juliet Stevenson, Anupam Kher, David Beckham, Shaheen Khan, Louise Walker, Nav Bopari, Kulwant Singh Chowdhary
-· Guion: Gurinder Chadha,Paul Mayeda Berges,Guljit Bindra
-· Música: Craig Pruess
-· Producción: Deepak Nayar, Gurinder Chadha</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4106268?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251126035000 +0100" stop="20251126051800 +0100" channel="M+ En juego">
-    <title lang="es">Campeón (2022) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de siete años | *2.9/5
-· Dos amigos, Dylan y Youssef quieren convertirse en grandes futbolistas. Cuando Dylan queda parapléjico tras un accidente, su padre quiere que acepte su discapacidad, sin embargo, él está decidido a volver a jugar al fútbol.
-· País: Alemania y Países Bajos
-· Director: Camiel Schouwenaar
-· Reparto: Maik Cillekens, Anouar Kasmi, Soufiane Touzani, Kailani Busker, Martijn Fischer, Maartje van de Wetering
-· Guion: Job Tichelman,Camiel Schouwenaar
-· Música: Anna Kühlein, Lennert Busch, Floris de Haan
-· Producción: Reinier Selen, Rinskje Raap
-· Productora: Rinkel Film, Ostlicht Filmproduktion</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4331020?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20251127051800 +0100" stop="20251127064900 +0100" channel="M+ En juego">
     <title lang="es">Yo hice a Roque III (1980) | Movistar Plus+</title>
     <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.5/5
@@ -496,5 +317,175 @@
 · Director: Jason Adam Maselle
 · Reparto: Bouwer Bosch, Nyaniso Dzedze</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4338486?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129060000 +0100" stop="20251129060900 +0100" channel="M+ En juego">
+    <title lang="es">Los domingos, Concha de Oro a mejor película en SSIFF (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
+· Los domingos, Concha de Oro a mejor película en SSIFF.
+· País: España
+· Presenta: Cristina Teva</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4426333?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20251129060900 +0100" stop="20251129074000 +0100" channel="M+ En juego">
+    <title lang="es">Cuestión de pelotas (2004) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.3/5
+· Un humilde gimnasio en declive está a punto de ser absorbido por el templo del 'fitness' de un conocido deportista.
+· País: Alemania y EE.UU
+· Director: Rawson Marshall Thurber
+· Reparto: Vince Vaughn, Ben Stiller, Christine Taylor, Rip Torn, Justin Long, Joel David Moore, Missi Pyle, Jason Bateman, Hank Azaria
+· Guion: Rawson Marshall Thurber
+· Música: Theodore Shapiro
+· Producción: Ben Stiller, Stuart Cornfeld
+· Productora: Twentieth Century Fox, Red Hour Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4387617?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129074000 +0100" stop="20251129094500 +0100" channel="M+ En juego">
+    <title lang="es">Ellas dan el golpe (1992) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.3/5
+· En 1943, mientras las grandes figuras del béisbol estadounidense pelean en la II Guerra Mundial, el deporte nacional está a punto de desaparecer. Para salvarlo, un grupo de mujeres forma un equipo femenino.
+· País: EE.UU
+· Director: Penny Marshall
+· Reparto: Tom Hanks, Geena Davis, Madonna, Lori Petty, Megan Cavanagh, Rosie O'Donnell, Ann Cusack, Tracy Reiner, Bitty Schram, David Bair, Sergio Corbucci, Jon Lovitz, Garry Marshall, David Strathairn
+· Guion: Babaloo Mandel,Lowell Ganz
+· Música: Hans Zimmer
+· Producción: Elliot Abbott, Robert Greenhut
+· Productora: Parkway Productions, Columbia Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3840587?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129094500 +0100" stop="20251129113800 +0100" channel="M+ En juego">
+    <title lang="es">Hoosiers: más que ídolos (1985) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
+· Un hombre llega a una pequeña localidad a entrenar a un equipo. La mentalidad cerrada del pueblo le pondrá las cosas difíciles.
+· País: EE.UU y R.U
+· Director: David Anspaugh
+· Reparto: Dennis Hopper, Barbara Hershey, Gene Hackman, Chelcie Ross, Fern Persons, Gloria Dorson, John Robert Thompson, Michael O'Guinne, Michael Sassone, Mike Dalzell, Robert Swan, Sheb Wooley, Wil Dewitt
+· Guion: Angelo Pizzo
+· Música: Jerry Goldsmith
+· Producción: Angelo Pizzo, Carter DeHaven
+· Productora: Hemdale Film Corporation, De Haven Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4423450?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129113800 +0100" stop="20251129134000 +0100" channel="M+ En juego">
+    <title lang="es">Champions (2023) | Movistar Plus+</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.0/5
+· Tras una serie de malas decisiones, un entrenador de baloncesto recibe por orden judicial dirigir a un equipo de jugadores con diversidad funcional como servicio a la comunidad.
+· País: EE.UU
+· Director: Bobby Farrelly
+· Reparto: Woody Harrelson, Kaitlin Olson, Ernie Hudson, Cheech Marin, Madison Tevlin, Kevin Iannucci, Joshua Felder, James Day Keith, Mike Smith, Alexandra Castillo, Jacob Blair, Sean Cullen, Barbara Pollard, Lauren Cochrane, Stephanie Sy, Alicia Johnston
+· Guion: Mark Rizzo,Javier Fesser,David Marqués
+· Música: Michael Franti
+· Producción: Paul Brooks, Scott Niemeyer
+· Productora: Focus Features, Gold Circle Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4212777?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129134000 +0100" stop="20251129154500 +0100" channel="M+ En juego">
+    <title lang="es">Toro salvaje (1980) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
+· Jake LaMotta es un joven boxeador que se entrena duramente, ayudado por su hermano Joey, para convertirse en el número uno de los pesos medios. Sus complejos psicológicos y sexuales lo llevan a manifestar su agresividad tanto dentro como fuera del ring.
+· País: EE.UU
+· Director: Martin Scorsese
+· Reparto: Robert De Niro, Cathy Moriarty, Joe Pesci, John Turturro, Ralph Meeker, Frank Vincent, Theresa Saldana, Frank Adonis, Mario Gallo, Nicholas Colasanto, Floyd Anderson, Kevin Mahon, Louis Raftis, Johnny Turner, Joseph Bono, Frank Topham, Lori Anne Flax
+· Guion: Paul Schrader,Jake La Motta,Peter Savage,Mardik Martin,Joseph Carter
+· Música: Robbie Robertson
+· Producción: Irwin Winkler, Robert Chartoff, Peter Savage, Hal W Polaire
+· Productora: United Artists, Chartoff-Winkler Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3955410?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129154500 +0100" stop="20251129171500 +0100" channel="M+ En juego">
+    <title lang="es">El entrenador (2025) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.3/5
+· Fran, segundo entrenador de un equipo de fútbol aficionado, se hizo viral tras encolerizarse en el sorteo de la FAI Cup que los emparejó con el campeón. Ahora, protagonista de un documental, va a tener que enfrentarse a algo más que ese difícil partido.
+· País: Irlanda
+· Director: Stephen Bradley
+· Reparto: Darragh Humphreys, Ardal O'Hanlon, Amy Huberman, Risteard Cooper, Toni O'Rourke, Deirdre O'Kane, Mark Huberman, Paul Reid, Lauren Larkin
+· Guion: Richie Conroy
+· Música: Stephen Rennicks
+· Producción: Collie McCarthy
+· Productora: Forty Foot Pictures, RTE</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4437569?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129171500 +0100" stop="20251129194500 +0100" channel="M+ En juego">
+    <title lang="es">Le Mans '66 (2019) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de siete años | *4.1/5
+· Tras ganar las 24 horas de Le Mans en 1959, el piloto Carroll Shelby se ve obligado a retirarse por problemas de salud. Reconvertido en diseñador y vendedor de coches, Carroll, junto al huraño Ken Miles, se embarcará en una aventura que hizo historia.
+· País: EE.UU
+· Director: James Mangold
+· Reparto: Matt Damon, Christian Bale, Jon Bernthal, Caitriona Balfe, Tracy Letts, Josh Lucas, Noah Jupe, Ray McKinnon
+· Guion: Jez Butterworth,John-Henry Butterworth,Jason Keller
+· Música: Marco Beltrami, Buck Sanders
+· Producción: James Mangold, Jenno Topping, Peter Chernin
+· Productora: Chernin Entertainment, TSG Entertainment, Turnpike Films, Twentieth Century Fox</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3809406?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129194500 +0100" stop="20251129220000 +0100" channel="M+ En juego">
+    <title lang="es">Tin Cup (1996) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.1/5
+· Tin Cup es un temperamental jugador de golf que se enamora de la novia de su mayor rival.
+· País: EE.UU
+· Director: Ron Shelton
+· Reparto: Rene Russo, Kevin Costner, Cheech Marin, Don Johnson, Dennis Burkley, Lou Myers, Linda Hart
+· Guion: Ron Shelton,John Norville
+· Música: William Ross (I)
+· Producción: Gary Foster, David V. Lester
+· Productora: Warner Bros, Regency Enterprises, Regency Entertaintment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4337755?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129220000 +0100" stop="20251130001000 +0100" channel="M+ En juego">
+    <title lang="es">Rivales (2024) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *2.9/5
+· Decidida a sacar a su marido (un campeón del Grand Slam de fama mundial) de su reciente racha de derrotas, Tashi Donaldson (tenista reconvertida en entrenadora) lo apunta a un torneo 'challenger' contra su antiguo mejor amigo... y exnovio de ella.
+· País: EE.UU e Italia
+· Director: Luca Guadagnino
+· Reparto: Zendaya, Josh O'Connor, Mike Faist
+· Guion: Justin Kuritzkes</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4421458?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129001000 +0100" stop="20251129002900 +0100" channel="M+ En juego">
+    <title lang="es">Polígono X (2025) | Movistar Plus+</title>
+    <desc lang="es">Corto de suspense | No recomendado para menores de dieciocho años | *3.2/5
+· El barrio Polígono X tiene las mejores canchas de la ciudad si lo que te gusta es echar partidas de fútbol cinco contra cinco, fumar porros y beber algunas litronas.
+· País: España y Francia
+· Director: Nestor Lopez
+· Reparto: Ayax Pedrosa</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4433044?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129002900 +0100" stop="20251129022800 +0100" channel="M+ En juego">
+    <title lang="es">Mercato (2025) | Movistar Plus+</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.0/5
+· La situación de Driss Berzane, un agente de fútbol en la quiebra se complica cuando Demba, un antiguo cliente al que ayudó a fichar, le exige el reembolso de una importante suma de dinero en apenas una semana, antes del cierre del mercado de fichajes.
+· País: Francia
+· Director: Tristan Séguéla
+· Reparto: Jamel Debbouze, Monia Chokri, Milo Machado-Graner, Hakim Jemili, Vincent Rottiers
+· Guion: Olivier Demangel,Thomas Finkielkraut
+· Música: Amin Bouhafa
+· Producción: Alain Goldman
+· Productora: Pitchipoï Productions, Pathé</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4383996?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129022800 +0100" stop="20251129035600 +0100" channel="M+ En juego">
+    <title lang="es">Último asalto (2017) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.2/5
+· El excampeón de boxeo juvenil, Jimmy McCabe, ha tocado fondo. Se ha convertido en un alcohólico agresivo y ya ha recibido varias notificaciones de desahucio cuando decide volver al gimnasio en el que se formó.
+· País: R.U
+· Director: Thomas Napper
+· Reparto: Johnny Harris, Ray Winstone, Ian McShane, Michael Smiley, Luke J.I Smith, Anna Wilson-Hall
+· Guion: Johnny Harris
+· Música: Paul Weller
+· Producción: Michael Elliott, Johnny Harris
+· Productora: Emu Films, Revolution Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4427171?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251129035600 +0100" stop="20251129054600 +0100" channel="M+ En juego">
+    <title lang="es">Rudy, reto a la gloria (1993) | Movistar Plus+</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.3/5
+· Rudy vive en una pequeña ciudad que se sustenta de la industria del acero, pero él sueña con jugar en un equipo de fútbol.
+· País: EE.UU
+· Director: David Anspaugh
+· Reparto: Robert Prosky, Ned Beatty, Sean Astin, Jason Miller, Charles S. Dutton, Jon Favreau, Lili Taylor, Scott Benjaminson, Mary Ann Thebus, Greta Lind
+· Guion: Angelo Pizzo
+· Música: Jerry Goldsmith
+· Producción: Cary Woods, Angelo Pizzo, Robert N. Fried
+· Productora: TriStar Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F2928524?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
