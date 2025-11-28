@@ -1,165 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 27/11/2025 01:25">
+<tv generator-info-name="MultiPopUps FullDesc 28/11/2025 01:24">
   <channel id="M+ En juego">
     <display-name>M+ En juego</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDEPOR"/>
   </channel>
   <channel id="M+ Navidad">
     <display-name>M+ Navidad</display-name>
-    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCAGE"/>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID"/>
   </channel>
-  <programme start="20251127051800 +0100" stop="20251127064900 +0100" channel="M+ En juego">
-    <title lang="es">Yo hice a Roque III (1980) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.5/5
-· Roque, antiguo boxeador, es un gorrón y un vago que vive en casa de su amigo Federico, quien no sabe que hacer para que se vaya.
-· País: España
-· Director: Mariano Ozores
-· Reparto: Fernando Esteso, Andrés Pajares, Antonio Ozores, Florinda Chico, Rafael Hernández, Mirta Miller, Francisco Camoiras, 'Dum Dum' Pacheco, Narciso Ibáñez Menta
-· Guion: Mariano Ozores
-· Música: Alfonso Agullo, Eddy Guerin, Carlos Villa
-· Productora: Ízaro Films, Ízaro Films S.A.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3743888?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127064900 +0100" stop="20251127080700 +0100" channel="M+ En juego">
-    <title lang="es">El tigre de Chamberí (1957) | Movistar Plus+</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
-· Un tímido chico tartamudo deja KO, accidentalmente, al campeón de España de boxeo. Su amigo, un pícaro que sabe aprovechar las oportunidades, decide convertirlo en boxeador y a él mismo en su representante.
-· País: España
-· Director: Pedro Luis Ramírez
-· Reparto: José Luis Ozores, Tony Leblanc, Helene Remy, José Marco Davó, Antonio Garisa, Miguel Ángel Rodríguez, Julia Caba Alba
-· Guion: Vicente Coello,Antonio Vives,Vicente Escrivá
-· Música: Federico Contreras
-· Producción: Federico G. Larraya
-· Productora: Aspa Producciones Cinematográficas S.A.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4140347?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127080700 +0100" stop="20251127101900 +0100" channel="M+ En juego">
-    <title lang="es">Tin Cup (1996) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.1/5
-· Tin Cup es un temperamental jugador de golf que se enamora de la novia de su mayor rival.
-· País: EE.UU
-· Director: Ron Shelton
-· Reparto: Rene Russo, Kevin Costner, Cheech Marin, Don Johnson, Dennis Burkley, Lou Myers, Linda Hart
-· Guion: Ron Shelton,John Norville
-· Música: William Ross (I)
-· Producción: Gary Foster, David V. Lester
-· Productora: Warner Bros, Regency Enterprises, Regency Entertaintment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4337755?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127101900 +0100" stop="20251127120600 +0100" channel="M+ En juego">
-    <title lang="es">Los búfalos de Durham (1988) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.1/5
-· Annie, hincha de un equipo de béisbol, elige a un jugador para educarle en la cama y en el campo de juego.
-· País: EE.UU
-· Director: Ron Shelton
-· Reparto: Kevin Costner, Tim Robbins, Susan Sarandon, Robert Wuhl, William O'Leary, Trey Wilson, David Neidorf, Danny Gans, Tom Silardi
-· Guion: Ron Shelton
-· Música: Michael Convertino
-· Producción: Mark Burg, Thom Mount
-· Productora: The Mount Company</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4426714?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127120600 +0100" stop="20251127134500 +0100" channel="M+ En juego">
-    <title lang="es">Drazen (2024) | Movistar Plus+</title>
-    <desc lang="es">Biopic | No recomendado para menores de doce años | *3.3/5
-· Croacia, 1975. A pesar de sus problemas respiratorios y la insistencia de sus padres para que se dedique a la música, Drazen descubre que el baloncesto es su verdadera pasión. Así nace la leyenda del &quot;Mozart del baloncesto&quot;.
-· País: Croacia
-· Director: Danilo Serbedzija, Ljubo Zdjelarevic
-· Reparto: Domagoj Nizic, Zrinka Cvitesic, Dragan Micanovic
-· Productora: Living Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4387922?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127134500 +0100" stop="20251127161200 +0100" channel="M+ En juego">
-    <title lang="es">Un domingo cualquiera (1999) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.4/5
-· El veterano entrenador de un equipo de fútbol americano se enfrenta a las exigencias de la nueva propietaria del equipo.
-· País: EE.UU
-· Director: Oliver Stone
-· Reparto: Al Pacino, Cameron Diaz, Dennis Quaid, James Woods, Jamie Foxx, LL Cool J, Charlton Heston, Ann-Margret, Aaron Eckhart, John C. McGinley, Lauren Holly, Elizabeth Berkley, Jim Brown
-· Guion: Oliver Stone,Daniel Pyne,John Logan
-· Música: Richard Horowitz, Paul Kelly, Kelly Paul
-· Producción: Lauren Shuler Donner, Dan Halsted
-· Productora: Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4366401?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127161200 +0100" stop="20251127181700 +0100" channel="M+ En juego">
-    <title lang="es">Karate Kid, el momento de la verdad (1984) | Movistar Plus+</title>
-    <desc lang="es">Acción | Apto para todos los públicos | *3.8/5
-· Recién llegado desde New Jersey a California, Daniel se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo.
-· País: EE.UU
-· Director: John G. Avildsen
-· Reparto: Ralph Macchio, Pat Morita, Elisabeth Shue, Martin Kove, Randee Heller, William Zabka
-· Guion: Robert Mark Kamen
-· Música: Bill Conti
-· Producción: Jerry Weintraub
-· Productora: Columbia Pictures, Delphi Filmverleih Produktion, Jerry Weintraub Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3639509?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127181700 +0100" stop="20251127200900 +0100" channel="M+ En juego">
-    <title lang="es">Karate Kid II: la historia continúa (1986) | Movistar Plus+</title>
-    <desc lang="es">Acción | Apto para todos los públicos | *3.4/5
-· El maestro del kárate debe regresar a Japón, su tierra natal. Mientras, su discípulo parece condenado a repetir su historia.
-· País: EE.UU
-· Director: John G. Avildsen
-· Reparto: Pat Morita, Ralph Macchio, Pat E. Johnson, Martin Kove, Arsenio &quot;Sonny&quot; Trinidad, Tamlyn Tomita, Yuji Okumoto, Nobu McCarthy, Danny Kamekona
-· Guion: Robert Mark Kamen
-· Música: Bill Conti
-· Producción: Jerry Weintraub
-· Productora: Columbia Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3932745?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127200900 +0100" stop="20251127220000 +0100" channel="M+ En juego">
-    <title lang="es">Karate Kid III: el desafío final (1989) | Movistar Plus+</title>
-    <desc lang="es">Acción | Apto para todos los públicos | *3.4/5
-· Karate Kid es chantajeado para competir contra el indeseable Mike Barnes. Esto le distanciará de su mentor, el profesor Miyagi.
-· País: EE.UU
-· Director: John G. Avildsen
-· Reparto: Pat Morita, Ralph Macchio, Robyn Lively, Martin Kove, Thomas Ian Griffith, Sean Kanan, Jonathan Avildsen, Randee Heller
-· Guion: Robert Mark Kamen
-· Música: Bill Conti
-· Producción: Jerry Weintraub
-· Productora: Columbia Pictures Corporation, Weintraub International Group</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3932898?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127220000 +0100" stop="20251128001800 +0100" channel="M+ En juego">
-    <title lang="es">The Karate Kid (2010) | Movistar Plus+</title>
-    <desc lang="es">Acción | No recomendado para menores de siete años | *3.4/5
-· Dre, un chaval de doce años, abandona Detroit para vivir en China con su madre, que tiene que mudarse por trabajo. Cuando un matón de su colegio empieza a molestarlo, Dre encuentra el apoyo del señor Han, que se ofrece a enseñarle artes marciales.
-· País: China y EE.UU
-· Director: Harald Zwart
-· Reparto: Jackie Chan, Jaden Smith, Taraji P. Henson, Zhiheng Wang, Wenwen Han, Luke Carberry, Rongguang Yu, Cameron Hillman, Zhensu Wu
-· Guion: Christopher Murphey
-· Música: James Horner
-· Producción: James Lassiter, Will Smith, Jada Pinkett Smith, Jerry Weintraub
-· Productora: Columbia Pictures, Jerry Weintraub Productions, China Film Group</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3640934?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127001800 +0100" stop="20251127021100 +0100" channel="M+ En juego">
-    <title lang="es">Hoosiers: más que ídolos (1985) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
-· Un hombre llega a una pequeña localidad a entrenar a un equipo. La mentalidad cerrada del pueblo le pondrá las cosas difíciles.
-· País: EE.UU y R.U
-· Director: David Anspaugh
-· Reparto: Dennis Hopper, Barbara Hershey, Gene Hackman, Chelcie Ross, Fern Persons, Gloria Dorson, John Robert Thompson, Michael O'Guinne, Michael Sassone, Mike Dalzell, Robert Swan, Sheb Wooley, Wil Dewitt
-· Guion: Angelo Pizzo
-· Música: Jerry Goldsmith
-· Producción: Angelo Pizzo, Carter DeHaven
-· Productora: Hemdale Film Corporation, De Haven Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4423450?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251127021100 +0100" stop="20251127040300 +0100" channel="M+ En juego">
-    <title lang="es">El clan de los rompehuesos (2005) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.6/5
-· Un jugador de fútbol americano, enviado a prisión por conducción temeraria, es obligado a entrenar a un equipo de presos.
-· País: EE.UU
-· Director: Peter Segal
-· Reparto: Adam Sandler, Chris Rock, Burt Reynolds, James Cromwell, Nelly, William Fichtner, Michael Irvin, Walter Williamson, Terry Crews, Rob Schneider, Bill Goldberg, Nicholas Turturro, Courteney Cox, Jim Rome, Maurice Bryant, Joe Schey, Terrance Joseph
-· Guion: Sheldon Turner,Tracy Keenan Wynn,Albert S. Ruddy
-· Música: Teddy Castellucci
-· Producción: Jack Giarraputo
-· Productora: Paramount Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3746056?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20251128040300 +0100" stop="20251128060300 +0100" channel="M+ En juego">
     <title lang="es">Champions (2023) | Movistar Plus+</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.0/5
@@ -249,7 +97,7 @@
   </programme>
   <programme start="20251128172500 +0100" stop="20251128192600 +0100" channel="M+ En juego">
     <title lang="es">Mercato (2025) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.0/5
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *2.9/5
 · La situación de Driss Berzane, un agente de fútbol en la quiebra se complica cuando Demba, un antiguo cliente al que ayudó a fichar, le exige el reembolso de una importante suma de dinero en apenas una semana, antes del cierre del mercado de fichajes.
 · País: Francia
 · Director: Tristan Séguéla
@@ -451,7 +299,7 @@
   </programme>
   <programme start="20251129002900 +0100" stop="20251129022800 +0100" channel="M+ En juego">
     <title lang="es">Mercato (2025) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.0/5
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *2.9/5
 · La situación de Driss Berzane, un agente de fútbol en la quiebra se complica cuando Demba, un antiguo cliente al que ayudó a fichar, le exige el reembolso de una importante suma de dinero en apenas una semana, antes del cierre del mercado de fichajes.
 · País: Francia
 · Director: Tristan Séguéla
@@ -487,5 +335,167 @@
 · Producción: Cary Woods, Angelo Pizzo, Robert N. Fried
 · Productora: TriStar Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F2928524?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130054600 +0100" stop="20251130080000 +0100" channel="M+ En juego">
+    <title lang="es">El mejor (1984) | Movistar Plus+</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.6/5
+· A la edad en la que otros jugadores se retiran, Roy Hobbs llega como bateador a un equipo de béisbol y lo convierte en líder.
+· País: EE.UU
+· Director: Barry Levinson
+· Reparto: Robert Redford, Robert Duvall, Glenn Close, Kim Basinger, Wilford Brimley, Barbara Hershey, Robert Prosky, Joe Don Baker, Darren McGavin, Richard Farnsworth, Jake Gyllenhaal
+· Guion: Roger Towne,Phil Dusenberry
+· Música: Randy Newman
+· Producción: Mark Johnson
+· Productora: TriStar Pictures, Delphi II</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3848505?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130080000 +0100" stop="20251130100500 +0100" channel="M+ En juego">
+    <title lang="es">Campeonex (2023) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.3/5
+· Con la llegada de una entrenadora novata a quien la suerte no le acompaña, el equipo de campeones se adentra por error en el complejo mundo del atletismo. Ha llegado la hora de volver a darlo todo demostrando que la amistad puede con todo.
+· País: España
+· Director: Javier Fesser
+· Reparto: Elisa Hipólito, Sergio Olmos, Brianeitor, Jesús Lago Solís, Juan Margallo, Jelen García, Roberto Chinchilla, Alberto Berzal, Gloria Ramos, Fran Fuentes, Alberto Nieto Ferrández, José de Luna, Jesús Vidal, Carolina Rubio, Carmen Mayordomo, Claudia Fesser
+· Guion: David Marqués,Javier Fesser,Athenea Mata
+· Música: Rafael Arnau
+· Producción: Javier Fesser, Álvaro Longoria, Luis Manso
+· Productora: Películas Pendelton, Rey de Babia, A.I.E., Morena Films S.L</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4143563?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130100500 +0100" stop="20251130120900 +0100" channel="M+ En juego">
+    <title lang="es">Karate Kid, el momento de la verdad (1984) | Movistar Plus+</title>
+    <desc lang="es">Acción | Apto para todos los públicos | *3.8/5
+· Recién llegado desde New Jersey a California, Daniel se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo.
+· País: EE.UU
+· Director: John G. Avildsen
+· Reparto: Ralph Macchio, Pat Morita, Elisabeth Shue, Martin Kove, Randee Heller, William Zabka
+· Guion: Robert Mark Kamen
+· Música: Bill Conti
+· Producción: Jerry Weintraub
+· Productora: Columbia Pictures, Delphi Filmverleih Produktion, Jerry Weintraub Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3639509?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130120900 +0100" stop="20251130140000 +0100" channel="M+ En juego">
+    <title lang="es">Karate Kid II: la historia continúa (1986) | Movistar Plus+</title>
+    <desc lang="es">Acción | Apto para todos los públicos | *3.4/5
+· El maestro del kárate debe regresar a Japón, su tierra natal. Mientras, su discípulo parece condenado a repetir su historia.
+· País: EE.UU
+· Director: John G. Avildsen
+· Reparto: Pat Morita, Ralph Macchio, Pat E. Johnson, Martin Kove, Arsenio &quot;Sonny&quot; Trinidad, Tamlyn Tomita, Yuji Okumoto, Nobu McCarthy, Danny Kamekona
+· Guion: Robert Mark Kamen
+· Música: Bill Conti
+· Producción: Jerry Weintraub
+· Productora: Columbia Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3932745?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130140000 +0100" stop="20251130155200 +0100" channel="M+ En juego">
+    <title lang="es">Karate Kid III: el desafío final (1989) | Movistar Plus+</title>
+    <desc lang="es">Acción | Apto para todos los públicos | *3.4/5
+· Karate Kid es chantajeado para competir contra el indeseable Mike Barnes. Esto le distanciará de su mentor, el profesor Miyagi.
+· País: EE.UU
+· Director: John G. Avildsen
+· Reparto: Pat Morita, Ralph Macchio, Robyn Lively, Martin Kove, Thomas Ian Griffith, Sean Kanan, Jonathan Avildsen, Randee Heller
+· Guion: Robert Mark Kamen
+· Música: Bill Conti
+· Producción: Jerry Weintraub
+· Productora: Columbia Pictures Corporation, Weintraub International Group</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3932898?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130155200 +0100" stop="20251130181000 +0100" channel="M+ En juego">
+    <title lang="es">The Karate Kid (2010) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de siete años | *3.4/5
+· Dre, un chaval de doce años, abandona Detroit para vivir en China con su madre, que tiene que mudarse por trabajo. Cuando un matón de su colegio empieza a molestarlo, Dre encuentra el apoyo del señor Han, que se ofrece a enseñarle artes marciales.
+· País: China y EE.UU
+· Director: Harald Zwart
+· Reparto: Jackie Chan, Jaden Smith, Taraji P. Henson, Zhiheng Wang, Wenwen Han, Luke Carberry, Rongguang Yu, Cameron Hillman, Zhensu Wu
+· Guion: Christopher Murphey
+· Música: James Horner
+· Producción: James Lassiter, Will Smith, Jada Pinkett Smith, Jerry Weintraub
+· Productora: Columbia Pictures, Jerry Weintraub Productions, China Film Group</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3640934?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130181000 +0100" stop="20251130200200 +0100" channel="M+ En juego">
+    <title lang="es">El clan de los rompehuesos (2005) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.6/5
+· Un jugador de fútbol americano, enviado a prisión por conducción temeraria, es obligado a entrenar a un equipo de presos.
+· País: EE.UU
+· Director: Peter Segal
+· Reparto: Adam Sandler, Chris Rock, Burt Reynolds, James Cromwell, Nelly, William Fichtner, Michael Irvin, Walter Williamson, Terry Crews, Rob Schneider, Bill Goldberg, Nicholas Turturro, Courteney Cox, Jim Rome, Maurice Bryant, Joe Schey, Terrance Joseph
+· Guion: Sheldon Turner,Tracy Keenan Wynn,Albert S. Ruddy
+· Música: Teddy Castellucci
+· Producción: Jack Giarraputo
+· Productora: Paramount Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3746056?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130200200 +0100" stop="20251130215200 +0100" channel="M+ En juego">
+    <title lang="es">Los búfalos de Durham (1988) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.1/5
+· Annie, hincha de un equipo de béisbol, elige a un jugador para educarle en la cama y en el campo de juego.
+· País: EE.UU
+· Director: Ron Shelton
+· Reparto: Kevin Costner, Tim Robbins, Susan Sarandon, Robert Wuhl, William O'Leary, Trey Wilson, David Neidorf, Danny Gans, Tom Silardi
+· Guion: Ron Shelton
+· Música: Michael Convertino
+· Producción: Mark Burg, Thom Mount
+· Productora: The Mount Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4426714?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130215200 +0100" stop="20251130220000 +0100" channel="M+ En juego">
+    <title lang="es">Conoce &quot;Los Tigres&quot;, la nueva película de Alberto Rodríguez (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.0/5
+· El director Alberto Rodríguez nos cuenta junto a sus actores, Antonio de la Torre y Bárbara Lennie, todos los detalles de su última película “Los Tigres”, ya estrenada en cines y próximamente en Movistar Plus+.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4437563?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130220000 +0100" stop="20251201000500 +0100" channel="M+ En juego">
+    <title lang="es">Toro salvaje (1980) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
+· Jake LaMotta es un joven boxeador que se entrena duramente, ayudado por su hermano Joey, para convertirse en el número uno de los pesos medios. Sus complejos psicológicos y sexuales lo llevan a manifestar su agresividad tanto dentro como fuera del ring.
+· País: EE.UU
+· Director: Martin Scorsese
+· Reparto: Robert De Niro, Cathy Moriarty, Joe Pesci, John Turturro, Ralph Meeker, Frank Vincent, Theresa Saldana, Frank Adonis, Mario Gallo, Nicholas Colasanto, Floyd Anderson, Kevin Mahon, Louis Raftis, Johnny Turner, Joseph Bono, Frank Topham, Lori Anne Flax
+· Guion: Paul Schrader,Jake La Motta,Peter Savage,Mardik Martin,Joseph Carter
+· Música: Robbie Robertson
+· Producción: Irwin Winkler, Robert Chartoff, Peter Savage, Hal W Polaire
+· Productora: United Artists, Chartoff-Winkler Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3955410?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130000500 +0100" stop="20251130013500 +0100" channel="M+ En juego">
+    <title lang="es">Yo hice a Roque III (1980) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.5/5
+· Roque, antiguo boxeador, es un gorrón y un vago que vive en casa de su amigo Federico, quien no sabe que hacer para que se vaya.
+· País: España
+· Director: Mariano Ozores
+· Reparto: Fernando Esteso, Andrés Pajares, Antonio Ozores, Florinda Chico, Rafael Hernández, Mirta Miller, Francisco Camoiras, 'Dum Dum' Pacheco, Narciso Ibáñez Menta
+· Guion: Mariano Ozores
+· Música: Alfonso Agullo, Eddy Guerin, Carlos Villa
+· Productora: Ízaro Films, Ízaro Films S.A.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3743888?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130013500 +0100" stop="20251130025100 +0100" channel="M+ En juego">
+    <title lang="es">El tigre de Chamberí (1957) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
+· Un tímido chico tartamudo deja KO, accidentalmente, al campeón de España de boxeo. Su amigo, un pícaro que sabe aprovechar las oportunidades, decide convertirlo en boxeador y a él mismo en su representante.
+· País: España
+· Director: Pedro Luis Ramírez
+· Reparto: José Luis Ozores, Tony Leblanc, Helene Remy, José Marco Davó, Antonio Garisa, Miguel Ángel Rodríguez, Julia Caba Alba
+· Guion: Vicente Coello,Antonio Vives,Vicente Escrivá
+· Música: Federico Contreras
+· Producción: Federico G. Larraya
+· Productora: Aspa Producciones Cinematográficas S.A.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4140347?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251130025100 +0100" stop="20251130042000 +0100" channel="M+ En juego">
+    <title lang="es">Contacto sangriento (1987) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.5/5
+· Frank Dux está dispuesto a convertirse en el primer campeón occidental de &quot;kumite&quot;, un torneo de artes marciales.
+· País: EE.UU
+· Director: Newt Arnold
+· Reparto: Jean-Claude Van Damme, Donald Gibb, Leah Ayres, Forest Whitaker, Norman Burton, Bolo Yeung
+· Guion: Sheldon Lettich,Christopher Cosby,Mel Friedman
+· Música: Paul Hertzog
+· Producción: Menahem Golan, Mark DiSalle, Yoram Globus
+· Productora: Cannon International</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4136881?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
