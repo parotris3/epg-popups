@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 03/12/2025 01:28">
+<tv generator-info-name="MultiPopUps FullDesc 03/12/2025 09:08">
   <channel id="M+ En juego">
     <display-name>M+ En juego</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDEPOR"/>
@@ -7,6 +7,14 @@
   <channel id="M+ Navidad">
     <display-name>M+ Navidad</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID"/>
+  </channel>
+  <channel id="Canal FlixOlé 1">
+    <display-name>Canal FlixOlé 1</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/FLIX1"/>
+  </channel>
+  <channel id="Canal FlixOlé 2">
+    <display-name>Canal FlixOlé 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/FLIX2"/>
   </channel>
   <programme start="20251203055000 +0100" stop="20251203075000 +0100" channel="M+ En juego">
     <title lang="es">El castañazo (1977) | Movistar Plus+</title>
@@ -240,7 +248,7 @@
 · Productora: Living Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4387922?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251204115700 +0100" stop="20251204134900 +0100" channel="M+ En juego">
+  <programme start="20251204115700 +0100" stop="20251204135000 +0100" channel="M+ En juego">
     <title lang="es">Rudy, reto a la gloria (1993) | Movistar Plus+</title>
     <desc lang="es">Drama | Apto para todos los públicos | *3.3/5
 · Rudy vive en una pequeña ciudad que se sustenta de la industria del acero, pero él sueña con jugar en un equipo de fútbol.
@@ -253,7 +261,7 @@
 · Productora: TriStar Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F2928524?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251204134900 +0100" stop="20251204155200 +0100" channel="M+ En juego">
+  <programme start="20251204135000 +0100" stop="20251204155400 +0100" channel="M+ En juego">
     <title lang="es">Mercato (2025) | Movistar Plus+</title>
     <desc lang="es">Thriller | No recomendado para menores de doce años | *2.9/5
 · La situación de Driss Berzane, un agente de fútbol en la quiebra se complica cuando Demba, un antiguo cliente al que ayudó a fichar, le exige el reembolso de una importante suma de dinero en apenas una semana, antes del cierre del mercado de fichajes.
@@ -266,7 +274,7 @@
 · Productora: Pitchipoï Productions, Pathé</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4383996?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251204155200 +0100" stop="20251204160300 +0100" channel="M+ En juego">
+  <programme start="20251204155400 +0100" stop="20251204160300 +0100" channel="M+ En juego">
     <title lang="es">Mi amiga Eva. Los juegos del amor (2025) | Movistar Plus+</title>
     <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.2/5
 · Mi amiga Eva. Los juegos del amor
@@ -283,7 +291,7 @@
 · Guion: Justin Kuritzkes</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4421458?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251204181300 +0100" stop="20251204182300 +0100" channel="M+ En juego">
+  <programme start="20251204181300 +0100" stop="20251204182200 +0100" channel="M+ En juego">
     <title lang="es">Los domingos, Concha de Oro a mejor película en SSIFF (2025) | Movistar Plus+</title>
     <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
 · Los domingos, Concha de Oro a mejor película en SSIFF.
@@ -291,7 +299,7 @@
 · Presenta: Cristina Teva</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4426333?od[]=Z1V:MORIG3_V"/>
   </programme>
-  <programme start="20251204182300 +0100" stop="20251204202800 +0100" channel="M+ En juego">
+  <programme start="20251204182200 +0100" stop="20251204202800 +0100" channel="M+ En juego">
     <title lang="es">Campeonex (2023) | Movistar Plus+</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.3/5
 · Con la llegada de una entrenadora novata a quien la suerte no le acompaña, el equipo de campeones se adentra por error en el complejo mundo del atletismo. Ha llegado la hora de volver a darlo todo demostrando que la amistad puede con todo.
@@ -330,7 +338,7 @@
 · Productora: Emu Films, Revolution Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4427171?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251204233000 +0100" stop="20251204235000 +0100" channel="M+ En juego">
+  <programme start="20251204233000 +0100" stop="20251204234800 +0100" channel="M+ En juego">
     <title lang="es">Polígono X (2025) | Movistar Plus+</title>
     <desc lang="es">Corto de suspense | No recomendado para menores de dieciocho años | *3.2/5
 · El barrio Polígono X tiene las mejores canchas de la ciudad si lo que te gusta es echar partidas de fútbol cinco contra cinco, fumar porros y beber algunas litronas.
@@ -339,7 +347,7 @@
 · Reparto: Ayax Pedrosa</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4433044?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251204235000 +0100" stop="20251205014500 +0100" channel="M+ En juego">
+  <programme start="20251204234800 +0100" stop="20251205014300 +0100" channel="M+ En juego">
     <title lang="es">Evasión o victoria (1981) | Movistar Plus+</title>
     <desc lang="es">Drama | Apto para todos los públicos | *3.8/5
 · Un equipo de oficiales nazis se enfrenta a un combinado de prisioneros de guerra aliados en un épico partido de fútbol. En juego, no sólo el triunfo sino también la libertad.
@@ -352,7 +360,7 @@
 · Productora: Lorimar Film Entertainment Pictures, Victory Company, Lorimar Film Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3799982?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251204014500 +0100" stop="20251204032500 +0100" channel="M+ En juego">
+  <programme start="20251204014300 +0100" stop="20251204032300 +0100" channel="M+ En juego">
     <title lang="es">Los futbolísimos (2018) | Movistar Plus+</title>
     <desc lang="es">Comedia | Especialmente recomendado para la infancia | *3.7/5
 · Paco (alias 'Pakete' por su 'afición' a fallar penaltis) tiene 11 años, juega en el Soto Alto Fútbol Club y vive en un pueblo donde nunca ha pasado nada... hasta ahora.
@@ -365,7 +373,7 @@
 · Productora: Atresmedia Cine, Chester Producciones, Wandermoon, Los futbolísimos</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3637283?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251204032500 +0100" stop="20251204052400 +0100" channel="M+ En juego">
+  <programme start="20251204032300 +0100" stop="20251204052400 +0100" channel="M+ En juego">
     <title lang="es">El castañazo (1977) | Movistar Plus+</title>
     <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *3.3/5
 · Un equipo de 'hockey' sobre hielo de tercera categoría está a punto de desaparecer. Todo cambia con la llegada de tres hermanos.
@@ -390,7 +398,7 @@
 · Productora: Warner Bros, Regency Enterprises, Regency Entertaintment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4337755?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205073500 +0100" stop="20251205083000 +0100" channel="M+ En juego">
+  <programme start="20251205073500 +0100" stop="20251205083100 +0100" channel="M+ En juego">
     <title lang="es">Golpe de revés.  Temporada (T1). Golpe de revés (T1): Ep.5  (2023) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.0/5
 · Luisa se ve comprometida a recibir atención de Khalida. La relación de Glenn con Luca se resiente. Mientras tanto, Steve se plantea si ha cometido un error con Luisa, así que intenta poner las cosas en orden.
@@ -400,7 +408,7 @@
 · Guion: Hania Elkington</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4117043?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20251205083000 +0100" stop="20251205101200 +0100" channel="M+ En juego">
+  <programme start="20251205083100 +0100" stop="20251205101400 +0100" channel="M+ En juego">
     <title lang="es">Tatami (2023) | Movistar Plus+</title>
     <desc lang="es">Thriller | No recomendado para menores de doce años | *3.2/5
 · Durante una competición internacional, la judoka iraní Leila y su entrenadora Maryam luchan por conseguir la primera medalla de oro del país. Sin embargo, el gobierno tiene otros planes para Leila.
@@ -413,7 +421,7 @@
 · Productora: Keshet Studios</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4319403?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205101200 +0100" stop="20251205102700 +0100" channel="M+ En juego">
+  <programme start="20251205101400 +0100" stop="20251205102900 +0100" channel="M+ En juego">
     <title lang="es">Jugador (2024) | Movistar Plus+</title>
     <desc lang="es">Corto drama | No recomendado para menores de doce años | *3.0/5
 · El joven Brett tendrá que explorar los entresijos del mundo de las apuestas a las carreras de caballos cuando se pone en peligro la sorpresa que ha preparado para el cumpleaños de su padre.
@@ -422,7 +430,7 @@
 · Reparto: Bouwer Bosch, Nyaniso Dzedze</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4338486?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205102700 +0100" stop="20251205122000 +0100" channel="M+ En juego">
+  <programme start="20251205102900 +0100" stop="20251205122200 +0100" channel="M+ En juego">
     <title lang="es">Hoosiers: más que ídolos (1985) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
 · Un hombre llega a una pequeña localidad a entrenar a un equipo. La mentalidad cerrada del pueblo le pondrá las cosas difíciles.
@@ -435,7 +443,7 @@
 · Productora: Hemdale Film Corporation, De Haven Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4423450?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205122000 +0100" stop="20251205122800 +0100" channel="M+ En juego">
+  <programme start="20251205122200 +0100" stop="20251205123000 +0100" channel="M+ En juego">
     <title lang="es">Los domingos, Concha de Oro a mejor película en SSIFF (2025) | Movistar Plus+</title>
     <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
 · Los domingos, Concha de Oro a mejor película en SSIFF.
@@ -443,7 +451,7 @@
 · Presenta: Cristina Teva</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4426333?od[]=Z1V:MORIG3_V"/>
   </programme>
-  <programme start="20251205122800 +0100" stop="20251205140000 +0100" channel="M+ En juego">
+  <programme start="20251205123000 +0100" stop="20251205140100 +0100" channel="M+ En juego">
     <title lang="es">El entrenador (2025) | Movistar Plus+</title>
     <desc lang="es">Comedia | No recomendado para menores de doce años | *3.2/5
 · Fran, segundo entrenador de un equipo de fútbol aficionado, se hizo viral tras encolerizarse en el sorteo de la FAI Cup que los emparejó con el campeón. Ahora, protagonista de un documental, va a tener que enfrentarse a algo más que ese difícil partido.
@@ -456,7 +464,7 @@
 · Productora: Forty Foot Pictures, RTE</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4437569?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205140000 +0100" stop="20251205155200 +0100" channel="M+ En juego">
+  <programme start="20251205140100 +0100" stop="20251205155300 +0100" channel="M+ En juego">
     <title lang="es">Quiero ser como Beckham (2002) | Movistar Plus+</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.3/5
 · Una familia india entra en crisis cuando su hija pequeña decide que quiere convertirse en jugadora profesional de fútbol.
@@ -468,7 +476,7 @@
 · Producción: Deepak Nayar, Gurinder Chadha</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4106268?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205155200 +0100" stop="20251205175900 +0100" channel="M+ En juego">
+  <programme start="20251205155300 +0100" stop="20251205180100 +0100" channel="M+ En juego">
     <title lang="es">Ellas dan el golpe (1992) | Movistar Plus+</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.3/5
 · En 1943, mientras las grandes figuras del béisbol estadounidense pelean en la II Guerra Mundial, el deporte nacional está a punto de desaparecer. Para salvarlo, un grupo de mujeres forma un equipo femenino.
@@ -481,7 +489,7 @@
 · Productora: Parkway Productions, Columbia Pictures Corporation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3840587?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205175900 +0100" stop="20251205200400 +0100" channel="M+ En juego">
+  <programme start="20251205180100 +0100" stop="20251205200400 +0100" channel="M+ En juego">
     <title lang="es">Champions (2023) | Movistar Plus+</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.0/5
 · Tras una serie de malas decisiones, un entrenador de baloncesto recibe por orden judicial dirigir a un equipo de jugadores con diversidad funcional como servicio a la comunidad.
@@ -494,14 +502,14 @@
 · Productora: Focus Features, Gold Circle Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4212777?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205200400 +0100" stop="20251205201400 +0100" channel="M+ En juego">
+  <programme start="20251205200400 +0100" stop="20251205201300 +0100" channel="M+ En juego">
     <title lang="es">Mi amiga Eva. Los juegos del amor (2025) | Movistar Plus+</title>
     <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.2/5
 · Mi amiga Eva. Los juegos del amor
 · País: España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4425104?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205201400 +0100" stop="20251205220000 +0100" channel="M+ En juego">
+  <programme start="20251205201300 +0100" stop="20251205220000 +0100" channel="M+ En juego">
     <title lang="es">Los búfalos de Durham (1988) | Movistar Plus+</title>
     <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.1/5
 · Annie, hincha de un equipo de béisbol, elige a un jugador para educarle en la cama y en el campo de juego.
@@ -527,7 +535,7 @@
 · Productora: United Artists, Chartoff-Winkler Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3955410?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205000800 +0100" stop="20251205014000 +0100" channel="M+ En juego">
+  <programme start="20251205000800 +0100" stop="20251205014200 +0100" channel="M+ En juego">
     <title lang="es">El luchador (1975) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
 · Durante la Gran Depresión de los años 30, Chaney, un joven con innatas cualidades de luchador es contratado por un oportunista.
@@ -540,7 +548,7 @@
 · Productora: Columbia Pictures Corporation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4373363?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20251205014000 +0100" stop="20251205020000 +0100" channel="M+ En juego">
+  <programme start="20251205014200 +0100" stop="20251205020000 +0100" channel="M+ En juego">
     <title lang="es">Polígono X (2025) | Movistar Plus+</title>
     <desc lang="es">Corto de suspense | No recomendado para menores de dieciocho años | *3.2/5
 · El barrio Polígono X tiene las mejores canchas de la ciudad si lo que te gusta es echar partidas de fútbol cinco contra cinco, fumar porros y beber algunas litronas.
@@ -1121,5 +1129,965 @@
 · Producción: Todd Black, Jason Blumenthal, Steve Tisch, Will Smith, James Lassiter
 · Productora: Columbia Pictures, Relativity Media, Overbrook Entertainment, Escape Artists</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3635410?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251203060000 +0100" stop="20251203075000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Telediario Matinal (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20251203075000 +0100" stop="20251203103500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">La hora de La 1: La hora de la actualidad.  Temporada (T8). La hora de La 1:... (T8): Ep.239 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4180802"/>
+  </programme>
+  <programme start="20251203103500 +0100" stop="20251203150000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Mañaneros 360.  Temporada (T2). Mañaneros 360 (T2): Ep.68 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Javier Ruiz</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185097"/>
+  </programme>
+  <programme start="20251203150000 +0100" stop="20251203153500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Telediario 1 (2014) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20251203153500 +0100" stop="20251203154000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Deportes 1 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20251203154000 +0100" stop="20251203154500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">El tiempo (2014) | Movistar Plus+</title>
+    <desc lang="es">Meteorología | *3.2/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20251203154500 +0100" stop="20251203155500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Informativo territorial 2 (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20251203155500 +0100" stop="20251203173500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Directo al grano.  Temporada (T1). Directo al grano (T1): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *4.0/5
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Gonzalo Miró</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185099"/>
+  </programme>
+  <programme start="20251203173500 +0100" stop="20251203183500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Valle Salvaje.  Temporada (T3). Valle Salvaje (T3): Ep.69  (2025) | Movistar Plus+</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185094"/>
+  </programme>
+  <programme start="20251203183500 +0100" stop="20251203193500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">La Promesa.  Temporada (T1). La Promesa (T1): Ep.728  (2025) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185101"/>
+  </programme>
+  <programme start="20251203193500 +0100" stop="20251203203000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Malas lenguas.  Temporada (T2). Malas lenguas (T2): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4185103"/>
+  </programme>
+  <programme start="20251203203000 +0100" stop="20251203210000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Aquí la Tierra (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *3.2/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4108661"/>
+  </programme>
+  <programme start="20251203210000 +0100" stop="20251203214000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Telediario 2 (2021) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20251203214000 +0100" stop="20251203214500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Deportes 2 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20251203214500 +0100" stop="20251203230000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">La revuelta.  Temporada (T2). La revuelta (T2): Ep.51 (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de doce años
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano
+· Productora: Radio Televisión Española (RTVE), El Terrat</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4385109"/>
+  </programme>
+  <programme start="20251203230000 +0100" stop="20251204012500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Hasta el fin del mundo.  Temporada (T1). Hasta el fin del... (T1): Huacachina (Perú)-Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Telerrealidad | No recomendado para menores de doce años
+· Las seis parejas se adentran en la geografía andina. El aire escasea y cada paso cuesta más, porque el mal de altura se convierte en el enemigo silencioso de esta etapa.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185107"/>
+  </programme>
+  <programme start="20251203012500 +0100" stop="20251203015500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Más alla del fin del mundo.  Temporada (T1). Más alla del fin... (T1): De Huacachina (Perú) a Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Viajes | Apto para todos los públicos
+· Bolivia nos abre las puertas de su historia y sus tradiciones ancestrales. Paula llegará a Tarabuco, donde conocerá la forma de vida de una de las tribus indígenas más antiguas del país, los Yampara.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185109"/>
+  </programme>
+  <programme start="20251203015500 +0100" stop="20251203024000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Exceso de equipaje.  Temporada (T1). Exceso de equipaje (T1): Rocío Carrasco y Anabel Dueñas (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de dieciséis años | *5.0/5
+· Rocío Carrasco y Anabel Dueñas visitan el salón de Inés Hernand para revivir sus anécdotas más divertidas en ''Hasta el fin del mundo''.
+· País: España
+· Presenta: Inés Hernand</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185111"/>
+  </programme>
+  <programme start="20251203024000 +0100" stop="20251203041000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Dos viejas amigas (2014) | Movistar Plus+</title>
+    <desc lang="es">Cine TV comedia | No recomendado para menores de siete años | *3.7/5
+· La activista Anna Wagner viaja al lugar de su infancia. No ha hablado con su padre en 20 años, pero se encarga de todo tras su muerte. Cuando llega a la idílica Hückeskirchen, conoce a la alcaldesa.
+· País: Alemania
+· Director: Peter Gersina
+· Reparto: Ingo Naujoks, Mariele Millowitsch, Johanna Gastdorf, Christoph M. Ohrt, Lion Wasczyk
+· Guion: Regine Bielefeldt,Annette Simon
+· Productora: Eyeworks</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3498165"/>
+  </programme>
+  <programme start="20251204060000 +0100" stop="20251204075000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Telediario Matinal (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20251204075000 +0100" stop="20251204103500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">La hora de La 1: La hora de la actualidad.  Temporada (T8). La hora de La 1:... (T8): Ep.239 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4180802"/>
+  </programme>
+  <programme start="20251204103500 +0100" stop="20251204150000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Mañaneros 360.  Temporada (T2). Mañaneros 360 (T2): Ep.68 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Javier Ruiz</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185097"/>
+  </programme>
+  <programme start="20251204150000 +0100" stop="20251204153500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Telediario 1 (2014) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20251204153500 +0100" stop="20251204154000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Deportes 1 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20251204154000 +0100" stop="20251204154500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">El tiempo (2014) | Movistar Plus+</title>
+    <desc lang="es">Meteorología | *3.2/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20251204154500 +0100" stop="20251204155500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Informativo territorial 2 (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20251204155500 +0100" stop="20251204173500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Directo al grano.  Temporada (T1). Directo al grano (T1): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *4.0/5
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Gonzalo Miró</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185099"/>
+  </programme>
+  <programme start="20251204173500 +0100" stop="20251204183500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Valle Salvaje.  Temporada (T3). Valle Salvaje (T3): Ep.69  (2025) | Movistar Plus+</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185094"/>
+  </programme>
+  <programme start="20251204183500 +0100" stop="20251204193500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">La Promesa.  Temporada (T1). La Promesa (T1): Ep.728  (2025) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185101"/>
+  </programme>
+  <programme start="20251204193500 +0100" stop="20251204203000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Malas lenguas.  Temporada (T2). Malas lenguas (T2): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4185103"/>
+  </programme>
+  <programme start="20251204203000 +0100" stop="20251204210000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Aquí la Tierra (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *3.2/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4108661"/>
+  </programme>
+  <programme start="20251204210000 +0100" stop="20251204214000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Telediario 2 (2021) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20251204214000 +0100" stop="20251204214500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Deportes 2 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20251204214500 +0100" stop="20251204230000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">La revuelta.  Temporada (T2). La revuelta (T2): Ep.51 (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de doce años
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano
+· Productora: Radio Televisión Española (RTVE), El Terrat</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4385109"/>
+  </programme>
+  <programme start="20251204230000 +0100" stop="20251205012500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Hasta el fin del mundo.  Temporada (T1). Hasta el fin del... (T1): Huacachina (Perú)-Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Telerrealidad | No recomendado para menores de doce años
+· Las seis parejas se adentran en la geografía andina. El aire escasea y cada paso cuesta más, porque el mal de altura se convierte en el enemigo silencioso de esta etapa.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185107"/>
+  </programme>
+  <programme start="20251204012500 +0100" stop="20251204015500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Más alla del fin del mundo.  Temporada (T1). Más alla del fin... (T1): De Huacachina (Perú) a Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Viajes | Apto para todos los públicos
+· Bolivia nos abre las puertas de su historia y sus tradiciones ancestrales. Paula llegará a Tarabuco, donde conocerá la forma de vida de una de las tribus indígenas más antiguas del país, los Yampara.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185109"/>
+  </programme>
+  <programme start="20251204015500 +0100" stop="20251204024000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Exceso de equipaje.  Temporada (T1). Exceso de equipaje (T1): Rocío Carrasco y Anabel Dueñas (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de dieciséis años | *5.0/5
+· Rocío Carrasco y Anabel Dueñas visitan el salón de Inés Hernand para revivir sus anécdotas más divertidas en ''Hasta el fin del mundo''.
+· País: España
+· Presenta: Inés Hernand</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185111"/>
+  </programme>
+  <programme start="20251204024000 +0100" stop="20251204041000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Dos viejas amigas (2014) | Movistar Plus+</title>
+    <desc lang="es">Cine TV comedia | No recomendado para menores de siete años | *3.7/5
+· La activista Anna Wagner viaja al lugar de su infancia. No ha hablado con su padre en 20 años, pero se encarga de todo tras su muerte. Cuando llega a la idílica Hückeskirchen, conoce a la alcaldesa.
+· País: Alemania
+· Director: Peter Gersina
+· Reparto: Ingo Naujoks, Mariele Millowitsch, Johanna Gastdorf, Christoph M. Ohrt, Lion Wasczyk
+· Guion: Regine Bielefeldt,Annette Simon
+· Productora: Eyeworks</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3498165"/>
+  </programme>
+  <programme start="20251205060000 +0100" stop="20251205075000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Telediario Matinal (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20251205075000 +0100" stop="20251205103500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">La hora de La 1: La hora de la actualidad.  Temporada (T8). La hora de La 1:... (T8): Ep.239 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4180802"/>
+  </programme>
+  <programme start="20251205103500 +0100" stop="20251205150000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Mañaneros 360.  Temporada (T2). Mañaneros 360 (T2): Ep.68 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Javier Ruiz</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185097"/>
+  </programme>
+  <programme start="20251205150000 +0100" stop="20251205153500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Telediario 1 (2014) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20251205153500 +0100" stop="20251205154000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Deportes 1 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20251205154000 +0100" stop="20251205154500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">El tiempo (2014) | Movistar Plus+</title>
+    <desc lang="es">Meteorología | *3.2/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20251205154500 +0100" stop="20251205155500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Informativo territorial 2 (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20251205155500 +0100" stop="20251205173500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Directo al grano.  Temporada (T1). Directo al grano (T1): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *4.0/5
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Gonzalo Miró</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185099"/>
+  </programme>
+  <programme start="20251205173500 +0100" stop="20251205183500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Valle Salvaje.  Temporada (T3). Valle Salvaje (T3): Ep.69  (2025) | Movistar Plus+</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185094"/>
+  </programme>
+  <programme start="20251205183500 +0100" stop="20251205193500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">La Promesa.  Temporada (T1). La Promesa (T1): Ep.728  (2025) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185101"/>
+  </programme>
+  <programme start="20251205193500 +0100" stop="20251205203000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Malas lenguas.  Temporada (T2). Malas lenguas (T2): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4185103"/>
+  </programme>
+  <programme start="20251205203000 +0100" stop="20251205210000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Aquí la Tierra (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *3.2/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4108661"/>
+  </programme>
+  <programme start="20251205210000 +0100" stop="20251205214000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Telediario 2 (2021) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20251205214000 +0100" stop="20251205214500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Deportes 2 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20251205214500 +0100" stop="20251205230000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">La revuelta.  Temporada (T2). La revuelta (T2): Ep.51 (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de doce años
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano
+· Productora: Radio Televisión Española (RTVE), El Terrat</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4385109"/>
+  </programme>
+  <programme start="20251205230000 +0100" stop="20251206012500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Hasta el fin del mundo.  Temporada (T1). Hasta el fin del... (T1): Huacachina (Perú)-Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Telerrealidad | No recomendado para menores de doce años
+· Las seis parejas se adentran en la geografía andina. El aire escasea y cada paso cuesta más, porque el mal de altura se convierte en el enemigo silencioso de esta etapa.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185107"/>
+  </programme>
+  <programme start="20251205012500 +0100" stop="20251205015500 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Más alla del fin del mundo.  Temporada (T1). Más alla del fin... (T1): De Huacachina (Perú) a Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Viajes | Apto para todos los públicos
+· Bolivia nos abre las puertas de su historia y sus tradiciones ancestrales. Paula llegará a Tarabuco, donde conocerá la forma de vida de una de las tribus indígenas más antiguas del país, los Yampara.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185109"/>
+  </programme>
+  <programme start="20251205015500 +0100" stop="20251205024000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Exceso de equipaje.  Temporada (T1). Exceso de equipaje (T1): Rocío Carrasco y Anabel Dueñas (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de dieciséis años | *5.0/5
+· Rocío Carrasco y Anabel Dueñas visitan el salón de Inés Hernand para revivir sus anécdotas más divertidas en ''Hasta el fin del mundo''.
+· País: España
+· Presenta: Inés Hernand</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185111"/>
+  </programme>
+  <programme start="20251205024000 +0100" stop="20251205041000 +0100" channel="Canal FlixOlé 1">
+    <title lang="es">Dos viejas amigas (2014) | Movistar Plus+</title>
+    <desc lang="es">Cine TV comedia | No recomendado para menores de siete años | *3.7/5
+· La activista Anna Wagner viaja al lugar de su infancia. No ha hablado con su padre en 20 años, pero se encarga de todo tras su muerte. Cuando llega a la idílica Hückeskirchen, conoce a la alcaldesa.
+· País: Alemania
+· Director: Peter Gersina
+· Reparto: Ingo Naujoks, Mariele Millowitsch, Johanna Gastdorf, Christoph M. Ohrt, Lion Wasczyk
+· Guion: Regine Bielefeldt,Annette Simon
+· Productora: Eyeworks</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3498165"/>
+  </programme>
+  <programme start="20251203060000 +0100" stop="20251203075000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Telediario Matinal (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20251203075000 +0100" stop="20251203103500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">La hora de La 1: La hora de la actualidad.  Temporada (T8). La hora de La 1:... (T8): Ep.239 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4180802"/>
+  </programme>
+  <programme start="20251203103500 +0100" stop="20251203150000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Mañaneros 360.  Temporada (T2). Mañaneros 360 (T2): Ep.68 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Javier Ruiz</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185097"/>
+  </programme>
+  <programme start="20251203150000 +0100" stop="20251203153500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Telediario 1 (2014) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20251203153500 +0100" stop="20251203154000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Deportes 1 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20251203154000 +0100" stop="20251203154500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">El tiempo (2014) | Movistar Plus+</title>
+    <desc lang="es">Meteorología | *3.2/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20251203154500 +0100" stop="20251203155500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Informativo territorial 2 (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20251203155500 +0100" stop="20251203173500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Directo al grano.  Temporada (T1). Directo al grano (T1): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *4.0/5
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Gonzalo Miró</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185099"/>
+  </programme>
+  <programme start="20251203173500 +0100" stop="20251203183500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Valle Salvaje.  Temporada (T3). Valle Salvaje (T3): Ep.69  (2025) | Movistar Plus+</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185094"/>
+  </programme>
+  <programme start="20251203183500 +0100" stop="20251203193500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">La Promesa.  Temporada (T1). La Promesa (T1): Ep.728  (2025) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185101"/>
+  </programme>
+  <programme start="20251203193500 +0100" stop="20251203203000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Malas lenguas.  Temporada (T2). Malas lenguas (T2): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4185103"/>
+  </programme>
+  <programme start="20251203203000 +0100" stop="20251203210000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Aquí la Tierra (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *3.2/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4108661"/>
+  </programme>
+  <programme start="20251203210000 +0100" stop="20251203214000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Telediario 2 (2021) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20251203214000 +0100" stop="20251203214500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Deportes 2 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20251203214500 +0100" stop="20251203230000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">La revuelta.  Temporada (T2). La revuelta (T2): Ep.51 (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de doce años
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano
+· Productora: Radio Televisión Española (RTVE), El Terrat</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4385109"/>
+  </programme>
+  <programme start="20251203230000 +0100" stop="20251204012500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Hasta el fin del mundo.  Temporada (T1). Hasta el fin del... (T1): Huacachina (Perú)-Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Telerrealidad | No recomendado para menores de doce años
+· Las seis parejas se adentran en la geografía andina. El aire escasea y cada paso cuesta más, porque el mal de altura se convierte en el enemigo silencioso de esta etapa.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185107"/>
+  </programme>
+  <programme start="20251203012500 +0100" stop="20251203015500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Más alla del fin del mundo.  Temporada (T1). Más alla del fin... (T1): De Huacachina (Perú) a Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Viajes | Apto para todos los públicos
+· Bolivia nos abre las puertas de su historia y sus tradiciones ancestrales. Paula llegará a Tarabuco, donde conocerá la forma de vida de una de las tribus indígenas más antiguas del país, los Yampara.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185109"/>
+  </programme>
+  <programme start="20251203015500 +0100" stop="20251203024000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Exceso de equipaje.  Temporada (T1). Exceso de equipaje (T1): Rocío Carrasco y Anabel Dueñas (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de dieciséis años | *5.0/5
+· Rocío Carrasco y Anabel Dueñas visitan el salón de Inés Hernand para revivir sus anécdotas más divertidas en ''Hasta el fin del mundo''.
+· País: España
+· Presenta: Inés Hernand</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185111"/>
+  </programme>
+  <programme start="20251203024000 +0100" stop="20251203041000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Dos viejas amigas (2014) | Movistar Plus+</title>
+    <desc lang="es">Cine TV comedia | No recomendado para menores de siete años | *3.7/5
+· La activista Anna Wagner viaja al lugar de su infancia. No ha hablado con su padre en 20 años, pero se encarga de todo tras su muerte. Cuando llega a la idílica Hückeskirchen, conoce a la alcaldesa.
+· País: Alemania
+· Director: Peter Gersina
+· Reparto: Ingo Naujoks, Mariele Millowitsch, Johanna Gastdorf, Christoph M. Ohrt, Lion Wasczyk
+· Guion: Regine Bielefeldt,Annette Simon
+· Productora: Eyeworks</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3498165"/>
+  </programme>
+  <programme start="20251204060000 +0100" stop="20251204075000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Telediario Matinal (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20251204075000 +0100" stop="20251204103500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">La hora de La 1: La hora de la actualidad.  Temporada (T8). La hora de La 1:... (T8): Ep.239 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4180802"/>
+  </programme>
+  <programme start="20251204103500 +0100" stop="20251204150000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Mañaneros 360.  Temporada (T2). Mañaneros 360 (T2): Ep.68 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Javier Ruiz</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185097"/>
+  </programme>
+  <programme start="20251204150000 +0100" stop="20251204153500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Telediario 1 (2014) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20251204153500 +0100" stop="20251204154000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Deportes 1 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20251204154000 +0100" stop="20251204154500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">El tiempo (2014) | Movistar Plus+</title>
+    <desc lang="es">Meteorología | *3.2/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20251204154500 +0100" stop="20251204155500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Informativo territorial 2 (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20251204155500 +0100" stop="20251204173500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Directo al grano.  Temporada (T1). Directo al grano (T1): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *4.0/5
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Gonzalo Miró</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185099"/>
+  </programme>
+  <programme start="20251204173500 +0100" stop="20251204183500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Valle Salvaje.  Temporada (T3). Valle Salvaje (T3): Ep.69  (2025) | Movistar Plus+</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185094"/>
+  </programme>
+  <programme start="20251204183500 +0100" stop="20251204193500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">La Promesa.  Temporada (T1). La Promesa (T1): Ep.728  (2025) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185101"/>
+  </programme>
+  <programme start="20251204193500 +0100" stop="20251204203000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Malas lenguas.  Temporada (T2). Malas lenguas (T2): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4185103"/>
+  </programme>
+  <programme start="20251204203000 +0100" stop="20251204210000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Aquí la Tierra (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *3.2/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4108661"/>
+  </programme>
+  <programme start="20251204210000 +0100" stop="20251204214000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Telediario 2 (2021) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20251204214000 +0100" stop="20251204214500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Deportes 2 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20251204214500 +0100" stop="20251204230000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">La revuelta.  Temporada (T2). La revuelta (T2): Ep.51 (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de doce años
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano
+· Productora: Radio Televisión Española (RTVE), El Terrat</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4385109"/>
+  </programme>
+  <programme start="20251204230000 +0100" stop="20251205012500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Hasta el fin del mundo.  Temporada (T1). Hasta el fin del... (T1): Huacachina (Perú)-Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Telerrealidad | No recomendado para menores de doce años
+· Las seis parejas se adentran en la geografía andina. El aire escasea y cada paso cuesta más, porque el mal de altura se convierte en el enemigo silencioso de esta etapa.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185107"/>
+  </programme>
+  <programme start="20251204012500 +0100" stop="20251204015500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Más alla del fin del mundo.  Temporada (T1). Más alla del fin... (T1): De Huacachina (Perú) a Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Viajes | Apto para todos los públicos
+· Bolivia nos abre las puertas de su historia y sus tradiciones ancestrales. Paula llegará a Tarabuco, donde conocerá la forma de vida de una de las tribus indígenas más antiguas del país, los Yampara.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185109"/>
+  </programme>
+  <programme start="20251204015500 +0100" stop="20251204024000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Exceso de equipaje.  Temporada (T1). Exceso de equipaje (T1): Rocío Carrasco y Anabel Dueñas (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de dieciséis años | *5.0/5
+· Rocío Carrasco y Anabel Dueñas visitan el salón de Inés Hernand para revivir sus anécdotas más divertidas en ''Hasta el fin del mundo''.
+· País: España
+· Presenta: Inés Hernand</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185111"/>
+  </programme>
+  <programme start="20251204024000 +0100" stop="20251204041000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Dos viejas amigas (2014) | Movistar Plus+</title>
+    <desc lang="es">Cine TV comedia | No recomendado para menores de siete años | *3.7/5
+· La activista Anna Wagner viaja al lugar de su infancia. No ha hablado con su padre en 20 años, pero se encarga de todo tras su muerte. Cuando llega a la idílica Hückeskirchen, conoce a la alcaldesa.
+· País: Alemania
+· Director: Peter Gersina
+· Reparto: Ingo Naujoks, Mariele Millowitsch, Johanna Gastdorf, Christoph M. Ohrt, Lion Wasczyk
+· Guion: Regine Bielefeldt,Annette Simon
+· Productora: Eyeworks</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3498165"/>
+  </programme>
+  <programme start="20251205060000 +0100" stop="20251205075000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Telediario Matinal (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20251205075000 +0100" stop="20251205103500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">La hora de La 1: La hora de la actualidad.  Temporada (T8). La hora de La 1:... (T8): Ep.239 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4180802"/>
+  </programme>
+  <programme start="20251205103500 +0100" stop="20251205150000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Mañaneros 360.  Temporada (T2). Mañaneros 360 (T2): Ep.68 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.0/5
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Javier Ruiz</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185097"/>
+  </programme>
+  <programme start="20251205150000 +0100" stop="20251205153500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Telediario 1 (2014) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20251205153500 +0100" stop="20251205154000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Deportes 1 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20251205154000 +0100" stop="20251205154500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">El tiempo (2014) | Movistar Plus+</title>
+    <desc lang="es">Meteorología | *3.2/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20251205154500 +0100" stop="20251205155500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Informativo territorial 2 (2023) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20251205155500 +0100" stop="20251205173500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Directo al grano.  Temporada (T1). Directo al grano (T1): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *4.0/5
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Gonzalo Miró</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185099"/>
+  </programme>
+  <programme start="20251205173500 +0100" stop="20251205183500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Valle Salvaje.  Temporada (T3). Valle Salvaje (T3): Ep.69  (2025) | Movistar Plus+</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185094"/>
+  </programme>
+  <programme start="20251205183500 +0100" stop="20251205193500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">La Promesa.  Temporada (T1). La Promesa (T1): Ep.728  (2025) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185101"/>
+  </programme>
+  <programme start="20251205193500 +0100" stop="20251205203000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Malas lenguas.  Temporada (T2). Malas lenguas (T2): Ep.58 (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4185103"/>
+  </programme>
+  <programme start="20251205203000 +0100" stop="20251205210000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Aquí la Tierra (2025) | Movistar Plus+</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *3.2/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4108661"/>
+  </programme>
+  <programme start="20251205210000 +0100" stop="20251205214000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Telediario 2 (2021) | Movistar Plus+</title>
+    <desc lang="es">Informativo | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20251205214000 +0100" stop="20251205214500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Deportes 2 (2025) | Movistar Plus+</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20251205214500 +0100" stop="20251205230000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">La revuelta.  Temporada (T2). La revuelta (T2): Ep.51 (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de doce años
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano
+· Productora: Radio Televisión Española (RTVE), El Terrat</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4385109"/>
+  </programme>
+  <programme start="20251205230000 +0100" stop="20251206012500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Hasta el fin del mundo.  Temporada (T1). Hasta el fin del... (T1): Huacachina (Perú)-Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Telerrealidad | No recomendado para menores de doce años
+· Las seis parejas se adentran en la geografía andina. El aire escasea y cada paso cuesta más, porque el mal de altura se convierte en el enemigo silencioso de esta etapa.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185107"/>
+  </programme>
+  <programme start="20251205012500 +0100" stop="20251205015500 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Más alla del fin del mundo.  Temporada (T1). Más alla del fin... (T1): De Huacachina (Perú) a Sucre (Bolivia) (2025) | Movistar Plus+</title>
+    <desc lang="es">Viajes | Apto para todos los públicos
+· Bolivia nos abre las puertas de su historia y sus tradiciones ancestrales. Paula llegará a Tarabuco, donde conocerá la forma de vida de una de las tribus indígenas más antiguas del país, los Yampara.
+· País: España
+· Presenta: Paula Vázquez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185109"/>
+  </programme>
+  <programme start="20251205015500 +0100" stop="20251205024000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Exceso de equipaje.  Temporada (T1). Exceso de equipaje (T1): Rocío Carrasco y Anabel Dueñas (2025) | Movistar Plus+</title>
+    <desc lang="es">Entrevista | No recomendado para menores de dieciséis años | *5.0/5
+· Rocío Carrasco y Anabel Dueñas visitan el salón de Inés Hernand para revivir sus anécdotas más divertidas en ''Hasta el fin del mundo''.
+· País: España
+· Presenta: Inés Hernand</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4185111"/>
+  </programme>
+  <programme start="20251205024000 +0100" stop="20251205041000 +0100" channel="Canal FlixOlé 2">
+    <title lang="es">Dos viejas amigas (2014) | Movistar Plus+</title>
+    <desc lang="es">Cine TV comedia | No recomendado para menores de siete años | *3.7/5
+· La activista Anna Wagner viaja al lugar de su infancia. No ha hablado con su padre en 20 años, pero se encarga de todo tras su muerte. Cuando llega a la idílica Hückeskirchen, conoce a la alcaldesa.
+· País: Alemania
+· Director: Peter Gersina
+· Reparto: Ingo Naujoks, Mariele Millowitsch, Johanna Gastdorf, Christoph M. Ohrt, Lion Wasczyk
+· Guion: Regine Bielefeldt,Annette Simon
+· Productora: Eyeworks</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3498165"/>
   </programme>
 </tv>
