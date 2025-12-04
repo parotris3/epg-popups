@@ -14,9 +14,7 @@ import re # Para extraer año y país
 # --- Configuración (sin cambios) ---
 TARGET_CHANNELS = [
     {"casid": "5252"},
-    {"casid": "4955"},
-    {"casid": "5493"},
-    {"casid": "5496"}
+    {"casid": "4955"}
 ]
 CSV_URL = "https://raw.githubusercontent.com/parotris3/Mfeed/main/difusion.csv"
 BASE_PROGRAM_URL = "https://www.movistarplus.es/programacion-tv/"
@@ -498,5 +496,6 @@ if __name__ == "__main__":
 
     end_time_global = time.time()
     print(f"--- Proceso finalizado en {end_time_global - start_time_global:.2f} segundos ---")
+
 
 
