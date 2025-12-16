@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 15/12/2025 01:43">
+<tv generator-info-name="MultiPopUps FullDesc 16/12/2025 01:40">
   <channel id="M+ BBC Earth">
     <display-name>M+ BBC Earth</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MDEPOR"/>
@@ -8,200 +8,6 @@
     <display-name>M+ Navidad</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID"/>
   </channel>
-  <programme start="20251215051100 +0100" stop="20251215064000 +0100" channel="M+ Navidad">
-    <title lang="es">El casoplón (2025) | Movistar Plus+</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
-· Toñi, Carlos y sus hijos están pasando el peor verano de sus vidas: sin vacaciones, encerrados en su asfixiante piso y, para colmo, sin aire acondicionado. Todo cambia cuando a Carlos le dan trabajo como jardinero ¡en un casoplón!
-· País: España
-· Director: Joaquín Mazón
-· Reparto: Raquel Guerrero, Pablo Chiapella, Nerea Pascual, Álvaro Lafuente, Noah Casas, Edurne, Iñaki Miramón, Janfri Topera, Vito Rogado, Hamza Zaidi, María Córdoba
-· Guion: Roberto Jiménez
-· Música: Vicente Ortiz Gimeno
-· Producción: Juan Moreno, Guillermo Sempere, Koldo Zuazua
-· Productora: Casoplón, A.I.E., Feelgood Media, Radio Televisión Española (RTVE), Crea SGR, Movistar Plus+</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4389698?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215064000 +0100" stop="20251215070500 +0100" channel="M+ Navidad">
-    <title lang="es">Leo talks.  Temporada (T5). Leo talks (T5): Abajo el Trabajo (2025) | Movistar Plus+</title>
-    <desc lang="es">Humor | No recomendado para menores de doce años | *3.3/5
-· Leo Harlem se lanza contra el trabajo con ironía y desparpajo: jefes tóxicos, oficinas absurdas, frases vacías y situaciones disparatadas que todos hemos vivido. Un repaso desternillante al curro… ese castigo moderno con futbolín y café gratis.
-· País: España
-· Presenta: Leo Harlem
-· Producción: Isabel Guerrero Martínez</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4390778?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20251215070500 +0100" stop="20251215072800 +0100" channel="M+ Navidad">
-    <title lang="es">One Zoo Three. One Zoo Three: Leyendas del zoo (2022) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· Hoy en One Zoo Three, las Leyendas del Zoo están de celebración. Hay mucho que preparar para organizar un evento muy especial. Los hermanos están calentando motores para presentar a algunos de los habitantes más longevos.
-· País: R.U
-· Producción: Tim Duck</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4099557?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20251215072800 +0100" stop="20251215091700 +0100" channel="M+ Navidad">
-    <title lang="es">Dalia y el libro rojo (2024) | Movistar Plus+</title>
-    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.0/5
-· Dalia, la hija de un famoso escritor quien ha muerto recientemente, hereda el legado de finalizar su libro. Para ello, Dalia se convertirá en parte del libro y se enfrentará cara a cara con los personajes que han tomado el tema del libro.
-· País: Argentina y España
-· Director: David Bisbano
-· Reparto: Andrés Burecovics
-· Guion: David Bisbano
-· Productora: Vista Sur Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4392515?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215091700 +0100" stop="20251215104700 +0100" channel="M+ Navidad">
-    <title lang="es">Harold y el lápiz mágico (2024) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | Especialmente recomendado para la infancia | *3.1/5
-· En el mundo animado de Harold, todo lo que dibuja con su lápiz morado se convierte en realidad. De hecho, cuando un día se dibuja a sí mismo, es el propio Harold el que cobra vida fuera de las páginas de su libro y aparece en el mundo real.
-· País: EE.UU
-· Director: Carlos Saldanha
-· Reparto: Zachary Levi, Benjamin Bottani, Lil Rel Howery, Tanya Reynolds, Zooey Deschanel, Jemaine Clement
-· Guion: David Guion,Michael Handelman
-· Música: Batu Sener
-· Producción: John Davis
-· Productora: Davis Entertainment, TSG Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4363202?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215104700 +0100" stop="20251215121000 +0100" channel="M+ Navidad">
-    <title lang="es">Naruto La Película: ¡La Gran misión! ¡El rescate de la Princesa de la Nieve! (2004) | Movistar Plus+</title>
-    <desc lang="es">Anime | No recomendado para menores de doce años | *3.0/5
-· Tras liarla en un cine, Naruto, Sasuke y Sakura descubren que su próxima misión tiene que ver, precisamente, con los protagonistas de la película de la que acaban de echarlos.
-· País: Japón
-· Director: Tensai Okamura
-· Guion: Katsuyuki Sumizawa
-· Música: Toshio Masuda
-· Producción: Atsuhiro Iwakami
-· Productora: Naruto Movie Production Committee, Aniplex, Dentsu</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4307758?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215121000 +0100" stop="20251215134000 +0100" channel="M+ Navidad">
-    <title lang="es">Manolito Gafotas (1999) | Movistar Plus+</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.8/5
-· A Manolo García Moreno, de Carabanchel Alto, Madrid, todo el mundo lo conoce como Manolito Gafotas. Manolito espera con ilusión la llegada de su padre, camionero, ya que espera poder empezar a conocer el que será su medio de ganarse la vida en el futuro.
-· País: España
-· Director: Miguel Albaladejo
-· Reparto: David Sánchez del Rey, Adriana Ozores, Roberto Álvarez, Antonio Gamero, Fedra Lorente, Alejandro Martínez
-· Guion: Elvira Lindo,Miguel Albaladejo
-· Música: Lucio Godoy
-· Producción: Julio Fernández, Miguel Ángel González
-· Productora: Filmax</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3592725?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215134000 +0100" stop="20251215152600 +0100" channel="M+ Navidad">
-    <title lang="es">La gran aventura de Mortadelo y Filemón (2003) | Movistar Plus+</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.6/5
-· Al profesor Bacterio le han robado un peligroso invento que cae en manos de un dictador dispuesto a usarlo de forma criminal. El Súper lo tiene claro: si quiere recuperarlo, no debe contar con sus agentes Mortadelo y Filemón.
-· País: España
-· Director: Javier Fesser
-· Reparto: Benito Pocino, Pepe Viyuela, Dominique Pinon, Paco Sagarzazu, Mariano Venancio, Janfri Topera, Berta Ojea, María Isbert
-· Guion: Javier Fesser,Guillermo Fesser
-· Música: Rafael Arnau, Mario Gosálvez
-· Producción: Fernando Bovaira, José Luis Garci, Luis Manso
-· Productora: Sociedad General de Cine (Sogecine) S.A, Películas Pendelton, Sogecable, Telecinco, Canal+ España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3761609?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215152600 +0100" stop="20251215170000 +0100" channel="M+ Navidad">
-    <title lang="es">¿Quién es quién? (2024) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.1/5
-· Los Fuentes salta por los aires el día que la benjamina del grupo, Valentina, pide un deseo por su noveno cumpleaños y al día siguiente los cuerpos de toda la familia se han intercambiado y el caos se ha apoderado de la familia. Ahora: ¿quién es quién?
-· País: España
-· Director: Hugo Martín Cuervo
-· Reparto: Kira Miró, Gracia Olayo, Sofía Otero, Salva Reina, Carlos Areces, Gonzalo de Castro, Terelu Campos, Elena Irureta, Carlos Iglesias
-· Guion: Irene Niubó
-· Música: Iván Valdés
-· Producción: Jaime Ortiz de Artiñano, Gonzalo Salazar-Simpson</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4356340?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215170000 +0100" stop="20251215171000 +0100" channel="M+ Navidad">
-    <title lang="es">Mi amiga Eva. Los juegos del amor (2025) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.2/5
-· Mi amiga Eva. Los juegos del amor
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4425104?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215171000 +0100" stop="20251215184000 +0100" channel="M+ Navidad">
-    <title lang="es">Como en casa en ningún sitio (2008) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.0/5
-· Los planes de una pareja acomodada, acostumbrada a escaparse de las celebraciones navideñas, han sido cancelados de manera inesperada. Este año no les quedará otro remedio que enfrentarse a la locura familiar, una experiencia que les cambiará la vida.
-· País: Alemania y EE.UU
-· Director: Seth Gordon
-· Reparto: Sissy Spacek, Robert Duvall, Mary Steenburgen, Jon Voight, Reese Witherspoon, Vince Vaughn, Carol Kane, Jon Favreau, Dwight Yoakam, Brian Baumgartner
-· Guion: Jon Lucas,Scotty Moore,Matt Allen,Caleb Wilson
-· Música: Alex Wurman
-· Producción: Roger Birnbaum, Gary Barber, Jonathan Glickman</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4445976?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215184000 +0100" stop="20251215202000 +0100" channel="M+ Navidad">
-    <title lang="es">Men in Black (Hombres de negro) (1997) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.8/5
-· Los Hombres de Negro forman parte de una agencia ultrasecreta que vigila a los extraterrestres de paso o residentes en la Tierra. K es uno de sus mejores agentes, y pronto el joven J se va a convertir en su nuevo compañero.
-· País: EE.UU
-· Director: Barry Sonnenfeld
-· Reparto: Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio, Rip Torn, Tony Shalhoub
-· Guion: Lowell Cunningham,Ed Solomon
-· Música: Danny Elfman
-· Producción: Laurie MacDonald, Walter F. Parkes
-· Productora: Columbia Pictures, Amblin Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3859274?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215202000 +0100" stop="20251215214900 +0100" channel="M+ Navidad">
-    <title lang="es">Men in Black II (Hombres de negro II) (2002) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.3/5
-· Cuando el 'hombre de negro' J necesita ayuda contra la amenaza alienígena, acude en busca de su antiguo compañero K.
-· País: EE.UU
-· Director: Barry Sonnenfeld
-· Reparto: Tommy Lee Jones, Will Smith, Rip Torn, Lara Flynn Boyle, Johnny Knoxville, Rosario Dawson, Tony Shalhoub
-· Guion: Robert Gordon,Barry Fanaro
-· Música: Danny Elfman
-· Producción: Laurie MacDonald, Walter F. Parkes
-· Productora: Columbia Pictures, Amblin Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4043245?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215214900 +0100" stop="20251215220000 +0100" channel="M+ Navidad">
-    <title lang="es">Anatomía de un instante. Cómo salvar una democracia (2025) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.2/5
-· Los actores Eduard Fernández, Álvaro Morte y Manolo Solo nos cuentan todos los detalles de la nueva serie de Alberto Rodríguez “Anatomía de un instante” que llegará a Movistar Plus+ el 20 de noviembre.
-· País: España
-· Presenta: Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4432094?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215220000 +0100" stop="20251215234500 +0100" channel="M+ Navidad">
-    <title lang="es">Men in Black 3 (2012) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.5/5
-· En sus 15 años de servicio, el agente J ha visto cosas inexplicables, pero nada le produce tanta perplejidad como su compañero, el agente K. Cuando el destino del planeta y la vida de K son puestos en peligro, J tendrá que hacer un viaje al pasado.
-· País: EE.UU y Emiratos Árabes Unidos
-· Director: Barry Sonnenfeld
-· Reparto: Tommy Lee Jones, Will Smith, Josh Brolin, Jemaine Clement, Emma Thompson, Keone Young, David Rasche, Will Arnett, Michael Stuhlbarg, Alice Eve, Bill Hader, Michael Chernus, Mike Colter, Nicole Scherzinger
-· Guion: Etan Cohen
-· Música: Danny Elfman
-· Producción: Laurie MacDonald, Walter F. Parkes
-· Productora: Columbia Pictures, Amblin Entertainment, Hemisphere Media Capital</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4043249?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20251215234500 +0100" stop="20251216012500 +0100" channel="M+ Navidad">
-    <title lang="es">Max Reload y los desintegradores abisales (2020) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | No recomendado para menores de doce años | *2.9/5
-· El empleado de una tienda de videojuegos se convierte en héroe involuntario tras desbloquear accidentalmente a una letal fuerza del mal en el cartucho de un juego antiguo.
-· País: EE.UU
-· Director: Scott Conditt, Jeremy Tremp
-· Reparto: Joey Morgan, Jesse Kove, Greg Grunberg, Kevin Smith, Martin Kove
-· Guion: Scott Conditt
-· Productora: CineForge Media</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3918623"/>
-  </programme>
-  <programme start="20251215012500 +0100" stop="20251215033400 +0100" channel="M+ Navidad">
-    <title lang="es">Pacific Rim (2013) | Movistar Plus+</title>
-    <desc lang="es">Acción | No recomendado para menores de doce años | *3.6/5
-· Cuando unas criaturas monstruosas, los 'kaiju', empiezan a salir del mar, la humanidad no tiene más remedio que combatirlos con un arma especial, los 'jaegers', unos enormes robots que son controlados por dos pilotos cuyas mentes están conectadas.
-· País: EE.UU
-· Director: Guillermo del Toro
-· Reparto: Charlie Hunnam, Idris Elba, Rinko Kikuchi, Charlie Day, Ron Perlman, Robert Kazinsky, Santiago Segura, Diego Klattenhoff
-· Guion: Guillermo del Toro,Travis Beacham
-· Música: Ramin Djawadi
-· Producción: Jon Jashni, Guillermo del Toro, Thomas Tull, Mary Parent
-· Productora: Warner Bros. Pictures, Legendary Pictures, Warner Bros, Disney Double Dare You (DDY)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3793999?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20251216033400 +0100" stop="20251216060300 +0100" channel="M+ Navidad">
     <title lang="es">Dune (2021) | Movistar Plus+</title>
     <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.8/5
@@ -271,7 +77,7 @@
   </programme>
   <programme start="20251216123100 +0100" stop="20251216131800 +0100" channel="M+ Navidad">
     <title lang="es">Dulce Navidad (2025) | Movistar Plus+</title>
-    <desc lang="es">Sociedad | Apto para todos los públicos | *2.8/5
+    <desc lang="es">Sociedad | Apto para todos los públicos | *2.9/5
 · Este documental viaja a Nueva York, Reino Unido y Suecia para visitar tres de las tiendas de caramelos más grandes del mundo durante una de las épocas más especiales del año. Un viaje navideño a través de algunos de los destinos más dulces del planeta.
 · País: R.U
 · Director: David Metcalf, Michaela Moir
@@ -338,7 +144,7 @@
   </programme>
   <programme start="20251216202700 +0100" stop="20251216215000 +0100" channel="M+ Navidad">
     <title lang="es">Wicked: One Wonderful Night (2025) | Movistar Plus+</title>
-    <desc lang="es">Concierto | Apto para todos los públicos | *3.8/5
+    <desc lang="es">Concierto | Apto para todos los públicos | *3.7/5
 · Para celebrar el estreno en cines de la segunda parte de &quot;Wicked&quot;, las estrellas del musical, entre las que destacan Ariana Grande y Cynthia Erivo, se reúnen en este concierto especial que tuvo lugar en el Dolby Theatre de Los Ángeles.
 · País: EE.UU
 · Director: Paul Dugdale
@@ -585,5 +391,191 @@
 · Producción: James Jacks, Sean Daniel
 · Productora: Universal Pictures, Alphaville Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3798192?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218041900 +0100" stop="20251218060800 +0100" channel="M+ Navidad">
+    <title lang="es">La momia III (2008) | Movistar Plus+</title>
+    <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.4/5
+· Tras enfrentarse a una momia egipcia y trabajar como espías en la II Guerra Mundial, Rick y Evelyn viajan a China en busca de una joya que tiene el poder de resucitar al emperador Han y descubrir la ubicación de Shangri-La, la fuente de la juventud.
+· País: Alemania, Canadá, China y EE.UU
+· Director: Rob Cohen
+· Reparto: Brendan Fraser, Maria Bello, Jet Li, John Hannah, Russell Wong, Michelle Yeoh, Luke Ford, Isabella Leong, Albert Kwan, Tian Liang, Anthony Chau-Sang Wong
+· Guion: Miles Millar,Alfred Gough
+· Música: Randy Edelman
+· Producción: Bob Ducsay, Sean Daniel, James Jacks
+· Productora: Universal Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3798202?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218060800 +0100" stop="20251218073500 +0100" channel="M+ Navidad">
+    <title lang="es">Lucy (2014) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.4/5
+· Lucy adquiere poderes sobrenaturales tras romperse una de las bolsas de droga que transporta y absorber su cuerpo  los estupefacientes.
+· País: Alemania, EE.UU, Francia y Taiwan
+· Director: Luc Besson
+· Reparto: Scarlett Johansson, Morgan Freeman, Choi Min-sik, Amr Waked, Analeigh Tipton
+· Guion: Luc Besson
+· Música: Eric Serra
+· Producción: Virginie Silla
+· Productora: Universal Pictures, TF1 Films Production</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3793953?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218073500 +0100" stop="20251218080000 +0100" channel="M+ Navidad">
+    <title lang="es">One Zoo Three. One Zoo Three: El día del tigre (2022) | Movistar Plus+</title>
+    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
+· En el refugio de felinos de One, Zoo, Three, los hermanos están celebrando el año nuevo chino. El momento perfecto para refrescar y hacer una limpieza a fondo. Luka, el leopardo, debe superar su timidez y presentarse a su vecina Xizi.
+· País: R.U
+· Producción: Tim Duck</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4099607?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20251218080000 +0100" stop="20251218093000 +0100" channel="M+ Navidad">
+    <title lang="es">Trolls (2016) | Movistar Plus+</title>
+    <desc lang="es">Animación | No recomendado para menores de siete años | *3.9/5
+· Hace 20 años, los simpáticos y tiernos trolls, los seres más felices del mundo, consiguieron escapar de los tristes y miserables bergen, quienes, una vez al año, se reunían alrededor del árbol de los trolls para robarles la felicidad ¡comiéndoselos!
+· País: EE.UU
+· Director: Mike Mitchell, Walt Dohrn
+· Guion: Jonathan Aibel,Glenn Berger
+· Música: Christophe Beck
+· Producción: Gina Shay
+· Productora: DreamWorks Animation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3967878?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218093000 +0100" stop="20251218110000 +0100" channel="M+ Navidad">
+    <title lang="es">Trolls 2: Gira mundial (2020) | Movistar Plus+</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *4.0/5
+· La ahora reina Poppy, su amigo Branch y el resto de trolls del bosque no saben que hay muchos más como ellos... y que los amenaza un serio peligro: la reina de los trolls rockeros pretende unir a todas las razas troll en una única nación ¡bajo el rock!
+· País: EE.UU
+· Director: Walt Dohrn, David P. Smith
+· Guion: Jonathan Aibel,Glenn Berger,Maya Forbes,Wallace Wolodarsky,Elizabeth Tippet,Thomas Dam
+· Música: Theodore Shapiro
+· Producción: Gina Shay
+· Productora: DreamWorks Animation, Dentsu</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3885394?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218110000 +0100" stop="20251218121900 +0100" channel="M+ Navidad">
+    <title lang="es">Nico, el reno que quería volar (2008) | Movistar Plus+</title>
+    <desc lang="es">Animación | Apto para todos los públicos | *3.6/5
+· El pequeño Nico es hijo de uno de los renos que tiran del trineo de Papá Noel. Desea con todas sus fuerzas volar y conocer a su padre, por eso decide ir en su busca. En su aventura lo acompañan Julius una ardilla voladora y Wilma una descarada comadreja.
+· País: Alemania, Finlandia e Irlanda
+· Director: Michael Hegner, Kari Juusonen
+· Productora: Animaker</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4326871?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218121900 +0100" stop="20251218133800 +0100" channel="M+ Navidad">
+    <title lang="es">Niko 2. Hermano pequeño, problema grande (2012) | Movistar Plus+</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.4/5
+· El pequeño reno Niko sueña en secreto con que sus padres vuelvan a estar juntos. Pero un día, su madre le anuncia que tiene una sorpresa: ha conocido a un reno llamado Lenni, que se viene a vivir con ellos junto con su pequeño hijo Johnny.
+· País: Alemania y Finlandia
+· Director: Karie Juusonen, Jørgen Lerdam
+· Guion: Hannu Tuomainen,Marteinn Thorisson
+· Productora: Anima Vitae, Animaker</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4326627?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218133800 +0100" stop="20251218151500 +0100" channel="M+ Navidad">
+    <title lang="es">El artista del cristal (2024) | Movistar Plus+</title>
+    <desc lang="es">Animación | No recomendado para menores de siete años | *3.1/5
+· El joven Vincent y su padre Tomas, los encargados de dirigir el mejor taller de vidrio del país, temen por una guerra inminente en la que no quieren participar.
+· País: EE.UU y Pakistán
+· Director: Usman Riaz
+· Guion: Moya O'Shea
+· Música: Carmine Di Florio
+· Productora: Mano Animation Studios</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4352217?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218151500 +0100" stop="20251218164900 +0100" channel="M+ Navidad">
+    <title lang="es">Los chicos del coro (2004) | Movistar Plus+</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.8/5
+· En 1949, Clément Mathieu, músico fracasado, empieza a trabajar como vigilante en un internado de reeducación de menores especialmente represivo. En sus esfuerzos por acercarse a los chicos, Mathieu descubre que la música los atrae poderosamente.
+· País: Alemania, Francia y Suiza
+· Director: Christophe Barratier
+· Reparto: Gérard Jugnot, François Berléand, Kad Merad, Jean-Baptiste Maunier, Jean-Paul Bonnaire, Marie Bunel, Jacques Perrin, Grigory Gatignol
+· Guion: Christophe Barratier,Philippe Lopes-Curval
+· Música: Bruno Coulais, Christophe Barratier
+· Producción: Arthur Cohn, Nicolas Mauvernay, Jacques Perrin
+· Productora: Vega Film AG, Banque Populaire Images 4, CP Medien AG, Canal+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3699194?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218164900 +0100" stop="20251218182600 +0100" channel="M+ Navidad">
+    <title lang="es">Menudas piezas (2024) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.2/5
+· A Candela le han sido infiel, la han despedido de su trabajo en un colegio privado y ahora no le queda más remedio que pedir ayuda a su hermana y a su padre, esos a los que lleva años mirando por encima del hombro.
+· País: España
+· Director: Nacho G. Velilla
+· Reparto: Alexandra Jiménez, Luis Callejo, Francesc Orella, María Adánez, Kiko Bena, Verónica Senra, Rocío Velayos, Pablo Louazel
+· Guion: David S. Olivas,Marta Sánchez Guillén,Nacho G. Velilla
+· Música: Juanjo Javierre
+· Producción: Ghislain Barrois, Álvaro Augustín
+· Productora: Telecinco Cinema, Menudas piezas, A.I.E.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4340928?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218182600 +0100" stop="20251218201400 +0100" channel="M+ Navidad">
+    <title lang="es">Wolfgang (2025) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de siete años | *3.5/5
+· Wolfgang tiene 10 años, un extraordinario cociente intelectual, un trastorno del espectro autista y una vida que acaba de ponerse patas arriba: su madre ha muerto y su última voluntad ha sido que Wolfgang vaya a vivir con su padre, al que no conoce.
+· País: España
+· Director: Javier Ruiz Caldera
+· Reparto: Jordi Catalán, Miki Esparbé, Àngels Gonyalons, Berto Romero, Anna Castillo
+· Guion: Laia Aguilar,Carmen Marfà,Yago Alonso,Valentina Viso
+· Música: Clara Peya
+· Producción: Marta Sánchez de Miguel, Gerard Verdaguer
+· Productora: Nostromo Pictures, Lo vi Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4382479?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218201400 +0100" stop="20251218220000 +0100" channel="M+ Navidad">
+    <title lang="es">La joya de la familia (2005) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.0/5
+· El hijo mayor de los Stone aprovecha la Navidad para presentar a su prometida, una neoyorquina de pura cepa, ambiciosa y controladora, que no tiene nada en común con ellos.
+· País: EE.UU
+· Director: Thomas Bezucha
+· Reparto: Claire Danes, Diane Keaton, Rachel McAdams, Dermot Mulroney, Craig T. Nelson, Sarah Jessica Parker, Luke Wilson, Tyrone Giordano
+· Guion: Thomas Bezucha
+· Música: Michael Giacchino
+· Producción: Michael London
+· Productora: Fox 2000 Pictures, Michael London Productions, The Family Stone</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4445984?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218220000 +0100" stop="20251218233100 +0100" channel="M+ Navidad">
+    <title lang="es">Looney Tunes: el día que la Tierra explotó (2024) | Movistar Plus+</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.4/5
+· Cuando el granjero Jim (el hombre que crió al pato Lucas y el cerdito Porky) 'se fue', les dejó dos consejos: 1) cuidad de vuestro hogar, 2) manteneos unidos y nunca os pasará nada. Ahora van a comprobar lo sabias que eran sus recomendaciones.
+· País: Canadá y EE.UU
+· Director: Peter Browngardt</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4387633?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218233100 +0100" stop="20251219020200 +0100" channel="M+ Navidad">
+    <title lang="es">Dune (2021) | Movistar Plus+</title>
+    <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.8/5
+· Año 10191. El bello y fértil Caladan ha sido el feudo de los Atreides durante generaciones. Ahora, por orden del Emperador, el duque Leto Atreides debe abandonarlo y dirigirse al desértico Dune junto a su hijo Paul y a la madre de éste, Dama Jessica.
+· País: Canadá y EE.UU
+· Director: Denis Villeneuve
+· Reparto: Timothée Chalamet, Rebecca Ferguson, Zendaya, Oscar Isaac, Javier Bardem, Josh Brolin, Jason Momoa, Stellan Skarsgård, Dave Bautista, Charlotte Rampling, Stephen McKinley Henderson
+· Guion: Denis Villeneuve,Jon Spaihts,Eric Roth
+· Música: Hans Zimmer
+· Producción: Denis Villeneuve, Cale Boyter, Joseph M Caracciolo Jr, Mary Parent
+· Productora: Warner Bros, Legendary Entertainment, Villeneuve Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4077100?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218020200 +0100" stop="20251218034800 +0100" channel="M+ Navidad">
+    <title lang="es">Venom: el último baile (2024) | Movistar Plus+</title>
+    <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.3/5
+· El periodista venido a menos Eddie Brock y su simbionte Venom deben permanecer juntos para subsistir. El problema es que, si lo hacen, quizá no subsista el resto de la humanidad.
+· País: EE.UU
+· Director: Kelly Marcel
+· Reparto: Tom Hardy, Chiwetel Ejiofor, Juno Temple, Rhys Ifans, Stephen Graham, Andy Serkis
+· Guion: Kelly Marcel
+· Música: Dan Deacon
+· Producción: Avi Arad, Kelly Marcel
+· Productora: Arad Productions, Marvel Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4330896?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20251218034800 +0100" stop="20251218052800 +0100" channel="M+ Navidad">
+    <title lang="es">Donde viven los monstruos (2009) | Movistar Plus+</title>
+    <desc lang="es">Fantástico | Apto para todos los públicos | *3.2/5
+· Max es un niño travieso y sensible que se siente incomprendido y huye a una isla habitada por unos monstruos tan emotivos e imprevisibles como él.
+· País: EE.UU
+· Director: Spike Jonze
+· Reparto: Max Records, Pepita Emmerichs, Max Pfeifer, Catherine Keener
+· Guion: Spike Jonze
+· Música: Carter Burwell, Karen O
+· Productora: Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4412819?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
