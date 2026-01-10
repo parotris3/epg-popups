@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 09/01/2026 01:45">
+<tv generator-info-name="MultiPopUps FullDesc 10/01/2026 01:40">
   <channel id="M+ BBC Earth">
     <display-name>M+ BBC Earth</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MBBC"/>
@@ -8,253 +8,6 @@
     <display-name>M+ Navidad</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID"/>
   </channel>
-  <programme start="20260109052400 +0100" stop="20260109062100 +0100" channel="M+ BBC Earth">
-    <title lang="es">El futuro de la naturaleza. El futuro de la naturaleza: Humanos (2024) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *2.9/5
-· El ser humano juega un papel fundamental en el futuro de la naturaleza. Si queremos vivir en este mundo, que la naturaleza prospere, los ecosistemas sanen y el ciclo del carbono se estabilice, debemos encontrar formas de enriquecer el mundo natural.
-· País: R.U
-· Guion: Nicola Brown
-· Producción: Verity White</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4333594?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20260109062100 +0100" stop="20260109071000 +0100" channel="M+ BBC Earth">
-    <title lang="es">Kingdom. Kingdom: Ep.3 (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· La manada de leones ahora es más fuerte. Los machos han matado a una de las madres hienas y han obligado a huir a la manada de perros salvajes. Pero por muy poderosa que sea una familia, este lugar, Nsefu, es peligroso para las crías.
-· País: R.U
-· Producción: Felicity Lanchester</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4431881?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109071000 +0100" stop="20260109080000 +0100" channel="M+ BBC Earth">
-    <title lang="es">Kingdom. Kingdom: Ep.4 (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· Todos los perros salvajes, liderados por Tormenta, se retiraron de Nsefu. Pero ahora que la manada de leones ha sido seriamente debilitada, ¿podrán regresar? Y Olimba, la hembra de leopardo, tiene competencia en su territorio, de su propia hija.
-· País: R.U
-· Producción: Felicity Lanchester</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4431881?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109080000 +0100" stop="20260109085300 +0100" channel="M+ BBC Earth">
-    <title lang="es">Kingdom. Kingdom: Ep.5 (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
-· Las fronteras de Nsefu están ardiendo. El lugar de cría de los leones ha quedado reducido a cenizas. Pero eso no detendrá a la manada que regresa al centro de Nsefu. Van rumbo a la colisión con sus rivales que se habían acostumbrado a la vida sin ellos.
-· País: R.U
-· Producción: Felicity Lanchester</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4431881?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109085300 +0100" stop="20260109094600 +0100" channel="M+ BBC Earth">
-    <title lang="es">Kingdom. Kingdom: Cómo se hizo Kingdom (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· Durante cinco años, el equipo de producción de BBC ha seguido las historias de cuatro familias de animales. Ahora es el momento de conocer a las personas que hay tras estos relatos.
-· País: R.U
-· Producción: Felicity Lanchester</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4431881?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109094600 +0100" stop="20260109095800 +0100" channel="M+ BBC Earth">
-    <title lang="es">Cómo se hizo Asia. Cómo se hizo Asia: Ep.1 (2024) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
-· Estos episodios descubren los retos y secretos del rodaje de Asia. El equipo de producción de BBC Earth se desplazó al continente más grande del planeta para grabar durante cuatro años la asombrosa vida silvestre y sus maravillas naturales.
-· País: R.U
-· Producción: Matthew Wright
-· Productora: BBC Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4318090?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109095800 +0100" stop="20260109101000 +0100" channel="M+ BBC Earth">
-    <title lang="es">Cómo se hizo Asia. Cómo se hizo Asia: Ep.2 (2024) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· Estos episodios descubren los retos y secretos del rodaje de Asia. El equipo de producción de BBC Earth se desplazó al continente más grande del planeta para grabar durante cuatro años la asombrosa vida silvestre y sus maravillas naturales.
-· País: R.U
-· Producción: Matthew Wright
-· Productora: BBC Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4318090?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109101000 +0100" stop="20260109105900 +0100" channel="M+ BBC Earth">
-    <title lang="es">La vida secreta de los árboles. La vida secreta de los...: La edad adulta (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
-· Alcanzar la edad adulta es un gran hito en la vida de un árbol. Algunos llegan con rapidez. Manzanos, perales y cerezos dan frutos a partir de los cinco años. Por otro lado, la cicuta norteamericana puede tardar hasta 300 años en convertirse en adulta.
-· País: R.U
-· Producción: Nathan Budd</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4380903?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109105900 +0100" stop="20260109115500 +0100" channel="M+ BBC Earth">
-    <title lang="es">Grandes ríos. Grandes ríos: Yukón (2022) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
-· En la zona más septentrional de Norteamérica, se encuentra un río legendario: el Yukón. A lo largo de 3.200 kilómetros, fluye hacia el Océano Pacífico trazando un gran arco a través del noroeste de Canadá y el centro de Alaska.
-· País: R.U
-· Productora: BBC Studios Natural History Unit</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4003004?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20260109115500 +0100" stop="20260109125800 +0100" channel="M+ BBC Earth">
-    <title lang="es">Universo. Universo: El Big Bang. Antes del amanecer (2021) | Movistar Plus+</title>
-    <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.4/5
-· ¿Cómo ha llegado todo hasta aquí? En nuestra realidad hubo un primer momento en el tiempo, que el universo tuvo un comienzo hace 13.800 millones de años: el Big Bang. Aunque es posible que no sea absoluto, porque ahora sospechamos que hay algo más.
-· País: R.U
-· Director: Ashley Gething
-· Productora: BBC Earth MD (WWD)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3965125?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109125800 +0100" stop="20260109135600 +0100" channel="M+ BBC Earth">
-    <title lang="es">Expedición a la Antártida (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
-· En la Antártida las orcas cazan creando olas para arrastrar a las focas de los trozos de hielo flotantes. El equipo de producción de BBC Earth y un grupo de científicos viajan a estas gélidas aguas para averiguar más sobre estos animales únicos.
-· País: R.U
-· Director: Vanessa Coates</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4348557?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109135600 +0100" stop="20260109145000 +0100" channel="M+ BBC Earth">
-    <title lang="es">Human: la historia del ser humano. Human: la historia del...: El desafío de establecerse (2025) | Movistar Plus+</title>
-    <desc lang="es">Historia | Apto para todos los públicos | *3.2/5
-· Hace unos 12.000 años, al finalizar la Edad de Hielo, la humanidad experimentó un cambio drástico: abandonó la vida nómada para establecer asentamientos permanentes. Esto provocó nuevos desafíos: enfermedades y violencia.
-· Producción: Matt Barrett</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4414493?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20260109145000 +0100" stop="20260109154800 +0100" channel="M+ BBC Earth">
-    <title lang="es">La Tierra. La Tierra: Fuego (2023) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
-· Este episodio explora uno de los períodos más oscuros de la Tierra: la peor extinción que el planeta jamás haya visto, cuando el 90 % de todas las especies murió hace 252 millones de años. Pero la vida encontró una manera de recuperarse.
-· País: R.U
-· Director: James Tovell, Duncan Singh
-· Producción: Chris Packham</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4120941?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109154800 +0100" stop="20260109164600 +0100" channel="M+ BBC Earth">
-    <title lang="es">La Tierra. La Tierra: Hielo (2023) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
-· Hace 800 millones de años el supercontinente Rodinia se dividió. Las poderosas fuerzas tectónicas de la Tierra provocaron que enormes cantidades de dióxido de carbono fueran absorbidas de la atmósfera y que las temperaturas globales cayeran en picado.
-· País: R.U
-· Director: James Tovell, Duncan Singh
-· Producción: Chris Packham</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4120943?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109164600 +0100" stop="20260109174300 +0100" channel="M+ BBC Earth">
-    <title lang="es">Los guepardos y yo. Los guepardos y yo: Ep.1 (2020) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
-· El aventurero escocés Gordon Buchanan viaja al desierto del Kalahari para conocer a uno de los animales más extraordinarios del planeta: el guepardo. En su aventura a pie sigue a dos familias de este animal: Savannah y Chilli.
-· País: R.U
-· Presenta: Gordon Buchanan
-· Director: Nicola Tremain
-· Productora: Hello Halo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3892650?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109174300 +0100" stop="20260109183700 +0100" channel="M+ BBC Earth">
-    <title lang="es">Los guepardos y yo. Los guepardos y yo: Ep.2 (2020) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
-· Gordon Buchanan continúa su aventura a pie por el desierto africano del Kalahari. En este episodio descubre cómo los cachorros de la hembra guepardo Savannah luchan por su supervivencia.
-· País: R.U
-· Presenta: Gordon Buchanan
-· Director: Nicola Tremain
-· Productora: Hello Halo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3892660?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20260109183700 +0100" stop="20260109192500 +0100" channel="M+ BBC Earth">
-    <title lang="es">La vida secreta de los árboles. La vida secreta de los...: Los primeros años (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· Hay más de 70.000 especies de árboles en nuestro planeta. La vida de todos ellos comienza igual, incluso la de los más gigantes: las secuoyas rojas. Los árboles más grandes de la Tierra viven en el norte de California, y miden hasta 116 metros.
-· País: R.U
-· Producción: Nathan Budd</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4380890?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109192500 +0100" stop="20260109201200 +0100" channel="M+ BBC Earth">
-    <title lang="es">La vida secreta de los árboles. La vida secreta de los...: La edad adulta (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
-· Alcanzar la edad adulta es un gran hito en la vida de un árbol. Algunos llegan con rapidez. Manzanos, perales y cerezos dan frutos a partir de los cinco años. Por otro lado, la cicuta norteamericana puede tardar hasta 300 años en convertirse en adulta.
-· País: R.U
-· Producción: Nathan Budd</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4380903?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109201200 +0100" stop="20260109210300 +0100" channel="M+ BBC Earth">
-    <title lang="es">La vida secreta de los árboles. La vida secreta de los...: La vejez (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· Los árboles son extraordinarios por muchas razones, pero posiblemente la más asombrosa de todas es su increíble longevidad. Dicen que un roble tarda 300 años en crecer, 300 en vivir y 300 en morir.
-· País: R.U
-· Producción: Nathan Budd</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4380918?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109210300 +0100" stop="20260109220000 +0100" channel="M+ BBC Earth">
-    <title lang="es">Asia. Asia: Continente superpoblado (2024) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· En Asia, el continente más densamente poblado, los animales han desarrollado formas extraordinarias de aprovechar las oportunidades del mundo humano. Desde tigres que entran en una ciudad para cazar presas, hasta elefantes que detienen el tráfico.
-· País: R.U
-· Presenta: David Attenborough
-· Producción: Matthew Wright
-· Productora: BBC Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4317417?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20260109220000 +0100" stop="20260109225500 +0100" channel="M+ BBC Earth">
-    <title lang="es">SLS: El megacohete de la NASA (2022) | Movistar Plus+</title>
-    <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.3/5
-· El SLS es el cohete más grande construido por la NASA. Una máquina que permitirá que el ser humano llegue hasta la Luna y más allá. Pero su construcción ha estado plagada de dificultades, retrasos y sobrecostos que pondrán en peligro su lanzamiento.
-· País: R.U
-· Director: Russell Eatough
-· Producción: Ben Bowie
-· Productora: BBC (British Broadcasting Corporation)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4015472?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109225500 +0100" stop="20260109235800 +0100" channel="M+ BBC Earth">
-    <title lang="es">El sistema solar. El sistema solar: Mundos extraños (2024) | Movistar Plus+</title>
-    <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.2/5
-· El profesor Brian Cox explora los mundos más extraños del sistema solar. Visita un planeta enano con forma de huevo que en realidad no debería existir, una luna diminuta que parece un OVNI, y un inquietante mundo oceánico en órbita alrededor de Júpiter.
-· País: R.U
-· Presenta: Brian Cox
-· Director: Ben Wilson
-· Producción: Suzy Boyles
-· Productora: BBC Studios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4302817?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109235800 +0100" stop="20260110005200 +0100" channel="M+ BBC Earth">
-    <title lang="es">Asia. Asia: Los desiertos (2024) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
-· En el corazón de Asia se encuentran vastas tierras áridas. Estos desiertos y praderas secas son tan hostiles que llevan a los animales al límite. La vida allí exige una resiliencia extraordinaria: los que viven aquí son los grandes supervivientes.
-· País: R.U
-· Presenta: David Attenborough
-· Producción: Matthew Wright
-· Productora: BBC Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4317439?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20260109005200 +0100" stop="20260109014700 +0100" channel="M+ BBC Earth">
-    <title lang="es">Asia. Asia: Salvando Asia (2024) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· Personas extraordinarias están dedicando sus vidas a salvar la vida salvaje mediante soluciones ingeniosas. Como en Borneo, donde consiguen liberar a un oso malayo en su hábitat natural; y en Japón, se están criando embriones de tiburón huérfanos.
-· País: R.U
-· Presenta: David Attenborough
-· Producción: Matthew Wright
-· Productora: BBC Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4317442?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20260109014700 +0100" stop="20260109024000 +0100" channel="M+ BBC Earth">
-    <title lang="es">Cómo se hizo Asia (2024) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· Este episodio descubre los retos y secretos del rodaje de Asia. El equipo de producción de BBC Earth se desplazó al continente más grande del planeta para grabar durante cuatro años la asombrosa vida silvestre y sus maravillas naturales.
-· País: R.U
-· Producción: Matthew Wright</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4318090"/>
-  </programme>
-  <programme start="20260109024000 +0100" stop="20260109033700 +0100" channel="M+ BBC Earth">
-    <title lang="es">Espiando en el océano. Espiando en el océano: Pensamientos (2023) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
-· Nuestros espías buscan vida inteligente en el océano, descubriendo maneras de pensar que hay que ver para creer. Una familia de cachalotes, las criaturas más inteligentes del océano, y poseedores de los cerebros más grandes del planeta.
-· País: R.U
-· Director: John Downer
-· Productora: John Downer Productions Ltd.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4103539?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109033700 +0100" stop="20260109043200 +0100" channel="M+ BBC Earth">
-    <title lang="es">Espiando en el océano. Espiando en el océano: Sentimientos (2023) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· En el segundo episodio, las criaturas exploran sus sentimientos. Al sumergirnos en el mundo de las emociones animales, no podemos evitar conmovernos, pues sus sentimientos no difieren mucho de los nuestros.
-· País: R.U
-· Director: John Downer
-· Productora: John Downer Productions Ltd.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4103970?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20260109043200 +0100" stop="20260109052800 +0100" channel="M+ BBC Earth">
-    <title lang="es">Espiando en el océano. Espiando en el océano: Relaciones (2023) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
-· En su nueva misión, nuestros espías, revelan las extraordinarias relaciones que existen entre las criaturas del océano. En Australia, va a tener lugar un evento asombroso. Bajo la luna llena, los cangrejos araña emergen de las profundidades.
-· País: R.U
-· Director: John Downer
-· Productora: John Downer Productions Ltd.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4107581?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
-  </programme>
   <programme start="20260110052800 +0100" stop="20260110062100 +0100" channel="M+ BBC Earth">
     <title lang="es">Espiando en el océano. Espiando en el océano: Problemas (2023) | Movistar Plus+</title>
     <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
@@ -410,7 +163,7 @@
   </programme>
   <programme start="20260110220000 +0100" stop="20260110225700 +0100" channel="M+ BBC Earth">
     <title lang="es">Expedición a la Antártida (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
+    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
 · En la Antártida las orcas cazan creando olas para arrastrar a las focas de los trozos de hielo flotantes. El equipo de producción de BBC Earth y un grupo de científicos viajan a estas gélidas aguas para averiguar más sobre estos animales únicos.
 · País: R.U
 · Director: Vanessa Coates</desc>
@@ -528,7 +281,7 @@
 · Producción: Gavin Boyland</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3455472?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111095000 +0100" stop="20260111104500 +0100" channel="M+ BBC Earth">
+  <programme start="20260111095000 +0100" stop="20260111104300 +0100" channel="M+ BBC Earth">
     <title lang="es">Felinos. Felinos: Ep.2 (2017) | Movistar Plus+</title>
     <desc lang="es">Naturaleza | Apto para todos los públicos | *3.4/5
 · Pequeños pero muy eficaces, felinos como el gato pescador, el lince rojo o el manul de Mongolia son depredadores avanzados adaptados a todo tipo de entornos. BBC ha podido filmar a estos evasivos animales gracias a la última tecnología.
@@ -536,7 +289,7 @@
 · Producción: Gavin Boyland</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3458823?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20260111104500 +0100" stop="20260111114100 +0100" channel="M+ BBC Earth">
+  <programme start="20260111104300 +0100" stop="20260111114100 +0100" channel="M+ BBC Earth">
     <title lang="es">Asia. Asia: Salvando Asia (2024) | Movistar Plus+</title>
     <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
 · Personas extraordinarias están dedicando sus vidas a salvar la vida salvaje mediante soluciones ingeniosas. Como en Borneo, donde consiguen liberar a un oso malayo en su hábitat natural; y en Japón, se están criando embriones de tiburón huérfanos.
@@ -598,7 +351,7 @@
 · Productora: BBC Earth MD (WWD)</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3965125?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111172100 +0100" stop="20260111181600 +0100" channel="M+ BBC Earth">
+  <programme start="20260111172100 +0100" stop="20260111181800 +0100" channel="M+ BBC Earth">
     <title lang="es">Los felinos y yo. Los felinos y yo: Ep.1 (2019) | Movistar Plus+</title>
     <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
 · El documentalista Gordon Buchanan se une a un grupo de científicos rusos que trabajan con felinos para llevar a cabo una ambiciosa misión: devolver a la vida salvaje a varios linces que han estado en cautiverio.
@@ -606,7 +359,7 @@
 · Presenta: Gordon Buchanan</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3801482?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111181600 +0100" stop="20260111191100 +0100" channel="M+ BBC Earth">
+  <programme start="20260111181800 +0100" stop="20260111191200 +0100" channel="M+ BBC Earth">
     <title lang="es">Los felinos y yo. Los felinos y yo: Ep.2 (2019) | Movistar Plus+</title>
     <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
 · El documentalista Gordon Buchanan se une a un grupo de científicos rusos que trabajan con felinos para llevar a cabo una ambiciosa misión: devolver a la vida salvaje a varios linces que han estado en cautiverio.
@@ -614,15 +367,15 @@
 · Presenta: Gordon Buchanan</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3801496?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111191100 +0100" stop="20260111200800 +0100" channel="M+ BBC Earth">
+  <programme start="20260111191200 +0100" stop="20260111201000 +0100" channel="M+ BBC Earth">
     <title lang="es">Expedición a la Antártida (2025) | Movistar Plus+</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.2/5
+    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
 · En la Antártida las orcas cazan creando olas para arrastrar a las focas de los trozos de hielo flotantes. El equipo de producción de BBC Earth y un grupo de científicos viajan a estas gélidas aguas para averiguar más sobre estos animales únicos.
 · País: R.U
 · Director: Vanessa Coates</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4348557?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111200800 +0100" stop="20260111210300 +0100" channel="M+ BBC Earth">
+  <programme start="20260111201000 +0100" stop="20260111210400 +0100" channel="M+ BBC Earth">
     <title lang="es">Kingdom. Kingdom: Ep.4 (2025) | Movistar Plus+</title>
     <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
 · Todos los perros salvajes, liderados por Tormenta, se retiraron de Nsefu. Pero ahora que la manada de leones ha sido seriamente debilitada, ¿podrán regresar? Y Olimba, la hembra de leopardo, tiene competencia en su territorio, de su propia hija.
@@ -630,7 +383,7 @@
 · Producción: Felicity Lanchester</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4431881?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111210300 +0100" stop="20260111220000 +0100" channel="M+ BBC Earth">
+  <programme start="20260111210400 +0100" stop="20260111220000 +0100" channel="M+ BBC Earth">
     <title lang="es">Kingdom. Kingdom: Ep.5 (2025) | Movistar Plus+</title>
     <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
 · Las fronteras de Nsefu están ardiendo. El lugar de cría de los leones ha quedado reducido a cenizas. Pero eso no detendrá a la manada que regresa al centro de Nsefu. Van rumbo a la colisión con sus rivales que se habían acostumbrado a la vida sin ellos.
@@ -683,7 +436,7 @@
 · Producción: Chris Packham</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4120949?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111023500 +0100" stop="20260111033500 +0100" channel="M+ BBC Earth">
+  <programme start="20260111023500 +0100" stop="20260111033700 +0100" channel="M+ BBC Earth">
     <title lang="es">El sistema solar. El sistema solar: Mundos extraños (2024) | Movistar Plus+</title>
     <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.2/5
 · El profesor Brian Cox explora los mundos más extraños del sistema solar. Visita un planeta enano con forma de huevo que en realidad no debería existir, una luna diminuta que parece un OVNI, y un inquietante mundo oceánico en órbita alrededor de Júpiter.
@@ -694,7 +447,7 @@
 · Productora: BBC Studios</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4302817?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111033500 +0100" stop="20260111043500 +0100" channel="M+ BBC Earth">
+  <programme start="20260111033700 +0100" stop="20260111043800 +0100" channel="M+ BBC Earth">
     <title lang="es">Universo. Universo: El Sol. Astro rey (2021) | Movistar Plus+</title>
     <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.4/5
 · El Sol procede de una larga estirpe de estrellas que se remonta al principio de los tiempos. Desde las intensas gigantes azules que iluminaron el universo por primera vez, hasta las generaciones posteriores. Esto permitió crear la vida.
@@ -703,204 +456,32 @@
 · Productora: BBC Earth MD (WWD)</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3965055?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20260111043500 +0100" stop="20260111053300 +0100" channel="M+ BBC Earth">
+  <programme start="20260111043800 +0100" stop="20260111053600 +0100" channel="M+ BBC Earth">
     <title lang="es">Universo. Universo: Exoplanetas. La búsqueda de un nuevo hogar (2021) | Movistar Plus+</title>
-    <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.5/5
+    <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.4/5
 · Hace décadas, no conocíamos ningún planeta más allá de nuestro sistema solar. No teníamos la tecnología para detectarlos. Al mismo tiempo que prosigue la exploración del sistema solar, ha comenzado la búsqueda de mundos que se encuentran más allá.
 · País: R.U
 · Director: Ashley Gething
 · Productora: BBC Earth MD (WWD)</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3965070?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20260109044200 +0100" stop="20260109060100 +0100" channel="M+ Navidad">
-    <title lang="es">Nico, el reno que quería volar (2008) | Movistar Plus+</title>
-    <desc lang="es">Animación | Apto para todos los públicos | *3.6/5
-· El pequeño Nico es hijo de uno de los renos que tiran del trineo de Papá Noel. Desea con todas sus fuerzas volar y conocer a su padre, por eso decide ir en su busca. En su aventura lo acompañan Julius una ardilla voladora y Wilma una descarada comadreja.
-· País: Alemania, Finlandia e Irlanda
-· Director: Michael Hegner, Kari Juusonen, Karie Juusonen
-· Guion: Hannu Tuomainen,Marteinn Thorisson
-· Música: Stephen McKeon
-· Producción: Petteri Pasanen
-· Productora: Animaker, Cinemaker Oy, Anima Vitae, A.Film</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4326871?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109060100 +0100" stop="20260109074000 +0100" channel="M+ Navidad">
-    <title lang="es">La estación de la felicidad (2020) | Movistar Plus+</title>
-    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.5/5
-· A Abby no le gusta la Navidad y, como todos los años desde la muerte de sus padres, va a pasarla en solitario. Sin embargo, cuando su novia Harper la invita a celebrarla con su familia, Abby decide acompañarla para pedirle matrimonio durante las fiestas.
-· País: EE.UU
-· Director: Clea Duvall
-· Reparto: Kristen Stewart, Mackenzie Davis, Victor Garber, Mary Steenburgen, Alison Brie, Aubrey Plaza, Dan Levy, Mary Holland
-· Guion: Clea Duvall,Mary Holland
-· Música: Amie Doherty
-· Producción: Marty Bowen, Isaac Klausner
-· Productora: TriStar Pictures, Entertainment One, Hulu</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3880138?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109074000 +0100" stop="20260109090900 +0100" channel="M+ Navidad">
-    <title lang="es">Trolls 2: Gira mundial (2020) | Movistar Plus+</title>
-    <desc lang="es">Animación | Especialmente recomendado para la infancia | *4.0/5
-· La ahora reina Poppy, su amigo Branch y el resto de trolls del bosque no saben que hay muchos más como ellos... y que los amenaza un serio peligro: la reina de los trolls rockeros pretende unir a todas las razas troll en una única nación ¡bajo el rock!
-· País: EE.UU
-· Director: Walt Dohrn, David P. Smith
-· Guion: Jonathan Aibel,Glenn Berger,Maya Forbes,Wallace Wolodarsky,Elizabeth Tippet,Thomas Dam
-· Música: Theodore Shapiro
-· Producción: Gina Shay
-· Productora: DreamWorks Animation, Dentsu</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3885394?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109090900 +0100" stop="20260109103900 +0100" channel="M+ Navidad">
-    <title lang="es">Harold y el lápiz mágico (2024) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | Especialmente recomendado para la infancia | *3.1/5
-· En el mundo animado de Harold, todo lo que dibuja con su lápiz morado se convierte en realidad. De hecho, cuando un día se dibuja a sí mismo, es el propio Harold el que cobra vida fuera de las páginas de su libro y aparece en el mundo real.
-· País: EE.UU
-· Director: Carlos Saldanha
-· Reparto: Zachary Levi, Benjamin Bottani, Lil Rel Howery, Tanya Reynolds, Zooey Deschanel, Jemaine Clement
-· Guion: David Guion,Michael Handelman
-· Música: Batu Sener
-· Producción: John Davis
-· Productora: Davis Entertainment, TSG Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4363202?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109103900 +0100" stop="20260109122100 +0100" channel="M+ Navidad">
-    <title lang="es">Bookworm. El misterio de la pantera (2024) | Movistar Plus+</title>
-    <desc lang="es">Aventuras | Apto para todos los públicos | *3.0/5
-· El mundo de la pequeña y precoz Mildred, se pone patas arriba cuando retoma el contacto con su padre ausente, un ilusionista en horas bajas, que la convence de ir a un campamento para encontrar una bestia mitológica.
-· País: EE.UU y Nueva Zelanda
-· Director: Ant Timpson
-· Reparto: Elijah Wood, Nell Fisher, Michael Smiley, Morgana O'Reilly
-· Guion: Toby Harvard
-· Música: Karl Sölve Steven
-· Producción: Emma Slade
-· Productora: Firefly Films%</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4370950?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109122100 +0100" stop="20260109140100 +0100" channel="M+ Navidad">
-    <title lang="es">Donde viven los monstruos (2009) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | Apto para todos los públicos | *3.2/5
-· Max es un niño travieso y sensible que se siente incomprendido y huye a una isla habitada por unos monstruos tan emotivos e imprevisibles como él.
-· País: EE.UU
-· Director: Spike Jonze
-· Reparto: Max Records, Pepita Emmerichs, Max Pfeifer, Catherine Keener
-· Guion: Spike Jonze
-· Música: Carter Burwell, Karen O
-· Productora: Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4412819?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109140100 +0100" stop="20260109142600 +0100" channel="M+ Navidad">
-    <title lang="es">Leo talks.  Temporada (T3). Leo talks (T3): Somos tontísimos (2024) | Movistar Plus+</title>
-    <desc lang="es">Humor | No recomendado para menores de doce años | *3.0/5
-· Leo quiere hablar del milagro de la mente humana. Nuestro cerebro es el resultado de siete millones de años de evolución. ¿Será cierto que somos tan listos? Las noticias dicen lo contrario. Somos menos inteligentes que hace dos siglos.
-· País: España
-· Presenta: Leo Harlem</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4233256?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20260109142600 +0100" stop="20260109161500 +0100" channel="M+ Navidad">
-    <title lang="es">Lo que aprendí de mi pingüino (2024) | Movistar Plus+</title>
-    <desc lang="es">Comedia dramática | No recomendado para menores de siete años | *3.5/5
-· Un desilusionado profesor inglés acepta trabajar en una escuela en la Argentina de 1976. Allí encuentra una nación compleja y dividida y un trabajo con una clase llena de jóvenes a los que considera prácticamente imposibles de enseñar.
-· País: España y R.U
-· Director: Peter Cattaneo
-· Reparto: Steve Coogan, Jonathan Pryce, Vivian El Jaber, Björn Gustafsson, David Herrero
-· Guion: Jeff Pope
-· Música: Federico Jusid
-· Producción: Ben Pugh
-· Productora: Nostromo Pictures, Penguin Lessons LTD.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4438943?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109161500 +0100" stop="20260109175500 +0100" channel="M+ Navidad">
-    <title lang="es">Los amigos de Peter (1992) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.3/5
-· Tras diez años sin verse, un grupo de amigos se reúne en Nochevieja en la gran mansión que uno de ellos, Peter, ha heredado. El reencuentro trae buenos recuerdos y risas, pero también la evidencia de que ya nada es como antes.
+  <programme start="20260112053600 +0100" stop="20260112063500 +0100" channel="M+ BBC Earth">
+    <title lang="es">Universo. Universo: Vía Láctea. Isla de Luz (2021) | Movistar Plus+</title>
+    <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.5/5
+· La Vía Láctea recibe su nombre de la densa franja de estrellas que recorre el cielo en las noches más claras. Este episodio profundiza en su historia: cómo nació, cómo se convirtió en la galaxia en la que vivimos y cómo, finalmente, terminará.
 · País: R.U
-· Director: Kenneth Branagh
-· Reparto: Kenneth Branagh, Emma Thompson, Stephen Fry, Hugh Laurie, Alphonsia Emmanuel, Imelda Staunton, Phyllida Law
-· Guion: Rita Rudner,Martin Bergman
-· Música: Gavin Greenaway
-· Producción: Kenneth Branagh
-· Productora: BBC (British Broadcasting Corporation), Renaissance Films, Samuel Goldwyn Company</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4059077?od[]=Z1V:MM3_V"/>
+· Director: Ashley Gething
+· Productora: BBC Earth MD (WWD)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3965088?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20260109175500 +0100" stop="20260109192500 +0100" channel="M+ Navidad">
-    <title lang="es">Un lío de millones (2024) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.3/5
-· Bego y Agustín, un matrimonio jubilado, idean un arriesgado plan para reunirse con sus hijos distanciados fingiendo haber ganado la lotería y ser millonarios, esperando que así regresen a casa.
-· País: España
-· Director: Susan Béjar
-· Reparto: Gracia Olayo, Antonio Resines, Clara Lago, Alberto Olmo, Lucía Caraballo
-· Guion: Ángela Armero
-· Música: Vanessa Garde
-· Productora: Tornasol Media</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4356292?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109192500 +0100" stop="20260109210900 +0100" channel="M+ Navidad">
-    <title lang="es">Y en Nochebuena... ¡se armó el Belén! (1994) | Movistar Plus+</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
-· Se acerca la Navidad y Maw siente nostalgia por sus dos hijos ausentes. Escribe a Travis pidiéndole que busque a su hermano.
-· País: Alemania e Italia
-· Director: Terence Hill
-· Reparto: Terence Hill, Bud Spencer, Ron Carey, Neil Summers, Anne Kasprik
-· Guion: Jess Hill
-· Música: Pino Donaggio
-· Producción: Matthias Wendlandt
-· Productora: Rialto Film</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4339259?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109210900 +0100" stop="20260109220000 +0100" channel="M+ Navidad">
-    <title lang="es">Navidades en el Plaza (2020) | Movistar Plus+</title>
-    <desc lang="es">Sociedad | Apto para todos los públicos | *3.2/5
-· El Hotel Plaza de Nueva York se transforma todas las Navidades para convertirse en una de las principales atracciones turísticas de la isla de Manhattan. Descubrimos su interior y cómo se prepara su personal en unas fechas tan especiales.
+  <programme start="20260112063500 +0100" stop="20260112073300 +0100" channel="M+ BBC Earth">
+    <title lang="es">Universo. Universo: Agujeros negros. Más allá de la oscuridad (2021) | Movistar Plus+</title>
+    <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.6/5
+· La Vía Láctea parece un lugar apacible. Pero si atravesamos el gas y polvo que envuelve el núcleo galáctico, veremos un curioso espectáculo: estrellas orbitando alrededor de un lugar ocupado por un agujero negro en el tejido del universo.
 · País: R.U
-· Director: Frankie Fathers</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3880641?od[]=Z2V:BBCEM3_V&amp;od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109220000 +0100" stop="20260109234300 +0100" channel="M+ Navidad">
-    <title lang="es">Amigos imaginarios (2024) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | Especialmente recomendado para la infancia | *3.4/5
-· La pequeña Bea no está pasando por un buen momento y parece haberse olvidado de la niña que fue y que sigue siendo. Todo cambia el día que descubre que puede ver a los amigos imaginarios de todo el mundo y que puede salvarlos del olvido.
-· País: EE.UU
-· Director: John Krasinski
-· Reparto: Ryan Reynolds, Cailey Fleming, Fiona Shaw
-· Guion: John Krasinski
-· Música: Michael Giacchino
-· Productora: Paramount Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4340659?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109234300 +0100" stop="20260110014800 +0100" channel="M+ Navidad">
-    <title lang="es">Kraven the Hunter (2024) | Movistar Plus+</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.4/5
-· En una remota cárcel siberiana, Kraven 'el cazador', al que muchos consideran poco más que un mito, se cobra una nueva presa: el sanguinario mafioso ruso Semyon Chorney... uno más de su lista de escoria a eliminar.
-· País: EE.UU
-· Director: J.C. Chandor
-· Reparto: Aaron Taylor-Johnson, Russell Crowe, Ariana DeBose, Fred Hechinger, Alessandro Nivola, Christopher Abbott
-· Guion: Richard Wenk,Art Marcum,Matt Holloway
-· Música: Benjamin Wallfisch, Sacha Galperine, Evgueni Galperine
-· Producción: Avi Arad, David B. Householter, Matt Tolmach
-· Productora: Columbia Pictures, Marvel Entertainment, Avi Arad Productions, Matt Tolmach Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4337444?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109014800 +0100" stop="20260109032000 +0100" channel="M+ Navidad">
-    <title lang="es">Siempre jóvenes (2024) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de doce años | *2.9/5
-· Tras la muerte de su marido, Joan descubre que este había inventado un whisky que te hace rejuvenecer durante unas horas. Al compartirlo con sus dos amigas, estas tres mujeres, ahora jóvenes otra vez, no están dispuestas a volver a perder el tiempo.
-· País: R.U
-· Director: Stephen Cookson
-· Reparto: Ossian Perret, Patricia Hodge, Diane Keaton, Joanna David
-· Productora: Filmology Finance</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4338437?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260109032000 +0100" stop="20260109052800 +0100" channel="M+ Navidad">
-    <title lang="es">Los que se quedan (2023) | Movistar Plus+</title>
-    <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.9/5
-· Un profesor cascarrabias se ve obligado a quedarse durante las vacaciones de Navidad para velar por un puñado de estudiantes que no tienen a dónde ir, entre ellos un inteligente y problemático joven con sus propios traumas.
-· País: EE.UU
-· Director: Alexander Payne
-· Reparto: Paul Giamatti, Dominic Sessa, Da'Vine Joy Randolph, Darby Lee-Stack, Brady Hepner, Michael Provost, Carrie Preston, Tate Donovan, Gillian Vigman, Dakota Lustick, Michael Malvesti, Naheem Garcia
-· Guion: David Hemingson
-· Música: Mark Orton
-· Producción: Mark Johnson, Bill Block, David Hemingson
-· Productora: Gran Via Productions, Miramax, Focus Features</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4342269?od[]=Z1V:MM3_V"/>
+· Director: Ashley Gething
+· Productora: BBC Earth MD (WWD)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3965103?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
   </programme>
   <programme start="20260110052800 +0100" stop="20260110070500 +0100" channel="M+ Navidad">
     <title lang="es">Max Reload y los desintegradores abisales (2020) | Movistar Plus+</title>
@@ -1096,14 +677,14 @@
   </programme>
   <programme start="20260111075500 +0100" stop="20260111080000 +0100" channel="M+ Navidad">
     <title lang="es">Flores para Antonio. Alba Flores celebra a su padre (2025) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.3/5
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.4/5
 · La actriz Alba Flores y sus directores Isaki Lacuesta y Elena Molina nos cuentan todos los detalles de la película documental “Flores para Antonio” que celebró su estreno en el Festival de Cine de San Sebastián.
 · País: España
 · Presenta: Cristina Teva
 · Productora: Movistar+</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4431467?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111080000 +0100" stop="20260111094200 +0100" channel="M+ Navidad">
+  <programme start="20260111080000 +0100" stop="20260111094300 +0100" channel="M+ Navidad">
     <title lang="es">Avril y el mundo alterado (2015) | Movistar Plus+</title>
     <desc lang="es">Animación | No recomendado para menores de siete años | *3.3/5
 · Año 1941. La ciudad está sumida en la penumbra e invadida por el vapor y los gases carboníferos. Los científicos de todo el mundo han desaparecido misteriosamente, privando a la humanidad de grandes descubrimientos y sumiéndola en el atraso tecnológico.
@@ -1114,7 +695,7 @@
 · Producción: Michel Dutheil, Franck Ekinci, Matthieu Liegeois</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3555620?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111094200 +0100" stop="20260111110700 +0100" channel="M+ Navidad">
+  <programme start="20260111094300 +0100" stop="20260111110800 +0100" channel="M+ Navidad">
     <title lang="es">Colegas en el bosque (2006) | Movistar Plus+</title>
     <desc lang="es">Animación | Apto para todos los públicos | *3.4/5
 · Boog es un oso domesticado que se siente feliz siendo la estrella de los espectáculos de su cuidadora Beth. Un buen día conoce a Elliot, un escuálido y parlanchín ciervo que ha llegado al pueblo atado al capó de la camioneta de un cazador.
@@ -1126,7 +707,7 @@
 · Productora: Columbia Pictures, Sony Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3794045?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111110700 +0100" stop="20260111122700 +0100" channel="M+ Navidad">
+  <programme start="20260111110800 +0100" stop="20260111122700 +0100" channel="M+ Navidad">
     <title lang="es">Bambi, una vida en el bosque (2024) | Movistar Plus+</title>
     <desc lang="es">Drama | Especialmente recomendado para la infancia | *3.2/5
 · El joven cervatillo Bambi ha crecido rodeado de su madre y de los animales del bosque, hasta que un día es separado de ellos y debe descubrir por sí solo los peligros que se esconden entre los árboles.
@@ -1154,7 +735,7 @@
 · Productora: Paramount Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4340659?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111150000 +0100" stop="20260111163800 +0100" channel="M+ Navidad">
+  <programme start="20260111150000 +0100" stop="20260111163700 +0100" channel="M+ Navidad">
     <title lang="es">Campamento Garra de Oso (2025) | Movistar Plus+</title>
     <desc lang="es">Comedia | Especialmente recomendado para la infancia | *2.9/5
 · Dos niños tendrán que unir fuerzas y luchar a contrarreloj para salvar el campamento de verano amenazado por el excéntrico constructor Sebastián. Para ello, deben buscar a un oso que creen que nadie ha visto pero sigue habitando el valle.
@@ -1167,7 +748,7 @@
 · Productora: A Film About Quiet Jazz, Boavista Filmes Lda.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441633?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111163800 +0100" stop="20260111184300 +0100" channel="M+ Navidad">
+  <programme start="20260111163700 +0100" stop="20260111184300 +0100" channel="M+ Navidad">
     <title lang="es">Sherlock Holmes (2009) | Movistar Plus+</title>
     <desc lang="es">Aventuras | No recomendado para menores de dieciséis años | *4.0/5
 · Sherlock Holmes y el Doctor Watson se enfrentan a su caso más difícil: acabar con las maquinaciones de Lord Blackwood, maestro de lo oscuro.
@@ -1180,7 +761,7 @@
 · Productora: Silver Pictures, Warner Bros. Pictures, Village Roadshow Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3743768?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111184300 +0100" stop="20260111204800 +0100" channel="M+ Navidad">
+  <programme start="20260111184300 +0100" stop="20260111204900 +0100" channel="M+ Navidad">
     <title lang="es">Sherlock Holmes: Juego de sombras (2011) | Movistar Plus+</title>
     <desc lang="es">Aventuras | No recomendado para menores de dieciséis años | *3.8/5
 · Sherlock Holmes siempre ha sido el más listo... hasta ahora. Y es que hay una nueva mente criminal, el profesor Moriarty, que no sólo está a la altura intelectual de Holmes, sino que posee una capacidad para el mal que podría darle ventaja sobre Holmes.
@@ -1192,7 +773,7 @@
 · Productora: Warner Bros, Silver Pictures, Village Roadshow Pictures, Warner Bros. Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3743772?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111204800 +0100" stop="20260111213300 +0100" channel="M+ Navidad">
+  <programme start="20260111204900 +0100" stop="20260111213500 +0100" channel="M+ Navidad">
     <title lang="es">Dulce Navidad (2025) | Movistar Plus+</title>
     <desc lang="es">Sociedad | Apto para todos los públicos | *3.1/5
 · Este documental viaja a Nueva York, Reino Unido y Suecia para visitar tres de las tiendas de caramelos más grandes del mundo durante una de las épocas más especiales del año. Un viaje navideño a través de algunos de los destinos más dulces del planeta.
@@ -1201,7 +782,7 @@
 · Productora: ScreenDog Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4446224?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111213300 +0100" stop="20260111220000 +0100" channel="M+ Navidad">
+  <programme start="20260111213500 +0100" stop="20260111220000 +0100" channel="M+ Navidad">
     <title lang="es">Leo talks.  Temporada (T2). Leo talks (T2): Maldita Navidad (2023) | Movistar Plus+</title>
     <desc lang="es">Humor | No recomendado para menores de doce años | *3.0/5
 · Leo cree que estamos celebrando demasiado Las Navidades. Estas fiestas se han convertido en un Iron Man. Hay tres que hay que superar: Navidad, Año Nuevo y Reyes. Su mejor marca ha sido hacerlo en 6 cenas, 2 fiestas, 4 eventos y 300 de colesterol.
@@ -1209,7 +790,7 @@
 · Presenta: Leo Harlem</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4119466?od[]=Z1V:MORIG3_V"/>
   </programme>
-  <programme start="20260111220000 +0100" stop="20260112001000 +0100" channel="M+ Navidad">
+  <programme start="20260111220000 +0100" stop="20260112000900 +0100" channel="M+ Navidad">
     <title lang="es">Qué bello es vivir (1946) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de siete años | *3.9/5
 · Un banquero que ha trabajado toda su vida para hacer el bien por su ciudad intenta suicidarse para evitar un escándalo. Pero, un ángel, que hace méritos para conseguir sus alas, es enviado a la Tierra para demostrarle porque merece seguir viviendo.
@@ -1222,7 +803,7 @@
 · Productora: Liberty Films, RKO Radio Pictures Inc</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4329520?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111001000 +0100" stop="20260111013000 +0100" channel="M+ Navidad">
+  <programme start="20260111000900 +0100" stop="20260111013000 +0100" channel="M+ Navidad">
     <title lang="es">Una estrella por Navidad (2017) | Movistar Plus+</title>
     <desc lang="es">Cine familiar | Apto para todos los públicos | *3.0/5
 · Noelle nace en Navidad con la habilidad mágica de hacer que la gente deje de pelear. El lugar de trabajo de su padre tiene serios problemas y no le queda otro remedio que vender, y el único comprador a la vista no es buena persona.
@@ -1232,7 +813,7 @@
 · Productora: Cinemagic Inc.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4316232?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111013000 +0100" stop="20260111030900 +0100" channel="M+ Navidad">
+  <programme start="20260111013000 +0100" stop="20260111031000 +0100" channel="M+ Navidad">
     <title lang="es">Navidad en Baltimore (2025) | Movistar Plus+</title>
     <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.4/5
 · Cliff lleva seis meses sobrio y va a cenar en Nochebuena con la familia de su prometida. Sin embargo, un golpe tonto lo lleva a visitar a la única dentista abierta... y eso lo lleva al depósito de coches... y eso lo lleva a la más insólita Nochebuena.
@@ -1245,7 +826,7 @@
 · Productora: Duplass Brothers Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441607?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260111030900 +0100" stop="20260111040000 +0100" channel="M+ Navidad">
+  <programme start="20260111031000 +0100" stop="20260111040100 +0100" channel="M+ Navidad">
     <title lang="es">Lola Índigo: GRX (2024) | Movistar Plus+</title>
     <desc lang="es">Biografía | Apto para todos los públicos | *3.4/5
 · &quot;Lola Índigo: GRX&quot; nos muestra de cerca a la artista y nos enseña el proceso de creación de &quot;GRX&quot;, acompañada de La Zowi, La Plazuela, Maka, Saiko, Dellafuente y Pepe y Vizio.
@@ -1253,5 +834,18 @@
 · Director: Raúl Santos, DeLasChuches
 · Productora: Movistar+</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4200795?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260112040100 +0100" stop="20260112063000 +0100" channel="M+ Navidad">
+    <title lang="es">Dune (2021) | Movistar Plus+</title>
+    <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.8/5
+· Año 10191. El bello y fértil Caladan ha sido el feudo de los Atreides durante generaciones. Ahora, por orden del Emperador, el duque Leto Atreides debe abandonarlo y dirigirse al desértico Dune junto a su hijo Paul y a la madre de éste, Dama Jessica.
+· País: Canadá y EE.UU
+· Director: Denis Villeneuve
+· Reparto: Timothée Chalamet, Rebecca Ferguson, Zendaya, Oscar Isaac, Javier Bardem, Josh Brolin, Jason Momoa, Stellan Skarsgård, Dave Bautista, Charlotte Rampling, Stephen McKinley Henderson
+· Guion: Denis Villeneuve,Jon Spaihts,Eric Roth
+· Música: Hans Zimmer
+· Producción: Denis Villeneuve, Cale Boyter, Joseph M Caracciolo Jr, Mary Parent
+· Productora: Warner Bros, Legendary Entertainment, Villeneuve Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4077100?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
