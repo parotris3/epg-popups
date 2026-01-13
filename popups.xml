@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 12/01/2026 01:47">
+<tv generator-info-name="MultiPopUps FullDesc 13/01/2026 01:38">
   <channel id="M+ BBC Earth">
     <display-name>M+ BBC Earth</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MBBC"/>
@@ -8,35 +8,4 @@
     <display-name>M+ Navidad</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID"/>
   </channel>
-  <programme start="20260112053600 +0100" stop="20260112063500 +0100" channel="M+ BBC Earth">
-    <title lang="es">Universo. Universo: Vía Láctea. Isla de Luz (2021) | Movistar Plus+</title>
-    <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.5/5
-· La Vía Láctea recibe su nombre de la densa franja de estrellas que recorre el cielo en las noches más claras. Este episodio profundiza en su historia: cómo nació, cómo se convirtió en la galaxia en la que vivimos y cómo, finalmente, terminará.
-· País: R.U
-· Director: Ashley Gething
-· Productora: BBC Earth MD (WWD)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3965088?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20260112063500 +0100" stop="20260112073300 +0100" channel="M+ BBC Earth">
-    <title lang="es">Universo. Universo: Agujeros negros. Más allá de la oscuridad (2021) | Movistar Plus+</title>
-    <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.6/5
-· La Vía Láctea parece un lugar apacible. Pero si atravesamos el gas y polvo que envuelve el núcleo galáctico, veremos un curioso espectáculo: estrellas orbitando alrededor de un lugar ocupado por un agujero negro en el tejido del universo.
-· País: R.U
-· Director: Ashley Gething
-· Productora: BBC Earth MD (WWD)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3965103?od[]=Z2H:BBCEM2_H&amp;od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20260112040100 +0100" stop="20260112063000 +0100" channel="M+ Navidad">
-    <title lang="es">Dune (2021) | Movistar Plus+</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.8/5
-· Año 10191. El bello y fértil Caladan ha sido el feudo de los Atreides durante generaciones. Ahora, por orden del Emperador, el duque Leto Atreides debe abandonarlo y dirigirse al desértico Dune junto a su hijo Paul y a la madre de éste, Dama Jessica.
-· País: Canadá y EE.UU
-· Director: Denis Villeneuve
-· Reparto: Timothée Chalamet, Rebecca Ferguson, Zendaya, Oscar Isaac, Javier Bardem, Josh Brolin, Jason Momoa, Stellan Skarsgård, Dave Bautista, Charlotte Rampling, Stephen McKinley Henderson
-· Guion: Denis Villeneuve,Jon Spaihts,Eric Roth
-· Música: Hans Zimmer
-· Producción: Denis Villeneuve, Cale Boyter, Joseph M Caracciolo Jr, Mary Parent
-· Productora: Warner Bros, Legendary Entertainment, Villeneuve Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4077100?od[]=Z1V:MM3_V"/>
-  </programme>
 </tv>
