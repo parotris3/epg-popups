@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 23/01/2026 01:44">
+<tv generator-info-name="MultiPopUps FullDesc 24/01/2026 01:41">
   <channel id="M+ Cine bélico">
     <display-name>M+ Cine bélico</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCIBE"/>
@@ -8,163 +8,6 @@
     <display-name>M+ Tierra Media</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME"/>
   </channel>
-  <programme start="20260123041600 +0100" stop="20260123061200 +0100" channel="M+ Cine bélico">
-    <title lang="es">Birdy (1984) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
-· Para escapar de un mundo irracional, Birdy, un veterano de Vietnam, convalece en estado catatónico en un hospital del ejército, donde él cree que se ha vuelto un ave como las de los sueños de su infancia.
-· País: EE.UU
-· Director: Alan Parker
-· Reparto: Matthew Modine, Nicolas Cage, John Harkins, Sandy Baron, Karen Young, Bruno Kirby, Nancy Fish, George Buck
-· Guion: Jack Behr,Sandy Kroopf
-· Música: Peter Gabriel
-· Producción: Alan Marshall
-· Productora: TriStar Pictures, A&amp;M Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4435358?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123061200 +0100" stop="20260123075500 +0100" channel="M+ Cine bélico">
-    <title lang="es">Memphis Belle (1990) | Movistar Plus+</title>
-    <desc lang="es">Bélico | Apto para todos los públicos | *3.1/5
-· En 1943, la tripulación de un legendario bombardero, se prepara para afrontar su última y arriesgada misión.
-· País: EE.UU, Japón y R.U
-· Director: Michael Caton-Jones
-· Reparto: Matthew Modine, Eric Stoltz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4449219?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123075500 +0100" stop="20260123093500 +0100" channel="M+ Cine bélico">
-    <title lang="es">Motín en el Defiant (1962) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de doce años | *3.3/5
-· En 1797, el capitán del &quot;Defiant&quot;, un barco inglés que lucha contra la armada napoleónica, ve cómo la tripulación se amotina.
-· País: R.U
-· Director: Lewis Gilbert
-· Reparto: Dirk Bogarde, Alec Guinness, Maurice Denham, Anthony Quayle, David Robinson, Richard Carpenter, Peter Gill, Peter Greenspan
-· Guion: Edmund H North,Nigel Kneale
-· Música: Clifton Parker
-· Producción: John Brabourne
-· Productora: Columbia Pictures Corporation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4448392?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123093500 +0100" stop="20260123123500 +0100" channel="M+ Cine bélico">
-    <title lang="es">El cazador (1978) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.6/5
-· Película ganadora de cinco premios Óscar que narra las trágicas consecuencias que tuvo la Guerra de Vietnam para un grupo de amigos.
-· País: EE.UU
-· Director: Michael Cimino
-· Reparto: Robert De Niro, John Cazale, John Savage, Christopher Walken, Meryl Streep
-· Guion: Quinn K. Redeker,Louis Garfinkle
-· Música: Stanley Myers
-· Productora: Universal Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4059363?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123123500 +0100" stop="20260123151500 +0100" channel="M+ Cine bélico">
-    <title lang="es">El puente sobre el río Kwai (1957) | Movistar Plus+</title>
-    <desc lang="es">Bélico | Apto para todos los públicos | *4.0/5
-· Durante la Segunda Guerra Mundial, los prisioneros ingleses de un campo de concentración japonés deben levantar un puente.
-· País: EE.UU y R.U
-· Director: David Lean
-· Reparto: William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa
-· Guion: Carl Foreman,Pierre Boulle,Michael Wilson
-· Música: Malcolm Arnold
-· Producción: Sam Spiegel
-· Productora: Columbia Pictures Corporation, Horizon Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3983291?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123151500 +0100" stop="20260123174500 +0100" channel="M+ Cine bélico">
-    <title lang="es">Patton (1970) | Movistar Plus+</title>
-    <desc lang="es">Biopic | Apto para todos los públicos | *3.4/5
-· Biografía del general George S. Patton, quien tras vencer a Rommel en el norte de África, condujo a sus tropas de manera imparable a través de Europa hasta llegar al corazón de Alemania.
-· País: EE.UU
-· Director: Franklin J. Schaffner
-· Reparto: Karl Malden, Frank Latimore, George C. Scott, Michael Bates, John Doucette, Karl Michael Vogler, Lawrence Dobkin, Edward Binns, Siegfried Rauch, James Edwards, Michael Strong, Stephen Young, Paul Stevens, John Barrie, Morgan Paull, Richard Muench, Carey Loftin, Sandy McPeak
-· Guion: Francis Ford Coppola,Edmund H North
-· Música: Jerry Goldsmith
-· Producción: Frank McCarthy
-· Productora: Twentieth Century Fox</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4188865?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123174500 +0100" stop="20260123200800 +0100" channel="M+ Cine bélico">
-    <title lang="es">Los violentos de Kelly (1970) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de doce años | *3.7/5
-· Un grupo de americanos captura a un coronel alemán, quien revela que en tierras enemigas existen lingotes de oro escondidos.
-· País: EE.UU
-· Director: Brian G. Hutton
-· Reparto: Clint Eastwood, Telly Savalas, Don Rickles, Carroll O'Connor, Donald Sutherland, Gavin MacLeod, Stuart Margolin, Harry Dean Stanton, George Savalas, Len Lesser, Tom Troupe, Richard Davalos
-· Guion: Troy Kennedy-Martin
-· Música: Lalo Schifrin
-· Producción: Sidney Beckerman, Gabriel Katzka
-· Productora: Metro-Goldwyn-Mayer (MGM)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4044237?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123200800 +0100" stop="20260123220000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Johnny cogió su fusil (1971) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
-· Johnny Bonham, un soldado estadounidense, es herido por una explosión durante la Primera Guerra Mundial. Como resultado, el joven pierde las extremidades, la vista y el oído.
-· País: EE.UU
-· Director: Dalton Trumbo
-· Reparto: Timothy Bottoms, Kathy Fields, Marsha Hunt, Jason Robards, Donald Sutherland, Charles McGraw
-· Guion: Dalton Trumbo
-· Música: Jerry Fielding
-· Producción: Bruce Campbell
-· Productora: Trans World Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4000383?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123220000 +0100" stop="20260124003000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Doce del patíbulo (1967) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.7/5
-· En la II Guerra Mundial, el ejército norteamericano ofrece a doce criminales la libertad si aceptan una peligrosa misión.
-· País: EE.UU y R.U
-· Director: Robert Aldrich
-· Reparto: Lee Marvin, Ernest Borgnine, Jim Brown, John Cassavetes, Telly Savalas, Donald Sutherland, George Kennedy, Charles Bronson, Trini López, Richard Jaeckel, Robert Ryan
-· Guion: Nunnally Johnson,Lukas Heller
-· Música: Frank De Vol
-· Producción: Kenneth Hyman
-· Productora: Metro-Goldwyn-Mayer (MGM), Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3990804?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123003000 +0100" stop="20260123003900 +0100" channel="M+ Cine bélico">
-    <title lang="es">Premios del Cine Europeo 2026. Ganadores (2026) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
-· Las primeras impresiones del equipo de “Sirat”, después de recoger los premios otorgados por la Academia de Cine Europeo. En una noche mágica, los elementos visuales de la película de Óliver Laxe brillaron con luz propia.
-· País: España
-· Presenta: Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4453306?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123003900 +0100" stop="20260123022400 +0100" channel="M+ Cine bélico">
-    <title lang="es">Las bicicletas son para el verano (1984) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
-· En el Madrid de 1936, una familia acomodada ve interrumpida su apacible vida cuando estalla la Guerra Civil. A partir de ese momento, la comida empieza a escasear y, bajo la amenaza de las bombas, las ilusiones se van perdiendo.
-· País: España
-· Director: Jaime Chávarri
-· Reparto: Agustín González, Amparo Soler Leal, Victoria Abril, Marisa Paredes, Gabino Diego
-· Guion: Salvador Maldonado
-· Música: Francisco Guerrero
-· Productora: Impala</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3926066?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123022400 +0100" stop="20260123040600 +0100" channel="M+ Cine bélico">
-    <title lang="es">¡Ay, Carmela! (1990) | Movistar Plus+</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.4/5
-· Los artistas ambulantes Carmela, Paulino y Gustavete, tras divertir a las tropas republicanas en el frente, deciden buscar un destino menos peligroso. Cuando, por error, acaban en la zona 'nacional', son detenidos y condenados a muerte.
-· País: España e Italia
-· Director: Carlos Saura
-· Reparto: Carmen Maura, Andrés Pajares, Gabino Diego, Maurizio De Razza, José Sancho, Miguel Rellán
-· Guion: Rafael Azcona,Carlos Saura
-· Música: Alejandro Massó
-· Productora: Iberoamericana Films Internacional, Televisión Española (TVE), Ellepi Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4075152?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123040600 +0100" stop="20260123055000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Mientras dure la guerra (2019) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de siete años | *3.9/5
-· 1936. Las tropas sublevadas contra el gobierno de la República declaran el estado de guerra en Salamanca. El escritor Miguel de Unamuno, rector de la Universidad, apoya la rebelión contra una República por la que él mismo luchó pero que lo ha defraudado.
-· País: Argentina y España
-· Director: Alejandro Amenábar
-· Reparto: Karra Elejalde, Eduard Fernández, Santi Prego, Nathalie Poza, Patricia López Arnaiz, Luis Bermejo, Tito Valverde, Inma Cuevas, Carlos Serrano-Clark, Luis Zahera, Ainhoa Santamaría, Mireia Rey, Luis Callejo
-· Guion: Alejandro Amenábar,Alejandro Hernández
-· Música: Alejandro Amenábar
-· Producción: Alejandro Amenábar, Fernando Bovaira, Domingo Corral, Hugo Sigman
-· Productora: Movistar+, Mod Producciones, Himenóptero, K&amp;S Films, MDLG A.I.E</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441476?od[]=Z1V:MORIG3_V"/>
-  </programme>
   <programme start="20260124055000 +0100" stop="20260124072700 +0100" channel="M+ Cine bélico">
     <title lang="es">¿Es el enemigo? La película de Gila (2024) | Movistar Plus+</title>
     <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.4/5
@@ -184,7 +27,7 @@
 · Las primeras impresiones del equipo de “Sirat”, después de recoger los premios otorgados por la Academia de Cine Europeo. En una noche mágica, los elementos visuales de la película de Óliver Laxe brillaron con luz propia.
 · País: España
 · Presenta: Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4453306?od[]=Z1V:MM3_V"/>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4453306"/>
   </programme>
   <programme start="20260124073500 +0100" stop="20260124093000 +0100" channel="M+ Cine bélico">
     <title lang="es">Lee Miller (2023) | Movistar Plus+</title>
@@ -201,7 +44,7 @@
   </programme>
   <programme start="20260124093000 +0100" stop="20260124111000 +0100" channel="M+ Cine bélico">
     <title lang="es">Triage (2008) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
 · Un atormentado reportero de guerra regresa a Irlanda tras una peligrosa misión en Kurdistán. En el conflicto pierde a un compañero, hecho que le ocasiona multitud de traumas y secuelas que le impiden llevar una vida corriente.
 · País: Bélgica, España, Francia e Irlanda
 · Director: Danis Tanovic
@@ -214,7 +57,7 @@
   </programme>
   <programme start="20260124111000 +0100" stop="20260124130500 +0100" channel="M+ Cine bélico">
     <title lang="es">Crónicas de guerra (2025) | Movistar Plus+</title>
-    <desc lang="es">Biopic | No recomendado para menores de doce años | *3.5/5
+    <desc lang="es">Biopic | No recomendado para menores de doce años | *3.4/5
 · En 2004, la reportera rusa Anna Politkóvskaya sufre una extraña intoxicación en el avión que la lleva a Beslán para negociar con los terroristas chechenos. Cinco años antes comenzaba su arriesgado trabajo periodístico.
 · País: EE.UU y R.U
 · Director: James Strong
@@ -295,11 +138,11 @@
     <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.2/5
 · El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
 · Presenta: Carlos Boyero,Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MBOBMV3V4222654"/>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454924?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20260124235200 +0100" stop="20260125015000 +0100" channel="M+ Cine bélico">
     <title lang="es">Un hombre para la eternidad (1966) | Movistar Plus+</title>
-    <desc lang="es">Histórico | Apto para todos los públicos | *3.3/5
+    <desc lang="es">Histórico | Apto para todos los públicos | *3.4/5
 · Cuando Enrique VIII decide divorciarse de su esposa se encuentra con la oposición firme de Sir Thomas Moro, ferviente católico.
 · País: R.U
 · Director: Fred Zinnemann
@@ -383,7 +226,7 @@
 · Reparto: Matthew Modine, Eric Stoltz</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4449219?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260125132100 +0100" stop="20260125151500 +0100" channel="M+ Cine bélico">
+  <programme start="20260125132100 +0100" stop="20260125151600 +0100" channel="M+ Cine bélico">
     <title lang="es">La chaqueta metálica (1987) | Movistar Plus+</title>
     <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *4.0/5
 · Una patrulla de aspirantes a marines llega a una isla en donde es sometida a un duro adiestramiento para combatir en Vietnam. Esa instrucción, además de física, será psicológica, para lo cual el primer paso es anular la personalidad de cada individuo.
@@ -396,7 +239,7 @@
 · Productora: Warner Bros, Stanley Kubrick Productions, Natant</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3926841?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260125151500 +0100" stop="20260125171500 +0100" channel="M+ Cine bélico">
+  <programme start="20260125151600 +0100" stop="20260125171500 +0100" channel="M+ Cine bélico">
     <title lang="es">Birdy (1984) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
 · Para escapar de un mundo irracional, Birdy, un veterano de Vietnam, convalece en estado catatónico en un hospital del ejército, donde él cree que se ha vuelto un ave como las de los sueños de su infancia.
@@ -432,12 +275,12 @@
   </programme>
   <programme start="20260125215200 +0100" stop="20260125220000 +0100" channel="M+ Cine bélico">
     <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): Apocalipe now: Final cut (2026) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.0/5
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *2.6/5
 · El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
 · Presenta: Carlos Boyero,Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2475396V4222653"/>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454924"/>
   </programme>
-  <programme start="20260125220000 +0100" stop="20260126010000 +0100" channel="M+ Cine bélico">
+  <programme start="20260125220000 +0100" stop="20260126005900 +0100" channel="M+ Cine bélico">
     <title lang="es">Apocalypse Now: Final Cut (2019) | Movistar Plus+</title>
     <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.5/5
 · En plena guerra de Vietnam, el capitán Willard recibe la orden de internarse en Camboya y asesinar al renegado coronel Kurtz.
@@ -450,9 +293,9 @@
 · Productora: American Zoetrope, Zoetrope Studios</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3864093?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260125010000 +0100" stop="20260125013100 +0100" channel="M+ Cine bélico">
+  <programme start="20260125005900 +0100" stop="20260125013200 +0100" channel="M+ Cine bélico">
     <title lang="es">El cine bélico de Boyero (2026) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.3/5
 · El cine bélico lleva décadas contando las guerras que han asolado y siguen asolando nuestro planeta. El crítico de cine Carlos Boyero analiza todas las vertientes del género, de la mano de la presentadora Cristina Teva.
 · País: España
 · Presenta: Carlos Boyero,Cristina Teva
@@ -460,7 +303,7 @@
 · Producción: Isabel Guerrero Martínez</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4449868?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260125013100 +0100" stop="20260125033700 +0100" channel="M+ Cine bélico">
+  <programme start="20260125013200 +0100" stop="20260125033700 +0100" channel="M+ Cine bélico">
     <title lang="es">En tierra hostil (2008) | Movistar Plus+</title>
     <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.7/5
 · Durante una misión en la Guerra de Iraq, fallece el sargento Thompson, líder de un comando especializado en desactivación de explosivos. Tras su muerte, la unidad queda al mando del impredecible y temerario sargento James.
@@ -486,129 +329,174 @@
 · Productora: Paramount Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4436381?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260123043100 +0100" stop="20260123062000 +0100" channel="M+ Tierra Media">
-    <title lang="es">Tolkien (2019) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de siete años | *3.9/5
-· John Ronald sobrevive a la fiebre de las trincheras en el terrible frente del Somme. Desde allí, rememora su llegada a Birmingham de niño y la vida en su nuevo colegio, en donde su talento para la creación de historias llama la atención de tres alumnos.
+  <programme start="20260126051000 +0100" stop="20260126074500 +0100" channel="M+ Cine bélico">
+    <title lang="es">El paciente inglés (1996) | Movistar Plus+</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.5/5
+· La única tregua en medio de la guerra es encontrar una historia de amor. Hana vive dos historias, la suya propia y otra ajena.
 · País: EE.UU y R.U
-· Director: Dome Karukoski
-· Reparto: Nicholas Hoult, Lily Collins, Derek Jacobi, Genevieve O'Reilly, Colm Meany, Mimi Keene
-· Guion: Stephen Beresford,David Gleeson
-· Música: Thomas Newman
-· Producción: Peter Chernin, David Ready, Kris Thykier, Jenno Topping
-· Productora: Fox Searchlight Pictures, Chernin Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3772228?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123062000 +0100" stop="20260123103500 +0100" channel="M+ Tierra Media">
-    <title lang="es">El señor de los anillos: el retorno del rey (versión extendida) (2003) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.4/5
-· El viaje de la Comunidad del anillo está llegando a su fin. El mago negro Saruman ha caído, pero las fuerzas de Sauron asedian la capital de Gondor, en su ataque definitivo contra la Tierra Media.
-· País: EE.UU y Nueva Zelanda
-· Director: Peter Jackson
-· Reparto: Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Sean Astin, John Rhys-Davies, Billy Boyd, Dominic Monaghan, David Wenham, Liv Tyler, Andy Serkis, Cate Blanchett, Ian Holm, Hugo Weaving, Christopher Lee, Sean Bean, Miranda Otto
-· Guion: Peter Jackson,Philippa Boyens,Fran Walsh
-· Música: Howard Shore
-· Producción: Peter Jackson, Fran Walsh, Barrie M. Osborne
-· Productora: New Line Cinema, WingNut Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914998?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123103500 +0100" stop="20260123131600 +0100" channel="M+ Tierra Media">
-    <title lang="es">El hobbit: la batalla de los cinco ejércitos (versión extendida) (2014) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.0/5
-· Los enanos de Erebor han reclamado sus riquezas, pero ahora deben afrontar las consecuencias de haber liberado al dragón Smaug. Mientras Bilbo, Thorin y parte de los enanos se refugian en la Colina del Cuervo, el temible dragón ataca la Ciudad del Lago.
-· País: EE.UU y Nueva Zelanda
-· Director: Peter Jackson
-· Reparto: Ian McKellen, Martin Freeman, Richard Armitage, Evangeline Lilly, Lee Pace, Orlando Bloom, Ken Stott, Graham McTavish, Cate Blanchett, Aidan Turner, Luke Evans
-· Guion: Peter Jackson,Philippa Boyens,Fran Walsh,Guillermo del Toro
-· Música: Howard Shore
-· Producción: Peter Jackson, Fran Walsh, Carolynne Cunningham, Zane Weiner
-· Productora: New Line Cinema, Metro-Goldwyn-Mayer (MGM), WingNut Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914949?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123131600 +0100" stop="20260123152700 +0100" channel="M+ Tierra Media">
-    <title lang="es">El señor de los anillos (1978) | Movistar Plus+</title>
-    <desc lang="es">Animación | Apto para todos los públicos | *3.4/5
-· En la Tierra Media, las fuerzas del bien y del mal se enfrentan en una batalla a muerte por el futuro del mundo. La clave está en la posesión de un poderoso anillo.
-· País: EE.UU, España y R.U
-· Director: Ralph Bakshi
-· Reparto: John Hurt, Anthony Daniels, Christopher Guard, William Squire, Michael Scholes
-· Guion: Chris Conkling,Peter S Beagle
-· Música: Paul Kont, Leonard Rosenman
+· Director: Anthony Minghella
+· Reparto: Ralph Fiennes, Willem Dafoe, Juliette Binoche, Kristin Scott Thomas, Naveen Andrews, Colin Firth, Jürgen Prochnow, Julian Wadham, Kevin Whately, Clive Merrison, Nino Castelnuovo
+· Guion: Anthony Minghella
+· Música: Gabriel Yared
 · Producción: Saul Zaentz
-· Productora: Fantasy Films, Saul Zaentz Production Company</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3597120?od[]=Z1V:MM3_V"/>
+· Productora: Miramax International, Saul Zaentz Productions, Miramax Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3967259?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260123152700 +0100" stop="20260123171700 +0100" channel="M+ Tierra Media">
-    <title lang="es">Tolkien (2019) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de siete años | *3.9/5
-· John Ronald sobrevive a la fiebre de las trincheras en el terrible frente del Somme. Desde allí, rememora su llegada a Birmingham de niño y la vida en su nuevo colegio, en donde su talento para la creación de historias llama la atención de tres alumnos.
-· País: EE.UU y R.U
-· Director: Dome Karukoski
-· Reparto: Nicholas Hoult, Lily Collins, Derek Jacobi, Genevieve O'Reilly, Colm Meany, Mimi Keene
-· Guion: Stephen Beresford,David Gleeson
-· Música: Thomas Newman
-· Producción: Peter Chernin, David Ready, Kris Thykier, Jenno Topping
-· Productora: Fox Searchlight Pictures, Chernin Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3772228?od[]=Z1V:MM3_V"/>
+  <programme start="20260126074500 +0100" stop="20260126091800 +0100" channel="M+ Cine bélico">
+    <title lang="es">La vida ante nosotros (2025) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.2/5
+· París. Julio 1942. Los Zylbersztejn, una familia judía de origen polaco, consiguen escapar de la masiva redada del Velódromo de Invierno, y se esconden en una buhardilla de sólo 6 metros cuadrados.
+· País: Bélgica y Francia
+· Director: Nils Tavernier, Emmanuel Mathieu
+· Reparto: Sandrine Bonnaire, Guillaume Gallienne, Rod Paradot</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4377272?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260123171700 +0100" stop="20260123210000 +0100" channel="M+ Tierra Media">
-    <title lang="es">El señor de los anillos: la comunidad del anillo (versión extendida) (2001) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.5/5
-· Hace mucho, en un tiempo que ya nadie recuerda, los sabios elfos recibieron 3 anillos de poder, 7 fueron para los señores enanos y 9 para los ambiciosos hombres. Pero el señor oscuro Sauron forjó uno más: el anillo regente para controlarlos a todos.
-· País: EE.UU y Nueva Zelanda
-· Director: Peter Jackson
-· Reparto: Elijah Wood, Alan Howard, Marton Csokas, Lawrence Makoare, Ian Mune, Craig Parker
-· Guion: Peter Jackson,J.R.R. Tolkien,Fran Walsh,Philippa Boyens
-· Música: Howard Shore
-· Producción: Peter Jackson, Fran Walsh, Barrie M. Osborne, Tim Sanders
-· Productora: New Line Cinema, WingNut Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3915002?od[]=Z1V:MM3_V"/>
+  <programme start="20260126091800 +0100" stop="20260126111800 +0100" channel="M+ Cine bélico">
+    <title lang="es">Feliz Navidad, Mr. Lawrence (1983) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.4/5
+· Durante la II Guerra Mundial, un grupo de soldados americanos e ingleses luchan por sobrevivir en un campo de prisioneros.
+· País: Japón, Nueva Zelanda y R.U
+· Director: Nagisa Oshima
+· Reparto: David Bowie, Tom Conti, Ryuichi Sakamoto, Yuji Honma, Yuya Uchida, James Malcolm, Alistair Browning, Takeshi Kitano, Jack Thompson, Johnny Okura, Chris Broun
+· Guion: Nagisa Oshima,Paul Mayersberg
+· Música: Ryuichi Sakamoto
+· Producción: Jeremy Thomas
+· Productora: National Film Trustees, Cineventure Productions London, Recorded Pictures Company (RPC), Oshima Productions, Asahi National Broadcasting Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3649307?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260123210000 +0100" stop="20260124005000 +0100" channel="M+ Tierra Media">
-    <title lang="es">El señor de los anillos: las dos torres (versión extendida) (2002) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.4/5
-· El equilibrio de la Tierra Media se ha roto a causa de la alianza entre el poder oscuro de Sauron y de la magia negra de Saruman. Además, el influjo maléfico del Anillo ha dividido a la Comunidad que se formó para destruirlo.
-· País: EE.UU y Nueva Zelanda
-· Director: Peter Jackson
-· Reparto: Elijah Wood, Viggo Mortensen, Orlando Bloom, Ian McKellen, Sean Astin, Christopher Lee, Liv Tyler, John Rhys-Davies, Andy Serkis, Billy Boyd, Dominic Monaghan
-· Guion: Peter Jackson,Fran Walsh,Philippa Boyens
-· Música: Howard Shore
-· Producción: Peter Jackson, Fran Walsh, Barrie M. Osborne
-· Productora: New Line Cinema, WingNut Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3915006?od[]=Z1V:MM3_V"/>
+  <programme start="20260126111800 +0100" stop="20260126132800 +0100" channel="M+ Cine bélico">
+    <title lang="es">Capitán Conan (1996) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.2/5
+· Francia firma el armisticio tras la I Guerra Mundial. Su único ejército no desmovilizado está acuartelado en Bucarest.
+· País: Francia
+· Director: Bertrand Tavernier
+· Reparto: Philippe Torreton, Samuel Le Bihan, Bernard Le Coq, Catherine Rich, François Berléand
+· Guion: Bertrand Tavernier,Jean Cosmos
+· Música: Oswald d'Andrea
+· Productora: Canal+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3814017?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260123005000 +0100" stop="20260123010000 +0100" channel="M+ Tierra Media">
-    <title lang="es">Mi amiga Eva. Los juegos del amor (2025) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.2/5
-· Mi amiga Eva. Los juegos del amor
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4425104?od[]=Z1V:MM3_V"/>
+  <programme start="20260126132800 +0100" stop="20260126150300 +0100" channel="M+ Cine bélico">
+    <title lang="es">¿Teléfono rojo? Volamos hacia Moscú (1964) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.9/5
+· Hay que advertir a los rusos para que destruyan unos bombarderos atómicos.
+· País: R.U
+· Director: Stanley Kubrick
+· Reparto: Peter Sellers, George C. Scott, Sterling Hayden, Robert O'Neil, Slim Pickens, James Earl Jones, Keenan Wynn, Peter Bull, Shane Rimmer, John McCarthy, Roy Stephens, Glenn Beck, Frank Berry, Jack Creley, Tracy Reed
+· Guion: Peter George,Terry Southern,Stanley Kubrick
+· Música: Laurie Johnson
+· Producción: Stanley Kubrick
+· Productora: Columbia, Hawk Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4086991?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260123010000 +0100" stop="20260123051500 +0100" channel="M+ Tierra Media">
-    <title lang="es">El señor de los anillos: el retorno del rey (versión extendida) (2003) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.4/5
-· El viaje de la Comunidad del anillo está llegando a su fin. El mago negro Saruman ha caído, pero las fuerzas de Sauron asedian la capital de Gondor, en su ataque definitivo contra la Tierra Media.
-· País: EE.UU y Nueva Zelanda
-· Director: Peter Jackson
-· Reparto: Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Sean Astin, John Rhys-Davies, Billy Boyd, Dominic Monaghan, David Wenham, Liv Tyler, Andy Serkis, Cate Blanchett, Ian Holm, Hugo Weaving, Christopher Lee, Sean Bean, Miranda Otto
-· Guion: Peter Jackson,Philippa Boyens,Fran Walsh
-· Música: Howard Shore
-· Producción: Peter Jackson, Fran Walsh, Barrie M. Osborne
-· Productora: New Line Cinema, WingNut Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914998?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260123051500 +0100" stop="20260123052000 +0100" channel="M+ Tierra Media">
-    <title lang="es">Flores para Antonio. Alba Flores celebra a su padre (2025) | Movistar Plus+</title>
+  <programme start="20260126150300 +0100" stop="20260126153600 +0100" channel="M+ Cine bélico">
+    <title lang="es">El cine bélico de Boyero (2026) | Movistar Plus+</title>
     <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.3/5
-· La actriz Alba Flores y sus directores Isaki Lacuesta y Elena Molina nos cuentan todos los detalles de la película documental “Flores para Antonio” que celebró su estreno en el Festival de Cine de San Sebastián.
+· El cine bélico lleva décadas contando las guerras que han asolado y siguen asolando nuestro planeta. El crítico de cine Carlos Boyero analiza todas las vertientes del género, de la mano de la presentadora Cristina Teva.
 · País: España
-· Presenta: Cristina Teva
-· Productora: Movistar+</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4431467?od[]=Z1V:MM3_V"/>
+· Presenta: Carlos Boyero,Cristina Teva
+· Guion: Montserrat Jerez
+· Producción: Isabel Guerrero Martínez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4449868?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126153600 +0100" stop="20260126174500 +0100" channel="M+ Cine bélico">
+    <title lang="es">En tierra hostil (2008) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.7/5
+· Durante una misión en la Guerra de Iraq, fallece el sargento Thompson, líder de un comando especializado en desactivación de explosivos. Tras su muerte, la unidad queda al mando del impredecible y temerario sargento James.
+· País: EE.UU
+· Director: Kathryn Bigelow
+· Reparto: Jeremy Renner, Anthony Mackie, Brian Geraghty, Christian Camargo, Suhail Al-Dabbach, Christopher Sayegh, Evangeline Lilly, Ralph Fiennes, David Morse, Guy Pearce
+· Guion: Mark Boal
+· Música: Buck Sanders, Marco Beltrami
+· Producción: Nicolas Chartier, Greg Shapiro, Mark Boal, Kathryn Bigelow, Jenn Lee
+· Productora: First Light Production, Kingsgate Films, Summit Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3841323?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126174500 +0100" stop="20260126192500 +0100" channel="M+ Cine bélico">
+    <title lang="es">Motín en el Defiant (1962) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de doce años | *3.3/5
+· En 1797, el capitán del &quot;Defiant&quot;, un barco inglés que lucha contra la armada napoleónica, ve cómo la tripulación se amotina.
+· País: R.U
+· Director: Lewis Gilbert
+· Reparto: Dirk Bogarde, Alec Guinness, Maurice Denham, Anthony Quayle, David Robinson, Richard Carpenter, Peter Gill, Peter Greenspan
+· Guion: Edmund H North,Nigel Kneale
+· Música: Clifton Parker
+· Producción: John Brabourne
+· Productora: Columbia Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4448392?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126192500 +0100" stop="20260126212500 +0100" channel="M+ Cine bélico">
+    <title lang="es">The Convert (2023) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.5/5
+· En 1830, el ministro británico Thomas Munro llega a Nueva Zelanda y se ve envuelto en un conflicto entre dos tribus Maori. Intenta salvar a Rangimai, la hija del jefe Maianui, mientras enfrenta prejuicios coloniales y busca negociar la paz.
+· País: Australia, Nueva Zelanda y R.U
+· Director: Lee Tamahori
+· Reparto: Guy Pearce, Tioreore Ngatai-Melbourne, Antonio Te Maioha, Jacqueline McKenzie, Lawrence Makoare
+· Guion: Shane Danielsen,Lee Tamahori
+· Música: Matteo Zingales
+· Producción: Robin Scholes, Te Kohe Tuhaka
+· Productora: Jump Film and Television, Brouhaha Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4347843?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126212500 +0100" stop="20260126220000 +0100" channel="M+ Cine bélico">
+    <title lang="es">El cine bélico de Boyero (2026) | Movistar Plus+</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.3/5
+· El cine bélico lleva décadas contando las guerras que han asolado y siguen asolando nuestro planeta. El crítico de cine Carlos Boyero analiza todas las vertientes del género, de la mano de la presentadora Cristina Teva.
+· País: España
+· Presenta: Carlos Boyero,Cristina Teva
+· Guion: Montserrat Jerez
+· Producción: Isabel Guerrero Martínez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4449868?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126220000 +0100" stop="20260127004000 +0100" channel="M+ Cine bélico">
+    <title lang="es">El puente sobre el río Kwai (1957) | Movistar Plus+</title>
+    <desc lang="es">Bélico | Apto para todos los públicos | *4.0/5
+· Durante la Segunda Guerra Mundial, los prisioneros ingleses de un campo de concentración japonés deben levantar un puente.
+· País: EE.UU y R.U
+· Director: David Lean
+· Reparto: William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa
+· Guion: Carl Foreman,Pierre Boulle,Michael Wilson
+· Música: Malcolm Arnold
+· Producción: Sam Spiegel
+· Productora: Columbia Pictures Corporation, Horizon Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3983291?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126004000 +0100" stop="20260126004500 +0100" channel="M+ Cine bélico">
+    <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): El puente sobre el rio Kwai (2026) | Movistar Plus+</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.2/5
+· El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
+· Presenta: Carlos Boyero,Cristina Teva</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454924?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126004500 +0100" stop="20260126025500 +0100" channel="M+ Cine bélico">
+    <title lang="es">La cruz de hierro (1977) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.3/5
+· Península de Tamán, 1943. Los ejércitos alemanes se retiran. El regimiento que dirige el coronel Brandt lleva un nuevo comandante de batallón, un aristócrata prusiano que está dispuesto a obtener la Cruz de Hierro, codiciado símbolo de valentía.
+· País: Alemania y R.U
+· Director: Sam Peckinpah
+· Reparto: James Coburn, Maximilian Schell, James Mason, David Warner, Klaus Löwitsch, Vadim Glowna, Roger Fritz
+· Guion: Julius J. Epstein,Walter Kelley,James Hamilton
+· Música: Ernest Gold
+· Producción: Wolf C. Hartwig
+· Productora: EMI Films Ltd, Radiant Productions, Jadran Film, Incorporated Television Company (ITC)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4059287?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126025500 +0100" stop="20260126044200 +0100" channel="M+ Cine bélico">
+    <title lang="es">Johnny cogió su fusil (1971) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
+· Johnny Bonham, un soldado estadounidense, es herido por una explosión durante la Primera Guerra Mundial. Como resultado, el joven pierde las extremidades, la vista y el oído.
+· País: EE.UU
+· Director: Dalton Trumbo
+· Reparto: Timothy Bottoms, Kathy Fields, Marsha Hunt, Jason Robards, Donald Sutherland, Charles McGraw
+· Guion: Dalton Trumbo
+· Música: Jerry Fielding
+· Producción: Bruce Campbell
+· Productora: Trans World Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4000383?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20260124052000 +0100" stop="20260124073000 +0100" channel="M+ Tierra Media">
     <title lang="es">El señor de los anillos: la guerra de los Rohirrim (2024) | Movistar Plus+</title>
-    <desc lang="es">Animación | No recomendado para menores de doce años | *3.4/5
+    <desc lang="es">Animación | No recomendado para menores de doce años | *3.3/5
 · El ataque de Wulf, despiadado señor de los Dunlending que busca venganza por la muerte de su padre, obliga a Helm y a su pueblo a hacer una última y audaz resistencia en una poderosa fortaleza que más tarde será conocida como el Abismo de Helm.
 · País: EE.UU
 · Director: Kenji Kamiyama
@@ -630,9 +518,9 @@
 · Productora: Metro-Goldwyn-Mayer (MGM), WingNut Films, New Line Cinema</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914980?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260124103300 +0100" stop="20260124131300 +0100" channel="M+ Tierra Media">
+  <programme start="20260124103300 +0100" stop="20260124131700 +0100" channel="M+ Tierra Media">
     <title lang="es">El hobbit: la batalla de los cinco ejércitos (versión extendida) (2014) | Movistar Plus+</title>
-    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.0/5
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.1/5
 · Los enanos de Erebor han reclamado sus riquezas, pero ahora deben afrontar las consecuencias de haber liberado al dragón Smaug. Mientras Bilbo, Thorin y parte de los enanos se refugian en la Colina del Cuervo, el temible dragón ataca la Ciudad del Lago.
 · País: EE.UU y Nueva Zelanda
 · Director: Peter Jackson
@@ -643,7 +531,7 @@
 · Productora: New Line Cinema, Metro-Goldwyn-Mayer (MGM), WingNut Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914949?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260124131300 +0100" stop="20260124165500 +0100" channel="M+ Tierra Media">
+  <programme start="20260124131700 +0100" stop="20260124165900 +0100" channel="M+ Tierra Media">
     <title lang="es">El señor de los anillos: la comunidad del anillo (versión extendida) (2001) | Movistar Plus+</title>
     <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.5/5
 · Hace mucho, en un tiempo que ya nadie recuerda, los sabios elfos recibieron 3 anillos de poder, 7 fueron para los señores enanos y 9 para los ambiciosos hombres. Pero el señor oscuro Sauron forjó uno más: el anillo regente para controlarlos a todos.
@@ -656,7 +544,7 @@
 · Productora: New Line Cinema, WingNut Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3915002?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260124165500 +0100" stop="20260124204500 +0100" channel="M+ Tierra Media">
+  <programme start="20260124165900 +0100" stop="20260124204900 +0100" channel="M+ Tierra Media">
     <title lang="es">El señor de los anillos: las dos torres (versión extendida) (2002) | Movistar Plus+</title>
     <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.4/5
 · El equilibrio de la Tierra Media se ha roto a causa de la alianza entre el poder oscuro de Sauron y de la magia negra de Saruman. Además, el influjo maléfico del Anillo ha dividido a la Comunidad que se formó para destruirlo.
@@ -669,7 +557,7 @@
 · Productora: New Line Cinema, WingNut Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3915006?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260124204500 +0100" stop="20260124210000 +0100" channel="M+ Tierra Media">
+  <programme start="20260124204900 +0100" stop="20260124210000 +0100" channel="M+ Tierra Media">
     <title lang="es">Mi amiga Eva. Los juegos del amor (2025) | Movistar Plus+</title>
     <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.2/5
 · Mi amiga Eva. Los juegos del amor
@@ -717,7 +605,7 @@
   </programme>
   <programme start="20260125051500 +0100" stop="20260125072500 +0100" channel="M+ Tierra Media">
     <title lang="es">El señor de los anillos: la guerra de los Rohirrim (2024) | Movistar Plus+</title>
-    <desc lang="es">Animación | No recomendado para menores de doce años | *3.4/5
+    <desc lang="es">Animación | No recomendado para menores de doce años | *3.3/5
 · El ataque de Wulf, despiadado señor de los Dunlending que busca venganza por la muerte de su padre, obliga a Helm y a su pueblo a hacer una última y audaz resistencia en una poderosa fortaleza que más tarde será conocida como el Abismo de Helm.
 · País: EE.UU
 · Director: Kenji Kamiyama
@@ -739,7 +627,7 @@
 · Productora: Fox Searchlight Pictures, Chernin Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3772228?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260125091500 +0100" stop="20260125125500 +0100" channel="M+ Tierra Media">
+  <programme start="20260125091500 +0100" stop="20260125125600 +0100" channel="M+ Tierra Media">
     <title lang="es">El señor de los anillos: la comunidad del anillo (versión extendida) (2001) | Movistar Plus+</title>
     <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.5/5
 · Hace mucho, en un tiempo que ya nadie recuerda, los sabios elfos recibieron 3 anillos de poder, 7 fueron para los señores enanos y 9 para los ambiciosos hombres. Pero el señor oscuro Sauron forjó uno más: el anillo regente para controlarlos a todos.
@@ -752,7 +640,7 @@
 · Productora: New Line Cinema, WingNut Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3915002?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260125125500 +0100" stop="20260125164500 +0100" channel="M+ Tierra Media">
+  <programme start="20260125125600 +0100" stop="20260125164500 +0100" channel="M+ Tierra Media">
     <title lang="es">El señor de los anillos: las dos torres (versión extendida) (2002) | Movistar Plus+</title>
     <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.4/5
 · El equilibrio de la Tierra Media se ha roto a causa de la alianza entre el poder oscuro de Sauron y de la magia negra de Saruman. Además, el influjo maléfico del Anillo ha dividido a la Comunidad que se formó para destruirlo.
@@ -791,7 +679,7 @@
 · Productora: Fantasy Films, Saul Zaentz Production Company</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3597120?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260125231000 +0100" stop="20260126021000 +0100" channel="M+ Tierra Media">
+  <programme start="20260125231000 +0100" stop="20260126021100 +0100" channel="M+ Tierra Media">
     <title lang="es">El hobbit: un viaje inesperado (versión extendida) (2012) | Movistar Plus+</title>
     <desc lang="es">Fantástico | No recomendado para menores de siete años | *4.3/5
 · Abordado repentinamente por el mago Gandalf, el hobbit Bilbo Bolsón ve invadida su casa por un grupo de enanos que, liderado por el legendario guerrero Thorin 'Escudo de roble', quiere recuperar Erebor, el reino de los enanos, del temible dragón Smaug.
@@ -803,7 +691,7 @@
 · Producción: Peter Jackson, Fran Walsh, Carolynne Cunningham, Zane Weiner</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914989?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260125021000 +0100" stop="20260125051500 +0100" channel="M+ Tierra Media">
+  <programme start="20260125021100 +0100" stop="20260125051500 +0100" channel="M+ Tierra Media">
     <title lang="es">El hobbit: la desolación de Smaug (versión extendida) (2013) | Movistar Plus+</title>
     <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.2/5
 · El hobbit Bilbo Bolsón, el mago Gandalf el Gris y los enanos del legendario guerrero Thorin 'Escudo de roble' continúan su viaje hacia Erebor, el antiguo reino de los enanos, perseguidos incansablemente por los orcos de Azog.
@@ -815,5 +703,106 @@
 · Producción: Peter Jackson, Fran Walsh, Zane Weiner
 · Productora: Metro-Goldwyn-Mayer (MGM), WingNut Films, New Line Cinema</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914980?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126051500 +0100" stop="20260126075500 +0100" channel="M+ Tierra Media">
+    <title lang="es">El hobbit: la batalla de los cinco ejércitos (versión extendida) (2014) | Movistar Plus+</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.1/5
+· Los enanos de Erebor han reclamado sus riquezas, pero ahora deben afrontar las consecuencias de haber liberado al dragón Smaug. Mientras Bilbo, Thorin y parte de los enanos se refugian en la Colina del Cuervo, el temible dragón ataca la Ciudad del Lago.
+· País: EE.UU y Nueva Zelanda
+· Director: Peter Jackson
+· Reparto: Ian McKellen, Martin Freeman, Richard Armitage, Evangeline Lilly, Lee Pace, Orlando Bloom, Ken Stott, Graham McTavish, Cate Blanchett, Aidan Turner, Luke Evans
+· Guion: Peter Jackson,Philippa Boyens,Fran Walsh,Guillermo del Toro
+· Música: Howard Shore
+· Producción: Peter Jackson, Fran Walsh, Carolynne Cunningham, Zane Weiner
+· Productora: New Line Cinema, Metro-Goldwyn-Mayer (MGM), WingNut Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914949?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126075500 +0100" stop="20260126100500 +0100" channel="M+ Tierra Media">
+    <title lang="es">El señor de los anillos (1978) | Movistar Plus+</title>
+    <desc lang="es">Animación | Apto para todos los públicos | *3.4/5
+· En la Tierra Media, las fuerzas del bien y del mal se enfrentan en una batalla a muerte por el futuro del mundo. La clave está en la posesión de un poderoso anillo.
+· País: EE.UU, España y R.U
+· Director: Ralph Bakshi
+· Reparto: John Hurt, Anthony Daniels, Christopher Guard, William Squire, Michael Scholes
+· Guion: Chris Conkling,Peter S Beagle
+· Música: Paul Kont, Leonard Rosenman
+· Producción: Saul Zaentz
+· Productora: Fantasy Films, Saul Zaentz Production Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3597120?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126100500 +0100" stop="20260126130500 +0100" channel="M+ Tierra Media">
+    <title lang="es">El hobbit: un viaje inesperado (versión extendida) (2012) | Movistar Plus+</title>
+    <desc lang="es">Fantástico | No recomendado para menores de siete años | *4.3/5
+· Abordado repentinamente por el mago Gandalf, el hobbit Bilbo Bolsón ve invadida su casa por un grupo de enanos que, liderado por el legendario guerrero Thorin 'Escudo de roble', quiere recuperar Erebor, el reino de los enanos, del temible dragón Smaug.
+· País: EE.UU y Nueva Zelanda
+· Director: Peter Jackson
+· Reparto: Martin Freeman, Ian McKellen, Richard Armitage, Andy Serkis, Ian Holm, Elijah Wood, Cate Blanchett, Christopher Lee, Hugo Weaving
+· Guion: Peter Jackson,Fran Walsh,Philippa Boyens,Guillermo del Toro
+· Música: Howard Shore
+· Producción: Peter Jackson, Fran Walsh, Carolynne Cunningham, Zane Weiner</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914989?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126130500 +0100" stop="20260126160600 +0100" channel="M+ Tierra Media">
+    <title lang="es">El hobbit: la desolación de Smaug (versión extendida) (2013) | Movistar Plus+</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.2/5
+· El hobbit Bilbo Bolsón, el mago Gandalf el Gris y los enanos del legendario guerrero Thorin 'Escudo de roble' continúan su viaje hacia Erebor, el antiguo reino de los enanos, perseguidos incansablemente por los orcos de Azog.
+· País: EE.UU y Nueva Zelanda
+· Director: Peter Jackson
+· Reparto: Ian McKellen, Martin Freeman, Richard Armitage, Evangeline Lilly, Cate Blanchett, Andy Serkis, Luke Evans, Orlando Bloom, Benedict Cumberbatch
+· Guion: Peter Jackson,Fran Walsh,Philippa Boyens,Guillermo del Toro
+· Música: Howard Shore
+· Producción: Peter Jackson, Fran Walsh, Zane Weiner
+· Productora: Metro-Goldwyn-Mayer (MGM), WingNut Films, New Line Cinema</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914980?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126160600 +0100" stop="20260126184600 +0100" channel="M+ Tierra Media">
+    <title lang="es">El hobbit: la batalla de los cinco ejércitos (versión extendida) (2014) | Movistar Plus+</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.1/5
+· Los enanos de Erebor han reclamado sus riquezas, pero ahora deben afrontar las consecuencias de haber liberado al dragón Smaug. Mientras Bilbo, Thorin y parte de los enanos se refugian en la Colina del Cuervo, el temible dragón ataca la Ciudad del Lago.
+· País: EE.UU y Nueva Zelanda
+· Director: Peter Jackson
+· Reparto: Ian McKellen, Martin Freeman, Richard Armitage, Evangeline Lilly, Lee Pace, Orlando Bloom, Ken Stott, Graham McTavish, Cate Blanchett, Aidan Turner, Luke Evans
+· Guion: Peter Jackson,Philippa Boyens,Fran Walsh,Guillermo del Toro
+· Música: Howard Shore
+· Producción: Peter Jackson, Fran Walsh, Carolynne Cunningham, Zane Weiner
+· Productora: New Line Cinema, Metro-Goldwyn-Mayer (MGM), WingNut Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914949?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126184600 +0100" stop="20260126210000 +0100" channel="M+ Tierra Media">
+    <title lang="es">El señor de los anillos: la guerra de los Rohirrim (2024) | Movistar Plus+</title>
+    <desc lang="es">Animación | No recomendado para menores de doce años | *3.3/5
+· El ataque de Wulf, despiadado señor de los Dunlending que busca venganza por la muerte de su padre, obliga a Helm y a su pueblo a hacer una última y audaz resistencia en una poderosa fortaleza que más tarde será conocida como el Abismo de Helm.
+· País: EE.UU
+· Director: Kenji Kamiyama
+· Guion: Phoebe Gittins,Jeffrey Addiss
+· Música: Stephen Gallagher
+· Productora: Sola Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4342394?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126210000 +0100" stop="20260127004100 +0100" channel="M+ Tierra Media">
+    <title lang="es">El señor de los anillos: la comunidad del anillo (versión extendida) (2001) | Movistar Plus+</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.5/5
+· Hace mucho, en un tiempo que ya nadie recuerda, los sabios elfos recibieron 3 anillos de poder, 7 fueron para los señores enanos y 9 para los ambiciosos hombres. Pero el señor oscuro Sauron forjó uno más: el anillo regente para controlarlos a todos.
+· País: EE.UU y Nueva Zelanda
+· Director: Peter Jackson
+· Reparto: Elijah Wood, Alan Howard, Marton Csokas, Lawrence Makoare, Ian Mune, Craig Parker
+· Guion: Peter Jackson,J.R.R. Tolkien,Fran Walsh,Philippa Boyens
+· Música: Howard Shore
+· Producción: Peter Jackson, Fran Walsh, Barrie M. Osborne, Tim Sanders
+· Productora: New Line Cinema, WingNut Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3915002?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260126004100 +0100" stop="20260126043000 +0100" channel="M+ Tierra Media">
+    <title lang="es">El señor de los anillos: las dos torres (versión extendida) (2002) | Movistar Plus+</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.4/5
+· El equilibrio de la Tierra Media se ha roto a causa de la alianza entre el poder oscuro de Sauron y de la magia negra de Saruman. Además, el influjo maléfico del Anillo ha dividido a la Comunidad que se formó para destruirlo.
+· País: EE.UU y Nueva Zelanda
+· Director: Peter Jackson
+· Reparto: Elijah Wood, Viggo Mortensen, Orlando Bloom, Ian McKellen, Sean Astin, Christopher Lee, Liv Tyler, John Rhys-Davies, Andy Serkis, Billy Boyd, Dominic Monaghan
+· Guion: Peter Jackson,Fran Walsh,Philippa Boyens
+· Música: Howard Shore
+· Producción: Peter Jackson, Fran Walsh, Barrie M. Osborne
+· Productora: New Line Cinema, WingNut Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3915006?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
