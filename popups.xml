@@ -1,150 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 04/02/2026 01:59">
+<tv generator-info-name="MultiPopUps FullDesc 05/02/2026 02:02">
   <channel id="M+ Cine bélico">
     <display-name>M+ Cine bélico</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCIBE"/>
   </channel>
-  <channel id="M+ Tierra Media">
-    <display-name>M+ Tierra Media</display-name>
+  <channel id="M+ Los Goya">
+    <display-name>M+ Los Goya</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME"/>
   </channel>
-  <programme start="20260204051000 +0100" stop="20260204080500 +0100" channel="M+ Cine bélico">
-    <title lang="es">Apocalypse Now: Final Cut (2019) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.5/5
-· En plena guerra de Vietnam, el capitán Willard recibe la orden de internarse en Camboya y asesinar al renegado coronel Kurtz.
-· País: EE.UU
-· Director: Francis Ford Coppola
-· Reparto: Marlon Brando, Robert Duvall, Martin Sheen, Frederic Forrest, Albert Hall, Sam Bottoms, Laurence Fishburne, Dennis Hopper, Harrison Ford, G.D. Spradlin, Colleen Camp, Cynthia Wood
-· Guion: Francis Ford Coppola,John Milius
-· Música: Francis Ford Coppola, Carmine Coppola
-· Producción: Francis Ford Coppola, Tom Sternberg, Gray Frederickson, Fred Roos
-· Productora: American Zoetrope, Zoetrope Studios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3864093?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260204080500 +0100" stop="20260204104500 +0100" channel="M+ Cine bélico">
-    <title lang="es">El paciente inglés (1996) | Movistar Plus+</title>
-    <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.5/5
-· La única tregua en medio de la guerra es encontrar una historia de amor. Hana vive dos historias, la suya propia y otra ajena.
-· País: EE.UU y R.U
-· Director: Anthony Minghella
-· Reparto: Ralph Fiennes, Willem Dafoe, Juliette Binoche, Kristin Scott Thomas, Naveen Andrews, Colin Firth, Jürgen Prochnow, Julian Wadham, Kevin Whately, Clive Merrison, Nino Castelnuovo
-· Guion: Anthony Minghella
-· Música: Gabriel Yared
-· Producción: Saul Zaentz
-· Productora: Miramax International, Saul Zaentz Productions, Miramax Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3967259?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260204104500 +0100" stop="20260204124000 +0100" channel="M+ Cine bélico">
-    <title lang="es">El año que vivimos peligrosamente (1982) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.4/5
-· Guy Hamilton es un reportero australiano que llega a Yakarta en junio de 1965, momento en el que el país se debate entre la revolución comunista o la dictadura militar.
-· País: Australia y EE.UU
-· Director: Peter Weir
-· Reparto: Mel Gibson, Sigourney Weaver, Bill Kerr, Michael Murphy, Linda Hunt, Bembol Roco, Kuh Ledesma, Domingo Landicho, Mike Emperio
-· Guion: Peter Weir,David Williamson,C.J. Koch
-· Música: Maurice Jarre
-· Producción: Peter Weir, Jim McElroy
-· Productora: Metro-Goldwyn-Mayer (MGM)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3840951?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260204124000 +0100" stop="20260204151000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Doce del patíbulo (1967) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.7/5
-· En la II Guerra Mundial, el ejército norteamericano ofrece a doce criminales la libertad si aceptan una peligrosa misión.
-· País: EE.UU y R.U
-· Director: Robert Aldrich
-· Reparto: Lee Marvin, Ernest Borgnine, Jim Brown, John Cassavetes, Telly Savalas, Donald Sutherland, George Kennedy, Charles Bronson, Trini López, Richard Jaeckel, Robert Ryan
-· Guion: Nunnally Johnson,Lukas Heller
-· Música: Frank De Vol
-· Producción: Kenneth Hyman
-· Productora: Metro-Goldwyn-Mayer (MGM), Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3990804?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260204151000 +0100" stop="20260204172200 +0100" channel="M+ Cine bélico">
-    <title lang="es">Tora! Tora! Tora! (1970) | Movistar Plus+</title>
-    <desc lang="es">Histórico | Apto para todos los públicos | *3.4/5
-· Reproducción del ataque a Pearl Harbor. La aviación japonesa destruyó la flota norteamericana del Pacífico y dio origen a que los Estados Unidos declarasen la guerra a Japón.
-· País: EE.UU y Japón
-· Director: Richard Fleischer, Toshio Masuda, Kinji Fukasuku
-· Reparto: Jason Robards, Martin Balsam, Joseph Cotten, James Whitmore, E.G. Marshall, Tatsuya Mihashi, Jason Robards Jr., Jason Robards Sr, Sô Yamamura, James Whitmore Jr., Takahiro Tamura
-· Guion: Ryuzo Kikushima,Hideo Oguni,Ladislas Farago,Larry Forrester,Gordon W Prange
-· Música: Jerry Goldsmith
-· Producción: Otto Lang, Elmo Williams
-· Productora: Twentieth Century Fox, Toei, Toei Animation Company</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4451400?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260204172200 +0100" stop="20260204192200 +0100" channel="M+ Cine bélico">
-    <title lang="es">Valkiria (2008) | Movistar Plus+</title>
-    <desc lang="es">Histórico | No recomendado para menores de doce años | *3.7/5
-· Gravemente herido, el coronel Von Stauffenberg vuelve de África para unirse a la resistencia alemana y ayudar a organizar la Operación Valkiria, un complejo plan para derrocar a Hitler.
-· País: Alemania, EE.UU, España, Francia, Italia y Japón
-· Director: Bryan Singer
-· Reparto: Tom Cruise, Kenneth Branagh, Bill Nighy, Tom Wilkinson, Carice van Houten, Thomas Kretschmann, Terence Stamp, Eddie Izzard, Tom Hollander
-· Guion: Christopher McQuarrie,Nathan Alexander
-· Música: John Ottman
-· Producción: Bryan Singer, Christopher McQuarrie, Gilbert Adler
-· Productora: United Artists, Bad Hat Harry Productions, Achte Babelsberg Film, Studio Babelsberg</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3959753?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260204192200 +0100" stop="20260204215400 +0100" channel="M+ Cine bélico">
-    <title lang="es">Patton (1970) | Movistar Plus+</title>
-    <desc lang="es">Biopic | Apto para todos los públicos | *3.4/5
-· Biografía del general George S. Patton, quien tras vencer a Rommel en el norte de África, condujo a sus tropas de manera imparable a través de Europa hasta llegar al corazón de Alemania.
-· País: EE.UU
-· Director: Franklin J. Schaffner
-· Reparto: Karl Malden, Frank Latimore, George C. Scott, Michael Bates, John Doucette, Karl Michael Vogler, Lawrence Dobkin, Edward Binns, Siegfried Rauch, James Edwards, Michael Strong, Stephen Young, Paul Stevens, John Barrie, Morgan Paull, Richard Muench, Carey Loftin, Sandy McPeak
-· Guion: Francis Ford Coppola,Edmund H North
-· Música: Jerry Goldsmith
-· Producción: Frank McCarthy
-· Productora: Twentieth Century Fox</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4188865?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260204215400 +0100" stop="20260204220000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): Doce del patíbulo (2026) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *2.9/5
-· El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
-· País: España
-· Presenta: Carlos Boyero,Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454924?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260204220000 +0100" stop="20260205004000 +0100" channel="M+ Cine bélico">
-    <title lang="es">El Álamo (1960) | Movistar Plus+</title>
-    <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *3.3/5
-· En 1836, las proximidades de San Antonio son el escenario de diversas escaramuzas entre los independentistas tejanos y el ejército regular mexicano. Los guerrilleros luchan por su independencia, frente a la tendencia del Presidente de la nación.
-· País: EE.UU
-· Director: John Wayne
-· Reparto: John Wayne, Richard Widmark, Laurence Harvey, Frankie Avalon, Patrick Wayne, Chill Wills, Joan O'Brien, Joseph Calleia, Linda Cristal, Ken Curtis, Linda Cistal
-· Guion: James Edward Grant
-· Música: Dimitri Tiomkin
-· Producción: John Wayne
-· Productora: Batjac Productions, The Alamo Company</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3911548?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260204004000 +0100" stop="20260204022400 +0100" channel="M+ Cine bélico">
-    <title lang="es">Dunkerque (2017) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de doce años | *3.7/5
-· Norte de Francia, 1940. Atrapadas por el enemigo en la costa de Dunkerque, las tropas británicas y francesas aguardan su suerte, esperando un rescate que sería un milagro.
-· País: EE.UU, Francia, Países Bajos y R.U
-· Director: Christopher Nolan
-· Reparto: Kenneth Branagh, Cillian Murphy, Mark Rylance, Tom Hardy, Tom Glynn-Carney, Jack Lowden, Harry Styles, Aneurin Barnard, Fionn Whitehead, Barry Keoghan
-· Guion: Christopher Nolan
-· Música: Hans Zimmer
-· Producción: Emma Thomas, Christopher Nolan
-· Productora: Syncopy, Warner Bros, Dombey Street Productions, Kaap Holland Film, RatPac-Dune Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3926825?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260204022400 +0100" stop="20260204045600 +0100" channel="M+ Cine bélico">
-    <title lang="es">El desafío de las águilas (1968) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.5/5
-· Durante la II Guerra Mundial, un comando de élite tiene la misión de rescatar a un general americano retenido por los nazis.
-· País: R.U
-· Director: Brian G. Hutton
-· Reparto: Richard Burton, Clint Eastwood, Mary Ure, Patrick Wymark, Michael Hordern, Robert Beatty, Victor Beaumont, Ivor Dean
-· Guion: Alistair MacLean
-· Música: Ron Goodwin
-· Productora: Metro-Goldwyn-Mayer (MGM), Winkast</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4044233?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20260205045600 +0100" stop="20260205063900 +0100" channel="M+ Cine bélico">
     <title lang="es">Memphis Belle (1990) | Movistar Plus+</title>
     <desc lang="es">Bélico | Apto para todos los públicos | *2.9/5
@@ -167,7 +30,7 @@
 · Productora: United Artists</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3978913?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260205080500 +0100" stop="20260205095500 +0100" channel="M+ Cine bélico">
+  <programme start="20260205080500 +0100" stop="20260205095400 +0100" channel="M+ Cine bélico">
     <title lang="es">The Arctic Convoy (2023) | Movistar Plus+</title>
     <desc lang="es">Bélico | No recomendado para menores de doce años | *3.4/5
 · Es 1941 y la Alemania nazi ha invadido la Unión Soviética. Para evitar más pérdidas, los aliados se ven obligados a ayudar y numerosos buques civiles, llenos de armas, inician el peligroso viaje hacia las ciudades rusas Murmansk y Arkhangelsk.
@@ -180,7 +43,7 @@
 · Productora: Fantefilm</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4290633?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260205095500 +0100" stop="20260205114500 +0100" channel="M+ Cine bélico">
+  <programme start="20260205095400 +0100" stop="20260205114400 +0100" channel="M+ Cine bélico">
     <title lang="es">13 días, 13 noches (2025) | Movistar Plus+</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.8/5
 · Tras décadas de guerra, Estados Unidos decide retirar sus tropas de Afganistán. En poco tiempo, los talibanes se hacen con el control de la capital, Kabul. La última misión occidental aún abierta es la embajada de Francia: deben irse, y rápido.
@@ -193,7 +56,7 @@
 · Productora: Chapter 2, Pathé, Umedia, Canal+, Disney+</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4443381?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260205114500 +0100" stop="20260205144500 +0100" channel="M+ Cine bélico">
+  <programme start="20260205114400 +0100" stop="20260205144500 +0100" channel="M+ Cine bélico">
     <title lang="es">El cazador (1978) | Movistar Plus+</title>
     <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.6/5
 · Película ganadora de cinco premios Óscar que narra las trágicas consecuencias que tuvo la Guerra de Vietnam para un grupo de amigos.
@@ -205,7 +68,7 @@
 · Productora: Universal Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4059363?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260205144500 +0100" stop="20260205163700 +0100" channel="M+ Cine bélico">
+  <programme start="20260205144500 +0100" stop="20260205163600 +0100" channel="M+ Cine bélico">
     <title lang="es">Johnny cogió su fusil (1971) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
 · Johnny Bonham, un soldado estadounidense, es herido por una explosión durante la Primera Guerra Mundial. Como resultado, el joven pierde las extremidades, la vista y el oído.
@@ -218,7 +81,7 @@
 · Productora: Trans World Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4000383?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260205163700 +0100" stop="20260205184500 +0100" channel="M+ Cine bélico">
+  <programme start="20260205163600 +0100" stop="20260205184400 +0100" channel="M+ Cine bélico">
     <title lang="es">El ministro de propaganda (2024) | Movistar Plus+</title>
     <desc lang="es">Biopic | No recomendado para menores de dieciséis años | *3.3/5
 · Joseph Goebbels es el encargado de generar apoyo público para el Holocausto y para la guerra que está a punto de iniciar. Un maestro de la manipulación con gran poder de seducción que convenció al pueblo alemán de que solo Hitler podía hacerlo grande.
@@ -230,7 +93,7 @@
 · Productora: Zeitsprung Pictures, SWR</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4354917?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260205184500 +0100" stop="20260205204500 +0100" channel="M+ Cine bélico">
+  <programme start="20260205184400 +0100" stop="20260205204500 +0100" channel="M+ Cine bélico">
     <title lang="es">Feliz Navidad, Mr. Lawrence (1983) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
 · Durante la II Guerra Mundial, un grupo de soldados americanos e ingleses luchan por sobrevivir en un campo de prisioneros.
@@ -255,7 +118,7 @@
 · Productora: Union Générale Cinématographique (UGC)</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3993508?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260205220000 +0100" stop="20260205235500 +0100" channel="M+ Cine bélico">
+  <programme start="20260205220000 +0100" stop="20260205235300 +0100" channel="M+ Cine bélico">
     <title lang="es">Uno rojo: división de choque (1980) | Movistar Plus+</title>
     <desc lang="es">Bélico | No recomendado para menores de doce años | *3.2/5
 · En la Segunda Guerra Mundial, cinco soldados americanos al mando de un veterano sargento protagonizan dramáticas batallas.
@@ -268,7 +131,7 @@
 · Productora: Lorimar Television</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4450414?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260205235500 +0100" stop="20260206000000 +0100" channel="M+ Cine bélico">
+  <programme start="20260205235300 +0100" stop="20260206000000 +0100" channel="M+ Cine bélico">
     <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): Apocalipe now: Final cut (2026) | Movistar Plus+</title>
     <desc lang="es">Programa de cine | No recomendado para menores de siete años | *2.9/5
 · El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
@@ -289,7 +152,7 @@
 · Productora: Twentieth Century Fox, Toei, Toei Animation Company</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4451400?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260205021000 +0100" stop="20260205040700 +0100" channel="M+ Cine bélico">
+  <programme start="20260205021000 +0100" stop="20260205040800 +0100" channel="M+ Cine bélico">
     <title lang="es">Misión de audaces (1959) | Movistar Plus+</title>
     <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *3.2/5
 · En la Guerra Civil americana, el coronel Marlowe y el mayor Kendall tienen que destruir una línea ferroviaria.
@@ -301,7 +164,7 @@
 · Productora: Mirisch Company, Mahin-Rackin</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4436057?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260206040700 +0100" stop="20260206060700 +0100" channel="M+ Cine bélico">
+  <programme start="20260206040800 +0100" stop="20260206060600 +0100" channel="M+ Cine bélico">
     <title lang="es">El buen italiano (2023) | Movistar Plus+</title>
     <desc lang="es">Biopic | No recomendado para menores de doce años | *3.4/5
 · Al comienzo de la Segunda Guerra Mundial, Salvatore Todaro está al mando del submarino Cappellini de la Marina Real Italiana. En octubre de 1940, mientras navega por el Atlántico, divisa la silueta de un mercante que navega sin luces en la oscuridad.
@@ -310,7 +173,7 @@
 · Reparto: Pierfrancesco Favino, Massimiliano Rossi, Johan Heldenbergh, Arturo Muselli, Giuseppe Brunetti</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378177?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260206060700 +0100" stop="20260206075000 +0100" channel="M+ Cine bélico">
+  <programme start="20260206060600 +0100" stop="20260206075000 +0100" channel="M+ Cine bélico">
     <title lang="es">Dunkerque (2017) | Movistar Plus+</title>
     <desc lang="es">Bélico | No recomendado para menores de doce años | *3.7/5
 · Norte de Francia, 1940. Atrapadas por el enemigo en la costa de Dunkerque, las tropas británicas y francesas aguardan su suerte, esperando un rescate que sería un milagro.
@@ -454,5 +317,124 @@
 · Producción: Stanley Baker, Cy Endfield
 · Productora: Diamond Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4408229?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260207032500 +0100" stop="20260207062000 +0100" channel="M+ Cine bélico">
+    <title lang="es">Apocalypse Now: Final Cut (2019) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.5/5
+· En plena guerra de Vietnam, el capitán Willard recibe la orden de internarse en Camboya y asesinar al renegado coronel Kurtz.
+· País: EE.UU
+· Director: Francis Ford Coppola
+· Reparto: Marlon Brando, Robert Duvall, Martin Sheen, Frederic Forrest, Albert Hall, Sam Bottoms, Laurence Fishburne, Dennis Hopper, Harrison Ford, G.D. Spradlin, Colleen Camp, Cynthia Wood
+· Guion: Francis Ford Coppola,John Milius
+· Música: Francis Ford Coppola, Carmine Coppola
+· Producción: Francis Ford Coppola, Tom Sternberg, Gray Frederickson, Fred Roos
+· Productora: American Zoetrope, Zoetrope Studios</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3864093?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260207062000 +0100" stop="20260207081000 +0100" channel="M+ Cine bélico">
+    <title lang="es">Uno rojo: división de choque (1980) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de doce años | *3.2/5
+· En la Segunda Guerra Mundial, cinco soldados americanos al mando de un veterano sargento protagonizan dramáticas batallas.
+· País: EE.UU
+· Director: Samuel Fuller
+· Reparto: Keith Carradine, Robert Carradine, Stéphane Audran, Lee Marvin, Serge Marquand, Mark Hamill, Kelly Ward, Bobby Di Cicco, Giovanna Galletti, Siegfried Rauch, Maurice Marsac, Avraham Ronai, Matteo Zoffoli
+· Guion: Samuel Fuller
+· Música: Dana Kaproff
+· Producción: Gene Corman
+· Productora: Lorimar Television</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4450414?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260207081000 +0100" stop="20260207095800 +0100" channel="M+ Cine bélico">
+    <title lang="es">Memphis Belle (1990) | Movistar Plus+</title>
+    <desc lang="es">Bélico | Apto para todos los públicos | *2.9/5
+· En 1943, la tripulación de un legendario bombardero, se prepara para afrontar su última y arriesgada misión.
+· País: EE.UU, Japón y R.U
+· Director: Michael Caton-Jones
+· Reparto: Matthew Modine, Eric Stoltz</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4449219?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260207095800 +0100" stop="20260207120800 +0100" channel="M+ Cine bélico">
+    <title lang="es">La cruz de hierro (1977) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.3/5
+· Península de Tamán, 1943. Los ejércitos alemanes se retiran. El regimiento que dirige el coronel Brandt lleva un nuevo comandante de batallón, un aristócrata prusiano que está dispuesto a obtener la Cruz de Hierro, codiciado símbolo de valentía.
+· País: Alemania y R.U
+· Director: Sam Peckinpah
+· Reparto: James Coburn, Maximilian Schell, James Mason, David Warner, Klaus Löwitsch, Vadim Glowna, Roger Fritz
+· Guion: Julius J. Epstein,Walter Kelley,James Hamilton
+· Música: Ernest Gold
+· Producción: Wolf C. Hartwig
+· Productora: EMI Films Ltd, Radiant Productions, Jadran Film, Incorporated Television Company (ITC)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4059287?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260207120800 +0100" stop="20260207144000 +0100" channel="M+ Cine bélico">
+    <title lang="es">El desafío de las águilas (1968) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.5/5
+· Durante la II Guerra Mundial, un comando de élite tiene la misión de rescatar a un general americano retenido por los nazis.
+· País: R.U
+· Director: Brian G. Hutton
+· Reparto: Richard Burton, Clint Eastwood, Mary Ure, Patrick Wymark, Michael Hordern, Robert Beatty, Victor Beaumont, Ivor Dean
+· Guion: Alistair MacLean
+· Música: Ron Goodwin
+· Productora: Metro-Goldwyn-Mayer (MGM), Winkast</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4044233?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260207144000 +0100" stop="20260207171500 +0100" channel="M+ Cine bélico">
+    <title lang="es">Patton (1970) | Movistar Plus+</title>
+    <desc lang="es">Biopic | Apto para todos los públicos | *3.4/5
+· Biografía del general George S. Patton, quien tras vencer a Rommel en el norte de África, condujo a sus tropas de manera imparable a través de Europa hasta llegar al corazón de Alemania.
+· País: EE.UU
+· Director: Franklin J. Schaffner
+· Reparto: Karl Malden, Frank Latimore, George C. Scott, Michael Bates, John Doucette, Karl Michael Vogler, Lawrence Dobkin, Edward Binns, Siegfried Rauch, James Edwards, Michael Strong, Stephen Young, Paul Stevens, John Barrie, Morgan Paull, Richard Muench, Carey Loftin, Sandy McPeak
+· Guion: Francis Ford Coppola,Edmund H North
+· Música: Jerry Goldsmith
+· Producción: Frank McCarthy
+· Productora: Twentieth Century Fox</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4188865?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260207171500 +0100" stop="20260207195000 +0100" channel="M+ Cine bélico">
+    <title lang="es">Los cañones de Navarone (1961) | Movistar Plus+</title>
+    <desc lang="es">Bélico | Apto para todos los públicos | *3.6/5
+· Un comando del ejército aliado tratará de alcanzar los poderosos cañones de Navarone, bastión inexpugnable, para sabotearlos.
+· País: EE.UU y R.U
+· Director: J. Lee Thompson
+· Reparto: Gregory Peck, David Niven, Anthony Quinn, Stanley Baker, Richard Harris, James Darren, Irene Papas, Anthony Quayle, James Robertson-Justice, Gia Scala
+· Guion: Carl Foreman
+· Música: Dimitri Tiomkin
+· Productora: Columbia Pictures, Columbia Pictures Corporation, Highroad, Open Road Productions, Open Road</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3809983?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260207195000 +0100" stop="20260207220000 +0100" channel="M+ Cine bélico">
+    <title lang="es">En tierra hostil (2008) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.7/5
+· Durante una misión en la Guerra de Iraq, fallece el sargento Thompson, líder de un comando especializado en desactivación de explosivos. Tras su muerte, la unidad queda al mando del impredecible y temerario sargento James.
+· País: EE.UU
+· Director: Kathryn Bigelow
+· Reparto: Jeremy Renner, Anthony Mackie, Brian Geraghty, Christian Camargo, Suhail Al-Dabbach, Christopher Sayegh, Evangeline Lilly, Ralph Fiennes, David Morse, Guy Pearce
+· Guion: Mark Boal
+· Música: Buck Sanders, Marco Beltrami
+· Producción: Nicolas Chartier, Greg Shapiro, Mark Boal, Kathryn Bigelow, Jenn Lee
+· Productora: First Light Production, Kingsgate Films, Summit Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3841323?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260207220000 +0100" stop="20260207234500 +0100" channel="M+ Cine bélico">
+    <title lang="es">Greyhound: Enemigos bajo el mar (2020) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de doce años | *3.8/5
+· El capitán Krause (Tom Hanks) lidera un convoy de 37 buques en una misión crucial a través de las peligrosas aguas del Atlántico atestadas de submarinos alemanes.
+· País: EE.UU
+· Director: Aaron Schneider
+· Reparto: Tom Hanks, Elisabeth Shue, Stephen Graham, Josh Wiggins, Manuel Garcia-Rulfo, Karl Glusman, Rob Morgan, Chet Hanks
+· Producción: David Coatsworth, Aaron L. Gilbert, Gary Goetzman, Sanping Han, Michael Jackman, Ben Nearn, Tom Rice, Aaron Ryder, Steve Shareshian, Alex Zhang Hungtai</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4440616?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260207234500 +0100" stop="20260208020000 +0100" channel="M+ Cine bélico">
+    <title lang="es">Dunkerque (1958) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.2/5
+· Durante la II Guerra Mundial en 1940, después de realizar un sabotaje delante de sus líneas, una unidad británica en Francia pierde a su oficial. El cabo se encuentra entonces con la responsabilidad de liderar al grupo y encontrar a su unidad.
+· País: R.U
+· Director: Leslie Norman
+· Reparto: John Mills, Robert Urquhart, Ray Jackson, Richard Attenborough, Bernard Lee, Roland Curram
+· Guion: W.P Lipscomb
+· Producción: Michael Balcon</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455661?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
