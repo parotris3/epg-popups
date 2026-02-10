@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 09/02/2026 02:08">
+<tv generator-info-name="MultiPopUps FullDesc 10/02/2026 02:26">
   <channel id="M+ Cine bélico">
     <display-name>M+ Cine bélico</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MCIBE"/>
@@ -8,176 +8,6 @@
     <display-name>M+ Los Goya</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTIME"/>
   </channel>
-  <programme start="20260209053100 +0100" stop="20260209071400 +0100" channel="M+ Cine bélico">
-    <title lang="es">Mientras dure la guerra (2019) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de siete años | *3.9/5
-· 1936. Las tropas sublevadas contra el gobierno de la República declaran el estado de guerra en Salamanca. El escritor Miguel de Unamuno, rector de la Universidad, apoya la rebelión contra una República por la que él mismo luchó pero que lo ha defraudado.
-· País: Argentina y España
-· Director: Alejandro Amenábar
-· Reparto: Karra Elejalde, Eduard Fernández, Santi Prego, Nathalie Poza, Patricia López Arnaiz, Luis Bermejo, Tito Valverde, Inma Cuevas, Carlos Serrano-Clark, Luis Zahera, Ainhoa Santamaría, Mireia Rey, Luis Callejo
-· Guion: Alejandro Amenábar,Alejandro Hernández
-· Música: Alejandro Amenábar
-· Producción: Alejandro Amenábar, Fernando Bovaira, Domingo Corral, Hugo Sigman
-· Productora: Movistar+, Mod Producciones, Himenóptero, K&amp;S Films, MDLG A.I.E</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441476?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20260209071400 +0100" stop="20260209074500 +0100" channel="M+ Cine bélico">
-    <title lang="es">El cine bélico de Boyero (2026) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
-· El cine bélico lleva décadas contando las guerras que han asolado y siguen asolando nuestro planeta. El crítico de cine Carlos Boyero analiza todas las vertientes del género, de la mano de la presentadora Cristina Teva.
-· País: España
-· Presenta: Carlos Boyero,Cristina Teva
-· Guion: Montserrat Jerez
-· Producción: Isabel Guerrero Martínez</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4449868?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209074500 +0100" stop="20260209094400 +0100" channel="M+ Cine bélico">
-    <title lang="es">El buen italiano (2023) | Movistar Plus+</title>
-    <desc lang="es">Biopic | No recomendado para menores de doce años | *3.4/5
-· Al comienzo de la Segunda Guerra Mundial, Salvatore Todaro está al mando del submarino Cappellini de la Marina Real Italiana. En octubre de 1940, mientras navega por el Atlántico, divisa la silueta de un mercante que navega sin luces en la oscuridad.
-· País: Bélgica e Italia
-· Director: Edoardo de Angelis
-· Reparto: Pierfrancesco Favino, Massimiliano Rossi, Johan Heldenbergh, Arturo Muselli, Giuseppe Brunetti</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4378177?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209094400 +0100" stop="20260209120000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Dunkerque (1958) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.2/5
-· Durante la II Guerra Mundial en 1940, después de realizar un sabotaje delante de sus líneas, una unidad británica en Francia pierde a su oficial. El cabo se encuentra entonces con la responsabilidad de liderar al grupo y encontrar a su unidad.
-· País: R.U
-· Director: Leslie Norman
-· Reparto: John Mills, Robert Urquhart, Ray Jackson, Richard Attenborough, Bernard Lee, Roland Curram
-· Guion: W.P Lipscomb
-· Producción: Michael Balcon</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455661?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209120000 +0100" stop="20260209120500 +0100" channel="M+ Cine bélico">
-    <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): Apocalipe now: Final cut (2026) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *2.9/5
-· El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
-· País: España
-· Presenta: Carlos Boyero,Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455317"/>
-  </programme>
-  <programme start="20260209120500 +0100" stop="20260209150500 +0100" channel="M+ Cine bélico">
-    <title lang="es">Apocalypse Now: Final Cut (2019) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.5/5
-· En plena guerra de Vietnam, el capitán Willard recibe la orden de internarse en Camboya y asesinar al renegado coronel Kurtz.
-· País: EE.UU
-· Director: Francis Ford Coppola
-· Reparto: Marlon Brando, Robert Duvall, Martin Sheen, Frederic Forrest, Albert Hall, Sam Bottoms, Laurence Fishburne, Dennis Hopper, Harrison Ford, G.D. Spradlin, Colleen Camp, Cynthia Wood
-· Guion: Francis Ford Coppola,John Milius
-· Música: Francis Ford Coppola, Carmine Coppola
-· Producción: Francis Ford Coppola, Tom Sternberg, Gray Frederickson, Fred Roos
-· Productora: American Zoetrope, Zoetrope Studios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3864093?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209150500 +0100" stop="20260209174000 +0100" channel="M+ Cine bélico">
-    <title lang="es">El desafío de las águilas (1968) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.5/5
-· Durante la II Guerra Mundial, un comando de élite tiene la misión de rescatar a un general americano retenido por los nazis.
-· País: R.U
-· Director: Brian G. Hutton
-· Reparto: Richard Burton, Clint Eastwood, Mary Ure, Patrick Wymark, Michael Hordern, Robert Beatty, Victor Beaumont, Ivor Dean
-· Guion: Alistair MacLean
-· Música: Ron Goodwin
-· Productora: Metro-Goldwyn-Mayer (MGM), Winkast</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4044233?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209174000 +0100" stop="20260209191600 +0100" channel="M+ Cine bélico">
-    <title lang="es">Cinco tumbas al Cairo (1943) | Movistar Plus+</title>
-    <desc lang="es">Bélico | Apto para todos los públicos | *3.3/5
-· 1942: El ejército británico se retira del Norte de África ante los avances de Rommel, pero deja olvidado a un superviviente.
-· País: EE.UU
-· Director: Billy Wilder
-· Reparto: Franchot Tone, Anne Baxter, Akim Tamiroff, Erich von Stroheim, Peter van Eyck, Fortunio Bonanova
-· Guion: Billy Wilder,Charles Brackett,Lajos Biró
-· Música: Miklós Rózsa
-· Producción: Charles Brackett
-· Productora: Paramount Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4436381?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209191600 +0100" stop="20260209215500 +0100" channel="M+ Cine bélico">
-    <title lang="es">El paciente inglés (1996) | Movistar Plus+</title>
-    <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.5/5
-· La única tregua en medio de la guerra es encontrar una historia de amor. Hana vive dos historias, la suya propia y otra ajena.
-· País: EE.UU y R.U
-· Director: Anthony Minghella
-· Reparto: Ralph Fiennes, Willem Dafoe, Juliette Binoche, Kristin Scott Thomas, Naveen Andrews, Colin Firth, Jürgen Prochnow, Julian Wadham, Kevin Whately, Clive Merrison, Nino Castelnuovo
-· Guion: Anthony Minghella
-· Música: Gabriel Yared
-· Producción: Saul Zaentz
-· Productora: Miramax International, Saul Zaentz Productions, Miramax Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3967259?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209215500 +0100" stop="20260209220000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): Apocalipe now: Final cut (2026) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *2.9/5
-· El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
-· País: España
-· Presenta: Carlos Boyero,Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455317"/>
-  </programme>
-  <programme start="20260209220000 +0100" stop="20260209233000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Senderos de gloria (1957) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.9/5
-· Durante la I Guerra Mundial, el general Mireau acepta la orden de tomar una colina bajo el fuego alemán, con el único objetivo de engrandecer su heroico historial de guerra y pese a saber que se trata de una misión imposible.
-· País: EE.UU
-· Director: Stanley Kubrick
-· Reparto: Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready, Wayne Morris, Richard Anderson, Joe Turkel, Emily Meyer, Peter Capell, Jerry Hausner, Christiane Kubrick, John Stein, Harold Benedict, Susanne Christian
-· Guion: Stanley Kubrick,Calder Willingham,Jim Thompson
-· Música: Gerald Fried
-· Producción: James B. Harris
-· Productora: United Artists</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3978913?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209233000 +0100" stop="20260210015000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Black Hawk derribado (2001) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *4.1/5
-· En 1993, un grupo de soldados estadounidenses de élite es enviado a Mogadiscio, Somalia, en una operación de paz de la ONU. Su misión es expulsar a dos oficiales del caudillo Mohamed Farrah Aidid como parte de la estrategia para sofocar la guerra civil.
-· País: EE.UU y R.U
-· Director: Ridley Scott
-· Reparto: Josh Hartnett, Ewan McGregor, Tom Sizemore, Jason Isaacs, Eric Bana, William Fichtner, Zeljko Ivanek, Ron Eldard, Sam Shepard, Carmine Giovinazzo, Jeremy Piven, Brian Van Holt, Brendan Sexton
-· Guion: Ken Nolan
-· Música: Hans Zimmer
-· Producción: Jerry Bruckheimer, Ridley Scott
-· Productora: Revolution Studios, Scott Free Productions, Jerry Bruckheimer Films, Columbia Pictures Corporation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3877246?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209015000 +0100" stop="20260209020500 +0100" channel="M+ Cine bélico">
-    <title lang="es">Panahi: el cineasta liberado (2025) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *2.9/5
-· El director Jafar Panahi, referente del cine iraní independiente, comenta con Cristina Teva su última película “Un simple accidente”, ganadora de la Palma de Oro en Cannes 2025.
-· País: España
-· Presenta: Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4443048?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209020500 +0100" stop="20260209040000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Crónicas de guerra (2025) | Movistar Plus+</title>
-    <desc lang="es">Biopic | No recomendado para menores de doce años | *3.4/5
-· En 2004, la reportera rusa Anna Politkóvskaya sufre una extraña intoxicación en el avión que la lleva a Beslán para negociar con los terroristas chechenos. Cinco años antes comenzaba su arriesgado trabajo periodístico.
-· País: EE.UU y R.U
-· Director: James Strong
-· Reparto: Maxine Peake, Ciarán Hinds, Jason Isaacs, Ellie Bamber, Harry Lawtey
-· Guion: Eric Poppen
-· Música: Snorri Hallgrímsson
-· Producción: Miriam Segal, Mark Maxey
-· Productora: Good Films Collective, Rolling Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4437660?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260209040000 +0100" stop="20260209054000 +0100" channel="M+ Cine bélico">
-    <title lang="es">Triage (2008) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
-· Un atormentado reportero de guerra regresa a Irlanda tras una peligrosa misión en Kurdistán. En el conflicto pierde a un compañero, hecho que le ocasiona multitud de traumas y secuelas que le impiden llevar una vida corriente.
-· País: Bélgica, España, Francia e Irlanda
-· Director: Danis Tanovic
-· Reparto: Christopher Lee, Paz Vega, Kelly Reilly, Colin Farrell, Branko Djuric, Jamie Sives
-· Guion: Danis Tanovic
-· Música: Lucio Godoy
-· Producción: Cédomir Kolar, Alan Moloney, Marc Baschet
-· Productora: Parallel Film Productions, ASAP Films, Euroimages Fund of the Council of Europe</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4335925?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20260210054000 +0100" stop="20260210073500 +0100" channel="M+ Cine bélico">
     <title lang="es">Lee Miller (2023) | Movistar Plus+</title>
     <desc lang="es">Biopic | No recomendado para menores de dieciséis años | *3.6/5
@@ -219,7 +49,7 @@
   </programme>
   <programme start="20260210120000 +0100" stop="20260210144000 +0100" channel="M+ Cine bélico">
     <title lang="es">El puente sobre el río Kwai (1957) | Movistar Plus+</title>
-    <desc lang="es">Bélico | Apto para todos los públicos | *4.0/5
+    <desc lang="es">Bélico | Apto para todos los públicos | *3.9/5
 · Durante la Segunda Guerra Mundial, los prisioneros ingleses de un campo de concentración japonés deben levantar un puente.
 · País: EE.UU y R.U
 · Director: David Lean
@@ -294,7 +124,7 @@
   </programme>
   <programme start="20260210235500 +0100" stop="20260211000100 +0100" channel="M+ Cine bélico">
     <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): Doce del patíbulo (2026) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.0/5
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *2.9/5
 · El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
 · País: España
 · Presenta: Carlos Boyero,Cristina Teva</desc>
@@ -389,7 +219,7 @@
   </programme>
   <programme start="20260211162500 +0100" stop="20260211182500 +0100" channel="M+ Cine bélico">
     <title lang="es">Birdy (1984) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
 · Para escapar de un mundo irracional, Birdy, un veterano de Vietnam, convalece en estado catatónico en un hospital del ejército, donde él cree que se ha vuelto un ave como las de los sueños de su infancia.
 · País: EE.UU
 · Director: Alan Parker
@@ -422,7 +252,7 @@
 · Productora: Syncopy, Warner Bros, Dombey Street Productions, Kaap Holland Film, RatPac-Dune Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3926825?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260211220000 +0100" stop="20260211235500 +0100" channel="M+ Cine bélico">
+  <programme start="20260211220000 +0100" stop="20260211234500 +0100" channel="M+ Cine bélico">
     <title lang="es">Motín en el Defiant (1962) | Movistar Plus+</title>
     <desc lang="es">Bélico | No recomendado para menores de doce años | *3.3/5
 · En 1797, el capitán del &quot;Defiant&quot;, un barco inglés que lucha contra la armada napoleónica, ve cómo la tripulación se amotina.
@@ -434,5 +264,228 @@
 · Producción: John Brabourne
 · Productora: Columbia Pictures Corporation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4448392?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260211234500 +0100" stop="20260211235000 +0100" channel="M+ Cine bélico">
+    <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): Apocalipe now: Final cut (2026) | Movistar Plus+</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *2.9/5
+· El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
+· País: España
+· Presenta: Carlos Boyero,Cristina Teva</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455317"/>
+  </programme>
+  <programme start="20260211235000 +0100" stop="20260212020000 +0100" channel="M+ Cine bélico">
+    <title lang="es">En tierra hostil (2008) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.7/5
+· Durante una misión en la Guerra de Iraq, fallece el sargento Thompson, líder de un comando especializado en desactivación de explosivos. Tras su muerte, la unidad queda al mando del impredecible y temerario sargento James.
+· País: EE.UU
+· Director: Kathryn Bigelow
+· Reparto: Jeremy Renner, Anthony Mackie, Brian Geraghty, Christian Camargo, Suhail Al-Dabbach, Christopher Sayegh, Evangeline Lilly, Ralph Fiennes, David Morse, Guy Pearce
+· Guion: Mark Boal
+· Música: Buck Sanders, Marco Beltrami
+· Producción: Nicolas Chartier, Greg Shapiro, Mark Boal, Kathryn Bigelow, Jenn Lee
+· Productora: First Light Production, Kingsgate Films, Summit Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3841323?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260211020000 +0100" stop="20260211035800 +0100" channel="M+ Cine bélico">
+    <title lang="es">Valkiria (2008) | Movistar Plus+</title>
+    <desc lang="es">Histórico | No recomendado para menores de doce años | *3.7/5
+· Gravemente herido, el coronel Von Stauffenberg vuelve de África para unirse a la resistencia alemana y ayudar a organizar la Operación Valkiria, un complejo plan para derrocar a Hitler.
+· País: Alemania, EE.UU, España, Francia, Italia y Japón
+· Director: Bryan Singer
+· Reparto: Tom Cruise, Kenneth Branagh, Bill Nighy, Tom Wilkinson, Carice van Houten, Thomas Kretschmann, Terence Stamp, Eddie Izzard, Tom Hollander
+· Guion: Christopher McQuarrie,Nathan Alexander
+· Música: John Ottman
+· Producción: Bryan Singer, Christopher McQuarrie, Gilbert Adler
+· Productora: United Artists, Bad Hat Harry Productions, Achte Babelsberg Film, Studio Babelsberg</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3959753?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260211035800 +0100" stop="20260211054600 +0100" channel="M+ Cine bélico">
+    <title lang="es">The Arctic Convoy (2023) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de doce años | *3.3/5
+· Es 1941 y la Alemania nazi ha invadido la Unión Soviética. Para evitar más pérdidas, los aliados se ven obligados a ayudar y numerosos buques civiles, llenos de armas, inician el peligroso viaje hacia las ciudades rusas Murmansk y Arkhangelsk.
+· País: Noruega
+· Director: Henrik M. Dahlsbakken
+· Reparto: Tobias Santelmann, Anders Baasmo Christiansen, Heidi Ruud Ellingsen, Preben Hodneland, Adam Lundgren
+· Guion: Christian Siebenherz,Lars Gudmestad,Harald Rosenløw-Eeg
+· Música: Johannes Ringen
+· Producción: Martin Sundland, Catrin Gundersen
+· Productora: Fantefilm</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4290633?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212054600 +0100" stop="20260212075500 +0100" channel="M+ Cine bélico">
+    <title lang="es">Capitán Conan (1996) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.2/5
+· Francia firma el armisticio tras la I Guerra Mundial. Su único ejército no desmovilizado está acuartelado en Bucarest.
+· País: Francia
+· Director: Bertrand Tavernier
+· Reparto: Philippe Torreton, Samuel Le Bihan, Bernard Le Coq, Catherine Rich, François Berléand
+· Guion: Bertrand Tavernier,Jean Cosmos
+· Música: Oswald d'Andrea
+· Productora: Canal+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3814017?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212075500 +0100" stop="20260212094000 +0100" channel="M+ Cine bélico">
+    <title lang="es">Las bicicletas son para el verano (1984) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
+· En el Madrid de 1936, una familia acomodada ve interrumpida su apacible vida cuando estalla la Guerra Civil. A partir de ese momento, la comida empieza a escasear y, bajo la amenaza de las bombas, las ilusiones se van perdiendo.
+· País: España
+· Director: Jaime Chávarri
+· Reparto: Agustín González, Amparo Soler Leal, Victoria Abril, Marisa Paredes, Gabino Diego
+· Guion: Salvador Maldonado
+· Música: Francisco Guerrero
+· Productora: Impala</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3926066?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212094000 +0100" stop="20260212112500 +0100" channel="M+ Cine bélico">
+    <title lang="es">¡Ay, Carmela! (1990) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.3/5
+· Los artistas ambulantes Carmela, Paulino y Gustavete, tras divertir a las tropas republicanas en el frente, deciden buscar un destino menos peligroso. Cuando, por error, acaban en la zona 'nacional', son detenidos y condenados a muerte.
+· País: España e Italia
+· Director: Carlos Saura
+· Reparto: Carmen Maura, Andrés Pajares, Gabino Diego, Maurizio De Razza, José Sancho, Miguel Rellán
+· Guion: Rafael Azcona,Carlos Saura
+· Música: Alejandro Massó
+· Productora: Iberoamericana Films Internacional, Televisión Española (TVE), Ellepi Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4075152?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212112500 +0100" stop="20260212131000 +0100" channel="M+ Cine bélico">
+    <title lang="es">Mientras dure la guerra (2019) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de siete años | *3.9/5
+· 1936. Las tropas sublevadas contra el gobierno de la República declaran el estado de guerra en Salamanca. El escritor Miguel de Unamuno, rector de la Universidad, apoya la rebelión contra una República por la que él mismo luchó pero que lo ha defraudado.
+· País: Argentina y España
+· Director: Alejandro Amenábar
+· Reparto: Karra Elejalde, Eduard Fernández, Santi Prego, Nathalie Poza, Patricia López Arnaiz, Luis Bermejo, Tito Valverde, Inma Cuevas, Carlos Serrano-Clark, Luis Zahera, Ainhoa Santamaría, Mireia Rey, Luis Callejo
+· Guion: Alejandro Amenábar,Alejandro Hernández
+· Música: Alejandro Amenábar
+· Producción: Alejandro Amenábar, Fernando Bovaira, Domingo Corral, Hugo Sigman
+· Productora: Movistar+, Mod Producciones, Himenóptero, K&amp;S Films, MDLG A.I.E</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441476?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20260212131000 +0100" stop="20260212145000 +0100" channel="M+ Cine bélico">
+    <title lang="es">¿Es el enemigo? La película de Gila (2024) | Movistar Plus+</title>
+    <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.4/5
+· Madrid, 1936. Miguel Gila vive tranquilo y feliz hasta que el estallido de la Guerra Civil le obliga a acudir a la lucha. Allí, sobrevive a miserias, batallas, al fusilamiento y a la cárcel gracias a su humor.
+· País: España y Portugal
+· Director: Alexis Morante
+· Reparto: Oscar Lasarte, Carlos Cuevas, Natalia de Molina, Salva Reina, Adelfa Calvo, Vicente Romero, Iván Villanueva, Antonio Bachiller, Miguel Gila, Paulo Pires, Ramón Ibarra, Íñigo Aranburu, Guiomar Puerta, Asier Tartas
+· Guion: Raúl Santos,Alexis Morante,Miguel Gila,José Alba
+· Música: Miguel Santos
+· Producción: Ibon Cormenzana, Ignasi Estapé, José Alba, Sandra Tapia
+· Productora: Arcadia Motion Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4353169?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212145000 +0100" stop="20260212145500 +0100" channel="M+ Cine bélico">
+    <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): Doce del patíbulo (2026) | Movistar Plus+</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *2.9/5
+· El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
+· País: España
+· Presenta: Carlos Boyero,Cristina Teva</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454924?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212145500 +0100" stop="20260212162500 +0100" channel="M+ Cine bélico">
+    <title lang="es">Senderos de gloria (1957) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *3.9/5
+· Durante la I Guerra Mundial, el general Mireau acepta la orden de tomar una colina bajo el fuego alemán, con el único objetivo de engrandecer su heroico historial de guerra y pese a saber que se trata de una misión imposible.
+· País: EE.UU
+· Director: Stanley Kubrick
+· Reparto: Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready, Wayne Morris, Richard Anderson, Joe Turkel, Emily Meyer, Peter Capell, Jerry Hausner, Christiane Kubrick, John Stein, Harold Benedict, Susanne Christian
+· Guion: Stanley Kubrick,Calder Willingham,Jim Thompson
+· Música: Gerald Fried
+· Producción: James B. Harris
+· Productora: United Artists</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3978913?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212162500 +0100" stop="20260212174000 +0100" channel="M+ Cine bélico">
+    <title lang="es">Alemania año cero (1947) | Movistar Plus+</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.1/5
+· En el Berlín de la II Guerra Mundial, un niño de doce años que mantiene a su familia, decide pedir ayuda a un profesor.
+· País: Alemania, Francia e Italia
+· Director: Roberto Rossellini
+· Reparto: Franz Krüger, Edmund Meschke, Eric Gühne, Ernst Pittschau, Barbara Hintz
+· Guion: Carlo Lizzani,Max Kolpé,Roberto Rossellini
+· Música: Renzo Rossellini
+· Productora: Union Générale Cinématographique (UGC)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3993508?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212174000 +0100" stop="20260212193300 +0100" channel="M+ Cine bélico">
+    <title lang="es">13 días, 13 noches (2025) | Movistar Plus+</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.8/5
+· Tras décadas de guerra, Estados Unidos decide retirar sus tropas de Afganistán. En poco tiempo, los talibanes se hacen con el control de la capital, Kabul. La última misión occidental aún abierta es la embajada de Francia: deben irse, y rápido.
+· País: Bélgica y Francia
+· Director: Martin Bourboulon
+· Reparto: Roschdy Zem, Lyna Khoudri, Sidse Babett Knudsen, Christophe Montenez, Nicolas Bridet, Sina Parvaneh, Yan Tual, Athena Strates, Grégoire Leprince-Ringuet, Avant Strangel
+· Guion: Alexandre Smia,Martin Bourboulon
+· Música: Guillaume Roussel
+· Producción: Dimitri Rassam, Ardavan Safaee
+· Productora: Chapter 2, Pathé, Umedia, Canal+, Disney+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4443381?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212193300 +0100" stop="20260212215500 +0100" channel="M+ Cine bélico">
+    <title lang="es">Black Hawk derribado (2001) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciséis años | *4.1/5
+· En 1993, un grupo de soldados estadounidenses de élite es enviado a Mogadiscio, Somalia, en una operación de paz de la ONU. Su misión es expulsar a dos oficiales del caudillo Mohamed Farrah Aidid como parte de la estrategia para sofocar la guerra civil.
+· País: EE.UU y R.U
+· Director: Ridley Scott
+· Reparto: Josh Hartnett, Ewan McGregor, Tom Sizemore, Jason Isaacs, Eric Bana, William Fichtner, Zeljko Ivanek, Ron Eldard, Sam Shepard, Carmine Giovinazzo, Jeremy Piven, Brian Van Holt, Brendan Sexton
+· Guion: Ken Nolan
+· Música: Hans Zimmer
+· Producción: Jerry Bruckheimer, Ridley Scott
+· Productora: Revolution Studios, Scott Free Productions, Jerry Bruckheimer Films, Columbia Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3877246?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212215500 +0100" stop="20260212220000 +0100" channel="M+ Cine bélico">
+    <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): El puente sobre el rio Kwai (2026) | Movistar Plus+</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
+· El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
+· País: España
+· Presenta: Carlos Boyero,Cristina Teva</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455319?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212220000 +0100" stop="20260213001000 +0100" channel="M+ Cine bélico">
+    <title lang="es">El sargento de hierro (1986) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.8/5
+· El sargento Tom Highway es un perdedor en el plano personal que sacrificó a su mujer y todo lo que tenía para rendir pleitesía al cuerpo de los marines. Veterano de guerra, vuelve a Estados Unidos para instruir a un grupo de novatos.
+· País: EE.UU
+· Director: Clint Eastwood
+· Reparto: Clint Eastwood, Marsha Mason, Everett McGill, Moses Gunn, Mario Van Peebles, Bo Svenson, Eileen Heckart, Boyd Gaines, Arlen Dean Snyder
+· Guion: James Carabatsos
+· Música: Clint Eastwood, Lennie Niehaus
+· Producción: Clint Eastwood
+· Productora: The Malpaso Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3858524?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212001000 +0100" stop="20260212020700 +0100" channel="M+ Cine bélico">
+    <title lang="es">El viento y el león (1975) | Movistar Plus+</title>
+    <desc lang="es">Aventuras | Apto para todos los públicos | *3.2/5
+· El Raisuni, jefe de los bereberes, ha secuestrado a la estadounidense Eden Pedecaris y a su hijo, cuando visitaban Tánger, en el norte de África, para pedir una fuerte recompensa.
+· País: EE.UU
+· Director: John Milius
+· Reparto: Sean Connery, Candice Bergen, Brian Keith, John Huston, Vladek Sheybal, Geoffrey Lewis, Roy Jenson, Steve Kanaly, Nadim Sawalha, Deborah Baxter, Jack Cooley, Chris Aller, Simon Harrison
+· Guion: John Milius
+· Música: Jerry Goldsmith
+· Producción: Herb Jaffe, Phil Rawlins
+· Productora: Columbia Pictures Corporation, Metro-Goldwyn-Mayer (MGM)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3955394?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212020700 +0100" stop="20260212044500 +0100" channel="M+ Cine bélico">
+    <title lang="es">El paciente inglés (1996) | Movistar Plus+</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.5/5
+· La única tregua en medio de la guerra es encontrar una historia de amor. Hana vive dos historias, la suya propia y otra ajena.
+· País: EE.UU y R.U
+· Director: Anthony Minghella
+· Reparto: Ralph Fiennes, Willem Dafoe, Juliette Binoche, Kristin Scott Thomas, Naveen Andrews, Colin Firth, Jürgen Prochnow, Julian Wadham, Kevin Whately, Clive Merrison, Nino Castelnuovo
+· Guion: Anthony Minghella
+· Música: Gabriel Yared
+· Producción: Saul Zaentz
+· Productora: Miramax International, Saul Zaentz Productions, Miramax Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3967259?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260212044500 +0100" stop="20260212045200 +0100" channel="M+ Cine bélico">
+    <title lang="es">Boyero recomienda.  Temporada (T2). Boyero recomienda (T2): El puente sobre el rio Kwai (2026) | Movistar Plus+</title>
+    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.1/5
+· El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie &quot;Boyero recomienda…&quot;.
+· País: España
+· Presenta: Carlos Boyero,Cristina Teva</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455319?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
