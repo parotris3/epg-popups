@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 02/03/2026 02:04">
+<tv generator-info-name="MultiPopUps FullDesc 03/03/2026 02:05">
   <channel id="M+ Oscars">
     <display-name>M+ Oscars</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MOSCAR"/>
@@ -8,146 +8,6 @@
     <display-name>M+ Los Goya</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MGOYA"/>
   </channel>
-  <programme start="20260302052200 +0100" stop="20260302075000 +0100" channel="M+ Oscars">
-    <title lang="es">Patton (1970) | Movistar Plus+</title>
-    <desc lang="es">Biopic | Apto para todos los públicos | *3.3/5
-· Biografía del general George S. Patton, quien tras vencer a Rommel en el norte de África, condujo a sus tropas de manera imparable a través de Europa hasta llegar al corazón de Alemania.
-· País: EE.UU
-· Director: Franklin J. Schaffner
-· Reparto: Karl Malden, Frank Latimore, George C. Scott, Michael Bates, John Doucette, Karl Michael Vogler, Lawrence Dobkin, Edward Binns, Siegfried Rauch, James Edwards, Michael Strong, Stephen Young, Paul Stevens, John Barrie, Morgan Paull, Richard Muench, Carey Loftin, Sandy McPeak
-· Guion: Francis Ford Coppola,Edmund H North
-· Música: Jerry Goldsmith
-· Producción: Frank McCarthy
-· Productora: Twentieth Century Fox</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4188865?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302075000 +0100" stop="20260302102400 +0100" channel="M+ Oscars">
-    <title lang="es">Los cañones de Navarone (1961) | Movistar Plus+</title>
-    <desc lang="es">Bélico | Apto para todos los públicos | *3.6/5
-· Un comando del ejército aliado tratará de alcanzar los poderosos cañones de Navarone, bastión inexpugnable, para sabotearlos.
-· País: EE.UU y R.U
-· Director: J. Lee Thompson
-· Reparto: Gregory Peck, David Niven, Anthony Quinn, Stanley Baker, Richard Harris, James Darren, Irene Papas, Anthony Quayle, James Robertson-Justice, Gia Scala
-· Guion: Carl Foreman
-· Música: Dimitri Tiomkin
-· Productora: Columbia Pictures, Columbia Pictures Corporation, Highroad, Open Road Productions, Open Road</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3809983?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302102400 +0100" stop="20260302130400 +0100" channel="M+ Oscars">
-    <title lang="es">El último emperador (1987) | Movistar Plus+</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.5/5
-· Pekín, 1908. El niño Pu Yi, de dos años de edad, es conducido a la Ciudad Prohibida, donde la anciana Emperatriz proclama al pequeño futuro Emperador de China.
-· País: China, Francia, Hong Kong, Italia y R.U
-· Director: Bernardo Bertolucci
-· Reparto: John Lone, Joan Chen, Peter O'Toole, Ying Ruocheng, Victor Wong, Ryuichi Sakamoto
-· Guion: Bernardo Bertolucci,Mark Peploe
-· Música: Ryuichi Sakamoto, David Byrne, Cong Su
-· Producción: Jeremy Thomas
-· Productora: Columbia Pictures, Hemdale Corporation, Recorded Picture Company, Tao Film</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3942422?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302130400 +0100" stop="20260302145300 +0100" channel="M+ Oscars">
-    <title lang="es">Belle époque (1992) | Movistar Plus+</title>
-    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.5/5
-· Poco antes de la proclamación de la Segunda República en España, Fernando, un joven desertor, conoce a Manolo, un viejo pintor sabio que le ofrece cobijo y amistad. La llegada de las cuatro hijas del artista hace que el joven prolongue su estancia.
-· País: España, Francia y Portugal
-· Director: Fernando Trueba
-· Reparto: Fernando Fernán Gómez, Jorge Sanz, Ariadna Gil, Maribel Verdú, Penélope Cruz, Miriam Díaz Aroca, Gabino Diego, Agustín González, Chus Lampreave, María del Carmen Ramírez
-· Guion: Rafael Azcona,José Luis García Sánchez,Fernando Trueba
-· Música: Antoine Duhamel
-· Producción: Andrés Vicente Gómez
-· Productora: Fernando Trueba, Producciones Cinematográficas, S.A, Lolafilms, Cartel, Sogepaq</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4070594?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302145300 +0100" stop="20260302170200 +0100" channel="M+ Oscars">
-    <title lang="es">Thelma &amp; Louise (1991) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.7/5
-· Thelma es ama de casa, su vida es aburrida y Darryl, su machista marido, la trata como a una niña más que una esposa. Louise es camarera y también lleva una vida frustrante. Juntas inician un viaje en coche con el fin de evadirse durante unos días.
-· País: EE.UU, Francia y R.U
-· Director: Ridley Scott
-· Reparto: Susan Sarandon, Geena Davis, Harvey Keitel, Michael Madsen, Christopher McDonald, Stephen Tobolowsky, Brad Pitt, Sonny Carl Davis, Ken Swofford, Noel Walcott, Marco St. John, Lucinda Jenney
-· Guion: Callie Khouri
-· Música: Hans Zimmer
-· Producción: Ridley Scott, Mimi Polk, Mimi Polk Gitlin
-· Productora: Metro-Goldwyn-Mayer (MGM), United In, Pathé Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3990774?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302170200 +0100" stop="20260302194100 +0100" channel="M+ Oscars">
-    <title lang="es">El puente sobre el río Kwai (1957) | Movistar Plus+</title>
-    <desc lang="es">Bélico | Apto para todos los públicos | *3.9/5
-· Durante la Segunda Guerra Mundial, los prisioneros ingleses de un campo de concentración japonés deben levantar un puente.
-· País: EE.UU y R.U
-· Director: David Lean
-· Reparto: William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa
-· Guion: Carl Foreman,Pierre Boulle,Michael Wilson
-· Música: Malcolm Arnold
-· Producción: Sam Spiegel
-· Productora: Columbia Pictures Corporation, Horizon Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3983291?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302194100 +0100" stop="20260302220000 +0100" channel="M+ Oscars">
-    <title lang="es">Hasta el último hombre (2016) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.8/5
-· La historia de Desmond Doss, un joven médico militar que participó en la batalla de Okinawa durante la II Guerra Mundial y fue el primer objetor de conciencia estadounidense en recibir la Medalla de Honor del Congreso.
-· País: Australia y EE.UU
-· Director: Mel Gibson
-· Reparto: Andrew Garfield, Sam Worthington, Luke Bracey, Teresa Palmer, Hugo Weaving, Vince Vaughn, Rachel Griffiths
-· Guion: Robert Schenkkan,Andrew Knight
-· Música: Rupert Gregson-Williams
-· Productora: Cross Creek Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3925254?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302220000 +0100" stop="20260302234200 +0100" channel="M+ Oscars">
-    <title lang="es">El Mago de Oz (1939) | Movistar Plus+</title>
-    <desc lang="es">Cine musical | Apto para todos los públicos | *3.7/5
-· Tras perder su casa, Dorothy acude al Mago de Oz. En el camino conoce al Hombre de Paja, al de Hojalata y el León Miedoso.
-· País: EE.UU
-· Director: Victor Fleming
-· Reparto: Judy Garland, Ray Bolger, Bert Lahr, Jack Haley, Charley Grapewin, Pat Walshe, Clara Blandick, Frank Morgan, Billie Burke, Margaret Hamilton, Gus Wayne, Frank Packard, Lillian Porter
-· Guion: Edgar Allan Woolf,Noel Langley,Florence Ryerson
-· Música: Harold Arlen, Herbert Stothart
-· Producción: Mervyn LeRoy
-· Productora: Metro-Goldwyn-Mayer (MGM)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441233?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302234200 +0100" stop="20260303013500 +0100" channel="M+ Oscars">
-    <title lang="es">E.T., el extraterrestre (1982) | Movistar Plus+</title>
-    <desc lang="es">Ciencia ficción | Apto para todos los públicos | *4.0/5
-· Una nave extraterrestre abandona precipitadamente un bosque californiano, pero uno de los extraños seres que llegaron en ella se queda por error en la Tierra. Tras vagar por el bosque, llega a la granja donde vive un solitario niño llamado Elliott.
-· País: EE.UU
-· Director: Steven Spielberg
-· Reparto: Dee Wallace, Henry Thomas, Peter Coyote, Robert MacNaughton, Drew Barrymore, C. Thomas Howell, Sean Frye, Richard Swingler, Frank Toth
-· Guion: Melissa Mathison
-· Música: John Williams
-· Producción: Kathleen Kennedy, Steven Spielberg
-· Productora: Universal Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3942414?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302013500 +0100" stop="20260302032700 +0100" channel="M+ Oscars">
-    <title lang="es">Desayuno con diamantes (1961) | Movistar Plus+</title>
-    <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.6/5
-· Holly Golightly es una chica de vida aparentemente alegre pero de alma triste que después de mucha búsqueda infructuosa terminará encontrando el amor donde menos se lo espera, en su propia escalera.
-· País: EE.UU
-· Director: Blake Edwards
-· Reparto: Audrey Hepburn, George Peppard, Patricia Neal, José Luis de Vilallonga, Buddy Ebsen, Martin Balsam, Mickey Rooney, Alan Reed, John McGiver, Dorothy Whitney, Stanley Adams
-· Guion: George Axelrod
-· Música: Henry Mancini
-· Producción: Richard Shepherd, Martin Jurow
-· Productora: Jurow-Shepherd Production, Jurow-Shepherd, Paramount Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3968805?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302032700 +0100" stop="20260302053800 +0100" channel="M+ Oscars">
-    <title lang="es">Terminator 2: El juicio final (1991) | Movistar Plus+</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciocho años | *3.9/5
-· Sarah Connor está internada en un psiquiátrico por sus advertencias sobre el negro futuro de la humanidad. Mientras, su hijo John ha quedado al cuidado del Estado. Desde el futuro, las máquinas envian un nuevo terminator.
-· País: EE.UU y Francia
-· Director: James Cameron
-· Reparto: Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick, Earl Boen, Joe Morton, Danny Cooksey, S. Epatha Merkerson, Castulo Guerra
-· Guion: James Cameron,William Wisher Jr.
-· Música: Brad Fiedel
-· Productora: Columbia TriStar</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4056148?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20260303053800 +0100" stop="20260303075100 +0100" channel="M+ Oscars">
     <title lang="es">Encuentros en la tercera fase (Montaje del director) (1977) | Movistar Plus+</title>
     <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *3.7/5
@@ -196,7 +56,7 @@
   </programme>
   <programme start="20260303132200 +0100" stop="20260303150500 +0100" channel="M+ Oscars">
     <title lang="es">Un simple accidente (2025) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.4/5
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.5/5
 · El empleado de un taller cree reconocer en un cliente al hombre que lo torturó en prisión, pero pronto surge la duda. Lo que empieza como un simple accidente desencadena una serie de consecuencias cada vez mayores.
 · País: EE.UU, Francia, Irán y Luxemburgo
 · Director: Jafar Panahi
@@ -272,7 +132,7 @@
   </programme>
   <programme start="20260304060500 +0100" stop="20260304061200 +0100" channel="M+ Oscars">
     <title lang="es">Plan de jubilación (2024) | Movistar Plus+</title>
-    <desc lang="es">Corto animación | No recomendado para menores de siete años | *3.0/5
+    <desc lang="es">Corto animación | No recomendado para menores de siete años | *3.1/5
 · En la agonía de su energía de mediana edad, Ray fantasea con todo lo que le encantaría hacer cuando se jubile.
 · País: Irlanda
 · Director: John Kelly
@@ -421,229 +281,178 @@
 · Productora: Mer Film</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455775?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260302045300 +0100" stop="20260302061600 +0100" channel="M+ Los Goya">
-    <title lang="es">Tapas (2005) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.3/5
-· Cinco historias se entrelazan en un barrio de la gran ciudad, con el bar, los comercios y el mercado como punto neurálgico y las inquietudes, miedos, esperanzas y sueños de sus protagonistas en el centro de la trama.
-· País: Argentina, España y México
-· Director: José Corbacho, Juan Cruz
-· Reparto: Ángel de Andrés López, María Galiana, Elvira Mínguez, Rubén Ochandiano, Alberto De Mendoza, Darío Paso, Alberto Jo Lee, Amparo Moreno
-· Guion: José Corbacho,Juan Cruz
-· Música: Pablo Sala
-· Producción: Luisa Matienzo, Julio Fernández
-· Productora: Tusitala P.C., Castelao Producciones, El Terrat, Filmax</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4140337?od[]=Z1V:MM3_V"/>
+  <programme start="20260305050400 +0100" stop="20260305064200 +0100" channel="M+ Oscars">
+    <title lang="es">Narciso negro (1947) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.1/5
+· Un grupo de cinco religiosas parten de Calcuta con la misión de propagar la palabra de Cristo en una zona del Himalaya.
+· País: R.U
+· Director: Michael Powell, Emeric Pressburger
+· Reparto: Deborah Kerr, Sabu, David Farrar, Flora Robson, Esmond Knight, Jean Simmons, Kathleen Byron, Jenny Laird, May Hallatt, Judith Furse
+· Guion: Michael Powell,Emeric Pressburger
+· Música: Brian Easdale
+· Producción: Michael Powell, Emeric Pressburger
+· Productora: The Archers, Independent Producers</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3860517?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260302061600 +0100" stop="20260302074000 +0100" channel="M+ Los Goya">
-    <title lang="es">El Bola (2000) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.7/5
-· El Bola, un chaval de 12 años cuya situación familiar está cargada de violencia, descubre una nueva realidad al hacerse amigo de Alfredo.
+  <programme start="20260305064200 +0100" stop="20260305083900 +0100" channel="M+ Oscars">
+    <title lang="es">Ciudadano Kane (1941) | Movistar Plus+</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.6/5
+· Tras la muerte del magnate editorial Charles Foster Kane, los reporteros se apresuran a descubrir el significado de su declaración final: Rosebud. El país entero y la prensa en general quedan intrigadísimos por saber el significado de esta palabra.
+· País: EE.UU
+· Director: Orson Welles
+· Reparto: Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick, Orson Welles, Paul Stewart, Gus Schilling, Erskine Sanford, Ray Collins
+· Guion: Orson Welles,Herman J Mankiewicz
+· Música: Bernard Herrmann
+· Producción: Orson Welles
+· Productora: RKO Radio Pictures Inc, Mercury Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3799037?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260305083900 +0100" stop="20260305101700 +0100" channel="M+ Oscars">
+    <title lang="es">Bogart: la vida bajo los focos (2024) | Movistar Plus+</title>
+    <desc lang="es">Biografía | No recomendado para menores de siete años | *3.2/5
+· La vida y carrera del actor Humphrey Bogart, su influencia en Hollywood y sus complejas relaciones con cinco mujeres clave, incluyendo a Lauren Bacall y a su madre.
+· País: R.U
+· Director: Kathryn Ferguson
+· Guion: Eleanor Emptage,Kathryn Ferguson
+· Producción: Eleanor Emptage
+· Productora: Universal Pictures Content Group, Dog Star Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4358584?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260305101700 +0100" stop="20260305120000 +0100" channel="M+ Oscars">
+    <title lang="es">La reina de África (1951) | Movistar Plus+</title>
+    <desc lang="es">Aventuras | Apto para todos los públicos | *3.5/5
+· Un rudo capitán de barco y una estirada y puritana misionera, huyen de las tropas alemanas en una ruinosa embarcación, con la que deben remontar un peligroso río.
+· País: EE.UU y R.U
+· Director: John Huston
+· Reparto: Humphrey Bogart, Katharine Hepburn, Peter Bull, Robert Morley, Theodore Bikel, Walter Gotell, Peter Swanick
+· Guion: James Agee,John Huston
+· Música: Allan Gray
+· Producción: Sam Spiegel, John Woolf
+· Productora: Horizon Films, Romulus Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4080333?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260305120000 +0100" stop="20260305132900 +0100" channel="M+ Oscars">
+    <title lang="es">Gravity (2013) | Movistar Plus+</title>
+    <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.5/5
+· La doctora Ryan Stone, una brillante ingeniera especializada en medicina, realiza su primera misión en un transbordador acompañada por el veterano astronauta Matt Kowalsky, al mando de su último vuelo antes de retirarse.
+· País: EE.UU y R.U
+· Director: Alfonso Cuarón
+· Reparto: Sandra Bullock, George Clooney, Ed Harris
+· Guion: Alfonso Cuarón,Jonás Cuarón
+· Música: Steven Price
+· Producción: Alfonso Cuarón, David Heyman
+· Productora: Warner Bros. Pictures, Esperanto Filmoj, Heyday Films, Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3749143?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260305132900 +0100" stop="20260305150900 +0100" channel="M+ Oscars">
+    <title lang="es">El discreto encanto de la burguesía (1972) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.1/5
+· Un grupo burgués intenta cenar juntos, pero sus reuniones se ven siempre interrumpidas por sucesos absurdos, reales o imaginarios.
+· País: España, Francia e Italia
+· Director: Luis Buñuel
+· Reparto: Fernando Rey, Paul Frankeur, Delphine Seyrig, Bulle Ogier, Stéphane Audran, Jean-Pierre Cassel, Michel Piccoli, Maria Maione, Daniel Ivernel
+· Guion: Luis Buñuel,Jean-Claude Carrière
+· Producción: Serge Silberman
+· Productora: Dean Film, Greenwich Film Production S.A, Jet Films, S.A</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4408520?od[]=Z1V:FLIXO_V"/>
+  </programme>
+  <programme start="20260305150900 +0100" stop="20260305170200 +0100" channel="M+ Oscars">
+    <title lang="es">Dallas Buyers Club (2013) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *4.2/5
+· Texas, 1985. El mujeriego y drogadicto Ron Woodroof, electricista y 'cowboy' de rodeo de profesión, es diagnosticado como seropositivo. Con una esperanza de vida de 30 días, Ron es enviado a casa con la única ayuda de un medicamento altamente tóxico.
+· País: EE.UU
+· Director: Jean-Marc Vallée
+· Reparto: Matthew McConaughey, Jared Leto, Jennifer Garner, Denis O'Hare, Steve Zahn, Michael O'Neill, Dallas Roberts, Griffin Dunne
+· Guion: Craig Borten,Melisa Wallack
+· Producción: Robbie Brenner, Rachel Winter
+· Productora: Focus Features, Truth Entertainment, Voltage Pictures, Evolution Independent, r2 films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4442853?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260305170200 +0100" stop="20260305193200 +0100" channel="M+ Oscars">
+    <title lang="es">Ray (2004) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
+· La vida de Ray Charles, un niño pobre y ciego que fue capaz de cambiar el curso de la música estadounidense.
+· País: EE.UU
+· Director: Taylor Hackford
+· Reparto: Jamie Foxx, Regina King, Kerry Washington, Clifton Powell, Harry Lennix, Bokeem Woodbine
+· Guion: Taylor Hackford,James L White
+· Música: Ray Charles, Craig Armstrong
+· Producción: Taylor Hackford, Howard Baldwin, Karen Elise Baldwin, Stuart Benjamin
+· Productora: Baldwin Entertainment Group, Bristol Bay Productions, Anvil Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4428923?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260305193200 +0100" stop="20260305215100 +0100" channel="M+ Oscars">
+    <title lang="es">Los pecadores (2025) | Movistar Plus+</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.6/5
+· Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.
+· País: EE.UU
+· Director: Ryan Coogler
+· Reparto: Michael B. Jordan, Jack O'Connell, Delroy Lindo, Wunmi Mosaku, Yao, Li Jun Li, Omar Miller
+· Guion: Ryan Coogler
+· Música: Ludwig Göransson
+· Producción: Ryan Coogler
+· Productora: Proximity Media, Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379900?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260305215100 +0100" stop="20260305220000 +0100" channel="M+ Oscars">
+    <title lang="es">Sirat (Extras).  Temporada (T1). Sirat (Extras) (T1): Materia eléctrica. La música de Sirat (2025) | Movistar Plus+</title>
+    <desc lang="es">Making of | No recomendado para menores de dieciséis años | *3.0/5
+· La música de 'Sirat', compuesta por Kandging Ray, cobra una importancia absoluta en la película, tanto en el plano argumental como en el dramático.
 · País: España
-· Director: Achero Mañas
-· Reparto: Juan José Ballesta, Pablo Galán, Alberto Jiménez, Manuel Morón, Ana Wagener, Gloria Muñoz, Nieve De Medina, Javier Lago, Omar Muñoz, Soledad Osorio
-· Guion: Achero Mañas,Verónica Fernández
-· Música: Eduardo Arbide
-· Producción: Francisco Lázaro
-· Productora: Tesela P.C., Vía Digital, Televisión Española (TVE), Tesela Producciones Cinematográficas S.r.l</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4122008?od[]=Z1V:MM3_V"/>
+· Director: Oliver Laxe</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4417061"/>
   </programme>
-  <programme start="20260302074000 +0100" stop="20260302080300 +0100" channel="M+ Los Goya">
-    <title lang="es">El corto de Rubén (2024) | Movistar Plus+</title>
-    <desc lang="es">Corto animación | No recomendado para menores de doce años | *3.6/5
-· Javier es un amante del cine que, por fin, se decide a realizar su cortometraje definitivo. Durante el proceso, se verá inmerso en un absurdo viaje en el que conocerá a pintorescos personajes dentro de la industria que irán cambiando su visión.
-· País: España
-· Director: José María Fernández de Vega
-· Reparto: Rubén Barbosa, José María Fernández de Vega, Cristina Gallego, Iván Miñambres, Antonello Novellino</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4444550?od[]=Z1V:MM3_V"/>
+  <programme start="20260305220000 +0100" stop="20260306001000 +0100" channel="M+ Oscars">
+    <title lang="es">Sin perdón (1992) | Movistar Plus+</title>
+    <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *4.1/5
+· William Munny es un expistolero que vive con sus dos hijos en una pequeña granja. Acuciado por su precaria economía, decide aceptar el encargo de un joven pistolero.
+· País: EE.UU
+· Director: Clint Eastwood
+· Reparto: Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris, Jaimz Woolvett, Frances Fisher, Saul Rubinek, Lisa Repo-Martell, Anthony James, Rob Campbell, Anna Thomson, Tara Frederick, Liisa Repo-Martell, Saul Rubineck, Tara Dawn Frederick, Beberley Elliott, David Mucci
+· Guion: David Webb Peoples
+· Música: Clint Eastwood, Lennie Niehaus
+· Producción: Clint Eastwood
+· Productora: Malpaso Productions, Warner Bros, Warner Bros. Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3800788?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260302080300 +0100" stop="20260302081500 +0100" channel="M+ Los Goya">
-    <title lang="es">El estado del alma (2024) | Movistar Plus+</title>
-    <desc lang="es">Corto animación | No recomendado para menores de siete años | *3.1/5
-· Alma se despierta cada día con una nueva condición, sufriendo las más variadas transformaciones físicas que reflejan sus sentimientos de inadaptación y que le impiden seguir una rutina diaria normal. Cada día que pasa, Alma se siente más sola.
-· País: España y Portugal
-· Director: Sara Naves
-· Música: Óscar López Plaza</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4444706?od[]=Z1V:MM3_V"/>
+  <programme start="20260305001000 +0100" stop="20260305014600 +0100" channel="M+ Oscars">
+    <title lang="es">Fargo (1996) | Movistar Plus+</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *4.0/5
+· Un vendedor de coches de Minnesota está tan endeudado que contrata a dos matones para que secuestren a su mujer. Lo que pretende es cobrar un rescate al acomodado padre de ésta, pagar a los matones una pequeña parte y saldar sus deudas con el resto.
+· País: EE.UU y R.U
+· Director: Joel Coen, Ethan Coen
+· Reparto: Frances McDormand, William H. Macy, Steve Buscemi, Peter Stormare, Kristin Rudrüd, Harve Presnell
+· Guion: Ethan Coen,Joel Coen
+· Música: Carter Burwell
+· Producción: Ethan Coen
+· Productora: PolyGram Filmed Entertainment, Working Title Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3901152?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260302081500 +0100" stop="20260302082800 +0100" channel="M+ Los Goya">
-    <title lang="es">Gilbert (2024) | Movistar Plus+</title>
-    <desc lang="es">Corto animación | Apto para todos los públicos | *3.6/5
-· Gilbert y Sullivan son habitantes de un pequeño archipiélago en medio del océano, donde Sullivan es trompetista y Gilbert reparte paquetes con su góndola. Pero un día, Gilbert decide quedarse con un paquete que iba destinado a su vecino Sullivan.
-· País: España
-· Director: Alex Salu, Arturo Lacal, Jordi Jiménez
-· Guion: Arturo Lacal
-· Música: Zinkman, Jordi Jiménez
-· Producción: Mónica Gallego
-· Productora: Agencia audiovisual Freak</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4457361?od[]=Z1V:MM3_V"/>
+  <programme start="20260305014600 +0100" stop="20260305032600 +0100" channel="M+ Oscars">
+    <title lang="es">Nacida ayer (1950) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.1/5
+· Una ex-corista, amante de un magnate, pretende cultivarse y para ello decide tomar lecciones con un joven inglés.
+· País: EE.UU
+· Director: George Cukor
+· Reparto: Judy Holliday, Broderick Crawford, William Holden, Howard St. John, Frank Otto
+· Guion: Albert Mannheimer
+· Música: Frederick Hollander
+· Producción: S. Sylvan Simon
+· Productora: Columbia Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4012303?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260302082800 +0100" stop="20260302083900 +0100" channel="M+ Los Goya">
-    <title lang="es">Buffet Paraíso (2024) | Movistar Plus+</title>
-    <desc lang="es">Corto animación | No recomendado para menores de dieciséis años | *3.3/5
-· Un variopinto grupo de personajes unidos por su pasión por la comida, son  atraídos por un restaurante-buffet que promete unos platos nunca vistos.
-vistos.
-· País: España
-· Director: Héctor Zafra</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4323002?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302083900 +0100" stop="20260302085900 +0100" channel="M+ Los Goya">
-    <title lang="es">Carmela (2025) | Movistar Plus+</title>
-    <desc lang="es">Corto animación | No recomendado para menores de doce años | *3.2/5
-· Cortometraje nominado a los Goya 2026.
-
-Biznaga de Plata al mejor cortometraje de animación en el Festival de Málaga 2025.
-
-Tras la guerra civil española, Carmela se une a las milicias junto a miles de mujeres.
-· País: España y Francia
-· Director: Vicente Mallols
-· Reparto: Empar Ferrer
-· Guion: Helena Sánchez
-· Producción: Vicente Mallols</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4392511?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302085900 +0100" stop="20260302092600 +0100" channel="M+ Los Goya">
-    <title lang="es">Al encuentro de.  Temporada (T1). Al encuentro de (T1): Alba Flores (2025) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *2.8/5
-· Cristina Teva y Alba Flores repasan su carrera artística, que empezó en su adolescencia, disfrutó de un éxito descomunal con dos series de TV y está en un proceso de madurez como showrunner del documental sobre su padre &quot;Flores para Antonio&quot;.
-· País: España
-· Presenta: Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4457795?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20260302092600 +0100" stop="20260302111100 +0100" channel="M+ Los Goya">
-    <title lang="es">Extraño río (Estrany riu) (2025) | Movistar Plus+</title>
-    <desc lang="es">Drama romántico | No recomendado para menores de doce años | *3.0/5
-· Dídac tiene dieciséis años y viaja en bicicleta por el Danubio con su familia. Entre días calurosos, un encuentro inesperado cambia el rumbo del viaje: un misterioso chico aparece entre las aguas del río.
-· País: Alemania y España
-· Director: Jaume Claret Muxart
-· Reparto: Jan Monter Palau, Nausicaa Bonnín, Francesco Wenz, Jordi Oriol Canals, Bernat Solé Palau, Roc Colell Moncunill
-· Guion: Jaume Claret Muxart,Meritxell Colell
-· Música: Nika Son
-· Producción: Xavi Font, Andrea Vázquez
-· Productora: Alma Cinema, A.I.E., Miramemira, Radio Televisión Española (RTVE), 3Cat</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454473?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302111100 +0100" stop="20260302130100 +0100" channel="M+ Los Goya">
-    <title lang="es">Los Tortuga (2024) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.4/5
-· Delia y Anabel son madre e hija y tratan de sobrevivir a un fondo buitre que acaba de comprar la finca donde viven y quiere desahuciarlas, un problema al que se suma la pérdida de Julián, padre y esposo, que murió en un accidente del que no se habla.
-· País: Chile y España
-· Director: Belén Funes
-· Reparto: Antonia Zegers, Elvira Lara, Mamen Camacho, Pedro Romero, Sebastián Haro, Marcial Tagle, Luz Jiménez, Guillem Barbosa, María Herrador, Mariona Pagès, Bianca Kovacs
-· Guion: Belén Funes,Marçal Cebrián
-· Música: Paloma Peñarrubia
-· Producción: Antonio Chavarrías, Olmo Figueredo Gonzalez-Quevedo
-· Productora: Los Tortuga la película, A.I.E., Oberon Media, Radio Televisión Española (RTVE), Movistar Plus+, 3Cat</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4405182?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302130100 +0100" stop="20260302144100 +0100" channel="M+ Los Goya">
-    <title lang="es">Muy lejos (2025) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.5/5
-· Sergio viaja a Utrecht para asistir a un partido de fútbol. Antes de coger el vuelo de regreso, sufre un ataque de ansiedad y decide quedarse en Holanda. Incapaz de dar una explicación a los suyos, corta el contacto y comienza una nueva vida.
-· País: España y Países Bajos
-· Director: Gerard Oms
-· Reparto: Mario Casas, David Verdaguer, Ilyass El Ouahdani, Jetty Mathurin, Hanneke van der Paardt, Raúl Prieto, Nausicaa Bonnín, Albert Baró, Achraf Koutet, Daniel Medrán
-· Guion: Gerard Oms
-· Música: Sílvia Pérez Cruz
-· Producción: Carles Torras, Sergio Adrià
-· Productora: Zabriskie Films, Revolver Amsterdam, Radio Televisión Española (RTVE), Crea SGR, 3Cat</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4388906?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302144100 +0100" stop="20260302164500 +0100" channel="M+ Los Goya">
-    <title lang="es">Tardes de soledad (2024) | Movistar Plus+</title>
-    <desc lang="es">Sociedad | No recomendado para menores de dieciséis años | *3.3/5
-· Tardes de soledad es el nuevo trabajo de Albert Serra, documental ganador de dos premios Feroz y nominado a dos premios Goya. En esta obra, el director catalán aborda como nunca antes el universo del toreo.
-· País: España, Francia y Portugal
-· Director: Albert Serra
-· Guion: Albert Serra
-· Música: Marc Verdaguer, Ferran Font
-· Producción: Albert Serra, Montse Triola
-· Productora: Tardes de soledad, A.I.E., Andergraun Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4377288?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302164500 +0100" stop="20260302183400 +0100" channel="M+ Los Goya">
-    <title lang="es">La buena letra (2025) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.5/5
-· Tras la Guerra Civil, Ana trata de salir adelante con su familia curando sus heridas a base de guisos, secretos y silencios, pero cuando Isabel, recién casada con el cuñado de Ana, llega a la familia, los cuidados de Ana valdrán de poco o nada.
-· País: España
-· Director: Celia Rico Clavellino
-· Reparto: Loreto Mauleón, Enric Auquer, Roger Casamajor, Ana Rujas, Teresa Lozano
-· Guion: Celia Rico Clavellino
-· Música: Marina Alcantud
-· Producción: Fernando Bovaira
-· Productora: Mod Producciones, Arcadia Motion Pictures, Misent Producciones S.L.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4391548?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302183400 +0100" stop="20260302201400 +0100" channel="M+ Los Goya">
-    <title lang="es">Sorda (2025) | Movistar Plus+</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.8/5
-· Ángela, una mujer sorda, va a tener un bebé con Héctor, su pareja oyente. Ambos se preparan para el nacimiento de su primer hijo, un momento vital que hacen aflorar en Ángela viejos miedos, entre ellos, el cómo podrá comunicarse con su hija.
-· País: España
-· Director: Eva Libertad
-· Reparto: Miriam Garlo, Álvaro Cervantes, Elena Irureta, Joaquín Notario
-· Guion: Eva Libertad
-· Música: Aránzazu Calleja
-· Producción: Miriam Porté, Adolfo Blanco
-· Productora: Diverso Films, A.I.E., Distinto Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4384181?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302201400 +0100" stop="20260302220000 +0100" channel="M+ Los Goya">
-    <title lang="es">La cena (2025) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.9/5
-· Tras el final de la Guerra Civil, a Franco se le antoja celebrar la victoria en el Hotel Palace, ahora un hospital. Un teniente, un maître y un grupo de prisioneros republicanos, deben preparar un banquete exprés... pero, en la cocina, se trama algo más.
-· País: España y Francia
-· Director: Manuel Gómez Pereira
-· Reparto: Mario Casas, Alberto San Juan, Asier Etxeandia, Nora Hernández, Elvira Mínguez, Carlos Serrano, Ferran Gadea
-· Guion: Joaquín Oristrell,Yolanda García Serrano,Manuel Gómez Pereira
-· Música: Anne-Sophie Versnaeyen
-· Producción: Cristóbal García, Lina Badenes
-· Productora: La Terraza Films, S.L., Turanga Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454612?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260302220000 +0100" stop="20260302235600 +0100" channel="M+ Los Goya">
-    <title lang="es">Los Domingos (2025) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.7/5
-· Ainara, una joven idealista de 17 años que tiene que decidir que carrera estudiar. O, al menos, eso espera su familia. Sin embargo, la joven se plantea abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia.
-· País: España
-· Director: Alauda Ruiz de Azúa
-· Reparto: Blanca Soroa, Patricia López Arnaiz, Juan Minujín, Miro Magariños, Fernando Ustarroz, Itziar Aizpuru, Mabel Rivera, Nagore Aranburu, Miguel Garcés
-· Guion: Alauda Ruiz de Azúa
-· Producción: Nahikari Ipiña, Manuel Calvo, Sandra Hermida, Marisa Fernández Armenteros
-· Productora: Movistar Plus+, Comunidad de Madrid, Crea SGR</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4457618?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20260302235600 +0100" stop="20260303002200 +0100" channel="M+ Los Goya">
-    <title lang="es">Al encuentro de.  Temporada (T1). Al encuentro de (T1): Alauda Ruiz de Azúa (2025) | Movistar Plus+</title>
-    <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.0/5
-· Cris Teva charla con Alauda Ruiz de Azúa sobre la buena estrella de “Los domingos” y de algunos temas comunes en sus trabajos: la familia o la necesidad de entender las razones del otro y respetarlas. También habla de su último proyecto, “OnlyFans”
-· País: España
-· Presenta: Cristina Teva</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459525?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20260302002200 +0100" stop="20260302021500 +0100" channel="M+ Los Goya">
-    <title lang="es">Sirat (2025) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.0/5
-· Durante una 'rave' en las montañas del sur de Marruecos, Luis y su hijo Esteban enseñan a los raveros la foto de la hermana del niño, desaparecida hace meses en una de esas multitudinarias fiestas.
-· País: España y Francia
-· Director: Oliver Laxe
-· Reparto: Sergi López, Bruno Núñez Arjona, Stefania Gadda, Tonin Janvier, Jade Oukid, Richard Bellamy, Joshua Liam Henderson
-· Guion: Oliver Laxe,Santiago Fillol
-· Música: Kangding Ray
-· Producción: Oliver Laxe, Pedro Almodóvar, Agustín Almodóvar, Domingo Corral, Guillermo Farré, Fran Araújo, Esther García, Andrea Queralt, Oriol Maymó, Xavi Font, Mani Mortazavi
-· Productora: Movistar Plus+, El Deseo, Filmes da Ermida, 4 a 4 Productions, Uri Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4421818?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20260302021500 +0100" stop="20260302040500 +0100" channel="M+ Los Goya">
-    <title lang="es">Una quinta portuguesa (2024) | Movistar Plus+</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.7/5
-· Milena hace las maletas y se va, sin dejar ni una nota. Cuando su esposo Fernando llega a casa, comienza a preocuparse. Días después, la policía le informa de que Milena se ha ido por propia voluntad, y Fernando se rompe.
-· País: España y Portugal
-· Director: Avelina Prat
-· Reparto: Manolo Solo, Maria de Medeiros, Branka Katic, Rita Cabaço, Xavi Mira, Kasia Kapcia
-· Guion: Avelina Prat
-· Música: Vincent Barrière
-· Producción: Luis Urbano, Miriam Porté, Miguel Molina, Adán Aliaga
-· Productora: Almendros Blancos, A.I.E., Distinto Films, Jaibo Films, Radio Televisión Española (RTVE), Crea SGR, 3Cat</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4406715?od[]=Z1V:MM3_V"/>
+  <programme start="20260305032600 +0100" stop="20260305052200 +0100" channel="M+ Oscars">
+    <title lang="es">El chip prodigioso (1987) | Movistar Plus+</title>
+    <desc lang="es">Ciencia ficción | Apto para todos los públicos | *3.6/5
+· Por accidente, un piloto y su nave, sometidos a una miniaturización experimental, van a parar al cuerpo de un hipocondríaco.
+· País: EE.UU
+· Director: Joe Dante
+· Reparto: Dennis Quaid, Martin Short, Meg Ryan, Kevin McCarthy, Fiona Lewis, Vernon Wells, Robert Picardo
+· Guion: Jeffrey Boam,Chip Proser
+· Música: Jerry Goldsmith
+· Producción: Michael Finnell
+· Productora: Warner Bros. Pictures, Amblin Entertainment, Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3835091?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20260303060000 +0100" stop="20260303082500 +0100" channel="M+ Los Goya">
     <title lang="es">El pianista (2002) | Movistar Plus+</title>
@@ -679,7 +488,7 @@ Tras la guerra civil española, Carmela se une a las milicias junto a miles de m
   </programme>
   <programme start="20260303113100 +0100" stop="20260303131200 +0100" channel="M+ Los Goya">
     <title lang="es">Un simple accidente (2025) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.4/5
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.5/5
 · El empleado de un taller cree reconocer en un cliente al hombre que lo torturó en prisión, pero pronto surge la duda. Lo que empieza como un simple accidente desencadena una serie de consecuencias cada vez mayores.
 · País: EE.UU, Francia, Irán y Luxemburgo
 · Director: Jafar Panahi
@@ -760,11 +569,10 @@ Tras la guerra civil española, Carmela se une a las milicias junto a miles de m
 · Tras sufrir un accidente, Antonio, un buzo industrial, es informado de que sus días de buceo tienen que acabar. Ahora, el futuro se les presenta oscuro a él y a su hermana, Estrella, hasta que dan con un alijo de cocaína escondido en un petrolero.
 · País: España y Francia
 · Director: Alberto Rodríguez
-· Reparto: Bárbara Lennie, Antonio de la Torre, Melania Cruz, Carlos Bernardino, Nico Montoya, Silvia Acosta, Joaquín Rodríguez, Joaquín Núñez
-· Guion: Alberto Rodríguez,Rafael Cobos
+· Reparto: Antonio de la Torre, Bárbara Lennie, César Vicente, Joaquín Núñez, José Miguel Manzano (Skone), Jesús del Moral, Silvia Acosta
+· Guion: Rafael Cobos,Alberto Rodríguez
 · Música: Julio de la Rosa
-· Producción: Domingo Corral, Guillermo Sempere, Fran Araújo, Koldo Zuazua, Guillermo Farré
-· Productora: Movistar Plus+, Kowalski Films, Crea SGR, Feelgood Media</desc>
+· Producción: Koldo Zuazua, Guillermo Sempere, Guillermo Farré</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4409407?od[]=Z1V:MORIG3_V"/>
   </programme>
   <programme start="20260303234800 +0100" stop="20260303235300 +0100" channel="M+ Los Goya">
@@ -780,10 +588,9 @@ Tras la guerra civil española, Carmela se une a las milicias junto a miles de m
 · Ainara, una joven idealista de 17 años que tiene que decidir que carrera estudiar. O, al menos, eso espera su familia. Sin embargo, la joven se plantea abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia.
 · País: España
 · Director: Alauda Ruiz de Azúa
-· Reparto: Blanca Soroa, Patricia López Arnaiz, Juan Minujín, Miro Magariños, Fernando Ustarroz, Itziar Aizpuru, Mabel Rivera, Nagore Aranburu, Miguel Garcés
+· Reparto: Blanca Soroa, Patricia López Arnaiz, Juan Minujín, Itziar Aizpuru, Mabel Rivera, Nagore Aranburu, Miguel Garcés
 · Guion: Alauda Ruiz de Azúa
-· Producción: Nahikari Ipiña, Manuel Calvo, Sandra Hermida, Marisa Fernández Armenteros
-· Productora: Movistar Plus+, Comunidad de Madrid, Crea SGR</desc>
+· Producción: Manuel Calvo, Nahikari Ipiña, Sandra Hermida, Marisa Fernández Armenteros</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4457618?od[]=Z1V:MORIG3_V"/>
   </programme>
   <programme start="20260303014800 +0100" stop="20260303033800 +0100" channel="M+ Los Goya">
