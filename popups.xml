@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 19/03/2026 02:09">
+<tv generator-info-name="MultiPopUps FullDesc 20/03/2026 02:03">
   <channel id="M+ Oscars">
     <display-name>M+ Oscars</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MOSCAR"/>
@@ -8,158 +8,6 @@
     <display-name>M+ Los 2000</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000"/>
   </channel>
-  <programme start="20260319055700 +0100" stop="20260319061200 +0100" channel="M+ Oscars">
-    <title lang="es">Las tres hermanas (2025) | Movistar Plus+</title>
-    <desc lang="es">Corto animación | No recomendado para menores de doce años | *3.1/5
-· Tres hermanas viven solas en una isla, cada una en su pequeña casa. Un día, las circunstancias se complican tanto que se ven obligadas a alquilar una de las casas.
-· País: Chipre e Israel
-· Director: Konstantin Bronzit</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4462807?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319061200 +0100" stop="20260319080000 +0100" channel="M+ Oscars">
-    <title lang="es">Crash (Colisión) (2004) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.8/5
-· Las vidas de un grupo de personas de Los Ángeles de diferentes etnias y clases sociales colisionarán tras un accidente.
-· País: Alemania y EE.UU
-· Director: Paul Haggis
-· Reparto: Sandra Bullock, Don Cheadle, Matt Dillon, Brendan Fraser, Jennifer Esposito, William Fichtner, Thandie Newton, Terrence Howard
-· Guion: Paul Haggis,Robert Moresco
-· Música: Mark Isham
-· Producción: Paul Haggis, Don Cheadle, Mark R. Harris, Cathy Schulman, Bob Yari
-· Productora: Lionsgate Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3777673?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319080000 +0100" stop="20260319093900 +0100" channel="M+ Oscars">
-    <title lang="es">Narciso negro (1947) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.1/5
-· Un grupo de cinco religiosas parten de Calcuta con la misión de propagar la palabra de Cristo en una zona del Himalaya.
-· País: R.U
-· Director: Michael Powell, Emeric Pressburger
-· Reparto: Deborah Kerr, Sabu, David Farrar, Flora Robson, Esmond Knight, Jean Simmons, Kathleen Byron, Jenny Laird, May Hallatt, Judith Furse
-· Guion: Michael Powell,Emeric Pressburger
-· Música: Brian Easdale
-· Producción: Michael Powell, Emeric Pressburger
-· Productora: The Archers, Independent Producers</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3860517?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319093900 +0100" stop="20260319113500 +0100" channel="M+ Oscars">
-    <title lang="es">Camino a la perdición (2002) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.7/5
-· Michael Sullivan, un asesino a sueldo de la mafia irlandesa de Chicago durante la época de la Depresión, se ve obligado a huir con su hijo tras perder al resto de su familia a manos de los hombres para los que trabaja.
-· País: EE.UU
-· Director: Sam Mendes
-· Reparto: Daniel Craig, Paul Newman, Tom Hanks, Stanley Tucci, Tyler Hoechlin, Liam Aiken, Jennifer Jason Leigh, Jude Law, Ciarán Hinds, David Darlow, Phil Ridarelli, Lance Baker, Rob Maxey, Juanita Wilson, Roderick Peeples
-· Guion: David Self
-· Música: John M Williams, Thomas Newman
-· Producción: Sam Mendes, Richard D Zanuck, Dean Zanuck
-· Productora: Twentieth Century Fox, The Zanuck Company, DreamWorks SKG</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3606062?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319113500 +0100" stop="20260319134600 +0100" channel="M+ Oscars">
-    <title lang="es">Las zapatillas rojas (1948) | Movistar Plus+</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.3/5
-· Una joven componente de un ballet de prestigio tiene ahora la gran oportunidad que esperaba al retirarse la primera bailarina.
-· País: R.U
-· Director: Michael Powell, Emeric Pressburger
-· Reparto: Marius Goring, Jean Short, Gordon Littmann, Julia Lang, Anton Walbrook, Moira Shearer
-· Guion: Michael Powell,Emeric Pressburger
-· Música: Brian Easdale
-· Producción: Michael Powell, Emeric Pressburger
-· Productora: The Archers, Independent Producers</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3761182?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319134600 +0100" stop="20260319140200 +0100" channel="M+ Oscars">
-    <title lang="es">Siempre verde (2025) | Movistar Plus+</title>
-    <desc lang="es">Corto animación | Apto para todos los públicos | *3.0/5
-· Un cachorro de oso huérfano encuentra un hogar en un árbol perenne paternal, hasta que su hambre de basura lo lleva al peligro.
-· País: EE.UU
-· Director: Jeremy Spears, Nathan Engelhardt</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4462601?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319140200 +0100" stop="20260319154600 +0100" channel="M+ Oscars">
-    <title lang="es">La reina de África (1951) | Movistar Plus+</title>
-    <desc lang="es">Aventuras | Apto para todos los públicos | *3.5/5
-· Un rudo capitán de barco y una estirada y puritana misionera, huyen de las tropas alemanas en una ruinosa embarcación, con la que deben remontar un peligroso río.
-· País: EE.UU y R.U
-· Director: John Huston
-· Reparto: Humphrey Bogart, Katharine Hepburn, Peter Bull, Robert Morley, Theodore Bikel, Walter Gotell, Peter Swanick
-· Guion: James Agee,John Huston
-· Música: Allan Gray
-· Producción: Sam Spiegel, John Woolf
-· Productora: Horizon Films, Romulus Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4080333?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319154600 +0100" stop="20260319172300 +0100" channel="M+ Oscars">
-    <title lang="es">Ceremonia de los Oscar (Resumen 98º edición) (2026) | Movistar Plus+</title>
-    <desc lang="es">Eventos de cine | Apto para todos los públicos | *3.3/5
-· Resumen con los mejores momentos de la ceremonia de los Oscar, que premian las mejores películas del año 2025. La española 'Sirat`, de Oliver Laxe hacía historia compitiendo en dos categorías: película internacional y sonido.
-· País: EE.UU
-· Presenta: Conan O'Brien</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4464741?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319172300 +0100" stop="20260319193900 +0100" channel="M+ Oscars">
-    <title lang="es">Los pecadores (2025) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.6/5
-· Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.
-· País: EE.UU
-· Director: Ryan Coogler
-· Reparto: Michael B. Jordan, Jack O'Connell, Delroy Lindo, Wunmi Mosaku, Yao, Li Jun Li, Omar Miller
-· Guion: Ryan Coogler
-· Música: Ludwig Göransson
-· Producción: Ryan Coogler
-· Productora: Proximity Media, Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379900?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319193900 +0100" stop="20260319220000 +0100" channel="M+ Oscars">
-    <title lang="es">La sustancia (2024) | Movistar Plus+</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciocho años | *3.1/5
-· Elizabeth Sparkles, una estrella de Hollywood en declive, empieza a ver que la industria la está dejando de lado a causa de la edad y decide introducirse en un dudoso tratamiento, con imprevisibles resultados, que promete devolverle su ansiada juventud.
-· País: EE.UU
-· Director: Coralie Fargeat
-· Reparto: Demi Moore, Dennis Quaid, Margaret Qualley, Edward Hamilton-Clark, Gore Abrams
-· Guion: Coralie Fargeat
-· Música: Raffertie
-· Productora: Working Title Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4329169?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319220000 +0100" stop="20260320001400 +0100" channel="M+ Oscars">
-    <title lang="es">Matrix (1999) | Movistar Plus+</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciocho años | *4.2/5
-· El programador informático Thomas Anderson, más conocido en el mundo de los 'hacker' como Neo, está en el punto de mira del temible agente Smith. Otros dos piratas informáticos, Trinity y Morfeo, se ponen en contacto con Neo para ayudarlo a escapar.
-· País: EE.UU
-· Director: Lana Wachowski, Lilly Wachowski
-· Reparto: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Joe Pantoliano, Marcus Chong, Paul Goddard, Gloria Foster
-· Guion: Lilly Wachowski,Lana Wachowski
-· Música: Don Davis
-· Producción: Joel Silver
-· Productora: Warner Bros, Village Roadshow Pictures, Groucho II Film Partnership</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3879324?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319001400 +0100" stop="20260319022800 +0100" channel="M+ Oscars">
-    <title lang="es">Terminator 2: El juicio final (1991) | Movistar Plus+</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciocho años | *3.9/5
-· Sarah Connor está internada en un psiquiátrico por sus advertencias sobre el negro futuro de la humanidad. Mientras, su hijo John ha quedado al cuidado del Estado. Desde el futuro, las máquinas envian un nuevo terminator.
-· País: EE.UU y Francia
-· Director: James Cameron
-· Reparto: Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick, Earl Boen, Joe Morton, Danny Cooksey, S. Epatha Merkerson, Castulo Guerra
-· Guion: James Cameron,William Wisher Jr.
-· Música: Brad Fiedel
-· Productora: Columbia TriStar</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4056148?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319022800 +0100" stop="20260319043700 +0100" channel="M+ Oscars">
-    <title lang="es">En tierra hostil (2008) | Movistar Plus+</title>
-    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.7/5
-· Durante una misión en la Guerra de Iraq, fallece el sargento Thompson, líder de un comando especializado en desactivación de explosivos. Tras su muerte, la unidad queda al mando del impredecible y temerario sargento James.
-· País: EE.UU
-· Director: Kathryn Bigelow
-· Reparto: Jeremy Renner, Anthony Mackie, Brian Geraghty, Christian Camargo, Suhail Al-Dabbach, Christopher Sayegh, Evangeline Lilly, Ralph Fiennes, David Morse, Guy Pearce
-· Guion: Mark Boal
-· Música: Buck Sanders, Marco Beltrami
-· Producción: Nicolas Chartier, Greg Shapiro, Mark Boal, Kathryn Bigelow, Jenn Lee
-· Productora: First Light Production, Kingsgate Films, Summit Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3841323?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20260320060000 +0100" stop="20260320075100 +0100" channel="M+ Oscars">
     <title lang="es">Desayuno con diamantes (1961) | Movistar Plus+</title>
     <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.6/5
@@ -173,7 +21,7 @@
 · Productora: Jurow-Shepherd Production, Jurow-Shepherd, Paramount Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3968805?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320075100 +0100" stop="20260320095300 +0100" channel="M+ Oscars">
+  <programme start="20260320075100 +0100" stop="20260320095400 +0100" channel="M+ Oscars">
     <title lang="es">El río de la vida (1992) | Movistar Plus+</title>
     <desc lang="es">Drama | Apto para todos los públicos | *3.4/5
 · Norman y Paul Mclean han sido educados por su padre bajo una dura disciplina que los ha marcado profundamente. Pasan los años y Norman se convierte en profesor, mientras Paul se queda en casa y comienza a autodestruirse.
@@ -186,20 +34,20 @@
 · Productora: Allied Filmmakers, Wildwood</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4361198?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320095300 +0100" stop="20260320123000 +0100" channel="M+ Oscars">
-    <title lang="es">El paciente inglés (1996) | Movistar Plus+</title>
-    <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.5/5
-· La única tregua en medio de la guerra es encontrar una historia de amor. Hana vive dos historias, la suya propia y otra ajena.
+  <programme start="20260320095400 +0100" stop="20260320122700 +0100" channel="M+ Oscars">
+    <title lang="es">Gladiator (El gladiador) (2000) | Movistar Plus+</title>
+    <desc lang="es">Aventuras | No recomendado para menores de doce años | *4.2/5
+· Tras una nueva victoria, el general romano Máximo sólo sueña con regresar a casa junto a su esposa e hijo, Cómodo, el hijo del agonizante emperador Marco Aurelio, celoso del favor que Máximo recibe de su padre, ordena matar a Máximo y a su familia.
 · País: EE.UU y R.U
-· Director: Anthony Minghella
-· Reparto: Ralph Fiennes, Willem Dafoe, Juliette Binoche, Kristin Scott Thomas, Naveen Andrews, Colin Firth, Jürgen Prochnow, Julian Wadham, Kevin Whately, Clive Merrison, Nino Castelnuovo
-· Guion: Anthony Minghella
-· Música: Gabriel Yared
-· Producción: Saul Zaentz
-· Productora: Miramax International, Saul Zaentz Productions, Miramax Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3967259?od[]=Z1V:MM3_V"/>
+· Director: Ridley Scott
+· Reparto: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris, Derek Jacobi, Djimon Hounsou, David Schofield, Giannina Facio, Giorgio Cantarini, Tomas Arana, John Shrapnel, David Hemmings
+· Guion: John Logan,William Nicholson,David Franzoni
+· Música: Lisa Gerrard, Hans Zimmer
+· Producción: Branko Lustig, David Franzoni, Douglas Wick
+· Productora: DreamWorks SKG, Universal Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3859434?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320123000 +0100" stop="20260320142700 +0100" channel="M+ Oscars">
+  <programme start="20260320122700 +0100" stop="20260320142500 +0100" channel="M+ Oscars">
     <title lang="es">Ciudadano Kane (1941) | Movistar Plus+</title>
     <desc lang="es">Drama | Apto para todos los públicos | *3.6/5
 · Tras la muerte del magnate editorial Charles Foster Kane, los reporteros se apresuran a descubrir el significado de su declaración final: Rosebud. El país entero y la prensa en general quedan intrigadísimos por saber el significado de esta palabra.
@@ -212,7 +60,7 @@
 · Productora: RKO Radio Pictures Inc, Mercury Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3799037?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320142700 +0100" stop="20260320161000 +0100" channel="M+ Oscars">
+  <programme start="20260320142500 +0100" stop="20260320160800 +0100" channel="M+ Oscars">
     <title lang="es">Un hombre y una mujer (1966) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.1/5
 · Un piloto de coches de carreras y una script se conocen cuando van a ver a sus hijos. Surge una historia de amor entre ellos.
@@ -221,7 +69,7 @@
 · Reparto: Jean-Louis Trintignant, Anouk Aimée, Pierre Barouh, Valérie Lagrange</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4383145?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320161000 +0100" stop="20260320175600 +0100" channel="M+ Oscars">
+  <programme start="20260320160800 +0100" stop="20260320175400 +0100" channel="M+ Oscars">
     <title lang="es">Dunkerque (2017) | Movistar Plus+</title>
     <desc lang="es">Bélico | No recomendado para menores de doce años | *3.7/5
 · Norte de Francia, 1940. Atrapadas por el enemigo en la costa de Dunkerque, las tropas británicas y francesas aguardan su suerte, esperando un rescate que sería un milagro.
@@ -234,7 +82,7 @@
 · Productora: Syncopy, Warner Bros, Dombey Street Productions, Kaap Holland Film, RatPac-Dune Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3926825?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320175600 +0100" stop="20260320192700 +0100" channel="M+ Oscars">
+  <programme start="20260320175400 +0100" stop="20260320192500 +0100" channel="M+ Oscars">
     <title lang="es">Gravity (2013) | Movistar Plus+</title>
     <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.5/5
 · La doctora Ryan Stone, una brillante ingeniera especializada en medicina, realiza su primera misión en un transbordador acompañada por el veterano astronauta Matt Kowalsky, al mando de su último vuelo antes de retirarse.
@@ -247,7 +95,7 @@
 · Productora: Warner Bros. Pictures, Esperanto Filmoj, Heyday Films, Warner Bros</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3749143?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320192700 +0100" stop="20260320220000 +0100" channel="M+ Oscars">
+  <programme start="20260320192500 +0100" stop="20260320220000 +0100" channel="M+ Oscars">
     <title lang="es">Dune (2021) | Movistar Plus+</title>
     <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.8/5
 · Año 10191. El bello y fértil Caladan ha sido el feudo de los Atreides durante generaciones. Ahora, por orden del Emperador, el duque Leto Atreides debe abandonarlo y dirigirse al desértico Dune junto a su hijo Paul y a la madre de éste, Dama Jessica.
@@ -273,7 +121,7 @@
 · Productora: El Deseo, Vía Digital, Antena 3 Televisión, Good Machine</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4172296?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320235300 +0100" stop="20260321015800 +0100" channel="M+ Oscars">
+  <programme start="20260320235300 +0100" stop="20260321020000 +0100" channel="M+ Oscars">
     <title lang="es">El secreto de sus ojos (2009) | Movistar Plus+</title>
     <desc lang="es">Thriller | No recomendado para menores de siete años | *3.9/5
 · Durante 25 años, un crimen ha permanecido indeleble en la memoria de Benjamín Espósito. Ahora decide volver sobre los recuerdos de amor, muerte y amistad y saldar cuentas con la historia.
@@ -285,7 +133,7 @@
 · Productora: Canal+ España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4102024?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320015800 +0100" stop="20260320040500 +0100" channel="M+ Oscars">
+  <programme start="20260320020000 +0100" stop="20260320040800 +0100" channel="M+ Oscars">
     <title lang="es">Sin perdón (1992) | Movistar Plus+</title>
     <desc lang="es">Oeste | No recomendado para menores de dieciséis años | *4.1/5
 · William Munny es un expistolero que vive con sus dos hijos en una pequeña granja. Acuciado por su precaria economía, decide aceptar el encargo de un joven pistolero.
@@ -298,7 +146,7 @@
 · Productora: Malpaso Productions, Warner Bros, Warner Bros. Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3800788?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321040500 +0100" stop="20260321062000 +0100" channel="M+ Oscars">
+  <programme start="20260321040800 +0100" stop="20260321062200 +0100" channel="M+ Oscars">
     <title lang="es">2001: Una odisea del espacio (1968) | Movistar Plus+</title>
     <desc lang="es">Ciencia ficción | No recomendado para menores de siete años | *3.8/5
 · Un extraño monolito aparece en la Tierra. Millones de años después, un equipo de astronautas investiga su aparición en la Luna.
@@ -311,7 +159,7 @@
 · Productora: Stanley Kubrick Productions, Metro-Goldwyn-Mayer (MGM)</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4408951?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321062000 +0100" stop="20260321081200 +0100" channel="M+ Oscars">
+  <programme start="20260321062200 +0100" stop="20260321081200 +0100" channel="M+ Oscars">
     <title lang="es">Tres anuncios en las afueras (2017) | Movistar Plus+</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *4.1/5
 · Meses después del asesinato de su hija, y sin que la policía haya sido capaz de encontrar al culpable, Mildred Hayes decide contratar tres vallas publicitarias de las afueras del pueblo y colgar un mensaje directamente dirigido al jefe de policía.
@@ -333,7 +181,7 @@
 · Reparto: Domhnall Gleeson</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4423446?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321082000 +0100" stop="20260321094900 +0100" channel="M+ Oscars">
+  <programme start="20260321082000 +0100" stop="20260321095400 +0100" channel="M+ Oscars">
     <title lang="es">Gravity (2013) | Movistar Plus+</title>
     <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.5/5
 · La doctora Ryan Stone, una brillante ingeniera especializada en medicina, realiza su primera misión en un transbordador acompañada por el veterano astronauta Matt Kowalsky, al mando de su último vuelo antes de retirarse.
@@ -346,7 +194,7 @@
 · Productora: Warner Bros. Pictures, Esperanto Filmoj, Heyday Films, Warner Bros</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3749143?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321094900 +0100" stop="20260321120000 +0100" channel="M+ Oscars">
+  <programme start="20260321095400 +0100" stop="20260321120700 +0100" channel="M+ Oscars">
     <title lang="es">Mujercitas (2019) | Movistar Plus+</title>
     <desc lang="es">Drama | Apto para todos los públicos | *4.2/5
 · La joven Josephine March vive en Nueva York. Mientras intenta que publiquen sus relatos, se gana la vida impartiendo clase a unas niñas. Ella es ahora el principal sustento de su familia, sobre todo mientras su hermana Amy siga en París con la tía March.
@@ -359,19 +207,20 @@
 · Productora: Columbia Pictures, New Regency Pictures, Pascal Pictures, Regency Enterprises, Sony Pictures Entertainment (SPE)</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3833608?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321120000 +0100" stop="20260321135300 +0100" channel="M+ Oscars">
-    <title lang="es">Dallas Buyers Club (2013) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *4.2/5
-· Texas, 1985. El mujeriego y drogadicto Ron Woodroof, electricista y 'cowboy' de rodeo de profesión, es diagnosticado como seropositivo. Con una esperanza de vida de 30 días, Ron es enviado a casa con la única ayuda de un medicamento altamente tóxico.
-· País: EE.UU
-· Director: Jean-Marc Vallée
-· Reparto: Matthew McConaughey, Jared Leto, Jennifer Garner, Denis O'Hare, Steve Zahn, Michael O'Neill, Dallas Roberts, Griffin Dunne
-· Guion: Craig Borten,Melisa Wallack
-· Producción: Robbie Brenner, Rachel Winter
-· Productora: Focus Features, Truth Entertainment, Voltage Pictures, Evolution Independent, r2 films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4442853?od[]=Z1V:MM3_V"/>
+  <programme start="20260321120700 +0100" stop="20260321134600 +0100" channel="M+ Oscars">
+    <title lang="es">Paseando a Miss Daisy (1989) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.5/5
+· En la racista Atlanta de la década de 1950, Miss Daisy, una adinerada profesora ya jubilada, decide comprarse un coche. Su hijo, temiendo por la vida de su madre y por el caos circulatorio, decide contratar a Hoke, un chófer negro.
+· País: EE.UU y España
+· Director: Bruce Beresford
+· Reparto: Morgan Freeman, Jessica Tandy, Dan Aykroyd, Patti LuPone, Esther Rolle, Joann Havrilla
+· Guion: Alfred Uhry
+· Música: Hans Zimmer
+· Producción: Lili Fini Zanuck, Richard D Zanuck
+· Productora: Warner Bros, The Zanuck Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4457592?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321135300 +0100" stop="20260321153900 +0100" channel="M+ Oscars">
+  <programme start="20260321134600 +0100" stop="20260321153300 +0100" channel="M+ Oscars">
     <title lang="es">Happy Feet. Rompiendo el hielo (2006) | Movistar Plus+</title>
     <desc lang="es">Animación | No recomendado para menores de siete años | *3.5/5
 · En la Antártida, en la tierra de los pingüinos emperador, no eres nadie si no sabes cantar. Y ésto se convierte en el principal problema del pequeño Mumble, que ha nacido sin ese don pero cuenta con otra gran cualidad: saber bailar claqué.
@@ -384,7 +233,7 @@
 · Productora: Warner Bros</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4112103?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321153900 +0100" stop="20260321174800 +0100" channel="M+ Oscars">
+  <programme start="20260321153300 +0100" stop="20260321174200 +0100" channel="M+ Oscars">
     <title lang="es">Thelma &amp; Louise (1991) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de doce años | *3.7/5
 · Thelma es ama de casa, su vida es aburrida y Darryl, su machista marido, la trata como a una niña más que una esposa. Louise es camarera y también lleva una vida frustrante. Juntas inician un viaje en coche con el fin de evadirse durante unos días.
@@ -397,7 +246,7 @@
 · Productora: Metro-Goldwyn-Mayer (MGM), United In, Pathé Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3990774?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321174800 +0100" stop="20260321194900 +0100" channel="M+ Oscars">
+  <programme start="20260321174200 +0100" stop="20260321194500 +0100" channel="M+ Oscars">
     <title lang="es">Shakespeare in Love (Shakespeare enamorado) (1998) | Movistar Plus+</title>
     <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.5/5
 · Londres, 1593. El joven dramaturgo William Shakespeare sufre un bloqueo total. Por mucho que lo intenta, y a pesar de la presión que recibe de financieros y dueños de salas de teatro, no consigue inspiración para su nueva obra.
@@ -410,7 +259,7 @@
 · Productora: Universal Pictures, Miramax Films, The Bedford Falls Company, Mike Figgis, Bedford Falls Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3805297?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321194900 +0100" stop="20260321220000 +0100" channel="M+ Oscars">
+  <programme start="20260321194500 +0100" stop="20260321220000 +0100" channel="M+ Oscars">
     <title lang="es">12 años de esclavitud (2013) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.8/5
 · En los años previos a la Guerra Civil de Estados Unidos, Solomon Northup, un hombre negro libre que vive en Nueva York, es secuestrado y vendido como esclavo. Solomon deberá luchar no sólo por continuar vivo sino también por preservar su dignidad.
@@ -422,7 +271,7 @@
 · Productora: Summit Entertainment, Regency Enterprises, Plan B Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4011483?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321220000 +0100" stop="20260322000000 +0100" channel="M+ Oscars">
+  <programme start="20260321220000 +0100" stop="20260321235900 +0100" channel="M+ Oscars">
     <title lang="es">Mad Max: Furia en la carretera (2015) | Movistar Plus+</title>
     <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.8/5
 · Tras la guerra termonuclear que ha convertido a la Tierra en un páramo, el antiguo policía Max Rockatansky, atormentado por los espíritus de aquellos a los que no pudo proteger, se ha convertido en un hombre con un solo instinto: sobrevivir.
@@ -435,7 +284,7 @@
 · Productora: Warner Bros, Kennedy Miller Productions, Village Roadshow Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3723118?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321000000 +0100" stop="20260321024000 +0100" channel="M+ Oscars">
+  <programme start="20260321235900 +0100" stop="20260322023900 +0100" channel="M+ Oscars">
     <title lang="es">Blade Runner 2049 (2017) | Movistar Plus+</title>
     <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *3.6/5
 · Año 2049. Tras la rebelión de los replicantes, el nuevo dueño de Tyrell Corp. ha creado modelos mucho más obedientes. Los viejos Nexus 8 que continúan con vida están siendo 'retirados'. Sus perseguidores aún reciben el nombre de Blade Runner.
@@ -448,7 +297,7 @@
 · Productora: Alcon Entertainment, Columbia Pictures, Sony Pictures, Torridon Films, 16:14 Entertainment, Scott Free Productions, Thunderbird Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4068512?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321024000 +0100" stop="20260321045500 +0100" channel="M+ Oscars">
+  <programme start="20260321023900 +0100" stop="20260321045600 +0100" channel="M+ Oscars">
     <title lang="es">Hasta el último hombre (2016) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.8/5
 · La historia de Desmond Doss, un joven médico militar que participó en la batalla de Okinawa durante la II Guerra Mundial y fue el primer objetor de conciencia estadounidense en recibir la Medalla de Honor del Congreso.
@@ -460,172 +309,145 @@
 · Productora: Cross Creek Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3925254?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260319050700 +0100" stop="20260319070000 +0100" channel="M+ Los 2000">
-    <title lang="es">Scream 3 (2000) | Movistar Plus+</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.3/5
-· Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo. Un día recibe una misteriosa llamada que volverá a alterar su vida.
+  <programme start="20260322045600 +0100" stop="20260322065100 +0100" channel="M+ Oscars">
+    <title lang="es">Cónclave (2024) | Movistar Plus+</title>
+    <desc lang="es">Thriller | No recomendado para menores de siete años | *3.5/5
+· Tras la inesperada muerte del papa, el cardenal Lawrence es designado como responsable de dirigir el cónclave. Desde ese momento, Lawrence se verá inmerso en los entresijos de la institución y en sus conspiraciones.
+· País: EE.UU y R.U
+· Director: Edward Berger
+· Reparto: Ralph Fiennes, Stanley Tucci, John Lithgow, Isabella Rosellini, Sergio Castellitto
+· Guion: Peter Straughan
+· Música: Volker Bertelmann
+· Producción: Tessa Ross, Juliette Howell
+· Productora: House Productions, FilmNation Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4365971?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322065100 +0100" stop="20260322083000 +0100" channel="M+ Oscars">
+    <title lang="es">Nacida ayer (1950) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.1/5
+· Una ex-corista, amante de un magnate, pretende cultivarse y para ello decide tomar lecciones con un joven inglés.
 · País: EE.UU
-· Director: Wes Craven
-· Reparto: Neve Campbell, David Arquette, Kevin Smith, Patrick Dempsey, Carrie Fisher, Emily Mortimer, Parker Posey, Scott Foley, Courteney Cox, Jamie Kennedy, Liev Schreiber, Matt Keeslar, Jenny McCarthy
-· Guion: Ehren Kruger
-· Música: Marco Beltrami
-· Producción: Kevin Williamson, Marianne Maddalena, Cathy Konrad
-· Productora: Lauren Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454616?od[]=Z1V:MM3_V"/>
+· Director: George Cukor
+· Reparto: Judy Holliday, Broderick Crawford, William Holden, Howard St. John, Frank Otto
+· Guion: Albert Mannheimer
+· Música: Frederick Hollander
+· Producción: S. Sylvan Simon
+· Productora: Columbia Pictures Corporation</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4012303?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260319070000 +0100" stop="20260319084800 +0100" channel="M+ Los 2000">
-    <title lang="es">Death Race: La carrera de la muerte (2008) | Movistar Plus+</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.2/5
-· En el futuro, las prisiones son entidades privadas que se financian a través de la &quot;carrera de la muerte&quot;, una competición automovilística en la que los reclusos corren en coches armados. El preso que gane cinco carreras, conseguirá la libertad.
-· País: Alemania, EE.UU, R.U y República Sudafricana
-· Director: Paul W. S. Anderson
-· Reparto: Jason Statham, Tyrese Gibson, Ian McShane, Joan Allen, Natalie Martínez, Jacob Vargas, Max Ryan, Jason Clarke, Frederick Koehler, Justin Mader
-· Guion: Paul W. S. Anderson
-· Música: Paul Haslinger
-· Producción: Paul W. S. Anderson, Jeremy Bolt, Paula Wagner
-· Productora: Universal Pictures, Relativity Media, Cruise/Wagner Productions, Scion Films, Impact Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3841645?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319084800 +0100" stop="20260319104100 +0100" channel="M+ Los 2000">
-    <title lang="es">John Q (2002) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.3/5
-· John Q. se ve obligado a secuestrar a los ocupantes de un hospital porque su hijo necesita un trasplante de corazón.
+  <programme start="20260322083000 +0100" stop="20260322101500 +0100" channel="M+ Oscars">
+    <title lang="es">Whiplash (2014) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *4.2/5
+· Andrew Neiman es un joven baterista de jazz que aspira a alcanzar la cima dentro del elitista conservatorio de música de la Costa Este en el que estudia. Terence Fletcher es un profesor conocido tanto por su talento como por sus aterradores métodos.
 · País: EE.UU
-· Director: Nick Cassavetes
-· Reparto: Ray Liotta, James Woods, Denzel Washington, Robert Duvall, Anne Heche, Denis Sanders, Kimberly Elise, Eddie Griffin, Shawn Hatosy, David Thornton, Ethan Suplee
-· Guion: James Kearns
-· Música: Aaron Zigman
-· Producción: Mark Burg, Oren Koules</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3739542?od[]=Z1V:MM3_V"/>
+· Director: Damien Chazelle
+· Reparto: Miles Teller, Paul Reiser, J.K. Simmons, Melissa Benoist, Austin Stowell, Nate Lang, Chris Mulkey, Damon Gupton, Suanne Spoke
+· Guion: Damien Chazelle
+· Música: Justin Hurwitz
+· Producción: Jason Blum, Helen Estabrook, Michel Litvak
+· Productora: Sony Pictures Classics, Blumhouse Productions, Bold Films, Exile Entertainment, Right of Way Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3932860?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260319104100 +0100" stop="20260319120800 +0100" channel="M+ Los 2000">
-    <title lang="es">El Bola (2000) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.6/5
-· El Bola, un chaval de 12 años cuya situación familiar está cargada de violencia, descubre una nueva realidad al hacerse amigo de Alfredo.
-· País: España
-· Director: Achero Mañas
-· Reparto: Juan José Ballesta, Pablo Galán, Alberto Jiménez, Manuel Morón, Ana Wagener, Gloria Muñoz, Nieve De Medina, Javier Lago, Omar Muñoz, Soledad Osorio
-· Guion: Achero Mañas,Verónica Fernández
-· Música: Eduardo Arbide
-· Producción: Francisco Lázaro
-· Productora: Tesela P.C., Vía Digital, Televisión Española (TVE), Tesela Producciones Cinematográficas S.r.l</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4122008?od[]=Z1V:MM3_V"/>
+  <programme start="20260322101500 +0100" stop="20260322124000 +0100" channel="M+ Oscars">
+    <title lang="es">El pianista (2002) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *4.1/5
+· Wladyslaw Szpilman, un brillante pianista polaco judío, escapa de la deportación durante el asedio nazi. Obligado a vivir en el corazón del gueto de Varsovia, comparte el sufrimiento, la humillación y las miserias del resto de prisioneros.
+· País: Alemania, Francia, Polonia y R.U
+· Director: Roman Polanski
+· Reparto: Adrien Brody, Thomas Kretschmann, Frank Finlay, Maureen Lipman, Emilia Fox, Ed Stoppard, Julia Rayner, Jessica Kate Meyer
+· Guion: Ronald Harwood
+· Música: Wojciech Kilar
+· Producción: Robert Benmussa, Roman Polanski, Alain Sarde
+· Productora: R.P. Productions, Heritage Films, Studio Babelsberg, Le Studio Canal+, Runteam II Ltd, Telewizja Polska (TVP), Interscope Communications</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3724212?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260319120800 +0100" stop="20260319135500 +0100" channel="M+ Los 2000">
-    <title lang="es">La caja 507 (2002) | Movistar Plus+</title>
-    <desc lang="es">Policíaco | No recomendado para menores de dieciocho años | *3.6/5
-· Modesto, director de una sucursal bancaria de la Costa del Sol, es encerrado por unos atracadores en la cámara de las cajas de seguridad. Una de ellas, la caja 507, le revela que la muerte de su hija, ocurrida unos años atrás, no fue accidental.
-· País: España
-· Director: Enrique Urbizu
-· Reparto: Antonio Resines, José Coronado, Goya Toledo, Dafne Fernández, Younes Bachir, Miriam Montilla, Félix Álvarez
-· Guion: Enrique Urbizu,Michel Gaztambide
-· Música: Mario de Benito
-· Producción: Fernando Bovaira, Gustavo Ferrada
-· Productora: Sociedad General de Cine (Sogecine) S.A, Iberrota Films, Canal+ España, Telemadrid, Televisión Española (TVE), Zak Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3872117"/>
+  <programme start="20260322124000 +0100" stop="20260322142700 +0100" channel="M+ Oscars">
+    <title lang="es">Un pez llamado Wanda (1988) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.7/5
+· Un cuarteto de atracadores planea dar un gran golpe en la joyería Hatton Gardens de Londres. El asalto resulta todo un éxito, pero la traición de unos y de otros acaba con George, el jefe de la banda, en la cárcel.
+· País: EE.UU y R.U
+· Director: Charles Crichton, John Cleese
+· Reparto: John Cleese, Jamie Lee Curtis, Kevin Kline, Michael Palin, Maria Aitken, Tom Georgeson
+· Guion: John Cleese,Charles Crichton
+· Música: John Du Prez, Alan Hume
+· Producción: Michael Shamberg
+· Productora: Metro-Goldwyn-Mayer (MGM), Prominent Features Inc., Star Partners Limited Partnership</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3919732?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260319135500 +0100" stop="20260319154200 +0100" channel="M+ Los 2000">
-    <title lang="es">La caja Kovak (2006) | Movistar Plus+</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
-· Un escritor acude a una isla para dar una conferencia. Allí se suceden misteriosos suicidios y su propia vida corre peligro.
-· País: España y R.U
-· Director: Daniel Monzón
-· Reparto: Timothy Hutton, Lucía Jiménez, David Kelly
-· Guion: Daniel Monzón,Jorge Guerricaechevarría
-· Música: Roque Baños
-· Productora: Filmax Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4047300?od[]=Z1V:MM3_V"/>
+  <programme start="20260322142700 +0100" stop="20260322180900 +0100" channel="M+ Oscars">
+    <title lang="es">El señor de los anillos: la comunidad del anillo (versión extendida) (2001) | Movistar Plus+</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.2/5
+· Hace mucho, en un tiempo que ya nadie recuerda, los sabios elfos recibieron 3 anillos de poder, 7 fueron para los señores enanos y 9 para los ambiciosos hombres. Pero el señor oscuro Sauron forjó uno más: el anillo regente para controlarlos a todos.
+· País: EE.UU y Nueva Zelanda
+· Director: Peter Jackson
+· Reparto: Elijah Wood, Alan Howard, Marton Csokas, Lawrence Makoare, Ian Mune, Craig Parker
+· Guion: Peter Jackson,J.R.R. Tolkien,Fran Walsh,Philippa Boyens
+· Música: Howard Shore
+· Producción: Peter Jackson, Fran Walsh, Barrie M. Osborne, Tim Sanders
+· Productora: New Line Cinema, WingNut Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3915002?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260319154200 +0100" stop="20260319175800 +0100" channel="M+ Los 2000">
-    <title lang="es">Enemigos públicos (2009) | Movistar Plus+</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.4/5
-· La historia del legendario bandido de la época de la Gran Depresión John Dillinger, el carismático atracador de bancos que se convirtió en el objetivo número uno del incipiente FBI de J. Edgar Hoover y de su mejor agente, Melvin Purvis.
-· País: EE.UU y Japón
-· Director: Michael Mann
-· Reparto: Johnny Depp, Christian Bale, Marion Cotillard, Billy Crudup, Stephen Dorff, Stephen Lang, Giovanni Ribisi, Channing Tatum, Stephen Graham, Jason Clarke, David Wenham, Carey Mulligan, Rory Cochrane, Wesley Walker, Branka Katic, John Ortiz
-· Guion: Michael Mann,Ann Biderman,Ronan Bennett
-· Música: Elliot Goldenthal
-· Producción: Kevin Misher, Michael Mann
-· Productora: Relativity Media, Forward Pass, Universal Pictures, Misher Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3724120?od[]=Z1V:MM3_V"/>
+  <programme start="20260322180900 +0100" stop="20260322220000 +0100" channel="M+ Oscars">
+    <title lang="es">El señor de los anillos: las dos torres (versión extendida) (2002) | Movistar Plus+</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *4.2/5
+· El equilibrio de la Tierra Media se ha roto a causa de la alianza entre el poder oscuro de Sauron y de la magia negra de Saruman. Además, el influjo maléfico del Anillo ha dividido a la Comunidad que se formó para destruirlo.
+· País: EE.UU y Nueva Zelanda
+· Director: Peter Jackson
+· Reparto: Elijah Wood, Viggo Mortensen, Orlando Bloom, Ian McKellen, Sean Astin, Christopher Lee, Liv Tyler, John Rhys-Davies, Andy Serkis, Billy Boyd, Dominic Monaghan
+· Guion: Peter Jackson,Fran Walsh,Philippa Boyens
+· Música: Howard Shore
+· Producción: Peter Jackson, Fran Walsh, Barrie M. Osborne
+· Productora: New Line Cinema, WingNut Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3915006?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260319175800 +0100" stop="20260319200500 +0100" channel="M+ Los 2000">
-    <title lang="es">La tormenta perfecta (2000) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.5/5
-· Se alejaron de Gloucester en 1991 para conseguir la última pesca de la temporada. Quedaron atrapados por una tormenta mortífera.
+  <programme start="20260322220000 +0100" stop="20260322235800 +0100" channel="M+ Oscars">
+    <title lang="es">El discurso del rey (2010) | Movistar Plus+</title>
+    <desc lang="es">Histórico | Apto para todos los públicos | *3.6/5
+· A la muerte de su padre y tras una escandalosa abdicación Bertie, afectado desde siempre de un angustioso tartamudeo, asciende al trono como Jorge VI de Inglaterra. Su país se encuentra al borde de la guerra y necesita desesperadamente un líder.
+· País: Australia, EE.UU y R.U
+· Director: Tom Hooper
+· Reparto: Colin Firth, Geoffrey Rush, Helena Bonham Carter, Guy Pearce, Michael Gambon, Jennifer Ehle, Derek Jacobi, Timothy Spall, Anthony Andrews
+· Guion: David Seidler
+· Música: Alexandre Desplat
+· Producción: Iain Canning, Emile Sherman, Gareth Unwin
+· Productora: UK Film Council, The Weinstein Company, Momentum Pictures, Aegis Film Fund, Molinare London, FilmNation Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3848176?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322235800 +0100" stop="20260323021300 +0100" channel="M+ Oscars">
+    <title lang="es">Aún estoy aquí (2024) | Movistar Plus+</title>
+    <desc lang="es">Biopic | No recomendado para menores de doce años | *3.4/5
+· A principios de la década de 1970, Brasil se enfrenta a un régimen militar cada vez más brutal. En ese tenso clima, la familia Paiva trata de seguir su vida con alegría, hasta que un acto violento y arbitrario la cambiará para siempre.
+· País: Brasil y Francia
+· Director: Walter Salles
+· Reparto: Fernanda Torres, Selton Mello, Fernanda Montenegro
+· Guion: Murilo Hauser</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4375605?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322021300 +0100" stop="20260322041000 +0100" channel="M+ Oscars">
+    <title lang="es">Un hombre para la eternidad (1966) | Movistar Plus+</title>
+    <desc lang="es">Histórico | Apto para todos los públicos | *3.3/5
+· Cuando Enrique VIII decide divorciarse de su esposa se encuentra con la oposición firme de Sir Thomas Moro, ferviente católico.
+· País: R.U
+· Director: Fred Zinnemann
+· Reparto: Paul Scofield, Wendy Hiller, Robert Shaw, Leo McKern, Orson Welles, Vanessa Redgrave
+· Guion: Robert Bolt
+· Música: Georges Delerue
+· Producción: Fred Zinnemann
+· Productora: Open Road, Open Road Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3811366?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322041000 +0100" stop="20260322054400 +0100" channel="M+ Oscars">
+    <title lang="es">De ilusión también se vive (1947) | Movistar Plus+</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.2/5
+· Durante un desfile navideño organizado por los grandes almacenes Macy, el hombre que encarna a Santa Claus es sustituido por indisposición.
 · País: EE.UU
-· Director: Wolfgang Petersen
-· Reparto: George Clooney, Mark Wahlberg, Diane Lane, John C. Reilly, William Fichtner, Karen Allen, John Hawkes, Bob Gunton, Mary Elizabeth Mastrantonio, Jim Argenbright
-· Guion: William D. Wittliff,Wolfgang Petersen
-· Música: James Horner
-· Producción: Gail Katz, Wolfgang Petersen, Paula Weinstein
-· Productora: Warner Bros, Baltimore Spring Creek Productions, Radiant Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3805013?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319200500 +0100" stop="20260319220000 +0100" channel="M+ Los 2000">
-    <title lang="es">En busca de la felicidad (2006) | Movistar Plus+</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.8/5
-· Chris Gardner es un padre de familia que lucha por sobrevivir a una mala racha económica y sacar adelante a su hijo de cinco años. Su mujer, incapaz de soportar la escasez económica, los ha abandonado y Chris se ve de repente convertido en padre soltero.
-· País: EE.UU
-· Director: Gabriele Muccino
-· Reparto: Will Smith, Thandie Newton, Jaden Christopher Syre Smith, Dan Castellaneta, Brian Howe, James Karen, Kurt Fuller, Mark Christopher Lawrence
-· Guion: Steve Conrad
-· Música: Andrea Guerra
-· Producción: Todd Black, Jason Blumenthal, Steve Tisch, Will Smith, James Lassiter
-· Productora: Columbia Pictures, Relativity Media, Overbrook Entertainment, Escape Artists</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3635410?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319220000 +0100" stop="20260319235100 +0100" channel="M+ Los 2000">
-    <title lang="es">Crash (Colisión) (2004) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.8/5
-· Las vidas de un grupo de personas de Los Ángeles de diferentes etnias y clases sociales colisionarán tras un accidente.
-· País: Alemania y EE.UU
-· Director: Paul Haggis
-· Reparto: Sandra Bullock, Don Cheadle, Matt Dillon, Brendan Fraser, Jennifer Esposito, William Fichtner, Thandie Newton, Terrence Howard
-· Guion: Paul Haggis,Robert Moresco
-· Música: Mark Isham
-· Producción: Paul Haggis, Don Cheadle, Mark R. Harris, Cathy Schulman, Bob Yari
-· Productora: Lionsgate Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3777673?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319235100 +0100" stop="20260320015600 +0100" channel="M+ Los 2000">
-    <title lang="es">C.R.A.Z.Y. (2005) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.5/5
-· La historia de Zac es la de un chico que reniega de su naturaleza profunda para no perder el amor de su padre a lo largo de 30 años.
-· País: Canadá
-· Director: Jean-Marc Vallée
-· Reparto: Michel Côté, Marc-André Grondin, Danielle Proulx, Émile Vallée, Pierre-Luc Brillant
-· Guion: François Boulay
-· Música: David Bowie
-· Producción: Pierre Even
-· Productora: Cirrus Communications, Crazy Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3559536?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319015600 +0100" stop="20260319035100 +0100" channel="M+ Los 2000">
-    <title lang="es">El método (2005) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.0/5
-· Siete aspirantes a un alto puesto ejecutivo se presentan a una prueba de selección de personal para una empresa multinacional. Entre ellos, las personalidades más dispares: el triunfador, el agresivo, la insegura, el crítico o el indeciso.
-· País: Argentina, España e Italia
-· Director: Marcelo Piñeyro
-· Reparto: Eduardo Noriega, Najwa Nimri, Eduard Fernández, Pablo Echarri, Adriana Ozores, Carmelo Gómez, Ernesto Alterio
-· Guion: Marcelo Piñeyro,Mateo Gil
-· Música: Frédéric Bégin, Phil Electric
-· Producción: Gerardo Herrero, Francisco Ramos
-· Productora: Cattleya, Alquimia Cinema S.A, Arena Films, Tornasol Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4074003?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260319035100 +0100" stop="20260319052400 +0100" channel="M+ Los 2000">
-    <title lang="es">El diario de Bridget Jones (2001) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.5/5
-· Una treintañera sumida en plena crisis existencial decide escribir un diario con el que tratará de enfrentarse a sus obsesiones.
-· País: EE.UU, Francia y R.U
-· Director: Sharon Maguire
-· Reparto: Renée Zellweger, Hugh Grant, Colin Firth, Gemma Jones, Celia Imrie, Jim Broadbent, Embeth Davidtz, Shirley Henderson, James Callis, Sally Phillips
-· Guion: Richard Curtis,Andrew Davies,Helen Fielding,Patrick Dempsey
-· Música: Patrick Doyle
-· Producción: Tim Bevan, Jonathan Cavendish, Eric Fellner
-· Productora: Working Title Films, StudioCanal</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4057250?od[]=Z1V:MM3_V"/>
+· Director: George Seaton
+· Reparto: Edmund Gwenn, Natalie Wood, Maureen O'Hara, Gene Lockhart, John Payne, William Frawley, Porter Hall, Philip Tonge, Jerome Cowan
+· Guion: George Seaton,Valentine Davies
+· Música: Cyril J Mockridge
+· Producción: William Perlberg
+· Productora: Twentieth Century Fox</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4444714?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20260320052400 +0100" stop="20260320070000 +0100" channel="M+ Los 2000">
     <title lang="es">El mejor padre del mundo (2009) | Movistar Plus+</title>
@@ -649,7 +471,7 @@
 · Guion: Charlie Kaufman</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4425504?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320085100 +0100" stop="20260320103400 +0100" channel="M+ Los 2000">
+  <programme start="20260320085100 +0100" stop="20260320103500 +0100" channel="M+ Los 2000">
     <title lang="es">Querida Wendy (2004) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.0/5
 · En un empobrecido pueblo minero del medio oeste americano vive un grupo de adolescentes decepcionados por lo que les rodea.
@@ -658,7 +480,7 @@
 · Reparto: David Bair, Jamie Bell, Michael Angarano</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4314115?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320103400 +0100" stop="20260320124400 +0100" channel="M+ Los 2000">
+  <programme start="20260320103500 +0100" stop="20260320124500 +0100" channel="M+ Los 2000">
     <title lang="es">Antes que anochezca (2000) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
 · Vida del escritor cubano Reinaldo Arenas, disidente y exiliado, un poeta soñador perseguido por su inconformismo.
@@ -671,7 +493,7 @@
 · Productora: El Mar Pictures, Grandview Avenue Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3603780?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320124400 +0100" stop="20260320125100 +0100" channel="M+ Los 2000">
+  <programme start="20260320124500 +0100" stop="20260320125100 +0100" channel="M+ Los 2000">
     <title lang="es">Los Tortuga. Madres e hijas en duelo (2025) | Movistar Plus+</title>
     <desc lang="es">Programa de cine | No recomendado para menores de siete años | *3.0/5
 · Entrevista al equipo de ‘Los Tortuga’: la cineasta Belén Funes, la actriz Elvira Lara y el coguionista Marçal Cebrian en el Festival de San Sebastián. Conversan sobre maternidad, duelo, el problema de la vivienda y el contraste entre campo y ciudad.
@@ -760,9 +582,9 @@
 · En 1949, Clément Mathieu, músico fracasado, empieza a trabajar como vigilante en un internado de reeducación de menores especialmente represivo. En sus esfuerzos por acercarse a los chicos, Mathieu descubre que la música los atrae poderosamente.
 · País: Alemania, Francia y Suiza
 · Director: Christophe Barratier
-· Reparto: Gérard Jugnot, François Berléand, Kad Merad, Jean-Baptiste Maunier, Jean-Paul Bonnaire, Marie Bunel, Jacques Perrin, Grigory Gatignol
+· Reparto: Gérard Jugnot, François Berléand, Kad Merad, Jean-Baptiste Maunier, Jean-Paul Bonnaire, Marie Bunel
 · Guion: Christophe Barratier,Philippe Lopes-Curval
-· Música: Bruno Coulais, Christophe Barratier
+· Música: Bruno Coulais
 · Producción: Arthur Cohn, Nicolas Mauvernay, Jacques Perrin
 · Productora: Vega Film AG, Banque Populaire Images 4, CP Medien AG, Canal+</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3699194?od[]=Z1V:MM3_V"/>
@@ -779,7 +601,7 @@
 · Productora: The Star Overseas</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3779736?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260320030700 +0100" stop="20260320043800 +0100" channel="M+ Los 2000">
+  <programme start="20260320030700 +0100" stop="20260320043900 +0100" channel="M+ Los 2000">
     <title lang="es">Bronson (2008) | Movistar Plus+</title>
     <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.4/5
 · Biopic inédito en España del hombre más peligroso y desequilibrado del Reino Unido. Charles Bronson (cuyo verdadero nombre es Michael Peterson) es un preso real que lleva 36 años en prisión, la mayoría de ellos aislado de otros reclusos.
@@ -791,7 +613,7 @@
 · Productora: Vertigo Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4006744?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321043800 +0100" stop="20260321062000 +0100" channel="M+ Los 2000">
+  <programme start="20260321043900 +0100" stop="20260321062000 +0100" channel="M+ Los 2000">
     <title lang="es">A todo gas: Tokyo Race (2006) | Movistar Plus+</title>
     <desc lang="es">Acción | No recomendado para menores de dieciocho años | *3.6/5
 · Un joven rebelde se introduce en el peligroso mundo de las carreras 'drift' de Tokio, un juego muy ligado al sindicato japonés del crimen.
@@ -810,14 +632,14 @@
 · El exoperador de fuerzas especiales Frank Martin vive lo que parece ser una vida tranquila a orillas del Mediterráneo francés, donde presta sus servicios como transportador mercenario de bienes, ya sean humanos o de cualquier otro tipo. Sin preguntas.
 · País: EE.UU y Francia
 · Director: Louis Leterrier, Corey Yuen
-· Reparto: Jason Statham, Qi Shu, François Berléand, Matt Schulze, Ric Young, Doug Rand
+· Reparto: Jason Statham, Shu Qi, François Berléand, Matt Schulze, Ric Young, Doug Rand
 · Guion: Robert Mark Kamen,Luc Besson
 · Música: Stanley Clarke
 · Producción: Steve Chasman, Luc Besson
 · Productora: Europacorp, Canal+</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4060550?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321075000 +0100" stop="20260321095300 +0100" channel="M+ Los 2000">
+  <programme start="20260321075000 +0100" stop="20260321095600 +0100" channel="M+ Los 2000">
     <title lang="es">Family Man (2000) | Movistar Plus+</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.7/5
 · Jack Campbell, un ambicioso y egocéntrico broker de Wall Street obsesionado con su trabajo que ve cómo su vida da un vuelco.
@@ -830,7 +652,7 @@
 · Productora: Universal Pictures, Beacon Communications, Riche-Ludwig Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4119635?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321095300 +0100" stop="20260321112400 +0100" channel="M+ Los 2000">
+  <programme start="20260321095600 +0100" stop="20260321112700 +0100" channel="M+ Los 2000">
     <title lang="es">Siempre a tu lado (Hachiko) (2009) | Movistar Plus+</title>
     <desc lang="es">Drama | Apto para todos los públicos | *4.1/5
 · Parker es un apacible profesor de música que recoge, en la estación por la que pasa a diario, a un perro vagabundo. De nombre Hachiko, el perro le demostrará, meditante la entrega y la fidelidad, lo que es verdaderamente importante en la vida.
@@ -843,7 +665,7 @@
 · Productora: Grand Army Entertainment, Opperman Viner Chrystyn Entertainment, Inferno Distribution</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3979445?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321112400 +0100" stop="20260321131000 +0100" channel="M+ Los 2000">
+  <programme start="20260321112700 +0100" stop="20260321131400 +0100" channel="M+ Los 2000">
     <title lang="es">Happy Feet. Rompiendo el hielo (2006) | Movistar Plus+</title>
     <desc lang="es">Animación | No recomendado para menores de siete años | *3.5/5
 · En la Antártida, en la tierra de los pingüinos emperador, no eres nadie si no sabes cantar. Y ésto se convierte en el principal problema del pequeño Mumble, que ha nacido sin ese don pero cuenta con otra gran cualidad: saber bailar claqué.
@@ -856,7 +678,7 @@
 · Productora: Warner Bros</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4112103?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321131000 +0100" stop="20260321145900 +0100" channel="M+ Los 2000">
+  <programme start="20260321131400 +0100" stop="20260321150200 +0100" channel="M+ Los 2000">
     <title lang="es">School of Rock (Escuela de rock) (2003) | Movistar Plus+</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.7/5
 · Un guitarrista es expulsado de un grupo de rock por sus compañeros. Sin dinero, decide aceptar un puesto como profesor sustituto, aunque sus métodos de enseñanza serán un tanto particulares.
@@ -869,7 +691,7 @@
 · Productora: Paramount Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4065063?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321145900 +0100" stop="20260321172100 +0100" channel="M+ Los 2000">
+  <programme start="20260321150200 +0100" stop="20260321172200 +0100" channel="M+ Los 2000">
     <title lang="es">Diamante de sangre (2006) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.9/5
 · En 1999, cuando Sierra Leona se encuentra en plena guerra civil, Danny, un contrabandista de piedras preciosas, se cruza en el camino de Solomon, un pescador nativo que, cuando trabajaba en la mina como esclavo, enterró una enorme piedra de diamante.
@@ -882,7 +704,7 @@
 · Productora: Warner Bros. Pictures, Virtual Studios, Spring Creek Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3811056?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321172100 +0100" stop="20260321185400 +0100" channel="M+ Los 2000">
+  <programme start="20260321172200 +0100" stop="20260321185400 +0100" channel="M+ Los 2000">
     <title lang="es">Viaje al centro de la Tierra (2008) | Movistar Plus+</title>
     <desc lang="es">Aventuras | Apto para todos los públicos | *3.5/5
 · Un profesor de ciencias descubre en una copia de &quot;Viaje al centro de la Tierra&quot; una pista que podría indicar el paradero de su hermano desaparecido. Junto a su sobrino viaja a Islandia en busca de más indicios.
@@ -914,7 +736,7 @@
 · Tras una nueva victoria, el general romano Máximo sólo sueña con regresar a casa junto a su esposa e hijo, Cómodo, el hijo del agonizante emperador Marco Aurelio, celoso del favor que Máximo recibe de su padre, ordena matar a Máximo y a su familia.
 · País: EE.UU y R.U
 · Director: Ridley Scott
-· Reparto: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris, Derek Jacobi, Djimon Hounsou, David Schofield, Giannina Faccio, Giorgio Cantarini, Tomas Arana, John Shrapnel, David Hemmings
+· Reparto: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris, Derek Jacobi, Djimon Hounsou, David Schofield, Giannina Facio, Giorgio Cantarini, Tomas Arana, John Shrapnel, David Hemmings
 · Guion: John Logan,William Nicholson,David Franzoni
 · Música: Lisa Gerrard, Hans Zimmer
 · Producción: Branko Lustig, David Franzoni, Douglas Wick
@@ -934,7 +756,7 @@
 · Productora: Silver Pictures, Warner Bros. Pictures, Village Roadshow Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3743768?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260321023800 +0100" stop="20260321044800 +0100" channel="M+ Los 2000">
+  <programme start="20260321023800 +0100" stop="20260321044900 +0100" channel="M+ Los 2000">
     <title lang="es">Largo domingo de noviazgo (2004) | Movistar Plus+</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
 · Cuando la I Guerra Mundial se acerca a su fin, una joven francesa se entera de que su prometido es uno de los cinco soldados sometidos a consejo de guerra y enviados a la tierra de nadie que hay entre los ejércitos alemán y francés, a una muerte segura.
@@ -946,5 +768,160 @@
 · Producción: Jean-Pierre Jeunet
 · Productora: Gerber Pictures, Warner Bros, TF1 Films Production, 2003 Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4388378?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322044900 +0100" stop="20260322073000 +0100" channel="M+ Los 2000">
+    <title lang="es">El buen pastor (2006) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
+· Historia de los cuarenta años de carrera de uno de los fundadores de la CIA, Edward Wilson, y sus problemas con la familia.
+· País: EE.UU
+· Director: Robert De Niro
+· Reparto: Matt Damon, Angelina Jolie, Robert De Niro, Alec Baldwin, Tammy Blanchard, Billy Crudup, Keir Dullea, Michael Gambon, John Turturro
+· Guion: Eric Roth
+· Música: Marcelo Zarvos, Bruce Fowler
+· Producción: James G. Robinson, Jane Rosenthal, Robert De Niro
+· Productora: Universal Pictures, Morgan Creek Productions, Tribeca Productions, American Zoetrope</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3848169?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322073000 +0100" stop="20260322092000 +0100" channel="M+ Los 2000">
+    <title lang="es">Superfumados (2008) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *3.1/5
+· Dale Denton tiene una extraña relación de negocios con Saul Silver al que solamente ve para comprarle una nueva clase de marihuana. Dale, casualmente, se convierte en el único testigo de un asesinato cometido por una policía.
+· País: EE.UU
+· Director: David Gordon Green
+· Reparto: Seth Rogen, James Franco, Danny McBride, Kevin Corrigan
+· Guion: Evan Goldberg,Judd Apatow,Seth Rogen
+· Música: Graeme Revell
+· Producción: Judd Apatow, Shauna Robertson
+· Productora: Apatow Productions, Columbia Pictures, Relativity Media</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3893679?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322092000 +0100" stop="20260322110600 +0100" channel="M+ Los 2000">
+    <title lang="es">Happy Feet. Rompiendo el hielo (2006) | Movistar Plus+</title>
+    <desc lang="es">Animación | No recomendado para menores de siete años | *3.5/5
+· En la Antártida, en la tierra de los pingüinos emperador, no eres nadie si no sabes cantar. Y ésto se convierte en el principal problema del pequeño Mumble, que ha nacido sin ese don pero cuenta con otra gran cualidad: saber bailar claqué.
+· País: Australia y EE.UU
+· Director: George Miller
+· Reparto: Carlos Alazraqui, Lombardo Boyar, Jeffrey Garcia
+· Guion: George Miller,John Collee,Warren Coleman,Judy Morris
+· Música: John Powell
+· Producción: George Miller, Doug Mitchell, Bill Miller
+· Productora: Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4112103?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322110600 +0100" stop="20260322123300 +0100" channel="M+ Los 2000">
+    <title lang="es">Como en casa en ningún sitio (2008) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.0/5
+· Los planes de una pareja acomodada, acostumbrada a escaparse de las celebraciones navideñas, han sido cancelados de manera inesperada. Este año no les quedará otro remedio que enfrentarse a la locura familiar, una experiencia que les cambiará la vida.
+· País: Alemania y EE.UU
+· Director: Seth Gordon
+· Reparto: Sissy Spacek, Robert Duvall, Mary Steenburgen, Jon Voight, Reese Witherspoon, Vince Vaughn, Carol Kane, Jon Favreau, Dwight Yoakam, Brian Baumgartner
+· Guion: Jon Lucas,Scotty Moore,Matt Allen,Caleb Wilson
+· Música: Alex Wurman
+· Producción: Roger Birnbaum, Gary Barber, Jonathan Glickman</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4445976?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322123300 +0100" stop="20260322141600 +0100" channel="M+ Los 2000">
+    <title lang="es">La joya de la familia (2005) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.0/5
+· El hijo mayor de los Stone aprovecha la Navidad para presentar a su prometida, una neoyorquina de pura cepa, ambiciosa y controladora, que no tiene nada en común con ellos.
+· País: EE.UU
+· Director: Thomas Bezucha
+· Reparto: Claire Danes, Diane Keaton, Rachel McAdams, Dermot Mulroney, Craig T. Nelson, Sarah Jessica Parker, Luke Wilson, Tyrone Giordano
+· Guion: Thomas Bezucha
+· Música: Michael Giacchino
+· Producción: Michael London
+· Productora: Fox 2000 Pictures, Michael London Productions, The Family Stone</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4445984?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322141600 +0100" stop="20260322155000 +0100" channel="M+ Los 2000">
+    <title lang="es">Los hombres que miraban fijamente a las cabras (2009) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.3/5
+· Un reportero en horas bajas descubre un programa militar secreto que permite leer los pensamientos del enemigo.
+· País: EE.UU y R.U
+· Director: Grant Heslov
+· Reparto: George Clooney, Ewan McGregor, Jeff Bridges, Kevin Spacey, Robert Patrick, Stephen Lang, Rebecca Mader, Nick Offerman, Glenn Morshower, Tim Griffin
+· Guion: Peter Straughan
+· Música: Rolfe Kent
+· Producción: George Clooney, Grant Heslov, Paul Lister
+· Productora: BBC Films, Ruby Films, Smokehouse Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3646173?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322155000 +0100" stop="20260322174600 +0100" channel="M+ Los 2000">
+    <title lang="es">Todos los caballos bellos (2000) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de siete años | *3.1/5
+· Tras vender su rancho, un joven tejano se dirige al sur. Allí conocerá nuevos amigos y hallará un amor prohibido que cambiará su vida.
+· País: EE.UU
+· Director: Billy Bob Thornton
+· Reparto: Matt Damon, Henry Thomas, Penélope Cruz, Lucas Black, Rubén Blades, Robert Patrick, Sam Shepard, Bruce Dern, Miriam Colon
+· Guion: Ted Tally
+· Música: Marty Stuart, Kristin Wilkinson, Larry Paxton
+· Producción: Billy Bob Thornton, Robert Salerno
+· Productora: Columbia Pictures Corporation, Miramax Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4461362?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322174600 +0100" stop="20260322194200 +0100" channel="M+ Los 2000">
+    <title lang="es">Outlander (2008) | Movistar Plus+</title>
+    <desc lang="es">Aventuras | No recomendado para menores de dieciocho años | *3.4/5
+· Noruega, siglo VIII. Una nave espacial aterriza cerca de un poblado vikingo. En ella viaja Kainan, un soldado que custodia a un monstruo del espacio llamado Moorwen. Pero la bestia escapa y arrasa todo a su paso.
+· País: Alemania, EE.UU y Francia
+· Director: Howard McCain
+· Reparto: Jim Caviezel, Sophia Myles, Jack Huston, Ron Perlman, John Hurt, Aidan Devine, Patrick Stevenson, Todd William Schroeder, Cliff Saunders, Bryan Renfro, Danny Lima, Glen Wadman, Brian Heighton, Mauralea Austin
+· Guion: Howard McCain,Dirk Blackman
+· Música: Geoff Zanelli
+· Producción: Chris Roberts, John Schimmel, Barrie M. Osborne
+· Productora: Virtual Films, Ascendant Pictures, The Weinstein Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3710307?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322194200 +0100" stop="20260322220000 +0100" channel="M+ Los 2000">
+    <title lang="es">Matrix Reloaded (2003) | Movistar Plus+</title>
+    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *3.8/5
+· 250.000 centinelas del Ejército de las Máquinas se dirigen hacia la ciudad oculta de Sión, último enclave de los humanos supervivientes. Morfeo, Trinity y Neo disponen de 72 horas hasta que las máquinas lleguen al santuario humano.
+· País: EE.UU
+· Director: Lana Wachowski, Lilly Wachowski
+· Reparto: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Jada Pinkett Smith, Gloria Foster, Shane C. Rodrigo, Harold Perrineau, Joe Pantoliano
+· Guion: Lana Wachowski,Lilly Wachowski
+· Música: Don Davis
+· Producción: Joel Silver
+· Productora: Warner Bros, Village Roadshow Pictures, Silver Pictures, NPV Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3878137?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322220000 +0100" stop="20260323001000 +0100" channel="M+ Los 2000">
+    <title lang="es">Matrix Revolutions (2003) | Movistar Plus+</title>
+    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *3.8/5
+· Quedan 20 horas para la irrupción de las máquinas en Sión, el último bastión de los humanos libres. Mientras el cuerpo de Neo permanece en coma, su consciencia se encuentra en tierra de nadie, en un lugar entre el mundo humano y el de las máquinas.
+· País: EE.UU
+· Director: Lana Wachowski, Lilly Wachowski
+· Reparto: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Jada Pinkett Smith, Monica Bellucci, Mary Alice, Helmut Bakaitis, Nona Gaye
+· Guion: Lilly Wachowski,Lana Wachowski
+· Música: Don Davis
+· Producción: Joel Silver
+· Productora: Warner Bros. Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3878147?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322001000 +0100" stop="20260322015200 +0100" channel="M+ Los 2000">
+    <title lang="es">Narc (2002) | Movistar Plus+</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.3/5
+· Tras varios meses de suspensión por haber disparado accidentalmente sobre una mujer embarazada en el curso de una operación encubierta, el agente NickTellis tiene la oportunidad de redimirse participando en otra investigación policial.
+· País: Canadá y EE.UU
+· Director: Joe Carnahan
+· Reparto: Jason Patric, Ray Liotta, Dan Leis, Chi McBride, Booth Savage, Karen Robinson, Krista Bridges, Alan C. Peterson
+· Guion: Joe Carnahan
+· Música: Cliff Martinez
+· Producción: Michelle Grace, Ray Liotta, Diane Nabatoff, Julius R. Nasso
+· Productora: Paramount Pictures, Lions Gate Films Inc, Cruise-Wagner Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3646184?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260322015200 +0100" stop="20260322033000 +0100" channel="M+ Los 2000">
+    <title lang="es">Hero de Zhang Yimou (2002) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.5/5
+· Entre los años 481 y 221 a.C., China está dividida en siete reinos y la población lleva décadas de muerte y sufrimiento por las guerras de conquista. El rey de Qin, que quiere convertirse en el primer emperador de China, ha sufrido varios atentados.
+· País: China y Hong Kong
+· Director: Yimou Zhang
+· Reparto: Jet Li, Zhang Ziyi, Donnie Yen, Tony Leung Chiu-wai, Maggie Cheung, Chen Dao Ming, Jie Liu, James Hong, James Sie, Elizabeth Sung
+· Guion: Bin Wang,Feng Li (Guionista),Wang Bin,Yimou Zhang
+· Música: Tan Dun
+· Producción: Yimou Zhang, William Kong
+· Productora: Beijing New Picture Film Co, Elite Group Enterprises</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3885227?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
