@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 30/03/2026 02:28">
+<tv generator-info-name="MultiPopUps FullDesc 31/03/2026 02:23">
   <channel id="M+ Top Comedia Española">
     <display-name>M+ Top Comedia Española</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TOPCOM"/>
@@ -8,160 +8,196 @@
     <display-name>M+ Los 2000</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000"/>
   </channel>
-  <programme start="20260330054400 +0200" stop="20260330072500 +0200" channel="M+ Los 2000">
-    <title lang="es">La joya de la familia (2005) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.1/5
-· El hijo mayor de los Stone aprovecha la Navidad para presentar a su prometida, una neoyorquina de pura cepa, ambiciosa y controladora, que no tiene nada en común con ellos.
-· País: EE.UU
-· Director: Thomas Bezucha
-· Reparto: Claire Danes, Diane Keaton, Rachel McAdams, Dermot Mulroney, Craig T. Nelson, Sarah Jessica Parker, Luke Wilson, Tyrone Giordano
-· Guion: Thomas Bezucha
-· Música: Michael Giacchino
-· Producción: Michael London
-· Productora: Fox 2000 Pictures, Michael London Productions, The Family Stone</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4445984?od[]=Z1V:MM3_V"/>
+  <programme start="20260402080000 +0200" stop="20260402092400 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Novio a la vista (1954) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
+· Es verano y la madre de Loli convence a su hija para ir a San Sebastián en busca de un novio adecuado, y mejor si es ingeniero.
+· País: España
+· Director: Luis García Berlanga
+· Reparto: Josette Arno, Jorge Vico, Julia Caba Alba, Antonio Vico, Fernando Aguirre
+· Guion: José Luis Colina,Juan Antonio Bardem,Luis García Berlanga
+· Música: Juan Quintero
+· Producción: Benito Perojo
+· Productora: C.E.A.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3964460?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260330072500 +0200" stop="20260330091500 +0200" channel="M+ Los 2000">
-    <title lang="es">Superfumados (2008) | Movistar Plus+</title>
+  <programme start="20260402092400 +0200" stop="20260402104500 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Vivan los novios (1970) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.1/5
+· Un comerciante viaja a casarse, pero un descuido de su prometida y su cuñado provoca la muerte de su madre. Aun así, la boda sigue adelante.
+· País: España
+· Director: Luis García Berlanga
+· Reparto: José Luis López Vázquez, Laly Soldevila, José María Prada, Manuel Alexandre, François-Xavier Vives, Teresa Gisbert, Jane Fellner, Romy, Luis Ciges
+· Guion: Rafael Azcona,Luis García Berlanga
+· Música: Antonio Pérez Olea
+· Producción: Cesáreo González Rodríguez
+· Productora: Suevia Films, Cesáreo González Producciones Cinematográficas</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4411251?od[]=Z1V:FLIXO_V"/>
+  </programme>
+  <programme start="20260402104500 +0200" stop="20260402120800 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Agítese antes de usarla (1983) | Movistar Plus+</title>
     <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *3.1/5
-· Dale Denton tiene una extraña relación de negocios con Saul Silver al que solamente ve para comprarle una nueva clase de marihuana. Dale, casualmente, se convierte en el único testigo de un asesinato cometido por una policía.
-· País: EE.UU
-· Director: David Gordon Green
-· Reparto: Seth Rogen, James Franco, Danny McBride, Kevin Corrigan
-· Guion: Evan Goldberg,Judd Apatow,Seth Rogen
-· Música: Graeme Revell
-· Producción: Judd Apatow, Shauna Robertson
-· Productora: Apatow Productions, Columbia Pictures, Relativity Media</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3893679?od[]=Z1V:MM3_V"/>
+· A dos estafadores que sólo buscan ganar dinero fácil y ligar con cualquier mujer que se les ponga a tiro, se les presenta la oportunidad de su vida en una clínica al borde de la quiebra.
+· País: España
+· Director: Mariano Ozores
+· Reparto: Andrés Pajares, Fernando Esteso, Antonio Ozores, Alfonso del Real, Jenny Llada, Adrián Ortega, Arévalo
+· Guion: Mariano Ozores
+· Música: Gregorio García Segura
+· Productora: Ízaro Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3955927?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260330091500 +0200" stop="20260330112900 +0200" channel="M+ Los 2000">
-    <title lang="es">Matrix Reloaded (2003) | Movistar Plus+</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *3.8/5
-· 250.000 centinelas del Ejército de las Máquinas se dirigen hacia la ciudad oculta de Sión, último enclave de los humanos supervivientes. Morfeo, Trinity y Neo disponen de 72 horas hasta que las máquinas lleguen al santuario humano.
-· País: EE.UU
-· Director: Lana Wachowski, Lilly Wachowski
-· Reparto: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Jada Pinkett Smith, Gloria Foster, Shane C. Rodrigo, Harold Perrineau, Joe Pantoliano
-· Guion: Lana Wachowski,Lilly Wachowski
-· Música: Don Davis
-· Producción: Joel Silver
-· Productora: Warner Bros, Village Roadshow Pictures, Silver Pictures, NPV Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3878137?od[]=Z1V:MM3_V"/>
+  <programme start="20260402120800 +0200" stop="20260402135300 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Los 2 lados de la cama (2005) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *3.2/5
+· Tres amigos que han compartido sus problemas con las mujeres parecen haber encauzado sus vidas. Pero la realidad en la que viven es distinta desde el punto de vista de sus chicas.
+· País: España
+· Director: Emilio Martínez-Lázaro
+· Reparto: Ernesto Alterio, Willy Toledo, Alberto San Juan, María Esteve, Pilar Castro, Lucía Jiménez, Guillermo Toledo, Secun de la Rosa, Juana Acosta, Verónica Sánchez, Luis Bermejo, Diego París, Maite Pastor, Roberto Álamo
+· Guion: David Serrano
+· Música: Roque Baños
+· Producción: Tomás Cimadevilla
+· Productora: Impala, Estudios Picasso, Telecinco, Canal+, Telespan 2000 S.L</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4442825?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260330112900 +0200" stop="20260330133600 +0200" channel="M+ Los 2000">
-    <title lang="es">Matrix Revolutions (2003) | Movistar Plus+</title>
-    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *3.8/5
-· Quedan 20 horas para la irrupción de las máquinas en Sión, el último bastión de los humanos libres. Mientras el cuerpo de Neo permanece en coma, su consciencia se encuentra en tierra de nadie, en un lugar entre el mundo humano y el de las máquinas.
-· País: EE.UU
-· Director: Lana Wachowski, Lilly Wachowski
-· Reparto: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Jada Pinkett Smith, Monica Bellucci, Mary Alice, Helmut Bakaitis, Nona Gaye
-· Guion: Lilly Wachowski,Lana Wachowski
-· Música: Don Davis
-· Producción: Joel Silver
-· Productora: Warner Bros. Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3878147?od[]=Z1V:MM3_V"/>
+  <programme start="20260402135300 +0200" stop="20260402153100 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Vente a Alemania, Pepe (1971) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.3/5
+· Al pueblo de Paralejos de Arriba regresa Angelino, que llega de Múnich montado en un despampanante coche y contando maravillas sobre Alemania y sus mujeres. Su amigo Pepe, deslumbrado por lo que escucha, decide irse unos meses a trabajar allí.
+· País: España
+· Director: Pedro Lazaga
+· Reparto: Alfredo Landa, José Sacristán, Tina Sáinz, Antonio Ferrandis, Gemma Cuervo, Fernando Guillén
+· Guion: Vicente Escrivá,Vicente Coello
+· Música: Antón García Abril
+· Producción: Vicente Escrivá
+· Productora: Aspa Producciones Cinematográficas S.A.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3876358?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260330133600 +0200" stop="20260330160400 +0200" channel="M+ Los 2000">
-    <title lang="es">Ray (2004) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
-· La vida de Ray Charles, un niño pobre y ciego que fue capaz de cambiar el curso de la música estadounidense.
-· País: EE.UU
-· Director: Taylor Hackford
-· Reparto: Jamie Foxx, Regina King, Kerry Washington, Clifton Powell, Harry Lennix, Bokeem Woodbine
-· Guion: Taylor Hackford,James L White
-· Música: Ray Charles, Craig Armstrong
-· Producción: Taylor Hackford, Howard Baldwin, Karen Elise Baldwin, Stuart Benjamin
-· Productora: Baldwin Entertainment Group, Bristol Bay Productions, Anvil Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4428923?od[]=Z1V:MM3_V"/>
+  <programme start="20260402153100 +0200" stop="20260402170900 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Historias de la radio (1955) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.2/5
+· La radio, además de entretener, se puede convertir en el punto de referencia para los intereses más variopintos, como es el caso de estas tres historias basadas en concursos radiofónicos y que están enlazadas a través del locutor Gabriel y su prometida.
+· País: España
+· Director: José Luis Sáenz de Heredia
+· Reparto: Francisco Rabal, Margarita Andrey, Ángel de Andrés, José Isbert, Bobby Deglané, José María Lado, Alberto Romea, Guadalupe Muñoz Sampedro, Juanjo Menéndez, Tony Leblanc
+· Guion: José Luis Sáenz de Heredia
+· Música: Ernesto Halffter
+· Productora: Chapalo Films, S.A., Chapalo Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3852504?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260330160400 +0200" stop="20260330175600 +0200" channel="M+ Los 2000">
-    <title lang="es">Hable con ella (2002) | Movistar Plus+</title>
-    <desc lang="es">Melodrama | No recomendado para menores de doce años | *3.1/5
-· Benigno es un enfermero que se enamora de una bailarina desconocida. Tras un accidente, ella entra en coma y acaba bajo su cuidado. Cuando una torera cae en coma, es llevada a la misma sala, y Benigno entabla amistad con su acompañante Marco.
+  <programme start="20260402170900 +0200" stop="20260402183500 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Aquí llega Condemor (el pecador de la pradera) (1996) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.2/5
+· En los años del salvaje Oeste, el pintoresco aristócrata francés Condemor y su criado mexicano, Lucas, dos cobardicas, arruinados y siempre metidos en líos, viajan sin rumbo definido por las áridas praderas americanas.
+· País: España
+· Director: Álvaro Sáenz de Heredia
+· Reparto: Chiquito de la Calzada, Bigote Arrocet, Sol Abad, Naïm Thomas, Julio Tejela, Maria José Nieto
+· Guion: Álvaro Sáenz de Heredia
+· Música: Ramón Farrán
+· Producción: Julio Parra, Sonia Vives, Álvaro Sáenz de Heredia
+· Productora: Producciones ASH Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3755834?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402183500 +0200" stop="20260402202000 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">La gran aventura de Mortadelo y Filemón (2003) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.6/5
+· Al profesor Bacterio le han robado un peligroso invento que cae en manos de un dictador dispuesto a usarlo de forma criminal. El Súper lo tiene claro: si quiere recuperarlo, no debe contar con sus agentes Mortadelo y Filemón.
+· País: España
+· Director: Javier Fesser
+· Reparto: Benito Pocino, Pepe Viyuela, Dominique Pinon, Paco Sagarzazu, Mariano Venancio, Janfri Topera, Berta Ojea, María Isbert
+· Guion: Javier Fesser,Guillermo Fesser
+· Música: Rafael Arnau, Mario Gosálvez
+· Producción: Fernando Bovaira, José Luis Garci, Luis Manso
+· Productora: Sociedad General de Cine (Sogecine) S.A, Películas Pendelton, Sogecable, Telecinco, Canal+ España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3761609?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402202000 +0200" stop="20260402214800 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Manolito Gafotas (1999) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.7/5
+· A Manolo García Moreno, de Carabanchel Alto, Madrid, todo el mundo lo conoce como Manolito Gafotas. Manolito espera con ilusión la llegada de su padre, camionero, ya que espera poder empezar a conocer el que será su medio de ganarse la vida en el futuro.
+· País: España
+· Director: Miguel Albaladejo
+· Reparto: David Sánchez del Rey, Adriana Ozores, Roberto Álvarez, Antonio Gamero, Fedra Lorente, Alejandro Martínez
+· Guion: Elvira Lindo,Miguel Albaladejo
+· Música: Lucio Godoy
+· Producción: Julio Fernández, Miguel Ángel González
+· Productora: Filmax</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3592725?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402214800 +0200" stop="20260402220000 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Espacio M+.  Temporada (T2). Espacio M+ (T2): Un lío de millones. Humor y reflexión (2024) | Movistar Plus+</title>
+    <desc lang="es">Entretenimiento | No recomendado para menores de siete años | *3.0/5
+· Los protagonistas y la directora de esta divertida comedia nos dan todas las claves para disfrutar y reflexionar con “Un lio de millones”. En ella, unos padres que se sienten abandonados por sus hijos, idean un plan para que vuelvan a casa por Navidad.
+· País: España
+· Productora: Movistar+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4334509?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20260402220000 +0200" stop="20260402233100 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Los aitas (2025) | Movistar Plus+</title>
+    <desc lang="es">Comedia dramática | No recomendado para menores de siete años | *3.2/5
+· Unos padres ochenteros, tan infantiles como cero implicados en la educación de sus hijas, tienen que encargarse de llevarlas a un campeonato de gimnasia rítmica en Berlín, algo para lo que no están preparados.
+· País: Bélgica y España
+· Director: Borja Cobeaga
+· Reparto: Quim Gutiérrez, Juan Diego Botto, Iñaki Ardanaz, Mikel Losada, Laura Weissmahr, Ramón Barea
+· Guion: Borja Cobeaga,Valentina Viso
+· Música: Aránzazu Calleja
+· Producción: Valérie Delpierre, Nahikari Ipiña
+· Productora: Despadres, A.I.E., Inicia Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4384163?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402233100 +0200" stop="20260403005600 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">El factor Pilgrim (2000) | Movistar Plus+</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.1/5
+· Francisco es un español que vive en Londres y que recibe una oferta suculenta por unas baratijas que compró en un mercadillo.
+· País: España
+· Director: Santiago Amodeo, Alberto Rodríguez
+· Reparto: Alex O'Dogherty, Enrico Vecchi, Jons Pappila, Howard Nightingall, Paul Rattee
+· Guion: Santi Amodeo,Alberto Rodríguez
+· Música: Lavadora
+· Producción: Jose Antonio Félez
+· Productora: Televisión Española (TVE), Vía Digital, ASA Filmed Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3643432?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402005600 +0200" stop="20260402023600 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">¿Qué he hecho yo para merecer esto? (1984) | Movistar Plus+</title>
+    <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.2/5
+· Gloria trabaja de asistenta, además de cuidar de su casa y de su familia. Los cuarenta metros cuadrados de vivienda los comparte con su marido taxista, su suegra, dos hijos macarras y un lagarto. No es una mujer feliz.
 · País: España
 · Director: Pedro Almodóvar
-· Reparto: Javier Cámara, Darío Grandinetti, Leonor Watling, Rosario Flores, Mariola Fuentes, Geraldine Chaplin, Elena Anaya
+· Reparto: Carmen Maura, Verónica Forqué, Chus Lampreave, Kiti Mánver, Ángel de Andrés López, Gonzalo Suárez, Luis Hostalot
 · Guion: Pedro Almodóvar
-· Música: Alberto Iglesias, Javier Aguirresarobe
-· Producción: Agustín Almodóvar
-· Productora: El Deseo, Vía Digital, Antena 3 Televisión, Good Machine</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4172296?od[]=Z1V:MM3_V"/>
+· Música: Bernardo Bonezzi
+· Producción: Herve Hachuel
+· Productora: Kaktus Producciones Cinematograficas S.A., Tesauro</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4202884?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260330175600 +0200" stop="20260330192500 +0200" channel="M+ Los 2000">
-    <title lang="es">Como en casa en ningún sitio (2008) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.0/5
-· Los planes de una pareja acomodada, acostumbrada a escaparse de las celebraciones navideñas, han sido cancelados de manera inesperada. Este año no les quedará otro remedio que enfrentarse a la locura familiar, una experiencia que les cambiará la vida.
-· País: Alemania y EE.UU
-· Director: Seth Gordon
-· Reparto: Sissy Spacek, Robert Duvall, Mary Steenburgen, Jon Voight, Reese Witherspoon, Vince Vaughn, Carol Kane, Jon Favreau, Dwight Yoakam, Brian Baumgartner
-· Guion: Jon Lucas,Scotty Moore,Matt Allen,Caleb Wilson
-· Música: Alex Wurman
-· Producción: Roger Birnbaum, Gary Barber, Jonathan Glickman</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4445976?od[]=Z1V:MM3_V"/>
+  <programme start="20260402023600 +0200" stop="20260402024600 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">Espacio M+.  Temporada (T2). Espacio M+ (T2): Amanece en Samaná. Viaje de parejas al paraíso (2024) | Movistar Plus+</title>
+    <desc lang="es">Entretenimiento | No recomendado para menores de siete años | *3.1/5
+· Los detalles de esta comedia dramática rodada en una playa paradisíaca nos los cuentan su director, Rafa Cortés, y sus protagonistas: Luis Tosar, Luisa Mayol, Bárbara Santa Cruz y Luis Zahera.
+· País: España
+· Productora: Movistar+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4319832?od[]=Z1V:MORIG3_V"/>
   </programme>
-  <programme start="20260330192500 +0200" stop="20260330220000 +0200" channel="M+ Los 2000">
-    <title lang="es">Gladiator (El gladiador) (2000) | Movistar Plus+</title>
-    <desc lang="es">Aventuras | No recomendado para menores de doce años | *4.2/5
-· Tras una nueva victoria, el general romano Máximo sólo sueña con regresar a casa junto a su esposa e hijo, Cómodo, el hijo del agonizante emperador Marco Aurelio, celoso del favor que Máximo recibe de su padre, ordena matar a Máximo y a su familia.
-· País: EE.UU y R.U
-· Director: Ridley Scott
-· Reparto: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris, Derek Jacobi, Djimon Hounsou, David Schofield, Giannina Facio, Giorgio Cantarini, Tomas Arana, John Shrapnel, David Hemmings
-· Guion: John Logan,William Nicholson,David Franzoni
-· Música: Lisa Gerrard, Hans Zimmer
-· Producción: Branko Lustig, David Franzoni, Douglas Wick
-· Productora: DreamWorks SKG, Universal Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3859434?od[]=Z1V:MM3_V"/>
+  <programme start="20260402024600 +0200" stop="20260402033000 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">El consultorio de Berto.  Temporada (T3). El consultorio de... (T3): Joaquín Reyes y la sonrisa del psicópata (2025) | Movistar Plus+</title>
+    <desc lang="es">Humor | No recomendado para menores de dieciséis años | *3.0/5
+· Joaquín Reyes, Berto Romero y Andrés Fajngold, entre otros retos, ponen a prueba su capacidad de comprensión cuando intentan averiguar ¿cuánto tiene que durar una sonrisa al terminar una conversación para que no parezcas un psicópata?
+· País: España
+· Presenta: Berto Romero
+· Producción: Movistar Plus+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4464832?od[]=Z1V:MORIG3_V"/>
   </programme>
-  <programme start="20260330220000 +0200" stop="20260330234300 +0200" channel="M+ Los 2000">
-    <title lang="es">Los otros (2001) | Movistar Plus+</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.5/5
-· La II Guerra Mundial ha terminado, pero el marido de Grace no vuelve. Sola en un aislado caserón, Grace educa a sus dos hijos siguiendo estrictas normas religiosas mientras los protege de una enfermedad que les impide recibir directamente la luz del sol.
-· País: EE.UU, España y Francia
-· Director: Alejandro Amenábar
-· Reparto: Nicole Kidman, Fionnula Flanagan, Christopher Eccleston, Alakina Mann, James Bentley, Eric Sykes
-· Guion: Alejandro Amenábar
-· Música: Alejandro Amenábar
-· Producción: Tom Cruise, José Luis Cuerda, Fernando Bovaira, Park Sunmin
-· Productora: Cruise-Wagner Productions, Sociedad General de Cine (Sogecine) S.A, Las Producciones del Escorpión S.L., Dimension Films, Canal+, Canal+ España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3643446?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260330234300 +0200" stop="20260331014100 +0200" channel="M+ Los 2000">
-    <title lang="es">El embrujo de Shanghai (2002) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de siete años | *3.0/5
-· En la Barcelona de 1948, las apariciones y desapariciones de los maquis que llegan desde el otro lado de la frontera y el relato de sus aventuras son lo único que anima el ambiente gris de la posguerra.
-· País: España, Francia y R.U
-· Director: Fernando Trueba
-· Reparto: Fernando Fernán Gómez, Eduard Fernández, Aida Folch, Ariadna Gil, Antonio Resines, Jorge Sanz, Rosa Maria Sardà, Fernando Tielve
-· Guion: Fernando Trueba
-· Música: Antoine Duhamel
-· Producción: Cristina Huete, Andrés Vicente Gómez
-· Productora: Antena 3 Televisión, Eurimages, Lolafilms, MEDIA Programme of the European Union, Pyramide-Orsans Productions, Shanghai Spell, Telemadrid, Vía Digital</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4075156?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260330014100 +0200" stop="20260330035100 +0200" channel="M+ Los 2000">
-    <title lang="es">Largo domingo de noviazgo (2004) | Movistar Plus+</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
-· Cuando la I Guerra Mundial se acerca a su fin, una joven francesa se entera de que su prometido es uno de los cinco soldados sometidos a consejo de guerra y enviados a la tierra de nadie que hay entre los ejércitos alemán y francés, a una muerte segura.
-· País: EE.UU y Francia
-· Director: Jean-Pierre Jeunet
-· Reparto: Audrey Tautou, Gaspard Ulliel, Jean-Pierre Becker, Dominique Bettenfeld, Clovis Cornillac, Marion Cotillard, Dominique Pinon, Chantal Neuwirth, Jodie Foster
-· Guion: Jean-Pierre Jeunet,Guillaume Laurant
-· Música: Angelo Badalamenti
-· Producción: Jean-Pierre Jeunet
-· Productora: Gerber Pictures, Warner Bros, TF1 Films Production, 2003 Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4388378?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260330035100 +0200" stop="20260330052400 +0200" channel="M+ Los 2000">
-    <title lang="es">Caramel (2007) | Movistar Plus+</title>
-    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.2/5
-· Cinco mujeres libanesas comparten sus vidas y preocupaciones en un salón de belleza en Beirut, un lugar que huele a caramelo: el peculiar aroma de la pasta hecha con azúcar, agua y limón con la que se depilan.
-· País: Francia y Líbano
-· Director: Nadine Labaki
-· Reparto: Nadine Labaki, Yasmine Al Masri, Joanna Moukarzel, Gisèle Aouad, Siham Haddad, Aziza Semaan
-· Guion: Nadine Labaki,Jihad Hojeily,Rodney El Haddad
-· Música: Khaled Mouzannar
-· Producción: Anne-Dominique Toussaint
-· Productora: Les Films des Tournelles, Les Films de Beyrouth, Roissy Films, Sunnyland, Arte France</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3917060?od[]=Z1V:MM3_V"/>
+  <programme start="20260402033000 +0200" stop="20260402045800 +0200" channel="M+ Top Comedia Española">
+    <title lang="es">La Lola nos lleva al huerto (1984) | Movistar Plus+</title>
+    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.1/5
+· Lola es una joven y bella muchacha que va a tener un hijo pero que no sabe quién es el padre. Por eso le dice, primero a Ataulfo y luego a Paco, que el hijo es suyo.
+· País: España
+· Director: Mariano Ozores
+· Reparto: Andrés Pajares, Fernando Esteso, Antonio Ozores, Pilar Bardem, Antonio Gamero, Emma Ozores, Susana Blázquez
+· Guion: Mariano Ozores
+· Música: Gregorio García Segura
+· Productora: Ízaro Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4367932?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20260331052400 +0200" stop="20260331072000 +0200" channel="M+ Los 2000">
     <title lang="es">15 minutos (2001) | Movistar Plus+</title>
@@ -480,5 +516,167 @@
 · Producción: Billy Bob Thornton, Robert Salerno
 · Productora: Columbia Pictures Corporation, Miramax Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4461362?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402053000 +0200" stop="20260402071500 +0200" channel="M+ Los 2000">
+    <title lang="es">2 Fast 2 Furious (A todo gas 2) (2003) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.4/5
+· El agente O'Connor vuelve a pisar el acelerador y a infiltrarse en el mundo de las carreras ilegales de coches para destapar una trama de blanqueo de dinero, esta vez en Miami.
+· País: Alemania y EE.UU
+· Director: John Singleton
+· Reparto: Paul Walker, Tyrese Gibson, Eva Mendes, Cole Hauser
+· Guion: Derek Haas,Gary Scott Thompson,Michael Brandt
+· Música: David Arnold
+· Producción: Neal H. Moritz
+· Productora: Mikona Productions GmbH &amp; Co. KG, Original Film, Universal Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3973740?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402071500 +0200" stop="20260402084000 +0200" channel="M+ Los 2000">
+    <title lang="es">Colegas en el bosque (2006) | Movistar Plus+</title>
+    <desc lang="es">Animación | Apto para todos los públicos | *3.4/5
+· Boog es un oso domesticado que se siente feliz siendo la estrella de los espectáculos de su cuidadora Beth. Un buen día conoce a Elliot, un escuálido y parlanchín ciervo que ha llegado al pueblo atado al capó de la camioneta de un cazador.
+· País: EE.UU
+· Director: Roger Allers, Jill Culton, Anthony Stacchi
+· Guion: Steve Bencich,Ron J. Friedman,Nat Mauldin,Steve Moore,John B. Carls
+· Música: Paul Westerberg, Ramin Djawadi
+· Producción: Michelle Murdocca
+· Productora: Columbia Pictures, Sony Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3794045?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402084000 +0200" stop="20260402103800 +0200" channel="M+ Los 2000">
+    <title lang="es">Hellboy (2004) | Movistar Plus+</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.7/5
+· Durante la II Guerra Mundial, el santón ruso Grigori Rasputín celebra un ritual satánico para conseguir que los nazis ganen la contienda. No obstante, la invocación no consigue completarse provocando el nacimiento de un niño demonio: Hellboy.
+· País: EE.UU
+· Director: Guillermo del Toro
+· Reparto: Ron Perlman, Selma Blair, Jeffrey Tambor, Karel Roden, Rupert Evans, Brian Steele, Doug Jones, John Hurt, Ladislav Beran, Bridget Hodson
+· Guion: Guillermo del Toro,Peter Briggs
+· Música: Marco Beltrami
+· Producción: Lawrence Gordon, Lloyd Levin, Mike Richardson
+· Productora: Revolution Studios, Lawrence Gordon Productions, Starlite Films, Dark Horse Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3821245?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402103800 +0200" stop="20260402145300 +0200" channel="M+ Los 2000">
+    <title lang="es">El señor de los anillos: el retorno del rey (versión extendida) (2003) | Movistar Plus+</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *3.8/5
+· El viaje de la Comunidad del anillo está llegando a su fin. El mago negro Saruman ha caído, pero las fuerzas de Sauron asedian la capital de Gondor, en su ataque definitivo contra la Tierra Media.
+· País: EE.UU y Nueva Zelanda
+· Director: Peter Jackson
+· Reparto: Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Sean Astin, John Rhys-Davies, Billy Boyd, Dominic Monaghan, David Wenham, Liv Tyler, Andy Serkis, Cate Blanchett, Ian Holm, Hugo Weaving, Christopher Lee, Sean Bean, Miranda Otto
+· Guion: Peter Jackson,Philippa Boyens,Fran Walsh
+· Música: Howard Shore
+· Producción: Peter Jackson, Fran Walsh, Barrie M. Osborne
+· Productora: New Line Cinema, WingNut Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3914998?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402145300 +0200" stop="20260402163600 +0200" channel="M+ Los 2000">
+    <title lang="es">Tú la letra, yo la música (2007) | Movistar Plus+</title>
+    <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.5/5
+· Alex Fletcher es una vieja gloria de la música pop de la década de 1980 del que ya nadie se acuerda. Mientras su compañero de banda triunfa en su carrera en solitario, él debe conformarse con aparecer en un 'reality show' sobre cantantes acabados.
+· País: EE.UU
+· Director: Marc Lawrence
+· Reparto: Hugh Grant, Drew Barrymore, Brad Garrett, Kristen Johnston, Campbell Scott, Haley Bennett
+· Guion: Marc Lawrence
+· Música: Adam Schlesinger
+· Producción: Liz Glotzer, Martin Shafer
+· Productora: Castle Rock Entertainment, Village Roadshow Pictures, Flower Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3679829?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402163600 +0200" stop="20260402182100 +0200" channel="M+ Los 2000">
+    <title lang="es">Kamchatka (2002) | Movistar Plus+</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.2/5
+· En 1976, Argentina está en manos de una dictadura militar y miles de ciudadanos son perseguidos y secuestrados. Los padres de Harry, un niño de diez años aficionado a la magia, sabiéndose buscados por oponerse al régimen, deciden esconderse.
+· País: Argentina y España
+· Director: Marcelo Piñeyro
+· Reparto: Ricardo Darín, Cecilia Roth, Héctor Alterio, Fernanda Mistral, Mónica Scapparone, Tomás Fonzi
+· Guion: Marcelo Piñeyro,Marcelo Figueras
+· Música: Bingen Mendizábal
+· Producción: Francisco Ramos, Óscar Kramer, Pablo Bossi
+· Productora: Vía Digital, Alquimia Cinema S.A, Televisión Española (TVE), Patagonik Film Group, Oscar Kramer S.A.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3800104?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402182100 +0200" stop="20260402194800 +0200" channel="M+ Los 2000">
+    <title lang="es">7 Vírgenes (2005) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.5/5
+· Verano en un barrio obrero y marginal de una ciudad del sur. Tano, un adolescente que cumple condena en un centro de menores, obtiene un permiso especial de 48 horas para asistir a la boda de su hermano Santacana.
+· País: España
+· Director: Alberto Rodríguez
+· Reparto: Juan José Ballesta, Iride Barroso, Alba Rodríguez, Javier Berger, Jesús Carroza, José Chaves, Angie Daniela Lizundia, Kerryl Higashio, David Ligero, Julián Villagrán, Manolo Solo, Vicente Romero, Maite Sandoval, Ana Wagener, Héctor Mora
+· Guion: Rafael Cobos,Alberto Rodríguez
+· Música: Julio de la Rosa
+· Producción: Jose Antonio Félez
+· Productora: Tesela P.C., La Zanfoña Producciones, Tesela Producciones Cinematográficas S.r.l</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3817780?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402194800 +0200" stop="20260402214600 +0200" channel="M+ Los 2000">
+    <title lang="es">El método (2005) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.0/5
+· Siete aspirantes a un alto puesto ejecutivo se presentan a una prueba de selección de personal para una empresa multinacional. Entre ellos, las personalidades más dispares: el triunfador, el agresivo, la insegura, el crítico o el indeciso.
+· País: Argentina, España e Italia
+· Director: Marcelo Piñeyro
+· Reparto: Eduardo Noriega, Najwa Nimri, Eduard Fernández, Pablo Echarri, Adriana Ozores, Carmelo Gómez, Ernesto Alterio
+· Guion: Marcelo Piñeyro,Mateo Gil
+· Música: Frédéric Bégin, Phil Electric
+· Producción: Gerardo Herrero, Francisco Ramos
+· Productora: Cattleya, Alquimia Cinema S.A, Arena Films, Tornasol Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4074003?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402214600 +0200" stop="20260402220000 +0200" channel="M+ Los 2000">
+    <title lang="es">Voces en femenino (2026) | Movistar Plus+</title>
+    <desc lang="es">Actualidad | Apto para todos los públicos | *2.8/5
+· Spotify Equal impulsa la igualdad de género en la música con el objetivo de dar mayor visibilidad a mujeres creadoras en España. Una cita a la que han acudido nombres como Nathy Peluso, Luz Casal, Vanesa Martin o Rosario Flores, entre otras muchas.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4457397?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402220000 +0200" stop="20260403002100 +0200" channel="M+ Los 2000">
+    <title lang="es">El intercambio (2008) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
+· Los Ángeles, marzo de 1928. Un sábado por la mañana, en un barrio obrero, Christine Collins se despide de Walter, su hijo de nueve años, para acudir a su trabajo. Cuando Christine regresa a casa, descubre que su hijo no está en ninguna parte.
+· País: EE.UU
+· Director: Clint Eastwood
+· Reparto: Angelina Jolie, John Malkovich, Jeffrey Donovan, Michael Kelly, Colm Feore, Amy Ryan, Gattlin Griffith
+· Guion: J. Michael Straczynski
+· Música: Clint Eastwood
+· Producción: Clint Eastwood, Brian Grazer, Ron Howard, Robert Lorenz
+· Productora: Malpaso Productions, Imagine Entertainment, Relativity Media</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3724110?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402002100 +0200" stop="20260402015300 +0200" channel="M+ Los 2000">
+    <title lang="es">Viaje al centro de la Tierra (2008) | Movistar Plus+</title>
+    <desc lang="es">Aventuras | Apto para todos los públicos | *3.5/5
+· Un profesor de ciencias descubre en una copia de &quot;Viaje al centro de la Tierra&quot; una pista que podría indicar el paradero de su hermano desaparecido. Junto a su sobrino viaja a Islandia en busca de más indicios.
+· País: Canadá y EE.UU
+· Director: Eric Brevig
+· Reparto: Brendan Fraser, Josh Hutcherson, Anita Briem, Seth Meyers, Jane Wheeler, Jennifer Dorogi, Jean-Michel Pare, Sara Tomko, Garth Gilker
+· Guion: Mark Levin,Jennifer Flackett,Michael D. Weiss
+· Música: Andrew Lockington
+· Producción: Beau Flynn, Charlotte Huggins
+· Productora: New Line Cinema, Walden Media</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F2081678?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402015300 +0200" stop="20260402040100 +0200" channel="M+ Los 2000">
+    <title lang="es">En tierra hostil (2008) | Movistar Plus+</title>
+    <desc lang="es">Bélico | No recomendado para menores de dieciocho años | *3.7/5
+· Durante una misión en la Guerra de Iraq, fallece el sargento Thompson, líder de un comando especializado en desactivación de explosivos. Tras su muerte, la unidad queda al mando del impredecible y temerario sargento James.
+· País: EE.UU
+· Director: Kathryn Bigelow
+· Reparto: Jeremy Renner, Anthony Mackie, Brian Geraghty, Christian Camargo, Suhail Al-Dabbach, Christopher Sayegh, Evangeline Lilly, Ralph Fiennes, David Morse, Guy Pearce
+· Guion: Mark Boal
+· Música: Buck Sanders, Marco Beltrami
+· Producción: Nicolas Chartier, Greg Shapiro, Mark Boal, Kathryn Bigelow, Jenn Lee
+· Productora: First Light Production, Kingsgate Films, Summit Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3841323?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260402040100 +0200" stop="20260402054700 +0200" channel="M+ Los 2000">
+    <title lang="es">Mentiras y gordas (2009) | Movistar Plus+</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *2.5/5
+· Tres días de un caluroso comienzo de verano en Alicante llevan a un grupo de jóvenes a cruzar sus vidas en el delirio de la noche. Tras estos encuentros en terrazas, playas y discotecas, descubrirán que sus vidas no pueden seguir siendo las mismas.
+· País: España
+· Director: Alfonso Albacete, David Menkes
+· Reparto: Mario Casas, Ana de Armas, Yon González, Hugo Silva, Ana María Polvorosa, Alejo Sauras, Marieta Orozco, Asier Exteandia
+· Guion: Ángeles González Sinde,Alfonso Albacete,David Menkes
+· Música: Juan Carlos Molina
+· Producción: Gerardo Herrero
+· Productora: Alquimia Cinema S.A, Tornasol Films, Castafiore Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4087287?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
