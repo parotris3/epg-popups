@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 26/05/2026 03:27">
-  <channel id="M+ Top Comedia Española">
-    <display-name>M+ Top Comedia Española</display-name>
+<tv generator-info-name="MultiPopUps FullDesc 27/05/2026 03:41">
+  <channel id="M+ Orgullo">
+    <display-name>M+ Orgullo</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TOPCOM"/>
   </channel>
-  <channel id="M+ Los 2000">
-    <display-name>M+ Los 2000</display-name>
+  <channel id="M+ Vacaciones">
+    <display-name>M+ Vacaciones</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000"/>
   </channel>
 </tv>
