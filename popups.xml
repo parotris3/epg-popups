@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 01/06/2026 03:58">
+<tv generator-info-name="MultiPopUps FullDesc 02/06/2026 03:53">
   <channel id="M+ Orgullo">
     <display-name>M+ Orgullo</display-name>
-    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TOPCOM"/>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MORGUL"/>
   </channel>
   <channel id="M+ Vacaciones">
     <display-name>M+ Vacaciones</display-name>
-    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/L2000"/>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVCIVA"/>
   </channel>
 </tv>
