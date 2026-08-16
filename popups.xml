@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 15/08/2026 01:10">
+<tv generator-info-name="MultiPopUps FullDesc 16/08/2026 01:14">
   <channel id="M+ Orgullo">
     <display-name>M+ Orgullo</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MORGUL"/>
@@ -8,238 +8,6 @@
     <display-name>M+ Vacaciones</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVCIVA"/>
   </channel>
-  <programme start="20260815045600 +0200" stop="20260815062200 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Los amantes pasajeros (2013) | Movistar Plus</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *2.7/5
-· Un fallo técnico pone en peligro la vida de los pasajeros de un avión con destino a México. Los pilotos y el Centro de Control se esfuerzan por conseguir una solución, mientras los azafatos se entregan en cuerpo y alma al bienestar de los pasajeros.
-· País: España
-· Director: Pedro Almodóvar
-· Reparto: Javier Cámara, Raúl Arévalo, Carlos Areces, Lola Dueñas, Cecilia Roth, Antonio de la Torre, Hugo Silva, Miguel Ángel Silvestre, Willy Toledo, Laya Martí, Penélope Cruz, Antonio Banderas
-· Guion: Pedro Almodóvar
-· Música: Alberto Iglesias
-· Productora: El Deseo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4176170?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815062200 +0200" stop="20260815080000 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Entre tinieblas (1983) | Movistar Plus</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.0/5
-· Tras ver morir a su novio de una sobredosis, Yolanda, una joven cantante de boleros, decide refugiarse en un convento.
-· País: España
-· Director: Pedro Almodóvar
-· Reparto: Cristina Sánchez Pascual, Will More, Laura Cepeda, Julieta Serrano, Marisa Paredes, Carmen Maura
-· Guion: Pedro Almodóvar
-· Productora: Tesauro</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4202218?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815080000 +0200" stop="20260815094100 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver La ley del deseo (1987) | Movistar Plus</title>
-    <desc lang="es">Drama romántico | No recomendado para menores de dieciocho años | *3.1/5
-· Pablo es un director de cine de éxito cuya vida sentimental se cae a pedazos. Entonces aparece Antonio, un joven muy impulsivo.
-· País: España
-· Director: Pedro Almodóvar
-· Reparto: Antonio Banderas, Carmen Maura, Eusebio Poncela, Bibi Andersen, Fernando Guillén
-· Guion: Pedro Almodóvar
-· Música: Bernardo Bonezzi
-· Productora: El Deseo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4417648?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815094100 +0200" stop="20260815113000 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver El diputado (1978) | Movistar Plus</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.2/5
-· Durante la transición, un diputado comunista sufre un chantaje por parte de la extrema derecha por su condición de homosexual.
-· País: España
-· Director: Eloy de la Iglesia
-· Reparto: José Sacristán, María Luisa San José, José Luis Alonso, Enrique Vivo, Ángel Pardo, Agustín González, Queta Claver, Juan Antonio Bardem, Fernando Marín
-· Guion: Gonzalo Goicoechea,Eloy de la Iglesia
-· Música: Manuel Gerena, Víctor Manuel
-· Producción: Carlos Orengo
-· Productora: Fígaro Films, Producciones Cinematográficas UFESA, Producciones Zeta</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3840583?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815113000 +0200" stop="20260815131100 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Shortbus (2006) | Movistar Plus</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.1/5
-· Sofia, terapeuta sexual, nunca ha tenido un orgasmo y finge con su marido. Severine, dominadora, intenta ayudarla. Mientras tanto, James y Jamie, pacientes de Sofia, exploran el sexo y el amor en Nueva York considerando incluir a Ceth en su relación.
-· País: EE.UU
-· Director: John Cameron Mitchell
-· Reparto: Paul Dawson, Lindsay Beamish, Sook Yin Lee, Adam Hardman, Raphael Barker, Peter Stickles
-· Música: Yo La Tengo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4379668?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815131100 +0200" stop="20260815140400 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver La verdad sobre el género fluido (2024) | Movistar Plus</title>
-    <desc lang="es">Ciencia tecnología | Apto para todos los públicos | *3.1/5
-· Presentado por Mae Martin, comediante y guionista, este documental explora la ciencia del género y la fluidez sexual en la naturaleza. Desmiente mitos pseudocientíficos y muestra las últimas investigaciones que revelan que todos somos de género fluido.
-· País: EE.UU
-· Director: Michelle Mama
-· Reparto: Mae Martin</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4375662?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815140400 +0200" stop="20260815143100 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Se tiene que... (T1): Ep.1  (2026) | Movistar Plus</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.4/5
-· Bárbara y Maca, amigas desde la infancia, asisten a la ‘gender reveal party’ de Elena, una amiga del colegio embarazada de casi nueve meses que vive en una burbuja de lujo, felizmente casada con un empresario de 60 años.
-· País: España
-· Director: Sandra Romero, Victoria Martín, Nacho Pardo
-· Reparto: Anna Castillo, Macarena García, Laura Weissmahr, Alba Galocha, Óscar de la Fuente, Ramón Rados, Yunez Chaib
-· Guion: Victoria Martín</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4476192?od[]=Z1H:MORIG3_H"/>
-  </programme>
-  <programme start="20260815143100 +0200" stop="20260815150500 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Se tiene que... (T1): Ep.2  (2026) | Movistar Plus</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.3/5
-· Bárbara lleva regular que Elena se haya mudado a su casa, y su relación con Maca se resiente. En el trabajo, sus ideas son ignoradas y su jefe aumenta la tensión entre sus compañeros guionistas.
-· País: España
-· Director: Sandra Romero, Victoria Martín, Nacho Pardo
-· Reparto: Anna Castillo, Macarena García, Laura Weissmahr, Alba Galocha, Óscar de la Fuente, Ramón Rados, Yunez Chaib
-· Guion: Victoria Martín</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4476197?od[]=Z1H:MORIG3_H"/>
-  </programme>
-  <programme start="20260815150500 +0200" stop="20260815153800 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Se tiene que... (T1): Ep.3  (2026) | Movistar Plus</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.4/5
-· Bárbara odia a la nueva novia de Maca y eso complica las cosas en la relación con su mejor amiga. Elena se venga de Javier Gerardo por haberle bloqueado las tarjetas de crédito.
-· País: España
-· Director: Sandra Romero, Victoria Martín, Nacho Pardo
-· Reparto: Anna Castillo, Macarena García, Laura Weissmahr, Alba Galocha, Óscar de la Fuente, Ramón Rados, Yunez Chaib
-· Guion: Victoria Martín</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4476202?od[]=Z1H:MORIG3_H"/>
-  </programme>
-  <programme start="20260815153800 +0200" stop="20260815162700 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Locomia: Sexo, Ibiza, LOCOMIA (2022) | Movistar Plus</title>
-    <desc lang="es">Música | No recomendado para menores de dieciséis años | *3.1/5
-· A finales de los 80, Xavier Font y sus amigos deslumbran a Ibiza bailando con grandes abanicos en una España que estaba lejos de ser moderna. En Ku llaman la atención de Gil, un mánager que les promete el éxito a cambio de algunas renuncias.
-· País: España
-· Director: Jorge Laplace
-· Guion: Pablo Aguinaga
-· Productora: Movistar Plus+, BoxFish</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4015100?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20260815162700 +0200" stop="20260815172300 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Locomia: Rumba, samba, mambo (2022) | Movistar Plus</title>
-    <desc lang="es">Música | No recomendado para menores de dieciséis años | *3.1/5
-· En el estudio de grabación, Gil descubre que los LOCOMIA son incapaces de cantar. También intuye que se les puede asociar a una banda gay y les pide ocultar su verdadera sexualidad. La ambigüedad es lo que vende en la España de entonces.
-· País: España
-· Director: Jorge Laplace
-· Guion: Pablo Aguinaga
-· Productora: Movistar Plus+, BoxFish</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4015102?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20260815172300 +0200" stop="20260815181400 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Locomia: Adiós, abanico, adiós (2022) | Movistar Plus</title>
-    <desc lang="es">Música | No recomendado para menores de dieciséis años | *3.1/5
-· Los LOCOMIA aterrizan en EEUU dispuestos a conquistar el mundo con un Xavier Font relegado a llevar y traer a sus amigos en coche.  El fundador del grupo sospecha que Gil les está robando y persuade al resto para que rompan su contrato con él.
-· País: España
-· Director: Jorge Laplace
-· Guion: Pablo Aguinaga
-· Productora: Movistar Plus+, BoxFish</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4015104?od[]=Z1V:MORIG3_V"/>
-  </programme>
-  <programme start="20260815181400 +0200" stop="20260815195400 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Mi mitad perdida (2025) | Movistar Plus</title>
-    <desc lang="es">Comedia dramática | No recomendado para menores de dieciséis años | *3.2/5
-· La muerte de Rocky deja a su hermano gemelo Roman destrozado. Mientras revisa las pertenencias de su hermano, Roman decide asistir a un grupo de apoyo para quienes han sufrido la pérdida de su gemelo. Allí, conoce a Dennis y surge una improbable amistad.
-· País: EE.UU
-· Director: James Sweeney
-· Reparto: Dylan O'Brien, James Sweeney, Lauren Graham, Aisling Franciosi, Tasha Smith, Chris Perfetti
-· Guion: James Sweeney
-· Música: Jung Jae-il
-· Producción: James Sweeney, David Permut
-· Productora: Permut Presentations, Three Point Capital</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4440143?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815195400 +0200" stop="20260815215000 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Dallas Buyers Club (2013) | Movistar Plus</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *4.2/5
-· Texas, 1985. El mujeriego y drogadicto Ron Woodroof, electricista y 'cowboy' de rodeo de profesión, es diagnosticado como seropositivo. Con una esperanza de vida de 30 días, Ron es enviado a casa con la única ayuda de un medicamento altamente tóxico.
-· País: EE.UU
-· Director: Jean-Marc Vallée
-· Reparto: Matthew McConaughey, Jared Leto, Jennifer Garner, Denis O'Hare, Steve Zahn, Michael O'Neill, Dallas Roberts, Griffin Dunne
-· Guion: Craig Borten,Melisa Wallack
-· Producción: Robbie Brenner, Rachel Winter
-· Productora: Focus Features, Truth Entertainment, Voltage Pictures, Evolution Independent, r2 films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4442853?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815215000 +0200" stop="20260815220000 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Dos chicos negros en el paraíso (2025) | Movistar Plus</title>
-    <desc lang="es">Corto animación | No recomendado para menores de doce años | *3.0/5
-· Premio BAFTA 2026 al mejor cortometraje de animación.
-
-Edan y Dula emprenden un viaje hacia la autoaceptación. Su amor mutuo y su negativa a ocultarlo les lleva a un paraíso libre de vergüenza y juicios.
-· País: R.U
-· Director: Baz Sells
-· Reparto: Jordan Stephens</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4473818?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815220000 +0200" stop="20260815235900 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Indomables (2024) | Movistar Plus</title>
-    <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.1/5
-· La joven Muriel conoce a Julius, hermano de su prometido, el convencional Lee. Lee siempre ha planeado una vida tranquila junto a su hermano, una vida de la que ahora Muriel va a formar parte.
-· País: EE.UU
-· Director: Daniel Minahan
-· Reparto: Jacob Elordi, Daisy Edgar-Jones, Will Poulter, Diego Calva, Sasha Calle
-· Guion: Bryce Kass
-· Música: Mark Orton
-· Producción: Peter Spears, Daniel Minahan
-· Productora: Ley Line Entertainment, FirstGen Content</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4442899?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815235900 +0200" stop="20260816021000 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Call Me by Your Name (2017) | Movistar Plus</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *4.0/5
-· Verano de 1983. El joven Elio Perlman pasa las vacaciones junto a su familia en una villa italiana del siglo XVII, dedicado a la música y a flirtear con su amiga Marzi. Todo cambia cuando Oliver, un estudiante de doctorado, llega a la casa.
-· País: Brasil, EE.UU, Francia e Italia
-· Director: Luca Guadagnino
-· Reparto: Esther Garrel, Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar
-· Guion: James Ivory
-· Música: Sufjan Stevens
-· Producción: Emilie Georges, Luca Guadagnino, James Ivory, Marco Morabito, Howard Rosenman, Peter Spears, Rodrigo Teixeira
-· Productora: La Cinéfacture, Memento Films International, M.Y.R.A. Entertainment, Frenesy Film Company, RT Features, Water's End Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3566584?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815021000 +0200" stop="20260815023700 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Se tiene que... (T1): Ep.1  (2026) | Movistar Plus</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.4/5
-· Bárbara y Maca, amigas desde la infancia, asisten a la ‘gender reveal party’ de Elena, una amiga del colegio embarazada de casi nueve meses que vive en una burbuja de lujo, felizmente casada con un empresario de 60 años.
-· País: España
-· Director: Sandra Romero, Victoria Martín, Nacho Pardo
-· Reparto: Anna Castillo, Macarena García, Laura Weissmahr, Alba Galocha, Óscar de la Fuente, Ramón Rados, Yunez Chaib
-· Guion: Victoria Martín</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4476192?od[]=Z1H:MORIG3_H"/>
-  </programme>
-  <programme start="20260815023700 +0200" stop="20260815030900 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Se tiene que... (T1): Ep.2  (2026) | Movistar Plus</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.3/5
-· Bárbara lleva regular que Elena se haya mudado a su casa, y su relación con Maca se resiente. En el trabajo, sus ideas son ignoradas y su jefe aumenta la tensión entre sus compañeros guionistas.
-· País: España
-· Director: Sandra Romero, Victoria Martín, Nacho Pardo
-· Reparto: Anna Castillo, Macarena García, Laura Weissmahr, Alba Galocha, Óscar de la Fuente, Ramón Rados, Yunez Chaib
-· Guion: Victoria Martín</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4476197?od[]=Z1H:MORIG3_H"/>
-  </programme>
-  <programme start="20260815030900 +0200" stop="20260815034300 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Se tiene que... (T1): Ep.3  (2026) | Movistar Plus</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.4/5
-· Bárbara odia a la nueva novia de Maca y eso complica las cosas en la relación con su mejor amiga. Elena se venga de Javier Gerardo por haberle bloqueado las tarjetas de crédito.
-· País: España
-· Director: Sandra Romero, Victoria Martín, Nacho Pardo
-· Reparto: Anna Castillo, Macarena García, Laura Weissmahr, Alba Galocha, Óscar de la Fuente, Ramón Rados, Yunez Chaib
-· Guion: Victoria Martín</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4476202?od[]=Z1H:MORIG3_H"/>
-  </programme>
-  <programme start="20260815034300 +0200" stop="20260815054000 +0200" channel="M+ Orgullo">
-    <title lang="es">Ver Matthias &amp; Maxime (2019) | Movistar Plus</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años | *3.3/5
-· Durante unas vacaciones con su grupo de amigos de toda la vida, Matthias y Maxime aceptan colaborar en un corto en el que tendrán que besarse.
-· País: Canadá y Francia
-· Director: Xavier Dolan
-· Reparto: Gabriel D'Almeida Freitas, Xavier Dolan, Anne Dorval, Pier-Luc Funk, Samuel Gauthier, Antoine Pilon, Adib Alkhalidey, Marilyn Castonguay, Harris Dickinson
-· Guion: Xavier Dolan
-· Música: Jean-Michel Blais
-· Producción: Xavier Dolan, Nancy Grant, Nathanaël Karmitz, Elisha Karmitz
-· Productora: Sons of Manual, Fonds Quebecor</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3840024?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20260816054000 +0200" stop="20260816071700 +0200" channel="M+ Orgullo">
     <title lang="es">Ver David Bowie: el último acto (2025) | Movistar Plus</title>
     <desc lang="es">Biografía | No recomendado para menores de siete años | *3.1/5
@@ -260,7 +28,7 @@ Edan y Dula emprenden un viaje hacia la autoaceptación. Su amor mutuo y su nega
   </programme>
   <programme start="20260816080000 +0200" stop="20260816095900 +0200" channel="M+ Orgullo">
     <title lang="es">Ver Volver (2006) | Movistar Plus</title>
-    <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.2/5
+    <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.3/5
 · Dos hermanas, Raimunda y Sole, reciben la noticia de que su tía Paula ha muerto en el pueblo, donde ambas se criaron y donde sus padres murieron en un incendio.
 · País: España
 · Director: Pedro Almodóvar
@@ -341,7 +109,7 @@ Edan y Dula emprenden un viaje hacia la autoaceptación. Su amor mutuo y su nega
   </programme>
   <programme start="20260816153700 +0200" stop="20260816172800 +0200" channel="M+ Orgullo">
     <title lang="es">Ver Hable con ella (2002) | Movistar Plus</title>
-    <desc lang="es">Melodrama | No recomendado para menores de doce años | *3.1/5
+    <desc lang="es">Melodrama | No recomendado para menores de doce años | *3.0/5
 · Benigno es un enfermero que se enamora de una bailarina desconocida. Tras un accidente, ella entra en coma y acaba bajo su cuidado. Cuando una torera cae en coma, es llevada a la misma sala, y Benigno entabla amistad con su acompañante Marco.
 · País: España
 · Director: Pedro Almodóvar
@@ -664,189 +432,193 @@ Edan y Dula emprenden un viaje hacia la autoaceptación. Su amor mutuo y su nega
 · Productora: El Deseo</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4172908?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260815053500 +0200" stop="20260815070000 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver La leyenda de Cocodrilo Dundee (2025) | Movistar Plus</title>
-    <desc lang="es">Documental cine | Apto para todos los públicos | *3.1/5
-· &quot;Cocodrilo Dundee&quot; fue un éxito mundial. Este documental revisita su historia, los desafíos de su producción y el fenómeno cultural en el que se convirtió la mítica película australiana.
-· País: Australia
-· Director: Delvene Delaney, Victoria Baldock</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4444718?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815070000 +0200" stop="20260815082600 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Teen Titans Go! La película (2018) | Movistar Plus</title>
-    <desc lang="es">Animación | No recomendado para menores de siete años | *3.7/5
-· El sueño de Robin es protagonizar su propia película, pero ni las productoras ni los miembros de la Liga de la Justicia lo considera a él y al resto de los Teen Titans merecedores de tal honor: no son 'héroes de verdad', sólo unos patanes chistosos.
+  <programme start="20260818050600 +0200" stop="20260818065800 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Dallas Buyers Club (2013) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *4.2/5
+· Texas, 1985. El mujeriego y drogadicto Ron Woodroof, electricista y 'cowboy' de rodeo de profesión, es diagnosticado como seropositivo. Con una esperanza de vida de 30 días, Ron es enviado a casa con la única ayuda de un medicamento altamente tóxico.
 · País: EE.UU
-· Director: Aaron Horvath, Peter Rida Michail
-· Guion: Michael Jelenic,Aaron Horvath
-· Música: Jared Faber
-· Producción: Will Arnett, Aaron Horvath, Michael Jelenic, Peter Rida Michail, Peggy Regan
-· Productora: Warner Bros. Animation, DC Entertainment, Cartoon Network</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3628565?od[]=Z1V:MM3_V"/>
+· Director: Jean-Marc Vallée
+· Reparto: Matthew McConaughey, Jared Leto, Jennifer Garner, Denis O'Hare, Steve Zahn, Michael O'Neill, Dallas Roberts, Griffin Dunne
+· Guion: Craig Borten,Melisa Wallack
+· Producción: Robbie Brenner, Rachel Winter
+· Productora: Focus Features, Truth Entertainment, Voltage Pictures, Evolution Independent, r2 films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4442853?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260815082600 +0200" stop="20260815083300 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Quiosco de golosinas (2025) | Movistar Plus</title>
-    <desc lang="es">Corto de comedia | Apto para todos los públicos | *3.0/5
-· Una niña cree que un hombre en la fila de barras de chocolate del cine se parece a su padre. Su dulce interacción lo hace añorar la paternidad.
-· País: Australia
-· Director: Nash Edgerton
-· Reparto: Damon Herriman, Andrea Demetriades
-· Guion: Damon Herriman
-· Producción: Nash Edgerton</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4451232?od[]=Z1V:MM3_V"/>
+  <programme start="20260818065800 +0200" stop="20260818080000 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Bosé Renacido: Bandido (2023) | Movistar Plus</title>
+    <desc lang="es">Biografía | No recomendado para menores de doce años | *3.2/5
+· Miguel hace balance de su carrera, desde sus inicios hasta su éxito como artista internacional, así como los perjuicios de la fama o el acoso mediático vivido. Abre las puertas de la nueva casa de Somosaguas, destinada al cuidado de sus hijos.
+· País: España
+· Director: María Pulido</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4124348?od[]=Z1V:MORIG3_V"/>
   </programme>
-  <programme start="20260815083300 +0200" stop="20260815092600 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Todas las... (T3): Ep.7 Dichosa Navidad (2022) | Movistar Plus</title>
-    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.1/5
-· Es Navidad en Skeldale y Siegfried tiene por delante una importante decisión. La señora Hall se da cuenta de que es hora de abrazar sus sentimientos hacia Gerald. Episodio especial de Navidad de la tercera temporada.
+  <programme start="20260818080000 +0200" stop="20260818090300 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Bosé Renacido: El Heredero (2023) | Movistar Plus</title>
+    <desc lang="es">Biografía | No recomendado para menores de doce años | *3.1/5
+· Miguel regresa a la finca familiar de Villa Paz. En esta casa pasa inolvidables veranos de su niñez. Recuerda su infancia, cómo creció y los conflictos con sus padres. La última imagen que guarda de la casa, es alejarse mientras ardía el torreón.
+· País: España
+· Director: María Pulido</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4124333?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20260818090300 +0200" stop="20260818104300 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Los amigos de Peter (1992) | Movistar Plus</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.3/5
+· Tras diez años sin verse, un grupo de amigos se reúne en Nochevieja en la gran mansión que uno de ellos, Peter, ha heredado. El reencuentro trae buenos recuerdos y risas, pero también la evidencia de que ya nada es como antes.
 · País: R.U
-· Director: Brian Percival
-· Reparto: Nicholas Ralph, Samuel West, Callum Woodhouse, Rachel Shenton, Anna Madeley, Patricia Hodge
-· Guion: Ben Vanstone
-· Música: Alexandra Harwood
-· Productora: Playground Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4093866?od[]=Z1V:MM3_V"/>
+· Director: Kenneth Branagh
+· Reparto: Kenneth Branagh, Emma Thompson, Stephen Fry, Hugh Laurie, Alphonsia Emmanuel, Imelda Staunton, Phyllida Law
+· Guion: Rita Rudner,Martin Bergman
+· Música: Gavin Greenaway
+· Producción: Kenneth Branagh
+· Productora: BBC (British Broadcasting Corporation), Renaissance Films, Samuel Goldwyn Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4059077?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260815092600 +0200" stop="20260815110400 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Cómo entrenar a tu dragón (2010) | Movistar Plus</title>
-    <desc lang="es">Animación | No recomendado para menores de siete años | *3.6/5
-· Hipo, un vikingo adolescente, vive en isla de Mema, donde combatir a los dragones es el modo de vida habitual. Las opiniones nada tradicionales del adolescente -y su poco convencional sentido del humor- no gustan al resto de los miembros del clan.
+  <programme start="20260818104300 +0200" stop="20260818122300 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Entre tinieblas (1983) | Movistar Plus</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.0/5
+· Tras ver morir a su novio de una sobredosis, Yolanda, una joven cantante de boleros, decide refugiarse en un convento.
+· País: España
+· Director: Pedro Almodóvar
+· Reparto: Cristina Sánchez Pascual, Will More, Laura Cepeda, Julieta Serrano, Marisa Paredes, Carmen Maura
+· Guion: Pedro Almodóvar
+· Productora: Tesauro</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4202218?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818122300 +0200" stop="20260818140300 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Todo sobre mi madre (1999) | Movistar Plus</title>
+    <desc lang="es">Melodrama | No recomendado para menores de dieciocho años | *3.1/5
+· Manuela, una enfermera de la Organización Nacional de Transplantes, ve cómo su hijo Esteban, al que estaba muy unida, muere al intentar conseguir un autógrafo de la diva Huma Rojo.
+· País: España y Francia
+· Director: Pedro Almodóvar
+· Reparto: Cecilia Roth, Marisa Paredes, Penélope Cruz, Candela Peña, Antonia San Juan, Rosa Maria Sardà, Fernando Fernán Gómez, Toni Cantó
+· Guion: Pedro Almodóvar
+· Música: Alberto Iglesias
+· Producción: Agustín Almodóvar
+· Productora: El Deseo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4172900?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818140300 +0200" stop="20260818144600 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Mentes brillantes (T2): Ep.13 La madriguera del conejo (2025) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.0/5
+· Cuando una estudiante universitaria llega con una enfermedad que amenaza su vida, el Dr. Wolf y su equipo tienen que familiarizarse con la vida en las hermandades. El Dr. Thorne trata a un niño que sufrió un colapso bajo circunstancias misteriosas.
 · País: EE.UU
-· Director: Dean DeBlois, Chris Sanders
-· Guion: Chris Sanders,Dean DeBlois,William Davies
-· Música: John Powell
-· Productora: Mad Hatter Entertainment, Vertigo Entertainment, DreamWorks Animation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4052884?od[]=Z1V:MM3_V"/>
+· Director: Jordan Canning
+· Reparto: Zachary Quinto, Tamberla Perry, Ashley LaThrop, Alex MacNicoll, Aury Krebs, Teddy Sears, Donna Murphy, Mandy Patinkin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4460001?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260815110400 +0200" stop="20260815124500 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Cómo entrenar a tu dragón 2 (2014) | Movistar Plus</title>
-    <desc lang="es">Animación | Apto para todos los públicos | *3.8/5
-· Cinco años después de que Hipo y Desdentao consiguieran unir a dragones y vikingos, la pareja surca los cielos explorando nuevos territorios. Un día descubren una isla de hielo, hogar de cientos de dragones salvajes y del misterioso Jinete de Dragones.
+  <programme start="20260818144600 +0200" stop="20260818153100 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Mentes brillantes (T2): Ep.14 El hombre invisible (2025) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.0/5
+· Un espantoso accidente pone a todos en peligro en el Bronx General en peligro y provoca una impactante revelación sobre el Dr. Wolf.
 · País: EE.UU
-· Director: Dean DeBlois
-· Guion: Dean DeBlois
-· Música: John Powell
-· Producción: Bonnie Arnold
-· Productora: DreamWorks Animation, Mad Hatter Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4052885?od[]=Z1V:MM3_V"/>
+· Director: Jordan Canning
+· Reparto: Zachary Quinto, Tamberla Perry, Ashley LaThrop, Alex MacNicoll, Aury Krebs, Teddy Sears, Donna Murphy, Mandy Patinkin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4460002?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20260815124500 +0200" stop="20260815142900 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Cómo entrenar a tu dragón 3 (2019) | Movistar Plus</title>
-    <desc lang="es">Animación | Especialmente recomendado para la infancia | *4.0/5
-· El joven vikingo Hipo parece haber conseguido que dragones y humanos convivan en paz. Sin embargo, su sueño y el de los demás habitantes de la isla de Mema no es compartido por otros vikingos, especialmente por los brutales cazadores de dragones.
-· País: EE.UU y Japón
-· Director: Dean DeBlois
-· Guion: Dean DeBlois
-· Música: John Powell
-· Producción: Bonnie Arnold, Bradford Lewis
-· Productora: DreamWorks Animation, Mad Hatter Entertainment, Dentsu, Fuji Television Network Inc, Universal Animation Studios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4106664?od[]=Z1V:MM3_V"/>
+  <programme start="20260818153100 +0200" stop="20260818172400 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Kika (1993) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.0/5
+· Kika es una ingenua maquilladora que se ve envuelta en una desquiciada vorágine de personajes y situaciones que no controla.
+· País: España
+· Director: Pedro Almodóvar
+· Reparto: Verónica Forqué, Peter Coyote, Victoria Abril, Àlex Casanovas, Rossy De Palma
+· Guion: Pedro Almodóvar
+· Productora: CiBy 2000, El Deseo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4172896?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260815142900 +0200" stop="20260815163800 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Jurassic World: El reino caído (2018) | Movistar Plus</title>
-    <desc lang="es">Aventuras | No recomendado para menores de doce años | *3.6/5
-· Tres años después de que el parque temático Jurassic World fuera destruido por dinosaurios fuera de control, el volcán de isla Nublar, dormido durante mucho tiempo, vuelve a estar activo, y la vida de los dinosaurios supervivientes está en peligro.
+  <programme start="20260818172400 +0200" stop="20260818182300 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Una noche con Elton John y Brandi Carlile (2025) | Movistar Plus</title>
+    <desc lang="es">Concierto | Apto para todos los públicos | *3.0/5
+· Sir Elton John y la ganadora de 11 premios Grammy Brandi Carlile interpretan las canciones de su álbum conjunto “Who Believes in Angels?” así como clásicos atemporales de cada una de sus carreras como &quot;Your song&quot; o &quot;I'm Still Standing&quot;.
+· País: R.U
+· Director: Gabe Turner</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4449606?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818182300 +0200" stop="20260818195900 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Adivina quién muere esta noche (2024) | Movistar Plus</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
+· Una pareja gay, a punto de convertirse en padres, se va de vacaciones a Italia para celebrar su décimo aniversario. Todo es perfecto, el epítome de la luna de miel europea... hasta que las cosas empiezan a descontrolarse.
+· País: EE.UU e Italia
+· Director: Brian Crano, David Joseph Craig
+· Reparto: Andrew Rannells, Nick Kroll, Morgan Spector, Nunzia Schiano, Amanda Seyfried
+· Guion: Brian Crano,David Joseph Craig
+· Música: Danny Bensi, Saunder Jurriaans
+· Producción: Kara Durrett, Jessamine Burgum
+· Productora: Pinky Promise, Panoramic Media</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4414187?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818195900 +0200" stop="20260818213700 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Thom Browne: un diseñador no convencional (2024) | Movistar Plus</title>
+    <desc lang="es">Biografía | Apto para todos los públicos | *3.0/5
+· El retrato definitivo del diseñador estadounidense Thom Browne, un pionero cuya reinterpretación del traje gris a medida transformó la moda contemporánea al desafiar las convenciones sobre cómo deben vestir hombres y mujeres.
 · País: EE.UU
-· Director: Juan Antonio Bayona
-· Reparto: Chris Pratt, Bryce Dallas Howard, James Cromwell, Ted Levine, Justice Smith, Geraldine Chaplin, Daniella Pineda, Toby Jones, Rafe Spall, B.D. Wong, Jeff Goldblum, Isabella Sermon
-· Guion: Colin Trevorrow,Derek Connolly
-· Música: Michael Giacchino
-· Producción: Belén Atienza, Patrick Crowley, Frank Marshall
-· Productora: Amblin Entertainment, Legendary Entertainment, Perfect World Pictures, Universal Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3635443?od[]=Z1V:MM3_V"/>
+· Director: Reiner Holzemer</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441225?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260815163800 +0200" stop="20260815190300 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Jurassic World: Dominion (2022) | Movistar Plus</title>
-    <desc lang="es">Aventuras | No recomendado para menores de doce años | *3.2/5
-· Cuatro años después de la destrucción de isla Nublar, los dinosaurios viven -y cazan- por todo el planeta, conviviendo con los humanos en un frágil equilibrio lleno de peligros para la supervivencia de nuestra especie.
-· País: China, EE.UU y R.U
-· Director: Colin Trevorrow
-· Reparto: Chris Pratt, Bryce Dallas Howard, Laura Dern, Jeff Goldblum, Sam Neill, DeWanda Wise, Campbell Scott, B.D. Wong, Omar Sy, Isabella Sermon
-· Guion: Emily Carmichael,Colin Trevorrow
-· Música: Michael Giacchino
-· Producción: Frank Marshall, Patrick Crowley
-· Productora: Universal Pictures, Amblin Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4040786?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815190300 +0200" stop="20260815200400 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Érase una vez en el...: Amigos para siempre (2025) | Movistar Plus</title>
-    <desc lang="es">Sociedad | Apto para todos los públicos | *3.0/5
-· En 2011, el transbordador espacial Atlantis partió de la Estación Espacial Internacional y regresó por última vez a la Tierra. La era de los transbordadores había concluido, y la puerta quedaba ahora abierta a la nueva generación de vehículos espaciales.
-· País: EE.UU</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4452717?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815200400 +0200" stop="20260815214300 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Campamento Garra de Oso (2025) | Movistar Plus</title>
-    <desc lang="es">Comedia | Especialmente recomendado para la infancia | *3.0/5
-· Dos niños tendrán que unir fuerzas y luchar a contrarreloj para salvar el campamento de verano amenazado por el excéntrico constructor Sebastián. Para ello, deben buscar a un oso que creen que nadie ha visto pero sigue habitando el valle.
-· País: España y Portugal
-· Director: Sílvia Quer
-· Reparto: Júlia Raya, Martín Abelló, Anabel Alonso, Edu Soto, Ana Morgade
-· Guion: Marta Armengol,Daniel González
-· Música: Cláudia Correia
-· Producción: Oriol Marcos
-· Productora: A Film About Quiet Jazz, Boavista Filmes Lda.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441633?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815214300 +0200" stop="20260815220000 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver El drama de época de Jane Austen (2024) | Movistar Plus</title>
-    <desc lang="es">Corto de comedia | No recomendado para menores de doce años | *3.3/5
-· Inglaterra, 1813. En medio de una propuesta de matrimonio largamente esperada, a la señorita Estrogenia Talbot le viene la regla.
-· País: EE.UU
-· Reparto: Nicole Alyse Nelson, Hugo Armstrong</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4410053?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815220000 +0200" stop="20260815233900 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Anaconda (2025) | Movistar Plus</title>
-    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.1/5
-· Doug y Griff, amigos desde niños, llevan toda la vida soñando con rehacer Anaconda. Decididos a rodarla en plena selva amazónica, descubren demasiado tarde que la mayor amenaza no está en el guion, sino en una serpiente gigante real.
-· País: EE.UU
-· Director: Tom Gormican
-· Reparto: Jack Black, Paul Rudd, Steve Zahn, Thandiwe Newton, Daniela Melchior, Selton Mello
-· Guion: Tom Gormican,Kevin Etten
-· Música: David Fleming
-· Producción: Kevin Etten, Brad Fuller
-· Productora: Columbia Pictures, Fully Formed Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4457389?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20260815233900 +0200" stop="20260816011700 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver A por todas (2000) | Movistar Plus</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.5/5
-· La capitana de un grupo de &quot;cheerleaders&quot; hará todo lo posible para que su grupo salga vencedor en la competición anual.
+  <programme start="20260818213700 +0200" stop="20260818220000 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Talk Me (2025) | Movistar Plus</title>
+    <desc lang="es">Corto drama | No recomendado para menores de dieciséis años | *3.0/5
+· En un mundo donde las palabras sustituyen a la intimidad y viceversa, un forastero local deberá elegir entre un matrimonio apagado y la promesa de una conexión auténtica con un alma afín recién llegada al pueblo.
 · País: EE.UU y España
-· Director: Peyton Reed
-· Reparto: Kirsten Dunst, Eliza Dushku, Jesse Bradford, Gabrielle Union, Clare Kramer, Nathan West, Nicole Bilderback
-· Guion: Jessica Bendinger
-· Música: Christophe Beck
-· Producción: Marc Abraham, Thomas A. Bliss
-· Productora: Beacon Communications, Beacon Communications LLC</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4475624?od[]=Z1V:MM3_V"/>
+· Director: Joecar Hanna
+· Reparto: Albert Carbó, Carlos Gorbe
+· Producción: Lina Badenes</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4482420?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260815011700 +0200" stop="20260815031400 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver Crazy, Stupid, Love (2011) | Movistar Plus</title>
-    <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.6/5
-· La vida de Cal da un vuelco cuando su mujer le pide el divorcio tras haberle engañado. Mientras trata de superarlo, Cal conoce a Jacob, un hombre joven, atractivo y mujeriego que se ofrece a ayudarle a redescubrir su masculinidad enseñándole a ligar.
+  <programme start="20260818220000 +0200" stop="20260818235300 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Tacones lejanos (1991) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.1/5
+· Los reproches y las heridas del pasado marcan el reencuentro de Rebeca con su madre, la conocida cantante Becky del Páramo.
+· País: España y Francia
+· Director: Pedro Almodóvar
+· Reparto: Victoria Abril, Miguel Bosé, Javier Bardem, Marisa Paredes, Miriam Díaz Aroca, Bibi Andersen
+· Guion: Pedro Almodóvar
+· Música: Ryuichi Sakamoto
+· Productora: TF1 Films Production, El Deseo, CiBy 2000, Le Studio Canal+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4209077?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818235300 +0200" stop="20260819014000 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Carmen y Lola (2018) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.8/5
+· Carmen y Lola son dos jóvenes gitanas. Carmen está a punto de casarse; a Lola, una chica independiente que sólo quiere estudiar, su padre le insiste en que encuentre un buen marido gitano. Un día, las dos chicas coinciden vendiendo en un mercadillo.
+· País: España
+· Director: Arantxa Echevarría
+· Reparto: Zaira Morales, Rosy Rodríguez, Moreno Borja, Rafaela León, Carolina Yuste, Lucas Heredia, Jacqueline Jiménez
+· Guion: Arantxa Echevarría
+· Música: Nina Aranda
+· Producción: Arantxa Echevarría, Pilar Sánchez Díaz
+· Productora: Tvtec servicios audiovisuales</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4052882?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818014000 +0200" stop="20260818022300 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Mentes brillantes (T2): Ep.13 La madriguera del conejo (2025) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.0/5
+· Cuando una estudiante universitaria llega con una enfermedad que amenaza su vida, el Dr. Wolf y su equipo tienen que familiarizarse con la vida en las hermandades. El Dr. Thorne trata a un niño que sufrió un colapso bajo circunstancias misteriosas.
 · País: EE.UU
-· Director: Glenn Ficarra, John Requa
-· Reparto: Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone, Analeigh Tipton, Jonah Bobo, Kevin Bacon, Josh Groban, Marisa Tomei
-· Guion: Dan Fogelman
-· Música: Christophe Beck, Nick Urata
-· Producción: Steve Carell, Denise Di Novi
-· Productora: Carousel Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3689011?od[]=Z1V:MM3_V"/>
+· Director: Jordan Canning
+· Reparto: Zachary Quinto, Tamberla Perry, Ashley LaThrop, Alex MacNicoll, Aury Krebs, Teddy Sears, Donna Murphy, Mandy Patinkin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4460001?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20260815031400 +0200" stop="20260815045800 +0200" channel="M+ Vacaciones">
-    <title lang="es">Ver El banco de Dave (2023) | Movistar Plus</title>
-    <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.3/5
-· En la antaño próspera Burnley, Dave Fishwick ha logrado triunfar sin olvidarse de sus vecinos menos afortunados, a los que presta dinero y ayuda. Ahora, algunos quieren que convierta esa afición en profesión a través de un banco que apoye a la comunidad.
-· País: R.U
-· Director: Chris Foggin
-· Reparto: Rory Kinnear, Joel Fry, Phoebe Dynevor, Hugh Bonneville, Angus Wright, Paul Kaye
-· Guion: Piers Ashworth
-· Música: Christian Henson
-· Producción: Karl Hall, Matt Williams
-· Productora: Rojovid Films, Ingenious Media, Tempo Productions Limited, Future Artists Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4119627?od[]=Z1V:MM3_V"/>
+  <programme start="20260818022300 +0200" stop="20260818030700 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Mentes brillantes (T2): Ep.14 El hombre invisible (2025) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.0/5
+· Un espantoso accidente pone a todos en peligro en el Bronx General en peligro y provoca una impactante revelación sobre el Dr. Wolf.
+· País: EE.UU
+· Director: Jordan Canning
+· Reparto: Zachary Quinto, Tamberla Perry, Ashley LaThrop, Alex MacNicoll, Aury Krebs, Teddy Sears, Donna Murphy, Mandy Patinkin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4460002?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20260818030700 +0200" stop="20260818045300 +0200" channel="M+ Orgullo">
+    <title lang="es">Ver Pillion (2025) | Movistar Plus</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.3/5
+· Colin es un chico tímido que vive atrapado en la rutina hasta que conoce al carismático Ray, un motero que lo introduce en una relación 'BDSM'. Lo que empieza como sumisión se convierte en un viaje de deseo, peligro, placer y autodescubrimiento 'queer'.
+· País: Irlanda y R.U
+· Director: Harry Lighton
+· Reparto: Alexander Skarsgård, Harry Melling, Lesley Sharp, Jake Shears, Nick Figgis, Douglas Hodge, Anthony Welsh
+· Guion: Harry Lighton
+· Producción: Ed Guiney, Andrew Lowe, Emma Norton, Lee Groombridge
+· Productora: British Film Institute (BFI)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4477864?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20260816045800 +0200" stop="20260816064100 +0200" channel="M+ Vacaciones">
     <title lang="es">Ver El banco de Dave 2 (2025) | Movistar Plus</title>
@@ -976,7 +748,7 @@ Edan y Dula emprenden un viaje hacia la autoaceptación. Su amor mutuo y su nega
   </programme>
   <programme start="20260816210400 +0200" stop="20260816220000 +0200" channel="M+ Vacaciones">
     <title lang="es">Ver Tom Hanks: un héroe corriente (2026) | Movistar Plus</title>
-    <desc lang="es">Biografía | Apto para todos los públicos | *3.1/5
+    <desc lang="es">Biografía | Apto para todos los públicos | *3.2/5
 · A lo largo de su carrera,Tom Hanks se ha hecho famoso por interpretar a personas normales que, cuando la vida las pone a prueba, terminan haciendo cosas extraordinarias.
 · País: Francia
 · Director: Pierre-François Didek</desc>
@@ -1190,7 +962,7 @@ Edan y Dula emprenden un viaje hacia la autoaceptación. Su amor mutuo y su nega
   </programme>
   <programme start="20260817010900 +0200" stop="20260817024600 +0200" channel="M+ Vacaciones">
     <title lang="es">Ver Y que le gusten los perros (2005) | Movistar Plus</title>
-    <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.4/5
+    <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.3/5
 · Sarah es una profesora treintañera que lleva divorciada ocho meses. Sus hermanas, con el deseo de que se anime, deciden introducir sus datos en una página de contactos de internet.
 · País: EE.UU
 · Director: Gary David Goldberg
@@ -1213,5 +985,172 @@ Edan y Dula emprenden un viaje hacia la autoaceptación. Su amor mutuo y su nega
 · Producción: Guy Ritchie, Ivan Atkinson, Bill Block
 · Productora: Miramax, Toff Guy Films, STX Entertainment, STX Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3839998?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818043800 +0200" stop="20260818064700 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Asalto al poder (2013) | Movistar Plus</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.1/5
+· Para entrar en el Servicio Secreto y proteger al presidente James Sawyer, el policía del Capitolio John Cale debe pasar una entrevista con una antigua compañera de universidad que lo considera poco fiable por su nulo respeto a la autoridad.
+· País: EE.UU
+· Director: Roland Emmerich
+· Reparto: Channing Tatum, Jamie Foxx, Maggie Gyllenhaal, Jason Clarke, Richard Jenkins, Joey King, James Woods
+· Guion: James Vanderbilt
+· Música: Harald Kloser, Thomas Wanker
+· Productora: Columbia Pictures, Centropolis Film Productions, Centropolis Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4089154?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818064700 +0200" stop="20260818070700 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Poquita fe (T1): Ep.10 Octubre (2023) | Movistar Plus</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.1/5
+· El vínculo entre la hermana de Berta y su padre llega a extremos que Berta no alcanza a comprender. José Ramón conoce a su padre y entabla una relación estrechísima con él. Crece la tensión en la pareja.
+· País: España
+· Director: Pepón Montero
+· Reparto: Raúl Cimas, Esperanza Pedreño, Chani Martín, Julia de Castro, María Jesús Hoyos, Marta Fernández-Muro, Juan Lombardero</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4112959?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20260818070700 +0200" stop="20260818073600 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Ilustres ignorantes (T19): El mar (2026) | Movistar Plus</title>
+    <desc lang="es">Humor | No recomendado para menores de dieciséis años | *3.2/5
+· La cantante María Peláe y el actor Carles Francino se sientan en la mesa de Ilustres para hablar del “El mar” ¿Qué recuerdos o sensaciones asocian al mar: su infancia, la paz, arena en el culo…? ¿les gusta mear en el mar?.
+· País: España
+· Presenta: Javier Coronas
+· Director: Javier Coronas
+· Productora: Movistar+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4480472?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20260818073600 +0200" stop="20260818094200 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Sonic 2: La película (2022) | Movistar Plus</title>
+    <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.3/5
+· Tras establecerse en Green Hills, a Sonic le llega la oportunidad de demostrar que tiene madera de auténtico héroe con el retorno del malvado Robotnik y su nuevo compinche, Knuckles, deseosos de encontrar la esmeralda que puede destruir civilizaciones.
+· País: EE.UU
+· Director: Jeff Fowler
+· Reparto: James Marsden, Jim Carrey, Tika Sumpter, Natasha Rothwell, Shemar Moore, Adam Pally, Lee Majdoub
+· Guion: Pat Casey,Josh Miller,John Whittington
+· Música: Junkie XL
+· Producción: Toby Ascher, Neal H. Moritz
+· Productora: Paramount Pictures, Sega Sammy Group</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4008936?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818094200 +0200" stop="20260818104100 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Agatha Christie:... (T1): Ep.1  (2025) | Movistar Plus</title>
+    <desc lang="es">Miniserie | No recomendado para menores de doce años | *3.0/5
+· Tras un escandaloso divorcio, Neville Strange, estrella del tenis, su exmujer Audrey y una volátil mezcla de invitados convergen en la finca costera de Lady Tressilien, donde el atribulado inspector Leach lucha con su propia desesperación.
+· País: R.U
+· Director: Sam Yates
+· Reparto: Anjelica Huston, Matthew Rhys, Oliver Jackson-Cohen, Ella Lily Hyland, Mimi Keene, Clarke Peters, Anjana Vasan, Jack Farthing
+· Guion: Rachel Bennette
+· Productora: ITV Studios, Mammoth Screen, BritBox</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4369698?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20260818104100 +0200" stop="20260818122600 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Flores para Antonio (2025) | Movistar Plus</title>
+    <desc lang="es">Biografía | No recomendado para menores de doce años | *3.6/5
+· Alba Flores se dispone a buscar la verdad sobre quién fue su padre, el músico legendario, Antonio Flores, fallecido cuando ella tenía 8 años. Alba dejó de cantar al perder a Antonio y ahora se dispone a recuperar su voz y su historia.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4461307?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20260818122600 +0200" stop="20260818141600 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Miss Agente Especial (2000) | Movistar Plus</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.3/5
+· El concurso de Miss EE UU ha recibido la amenaza de 'El ciudadano', un criminal al que el FBI lleva tiempo siguiendo la pista. Para intentar atraparlo, el FBI infiltra en el concurso a una de sus agentes.
+· País: EE.UU
+· Director: Donald Petrie
+· Reparto: Candice Bergen, Sandra Bullock, Michael Caine, William Shatner, Benjamin Bratt
+· Guion: Katie Ford,Caryn Lucas,Marc Lawrence
+· Música: Ed Shearmur
+· Productora: NPV Entertainment, Castle Rock Entertainment, Village Roadshow Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3800467?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818141600 +0200" stop="20260818161100 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Miss Agente Especial 2: Armada y fabulosa (2005) | Movistar Plus</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.2/5
+· Tras neutralizar una amenaza contra el concurso de Miss EE UU, las cosas no le han ido bien a la agente del FBI Gracie Hart. Mientras se recupera de una relación sentimental rota, ve cómo su fama está poniendo en peligro el trabajo secreto que tanto ama.
+· País: EE.UU
+· Director: John Pasquin
+· Reparto: Sandra Bullock, Regina King, William Shatner, Enrique Murciano, Ernie Hudson, Diedrich Bader, Heather Burns, Treat Williams, Abraham Benrubi, Lusia Strus, Nick Offerman, Emilio Giandomenico, Rachel Smith
+· Guion: Marc Lawrence,Mark Lawrence Miller
+· Música: John Van Tongeren
+· Producción: Sandra Bullock, Marc Lawrence
+· Productora: Castle Rock Entertainment, Village Roadshow Pictures, Fortis Films Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4050669?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818161100 +0200" stop="20260818180400 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver La ciudad perdida (2022) | Movistar Plus</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.1/5
+· La escritora Loretta Sage se encuentra enfrascada en la gira promocional de su último libro cuando es raptada por un excéntrico millonario que cree que la autora puede ayudarlo a encontrar el tesoro de una antigua ciudad perdida.
+· País: EE.UU
+· Director: Adam Nee, Aaron Nee
+· Reparto: Sandra Bullock, Channing Tatum, Daniel Radcliffe, Brad Pitt, Da'Vine Joy Randolph, Óscar Núñez, Patti Harrison, Héctor Aníbal
+· Guion: Oren Uziel,Dana Fox,Adam Nee,Aaron Nee
+· Música: Pinar Toprak
+· Producción: Liza Chasin, Sandra Bullock, Seth Gordon
+· Productora: Paramount Pictures, Fortis Films Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4015464?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818180400 +0200" stop="20260818202400 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Robin Hood, príncipe de los ladrones (1991) | Movistar Plus</title>
+    <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.2/5
+· Tras cinco años en las cruzadas, Robin regresa a Inglaterra junto a un guerrero musulmán al que ha salvado la vida. Al llegar descubre que su padre ha sido asesinado por el 'sheriff' de Nottingham que se ha quedado con sus tierras.
+· País: EE.UU y R.U
+· Director: Kevin Reynolds
+· Reparto: Kevin Costner, Mary Elizabeth Mastrantonio, Morgan Freeman, Christian Slater, Andy Hockley, Alan Rickman
+· Guion: Pen Densham,John Watson
+· Música: Jeff Lynne, Michael Kamen
+· Producción: Richard Barton Lewis, Pen Densham
+· Productora: Morgan Creek Productions, Morgan Creek, Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4366234?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818202400 +0200" stop="20260818220000 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Los misterios de Flavia (2025) | Movistar Plus</title>
+    <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.2/5
+· En la Inglaterra de 1951, Flavia de Luce, una niña prodigio apasionada por la química y los venenos, descubre un cadáver en la mansión familiar. Cuando su padre es acusado, decide investigar el caso por su cuenta.
+· País: EE.UU y R.U
+· Director: Bharat Nalluri
+· Reparto: Martin Freeman, Jonathan Pryce, Toby Jones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4477880?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818220000 +0200" stop="20260818232800 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Polloliebre y el secreto de la marmota (2025) | Movistar Plus</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.3/5
+· Cuando un secreto sobre su pasado sale a la luz, Polloliebre y sus amigos se embarcan en una épica búsqueda de una marmota capaz de modificar el pasado. Su magia podría salvar a los suyos, pero otros también quieren hacerse con ella.
+· País: Bélgica, EE.UU y Francia
+· Director: Benjamin Mousquet
+· Guion: David Collard
+· Productora: Sony Pictures International Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4471789?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818232800 +0200" stop="20260819000100 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Ilustres ignorantes (T19): La juventud (2026) | Movistar Plus</title>
+    <desc lang="es">Humor | No recomendado para menores de dieciséis años | *3.1/5
+· Maui de Utrera y Jorge Ponce asisten al plató de Ilustres para hablar sobre “La juventud” ¿En qué momento sintieron que habían dejado de ser jóvenes? ¿Cuál fue el momento cumbre en su juventud: un beso al amanecer, cuando les quitaron los brackets…?.
+· País: España
+· Presenta: Javier Coronas
+· Director: Javier Coronas
+· Productora: Movistar+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4480471?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20260818000100 +0200" stop="20260818022200 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver Aquaman (2018) | Movistar Plus</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *3.6/5
+· Tras descubrir que es el legítimo heredero del reino submarino de Atlantis, Arthur Curry deberá liderar a su pueblo y convertirse en un héroe para el mundo, tanto en la tierra como en los mares.
+· País: Australia y EE.UU
+· Director: James Wan
+· Reparto: Jason Momoa, Amber Heard, Willem Dafoe, Nicole Kidman, Patrick Wilson, Dolph Lundgren, Yahya Abdul-Mateen
+· Guion: David Leslie Johnson-McGoldrick,Will Beall,Dominique Swain
+· Música: Rupert Gregson-Williams
+· Producción: Rob Cowan, Peter Safran
+· Productora: DC Comics, DC Entertainment, The Safran Company, Warner Bros, Panoramic Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3682993?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20260818022200 +0200" stop="20260818043400 +0200" channel="M+ Vacaciones">
+    <title lang="es">Ver El legado de Bourne (2012) | Movistar Plus</title>
+    <desc lang="es">Acción | No recomendado para menores de doce años | *3.4/5
+· Aaron Cross es uno de los 6 agentes creados por Outcome. Los agentes de este programa no pertenecen a la CIA, sino al Departamento de Defensa, y no han sido diseñados para asesinar, sino para trabajar en solitario en misiones de alto riesgo.
+· País: EE.UU y Japón
+· Director: Tony Gilroy
+· Reparto: Jeremy Renner, Rachel Weisz, Edward Norton, Albert Finney, Joan Allen, Stacy Keach, Paddy Considine, Donna Murphy, Oscar Isaac, Corey Stoll, Arthur Acuña
+· Guion: Tony Gilroy,Dan Gilroy
+· Música: James Newton Howard
+· Productora: Relativity Media, The Kennedy/Marshall Company, Universal Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3793840?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
