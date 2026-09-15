@@ -1,11 +1,869 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 14/09/2026 03:29">
-  <channel id="M+ Orgullo">
-    <display-name>M+ Orgullo</display-name>
-    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MORGUL"/>
+<tv generator-info-name="MultiPopUps FullDesc 15/09/2026 03:33">
+  <channel id="M+ Romance">
+    <display-name>M+ Romance</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MROMA"/>
   </channel>
-  <channel id="M+ Vacaciones">
-    <display-name>M+ Vacaciones</display-name>
-    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVCIVA"/>
+  <channel id="M+ Terror">
+    <display-name>M+ Terror</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TERROR"/>
   </channel>
+  <programme start="20260915060000 +0200" stop="20260915075100 +0200" channel="M+ Romance">
+    <title lang="es">Ver Telediario Matinal (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20260915075100 +0200" stop="20260915103600 +0200" channel="M+ Romance">
+    <title lang="es">Ver La hora de La 1:... (T10): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.6/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4399889"/>
+  </programme>
+  <programme start="20260915103600 +0200" stop="20260915135500 +0200" channel="M+ Romance">
+    <title lang="es">Ver Mañaneros 360 (T3): Ep.776 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.2/5
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Jesús Cintora,Miriam Moreno</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399977"/>
+  </programme>
+  <programme start="20260915135500 +0200" stop="20260915145500 +0200" channel="M+ Romance">
+    <title lang="es">Ver Informativo territorial (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP518424"/>
+  </programme>
+  <programme start="20260915145500 +0200" stop="20260915153100 +0200" channel="M+ Romance">
+    <title lang="es">Ver Telediario 1 (2014) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20260915153100 +0200" stop="20260915153700 +0200" channel="M+ Romance">
+    <title lang="es">Ver Deportes 1 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20260915153700 +0200" stop="20260915154000 +0200" channel="M+ Romance">
+    <title lang="es">Ver El tiempo (2014) | Movistar Plus</title>
+    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20260915154000 +0200" stop="20260915155100 +0200" channel="M+ Romance">
+    <title lang="es">Ver Informativo territorial 2 (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20260915155100 +0200" stop="20260915175000 +0200" channel="M+ Romance">
+    <title lang="es">Ver Directo al grano (T3): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.8/5
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Martín Barreiro</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399979"/>
+  </programme>
+  <programme start="20260915175000 +0200" stop="20260915184600 +0200" channel="M+ Romance">
+    <title lang="es">Ver Valle Salvaje (T4): Ep.65  (2026) | Movistar Plus</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años | *2.9/5
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399975"/>
+  </programme>
+  <programme start="20260915184600 +0200" stop="20260915194900 +0200" channel="M+ Romance">
+    <title lang="es">Ver La Promesa (T1): Ep.905  (2026) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.4/5
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399201"/>
+  </programme>
+  <programme start="20260915194900 +0200" stop="20260915202500 +0200" channel="M+ Romance">
+    <title lang="es">Ver Malas lenguas (T3) (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.3/5
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4387639"/>
+  </programme>
+  <programme start="20260915202500 +0200" stop="20260915205800 +0200" channel="M+ Romance">
+    <title lang="es">Ver Aquí la Tierra (T15): Ep.827 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *2.9/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399989"/>
+  </programme>
+  <programme start="20260915205800 +0200" stop="20260915213800 +0200" channel="M+ Romance">
+    <title lang="es">Ver Telediario 2 (2021) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20260915213800 +0200" stop="20260915214800 +0200" channel="M+ Romance">
+    <title lang="es">Ver Deportes 2 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20260915214800 +0200" stop="20260915231400 +0200" channel="M+ Romance">
+    <title lang="es">Ver La revuelta (T3): Ep.325 (2026) | Movistar Plus</title>
+    <desc lang="es">Variedades | No recomendado para menores de doce años | *3.3/5
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4396864"/>
+  </programme>
+  <programme start="20260915231400 +0200" stop="20260916020000 +0200" channel="M+ Romance">
+    <title lang="es">Ver MasterChef... (T1): Ep.2 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.1/5
+· Pepe Rodríguez, Jordi Cruz y Marta Sanahuja dan una segunda oportunidad a participantes famosos de las ediciones anteriores.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MCLANTVP4399874"/>
+  </programme>
+  <programme start="20260915020000 +0200" stop="20260915052500 +0200" channel="M+ Romance">
+    <title lang="es">Ver MasterChef... (T1): Ep.74 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.4/5
+· Los aspirantes tienen una Caja Misteriosa que esconde corazones de animales y vegetales.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394617"/>
+  </programme>
+  <programme start="20260916060000 +0200" stop="20260916075100 +0200" channel="M+ Romance">
+    <title lang="es">Ver Telediario Matinal (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20260916075100 +0200" stop="20260916103600 +0200" channel="M+ Romance">
+    <title lang="es">Ver La hora de La 1:... (T10): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.6/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4399889"/>
+  </programme>
+  <programme start="20260916103600 +0200" stop="20260916135500 +0200" channel="M+ Romance">
+    <title lang="es">Ver Mañaneros 360 (T3): Ep.776 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.2/5
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Jesús Cintora,Miriam Moreno</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399977"/>
+  </programme>
+  <programme start="20260916135500 +0200" stop="20260916145500 +0200" channel="M+ Romance">
+    <title lang="es">Ver Informativo territorial (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP518424"/>
+  </programme>
+  <programme start="20260916145500 +0200" stop="20260916153100 +0200" channel="M+ Romance">
+    <title lang="es">Ver Telediario 1 (2014) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20260916153100 +0200" stop="20260916153700 +0200" channel="M+ Romance">
+    <title lang="es">Ver Deportes 1 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20260916153700 +0200" stop="20260916154000 +0200" channel="M+ Romance">
+    <title lang="es">Ver El tiempo (2014) | Movistar Plus</title>
+    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20260916154000 +0200" stop="20260916155100 +0200" channel="M+ Romance">
+    <title lang="es">Ver Informativo territorial 2 (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20260916155100 +0200" stop="20260916175000 +0200" channel="M+ Romance">
+    <title lang="es">Ver Directo al grano (T3): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.8/5
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Martín Barreiro</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399979"/>
+  </programme>
+  <programme start="20260916175000 +0200" stop="20260916184600 +0200" channel="M+ Romance">
+    <title lang="es">Ver Valle Salvaje (T4): Ep.65  (2026) | Movistar Plus</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años | *2.9/5
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399975"/>
+  </programme>
+  <programme start="20260916184600 +0200" stop="20260916194900 +0200" channel="M+ Romance">
+    <title lang="es">Ver La Promesa (T1): Ep.905  (2026) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.4/5
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399201"/>
+  </programme>
+  <programme start="20260916194900 +0200" stop="20260916202500 +0200" channel="M+ Romance">
+    <title lang="es">Ver Malas lenguas (T3) (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.3/5
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4387639"/>
+  </programme>
+  <programme start="20260916202500 +0200" stop="20260916205800 +0200" channel="M+ Romance">
+    <title lang="es">Ver Aquí la Tierra (T15): Ep.827 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *2.9/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399989"/>
+  </programme>
+  <programme start="20260916205800 +0200" stop="20260916213800 +0200" channel="M+ Romance">
+    <title lang="es">Ver Telediario 2 (2021) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20260916213800 +0200" stop="20260916214800 +0200" channel="M+ Romance">
+    <title lang="es">Ver Deportes 2 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20260916214800 +0200" stop="20260916231400 +0200" channel="M+ Romance">
+    <title lang="es">Ver La revuelta (T3): Ep.325 (2026) | Movistar Plus</title>
+    <desc lang="es">Variedades | No recomendado para menores de doce años | *3.3/5
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4396864"/>
+  </programme>
+  <programme start="20260916231400 +0200" stop="20260917020000 +0200" channel="M+ Romance">
+    <title lang="es">Ver MasterChef... (T1): Ep.2 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.1/5
+· Pepe Rodríguez, Jordi Cruz y Marta Sanahuja dan una segunda oportunidad a participantes famosos de las ediciones anteriores.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MCLANTVP4399874"/>
+  </programme>
+  <programme start="20260916020000 +0200" stop="20260916052500 +0200" channel="M+ Romance">
+    <title lang="es">Ver MasterChef... (T1): Ep.74 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.4/5
+· Los aspirantes tienen una Caja Misteriosa que esconde corazones de animales y vegetales.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394617"/>
+  </programme>
+  <programme start="20260917060000 +0200" stop="20260917075100 +0200" channel="M+ Romance">
+    <title lang="es">Ver Telediario Matinal (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20260917075100 +0200" stop="20260917103600 +0200" channel="M+ Romance">
+    <title lang="es">Ver La hora de La 1:... (T10): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.6/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4399889"/>
+  </programme>
+  <programme start="20260917103600 +0200" stop="20260917135500 +0200" channel="M+ Romance">
+    <title lang="es">Ver Mañaneros 360 (T3): Ep.776 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.2/5
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Jesús Cintora,Miriam Moreno</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399977"/>
+  </programme>
+  <programme start="20260917135500 +0200" stop="20260917145500 +0200" channel="M+ Romance">
+    <title lang="es">Ver Informativo territorial (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP518424"/>
+  </programme>
+  <programme start="20260917145500 +0200" stop="20260917153100 +0200" channel="M+ Romance">
+    <title lang="es">Ver Telediario 1 (2014) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20260917153100 +0200" stop="20260917153700 +0200" channel="M+ Romance">
+    <title lang="es">Ver Deportes 1 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20260917153700 +0200" stop="20260917154000 +0200" channel="M+ Romance">
+    <title lang="es">Ver El tiempo (2014) | Movistar Plus</title>
+    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20260917154000 +0200" stop="20260917155100 +0200" channel="M+ Romance">
+    <title lang="es">Ver Informativo territorial 2 (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20260917155100 +0200" stop="20260917175000 +0200" channel="M+ Romance">
+    <title lang="es">Ver Directo al grano (T3): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.8/5
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Martín Barreiro</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399979"/>
+  </programme>
+  <programme start="20260917175000 +0200" stop="20260917184600 +0200" channel="M+ Romance">
+    <title lang="es">Ver Valle Salvaje (T4): Ep.65  (2026) | Movistar Plus</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años | *2.9/5
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399975"/>
+  </programme>
+  <programme start="20260917184600 +0200" stop="20260917194900 +0200" channel="M+ Romance">
+    <title lang="es">Ver La Promesa (T1): Ep.905  (2026) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.4/5
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399201"/>
+  </programme>
+  <programme start="20260917194900 +0200" stop="20260917202500 +0200" channel="M+ Romance">
+    <title lang="es">Ver Malas lenguas (T3) (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.3/5
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4387639"/>
+  </programme>
+  <programme start="20260917202500 +0200" stop="20260917205800 +0200" channel="M+ Romance">
+    <title lang="es">Ver Aquí la Tierra (T15): Ep.827 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *2.9/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399989"/>
+  </programme>
+  <programme start="20260917205800 +0200" stop="20260917213800 +0200" channel="M+ Romance">
+    <title lang="es">Ver Telediario 2 (2021) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20260917213800 +0200" stop="20260917214800 +0200" channel="M+ Romance">
+    <title lang="es">Ver Deportes 2 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20260917214800 +0200" stop="20260917231400 +0200" channel="M+ Romance">
+    <title lang="es">Ver La revuelta (T3): Ep.325 (2026) | Movistar Plus</title>
+    <desc lang="es">Variedades | No recomendado para menores de doce años | *3.3/5
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4396864"/>
+  </programme>
+  <programme start="20260917231400 +0200" stop="20260918020000 +0200" channel="M+ Romance">
+    <title lang="es">Ver MasterChef... (T1): Ep.2 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.1/5
+· Pepe Rodríguez, Jordi Cruz y Marta Sanahuja dan una segunda oportunidad a participantes famosos de las ediciones anteriores.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MCLANTVP4399874"/>
+  </programme>
+  <programme start="20260917020000 +0200" stop="20260917052500 +0200" channel="M+ Romance">
+    <title lang="es">Ver MasterChef... (T1): Ep.74 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.4/5
+· Los aspirantes tienen una Caja Misteriosa que esconde corazones de animales y vegetales.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394617"/>
+  </programme>
+  <programme start="20260915060000 +0200" stop="20260915075100 +0200" channel="M+ Terror">
+    <title lang="es">Ver Telediario Matinal (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20260915075100 +0200" stop="20260915103600 +0200" channel="M+ Terror">
+    <title lang="es">Ver La hora de La 1:... (T10): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.6/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4399889"/>
+  </programme>
+  <programme start="20260915103600 +0200" stop="20260915135500 +0200" channel="M+ Terror">
+    <title lang="es">Ver Mañaneros 360 (T3): Ep.776 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.2/5
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Jesús Cintora,Miriam Moreno</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399977"/>
+  </programme>
+  <programme start="20260915135500 +0200" stop="20260915145500 +0200" channel="M+ Terror">
+    <title lang="es">Ver Informativo territorial (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP518424"/>
+  </programme>
+  <programme start="20260915145500 +0200" stop="20260915153100 +0200" channel="M+ Terror">
+    <title lang="es">Ver Telediario 1 (2014) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20260915153100 +0200" stop="20260915153700 +0200" channel="M+ Terror">
+    <title lang="es">Ver Deportes 1 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20260915153700 +0200" stop="20260915154000 +0200" channel="M+ Terror">
+    <title lang="es">Ver El tiempo (2014) | Movistar Plus</title>
+    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20260915154000 +0200" stop="20260915155100 +0200" channel="M+ Terror">
+    <title lang="es">Ver Informativo territorial 2 (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20260915155100 +0200" stop="20260915175000 +0200" channel="M+ Terror">
+    <title lang="es">Ver Directo al grano (T3): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.8/5
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Martín Barreiro</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399979"/>
+  </programme>
+  <programme start="20260915175000 +0200" stop="20260915184600 +0200" channel="M+ Terror">
+    <title lang="es">Ver Valle Salvaje (T4): Ep.65  (2026) | Movistar Plus</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años | *2.9/5
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399975"/>
+  </programme>
+  <programme start="20260915184600 +0200" stop="20260915194900 +0200" channel="M+ Terror">
+    <title lang="es">Ver La Promesa (T1): Ep.905  (2026) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.4/5
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399201"/>
+  </programme>
+  <programme start="20260915194900 +0200" stop="20260915202500 +0200" channel="M+ Terror">
+    <title lang="es">Ver Malas lenguas (T3) (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.3/5
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4387639"/>
+  </programme>
+  <programme start="20260915202500 +0200" stop="20260915205800 +0200" channel="M+ Terror">
+    <title lang="es">Ver Aquí la Tierra (T15): Ep.827 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *2.9/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399989"/>
+  </programme>
+  <programme start="20260915205800 +0200" stop="20260915213800 +0200" channel="M+ Terror">
+    <title lang="es">Ver Telediario 2 (2021) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20260915213800 +0200" stop="20260915214800 +0200" channel="M+ Terror">
+    <title lang="es">Ver Deportes 2 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20260915214800 +0200" stop="20260915231400 +0200" channel="M+ Terror">
+    <title lang="es">Ver La revuelta (T3): Ep.325 (2026) | Movistar Plus</title>
+    <desc lang="es">Variedades | No recomendado para menores de doce años | *3.3/5
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4396864"/>
+  </programme>
+  <programme start="20260915231400 +0200" stop="20260916020000 +0200" channel="M+ Terror">
+    <title lang="es">Ver MasterChef... (T1): Ep.2 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.1/5
+· Pepe Rodríguez, Jordi Cruz y Marta Sanahuja dan una segunda oportunidad a participantes famosos de las ediciones anteriores.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MCLANTVP4399874"/>
+  </programme>
+  <programme start="20260915020000 +0200" stop="20260915052500 +0200" channel="M+ Terror">
+    <title lang="es">Ver MasterChef... (T1): Ep.74 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.4/5
+· Los aspirantes tienen una Caja Misteriosa que esconde corazones de animales y vegetales.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394617"/>
+  </programme>
+  <programme start="20260916060000 +0200" stop="20260916075100 +0200" channel="M+ Terror">
+    <title lang="es">Ver Telediario Matinal (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20260916075100 +0200" stop="20260916103600 +0200" channel="M+ Terror">
+    <title lang="es">Ver La hora de La 1:... (T10): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.6/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4399889"/>
+  </programme>
+  <programme start="20260916103600 +0200" stop="20260916135500 +0200" channel="M+ Terror">
+    <title lang="es">Ver Mañaneros 360 (T3): Ep.776 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.2/5
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Jesús Cintora,Miriam Moreno</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399977"/>
+  </programme>
+  <programme start="20260916135500 +0200" stop="20260916145500 +0200" channel="M+ Terror">
+    <title lang="es">Ver Informativo territorial (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP518424"/>
+  </programme>
+  <programme start="20260916145500 +0200" stop="20260916153100 +0200" channel="M+ Terror">
+    <title lang="es">Ver Telediario 1 (2014) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20260916153100 +0200" stop="20260916153700 +0200" channel="M+ Terror">
+    <title lang="es">Ver Deportes 1 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20260916153700 +0200" stop="20260916154000 +0200" channel="M+ Terror">
+    <title lang="es">Ver El tiempo (2014) | Movistar Plus</title>
+    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20260916154000 +0200" stop="20260916155100 +0200" channel="M+ Terror">
+    <title lang="es">Ver Informativo territorial 2 (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20260916155100 +0200" stop="20260916175000 +0200" channel="M+ Terror">
+    <title lang="es">Ver Directo al grano (T3): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.8/5
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Martín Barreiro</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399979"/>
+  </programme>
+  <programme start="20260916175000 +0200" stop="20260916184600 +0200" channel="M+ Terror">
+    <title lang="es">Ver Valle Salvaje (T4): Ep.65  (2026) | Movistar Plus</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años | *2.9/5
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399975"/>
+  </programme>
+  <programme start="20260916184600 +0200" stop="20260916194900 +0200" channel="M+ Terror">
+    <title lang="es">Ver La Promesa (T1): Ep.905  (2026) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.4/5
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399201"/>
+  </programme>
+  <programme start="20260916194900 +0200" stop="20260916202500 +0200" channel="M+ Terror">
+    <title lang="es">Ver Malas lenguas (T3) (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.3/5
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4387639"/>
+  </programme>
+  <programme start="20260916202500 +0200" stop="20260916205800 +0200" channel="M+ Terror">
+    <title lang="es">Ver Aquí la Tierra (T15): Ep.827 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *2.9/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399989"/>
+  </programme>
+  <programme start="20260916205800 +0200" stop="20260916213800 +0200" channel="M+ Terror">
+    <title lang="es">Ver Telediario 2 (2021) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20260916213800 +0200" stop="20260916214800 +0200" channel="M+ Terror">
+    <title lang="es">Ver Deportes 2 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20260916214800 +0200" stop="20260916231400 +0200" channel="M+ Terror">
+    <title lang="es">Ver La revuelta (T3): Ep.325 (2026) | Movistar Plus</title>
+    <desc lang="es">Variedades | No recomendado para menores de doce años | *3.3/5
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4396864"/>
+  </programme>
+  <programme start="20260916231400 +0200" stop="20260917020000 +0200" channel="M+ Terror">
+    <title lang="es">Ver MasterChef... (T1): Ep.2 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.1/5
+· Pepe Rodríguez, Jordi Cruz y Marta Sanahuja dan una segunda oportunidad a participantes famosos de las ediciones anteriores.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MCLANTVP4399874"/>
+  </programme>
+  <programme start="20260916020000 +0200" stop="20260916052500 +0200" channel="M+ Terror">
+    <title lang="es">Ver MasterChef... (T1): Ep.74 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.4/5
+· Los aspirantes tienen una Caja Misteriosa que esconde corazones de animales y vegetales.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394617"/>
+  </programme>
+  <programme start="20260917060000 +0200" stop="20260917075100 +0200" channel="M+ Terror">
+    <title lang="es">Ver Telediario Matinal (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
+  </programme>
+  <programme start="20260917075100 +0200" stop="20260917103600 +0200" channel="M+ Terror">
+    <title lang="es">Ver La hora de La 1:... (T10): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.6/5
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Director: Silvia Intxaurrondo</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4399889"/>
+  </programme>
+  <programme start="20260917103600 +0200" stop="20260917135500 +0200" channel="M+ Terror">
+    <title lang="es">Ver Mañaneros 360 (T3): Ep.776 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.2/5
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González,Jesús Cintora,Miriam Moreno</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399977"/>
+  </programme>
+  <programme start="20260917135500 +0200" stop="20260917145500 +0200" channel="M+ Terror">
+    <title lang="es">Ver Informativo territorial (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP518424"/>
+  </programme>
+  <programme start="20260917145500 +0200" stop="20260917153100 +0200" channel="M+ Terror">
+    <title lang="es">Ver Telediario 1 (2014) | Movistar Plus</title>
+    <desc lang="es">Informativo | *3.1/5
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
+  </programme>
+  <programme start="20260917153100 +0200" stop="20260917153700 +0200" channel="M+ Terror">
+    <title lang="es">Ver Deportes 1 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
+  </programme>
+  <programme start="20260917153700 +0200" stop="20260917154000 +0200" channel="M+ Terror">
+    <title lang="es">Ver El tiempo (2014) | Movistar Plus</title>
+    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP332735"/>
+  </programme>
+  <programme start="20260917154000 +0200" stop="20260917155100 +0200" channel="M+ Terror">
+    <title lang="es">Ver Informativo territorial 2 (2023) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
+  </programme>
+  <programme start="20260917155100 +0200" stop="20260917175000 +0200" channel="M+ Terror">
+    <title lang="es">Ver Directo al grano (T3): Ep.181 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *2.8/5
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich,Martín Barreiro</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399979"/>
+  </programme>
+  <programme start="20260917175000 +0200" stop="20260917184600 +0200" channel="M+ Terror">
+    <title lang="es">Ver Valle Salvaje (T4): Ep.65  (2026) | Movistar Plus</title>
+    <desc lang="es">Telenovela | No recomendado para menores de doce años | *2.9/5
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado
+· Productora: Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399975"/>
+  </programme>
+  <programme start="20260917184600 +0200" stop="20260917194900 +0200" channel="M+ Terror">
+    <title lang="es">Ver La Promesa (T1): Ep.905  (2026) | Movistar Plus</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.4/5
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro
+· Guion: Alberto Grondona,Benjamín Zafra,Juanma Ruiz
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399201"/>
+  </programme>
+  <programme start="20260917194900 +0200" stop="20260917202500 +0200" channel="M+ Terror">
+    <title lang="es">Ver Malas lenguas (T3) (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | No recomendado para menores de dieciséis años | *3.3/5
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Director: Jesús Cintora</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4387639"/>
+  </programme>
+  <programme start="20260917202500 +0200" stop="20260917205800 +0200" channel="M+ Terror">
+    <title lang="es">Ver Aquí la Tierra (T15): Ep.827 (2026) | Movistar Plus</title>
+    <desc lang="es">Magacín | Apto para todos los públicos | *2.9/5
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4399989"/>
+  </programme>
+  <programme start="20260917205800 +0200" stop="20260917213800 +0200" channel="M+ Terror">
+    <title lang="es">Ver Telediario 2 (2021) | Movistar Plus</title>
+    <desc lang="es">Informativo | Apto para todos los públicos | *3.1/5
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno
+· Productora: Televisión Española (TVE)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
+  </programme>
+  <programme start="20260917213800 +0200" stop="20260917214800 +0200" channel="M+ Terror">
+    <title lang="es">Ver Deportes 2 (2025) | Movistar Plus</title>
+    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
+  </programme>
+  <programme start="20260917214800 +0200" stop="20260917231400 +0200" channel="M+ Terror">
+    <title lang="es">Ver La revuelta (T3): Ep.325 (2026) | Movistar Plus</title>
+    <desc lang="es">Variedades | No recomendado para menores de doce años | *3.3/5
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4396864"/>
+  </programme>
+  <programme start="20260917231400 +0200" stop="20260918020000 +0200" channel="M+ Terror">
+    <title lang="es">Ver MasterChef... (T1): Ep.2 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.1/5
+· Pepe Rodríguez, Jordi Cruz y Marta Sanahuja dan una segunda oportunidad a participantes famosos de las ediciones anteriores.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MCLANTVP4399874"/>
+  </programme>
+  <programme start="20260917020000 +0200" stop="20260917052500 +0200" channel="M+ Terror">
+    <title lang="es">Ver MasterChef... (T1): Ep.74 (2026) | Movistar Plus</title>
+    <desc lang="es">Concurso | No recomendado para menores de siete años | *3.4/5
+· Los aspirantes tienen una Caja Misteriosa que esconde corazones de animales y vegetales.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394617"/>
+  </programme>
 </tv>
