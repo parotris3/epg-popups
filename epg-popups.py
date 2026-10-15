@@ -197,9 +197,14 @@ def obtener_detalles_programa(detail_url):
         # --- Extracción de meta etiquetas (og:title y sinopsis de name="description") ---
         og_title_tag = soup.find('meta', property='og:title')
         if og_title_tag and og_title_tag.get('content'):
-            details['og_titulo'] = og_title_tag['content'].strip()
-            print(f"DEBUG: og:title = '{details['og_titulo']}'")
-
+            raw_title = html.unescape(og_title_tag['content'].strip())
+            # 1. Eliminar "Ver " del principio (ignorando mayúsculas/minúsculas)
+            clean_title = re.sub(r'^Ver\s+', '', raw_title, flags=re.IGNORECASE)
+            # 2. Eliminar " | Movistar..." (o cualquier texto tras la barra '|') del final
+            clean_title = re.sub(r'\s*\|.*$', '', clean_title)
+            
+            details['og_titulo'] = clean_title.strip()
+            print(f"DEBUG: og:title limpio = '{details['og_titulo']}'")
         desc_tag = soup.find('meta', attrs={'name': 'description'})
         if desc_tag and desc_tag.get('content'):
             full_description = html.unescape(desc_tag['content'].strip())
