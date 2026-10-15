@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 15/10/2026 03:21">
+<tv generator-info-name="MultiPopUps FullDesc 15/10/2026 15:37">
   <channel id="M+ Romance">
     <display-name>M+ Romance</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MROMA"/>
@@ -9,7 +9,7 @@
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TERROR"/>
   </channel>
   <programme start="20261015044200 +0200" stop="20261015063900 +0200" channel="M+ Romance">
-    <title lang="es">Ver Love &amp; Mercy (2014) | Movistar Plus</title>
+    <title lang="es">Love &amp; Mercy (2014)</title>
     <desc lang="es">Drama | No recomendado para menores de doce años | *3.2/5
 · Biopic sobre el músico y compositor Brian Wilson, fundador de los Beach Boys, sobre su influencia en la música, y sus problemas nerviosos que propiciaron su relación con el controvertido terapeuta Dr. Eugene Landy.
 · País: EE.UU
@@ -21,7 +21,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4126513?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015063900 +0200" stop="20261015080000 +0200" channel="M+ Romance">
-    <title lang="es">Ver Este amor sí que duele (2025) | Movistar Plus</title>
+    <title lang="es">Este amor sí que duele (2025)</title>
     <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.0/5
 · Marvin Gable, agente inmobiliario y exasesino, recibe una carta de Rose, abogada que debía eliminar, pero dejó escapar.
 · País: EE.UU y Japón
@@ -33,8 +33,8 @@
 · Productora: 87North</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4370934?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261015080000 +0200" stop="20261015094200 +0200" channel="M+ Romance">
-    <title lang="es">Ver Muero por ella (2025) | Movistar Plus</title>
+  <programme start="20261015080000 +0200" stop="20261015094300 +0200" channel="M+ Romance">
+    <title lang="es">Muero por ella (2025)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.1/5
 · Durante el confinamiento, Luca, casado con Sara, una médico ocupada con la emergencia sanitaria provocada por el COVID se obsesiona con Amanda, la joven que alquila el apartamento de enfrente.
 · País: Italia y Serbia
@@ -46,8 +46,8 @@
 · Productora: NIghtswim, Medusa Film</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4451272?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261015094200 +0200" stop="20261015105700 +0200" channel="M+ Romance">
-    <title lang="es">Ver Kim Novak's Vertigo (2025) | Movistar Plus</title>
+  <programme start="20261015094300 +0200" stop="20261015105900 +0200" channel="M+ Romance">
+    <title lang="es">Kim Novak's Vertigo (2025)</title>
     <desc lang="es">Biografía | No recomendado para menores de doce años | *3.0/5
 · El retrato definitivo de una estrella de Hollywood tremendamente independiente que decidió dejarlo todo para vivir según sus propias reglas. Guiado por sus propias palabras, el documental realiza un conmovedor recorrido por su vida y carrera.
 · País: EE.UU
@@ -57,8 +57,8 @@
 · Música: Jon Hegel</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4470375?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261015105700 +0200" stop="20261015122500 +0200" channel="M+ Romance">
-    <title lang="es">Ver Al final de la escapada (1960) | Movistar Plus</title>
+  <programme start="20261015105900 +0200" stop="20261015122900 +0200" channel="M+ Romance">
+    <title lang="es">Al final de la escapada (1960)</title>
     <desc lang="es">Drama romántico | No recomendado para menores de doce años | *3.2/5
 · Una chica americana se gana la vida vendiendo periódicos en las calles de París. Un día conoce a un joven delincuente.
 · País: Francia
@@ -68,8 +68,8 @@
 · Productora: Impéria Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4213112?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261015122500 +0200" stop="20261015140200 +0200" channel="M+ Romance">
-    <title lang="es">Ver 10 razones para odiarte (1999) | Movistar Plus</title>
+  <programme start="20261015122900 +0200" stop="20261015140500 +0200" channel="M+ Romance">
+    <title lang="es">10 razones para odiarte (1999)</title>
     <desc lang="es">Acción | No recomendado para menores de doce años | *3.4/5
 · Son dos hermanas que fueron abandonadas hace años por su madre y que están al cuidado de su padre, que es ginecólogo.
 · País: EE.UU
@@ -80,8 +80,8 @@
 · Productora: Buena Vista</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4484513?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261015140200 +0200" stop="20261015153100 +0200" channel="M+ Romance">
-    <title lang="es">Ver Mujeres al borde de un ataque de nervios (1988) | Movistar Plus</title>
+  <programme start="20261015140500 +0200" stop="20261015153300 +0200" channel="M+ Romance">
+    <title lang="es">Mujeres al borde de un ataque de nervios (1988)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.3/5
 · Iván y Pepa, una pareja de actores de doblaje, rompen su relación sin que él sepa que ella está embarazada. Pepa espera en vano noticias de Iván y, mientras tanto, trata de habituarse como puede a su nueva situación.
 · País: España
@@ -93,8 +93,8 @@
 · Productora: El Deseo</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4173111?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261015153100 +0200" stop="20261015173900 +0200" channel="M+ Romance">
-    <title lang="es">Ver El secreto de sus ojos (2009) | Movistar Plus</title>
+  <programme start="20261015153300 +0200" stop="20261015174000 +0200" channel="M+ Romance">
+    <title lang="es">El secreto de sus ojos (2009)</title>
     <desc lang="es">Thriller | No recomendado para menores de siete años | *3.7/5
 · Durante 25 años, un crimen ha permanecido indeleble en la memoria de Benjamín Espósito. Ahora decide volver sobre los recuerdos de amor, muerte y amistad y saldar cuentas con la historia.
 · País: Argentina y España
@@ -105,8 +105,8 @@
 · Productora: Canal+ España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4102024?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261015173900 +0200" stop="20261015183800 +0200" channel="M+ Romance">
-    <title lang="es">Ver Los años nuevos (T1): Ep.1  (2024) | Movistar Plus</title>
+  <programme start="20261015174000 +0200" stop="20261015184000 +0200" channel="M+ Romance">
+    <title lang="es">Los años nuevos (T1): Ep.1  (2024)</title>
     <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.1/5
 · Es la madrugada del 1 de enero del 2016. Óscar está de mal rollo: ha ido a una discoteca con su exnovia, Vero, creyendo que todavía tiene una oportunidad con ella. Pero está equivocado. Es la misma discoteca donde trabaja Ana de camarera.
 · País: España
@@ -117,8 +117,8 @@
 · Productora: Caballo Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4323101?od[]=Z1H:MORIG3_H"/>
   </programme>
-  <programme start="20261015183800 +0200" stop="20261015192200 +0200" channel="M+ Romance">
-    <title lang="es">Ver Los años nuevos (T1): Ep.2  (2024) | Movistar Plus</title>
+  <programme start="20261015184000 +0200" stop="20261015192400 +0200" channel="M+ Romance">
+    <title lang="es">Los años nuevos (T1): Ep.2  (2024)</title>
     <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.1/5
 · Ana se apunta a la cena que han organizado Guille y Ali, ahora con un bebé. Mientras esperan la llegada del padre de Óscar, los amigos se entretienen con un juego de preguntas que hace saltar todas las tensiones de la noche.
 · País: España
@@ -129,8 +129,8 @@
 · Productora: Caballo Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4323109"/>
   </programme>
-  <programme start="20261015192200 +0200" stop="20261015200800 +0200" channel="M+ Romance">
-    <title lang="es">Ver Los años nuevos (T1): Ep.3  (2024) | Movistar Plus</title>
+  <programme start="20261015192400 +0200" stop="20261015201000 +0200" channel="M+ Romance">
+    <title lang="es">Los años nuevos (T1): Ep.3  (2024)</title>
     <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.0/5
 · Oscar y Ana llevan diez meses juntos. Celebraron la Nochevieja con una fiesta en el piso de Ana y la casa está hecha un desastre. Pero les da igual. Solo tienen un plan: pasarse el día en la cama.
 · País: España
@@ -141,8 +141,8 @@
 · Productora: Caballo Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4323116"/>
   </programme>
-  <programme start="20261015200800 +0200" stop="20261015205500 +0200" channel="M+ Romance">
-    <title lang="es">Ver Los años nuevos (T1): Ep.4  (2024) | Movistar Plus</title>
+  <programme start="20261015201000 +0200" stop="20261015205600 +0200" channel="M+ Romance">
+    <title lang="es">Los años nuevos (T1): Ep.4  (2024)</title>
     <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.1/5
 · Óscar y Ana llevan seis meses viviendo juntos. Han invitado a sus padres a cenar. Ana le dice a Óscar que le han ofrecido un trabajo en Edimburgo y quiere ir. Con Óscar, claro.
 · País: España
@@ -153,8 +153,8 @@
 · Productora: Caballo Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4323121"/>
   </programme>
-  <programme start="20261015205500 +0200" stop="20261015215300 +0200" channel="M+ Romance">
-    <title lang="es">Ver Los años nuevos (T1): Ep.5  (2024) | Movistar Plus</title>
+  <programme start="20261015205600 +0200" stop="20261015215300 +0200" channel="M+ Romance">
+    <title lang="es">Los años nuevos (T1): Ep.5  (2024)</title>
     <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.0/5
 · Ana y Óscar están en Berlín. Un día para conocer la ciudad, ir a uno de los clubs más famosos de techno y reencontrarse. El viaje empieza bien, pero algo se tuerce.
 · País: España
@@ -166,7 +166,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4323130"/>
   </programme>
   <programme start="20261015215300 +0200" stop="20261015220000 +0200" channel="M+ Romance">
-    <title lang="es">Ver Espacio M+ (T2): Los años nuevos. Un tratado sobre el amor (2024) | Movistar Plus</title>
+    <title lang="es">Espacio M+ (T2): Los años nuevos. Un tratado sobre el amor (2024)</title>
     <desc lang="es">Entretenimiento | No recomendado para menores de siete años | *3.0/5
 · Una pareja. Diez Nocheviejas. Una relación. El director Rodrigo Sorogoyen desgrana las claves de la serie de M+ “Los años nuevos”, junto a sus dos actores protagonistas, Iria del Río y Francesco Carril.
 · País: España
@@ -174,7 +174,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4322069?od[]=Z1V:MORIG3_V"/>
   </programme>
   <programme start="20261015220000 +0200" stop="20261016001400 +0200" channel="M+ Romance">
-    <title lang="es">Ver Love Actually (2003) | Movistar Plus</title>
+    <title lang="es">Love Actually (2003)</title>
     <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.5/5
 · Varias historias románticas, desde un camarero sin suerte en el amor hasta el Primer Ministro británico, enamorado de una ayudante de su gabinete, se entrecruzan en el Londres previo a la Navidad.
 · País: EE.UU y R.U
@@ -186,8 +186,8 @@
 · Productora: Universal Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4191912?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261015001400 +0200" stop="20261015023000 +0200" channel="M+ Romance">
-    <title lang="es">Ver Ha nacido una estrella (2018) | Movistar Plus</title>
+  <programme start="20261015001400 +0200" stop="20261015023100 +0200" channel="M+ Romance">
+    <title lang="es">Ha nacido una estrella (2018)</title>
     <desc lang="es">Cine musical | No recomendado para menores de dieciséis años | *4.1/5
 · Jackson Maine, una estrella consagrada de la música, conoce casualmente a Ally, una joven cantante que no ha tenido mucha suerte en el mundo del espectáculo.
 · País: EE.UU
@@ -198,8 +198,8 @@
 · Productora: Warner Bros, Live Nation Productions, Metro-Goldwyn-Mayer (MGM), Peters Entertainment, Gerber Pictures, Joint Effort, Warner Bros. Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3661509?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261015023000 +0200" stop="20261015042500 +0200" channel="M+ Romance">
-    <title lang="es">Ver Reminiscencia (2021) | Movistar Plus</title>
+  <programme start="20261015023100 +0200" stop="20261015042500 +0200" channel="M+ Romance">
+    <title lang="es">Reminiscencia (2021)</title>
     <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *3.1/5
 · Tras una brutal subida del nivel del mar y una guerra, la nostalgia se ha convertido en la forma de vida de una humanidad sin futuro. Nick Bannister, un investigador privado de la anegada Miami, ayuda a sus clientes a acceder a los recuerdos perdidos.
 · País: EE.UU
@@ -211,8 +211,8 @@
 · Productora: FilmNation Entertainment, Michael De Luca Productions, Kilter Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3952971?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016042500 +0200" stop="20261016061400 +0200" channel="M+ Romance">
-    <title lang="es">Ver Hasta que la boda nos separe (2020) | Movistar Plus</title>
+  <programme start="20261016042500 +0200" stop="20261016061500 +0200" channel="M+ Romance">
+    <title lang="es">Hasta que la boda nos separe (2020)</title>
     <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.6/5
 · La treintañera Marina se gana la vida organizando bodas... aunque no cree en el matrimonio. Siguiendo el consejo que le dio su padre de niña (antes de abandonarlas a su madre y a ella), Marina vive su vida sin ataduras ni compromisos.
 · País: España
@@ -224,8 +224,8 @@
 · Productora: Atresmedia Cine, Álamo Producciones Audiovisuales</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4089064?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016061400 +0200" stop="20261016073800 +0200" channel="M+ Romance">
-    <title lang="es">Ver Peter von Kant (2022) | Movistar Plus</title>
+  <programme start="20261016061500 +0200" stop="20261016073700 +0200" channel="M+ Romance">
+    <title lang="es">Peter von Kant (2022)</title>
     <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.1/5
 · Peter Von Kant es un exitoso director de cine quien, gracias a su musa conoce y se enamora de Amir, un apuesto joven, a quien ofrece vivir con él e introducirle en el mundo del cine.
 · País: Bélgica y Francia
@@ -237,15 +237,15 @@
 · Productora: FOZ, Films Distribution</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4069829?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016073800 +0200" stop="20261016080000 +0200" channel="M+ Romance">
-    <title lang="es">Ver Un cocktail con Javier Ambrossi, Javier Calvo &amp; Little Spain (2024) | Movistar Plus</title>
+  <programme start="20261016073700 +0200" stop="20261016080000 +0200" channel="M+ Romance">
+    <title lang="es">Un cocktail con Javier Ambrossi, Javier Calvo &amp; Little Spain (2024)</title>
     <desc lang="es">Tertulia | Apto para todos los públicos | *3.0/5
 · Javier Ambrossi, Javier Calvo, C. Tangana y Little Spain conversan sobre creatividad compartiendo anécdotas de rodaje de 'La mesías' y 'Esta ambición desmedida'.
 · País: España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4185461?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016080000 +0200" stop="20261016093500 +0200" channel="M+ Romance">
-    <title lang="es">Ver La casa del lago (2006) | Movistar Plus</title>
+  <programme start="20261016080000 +0200" stop="20261016093700 +0200" channel="M+ Romance">
+    <title lang="es">La casa del lago (2006)</title>
     <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.5/5
 · Una doctora y un arquitecto se enamoran escribiéndose cartas a través de un correo que une el pasado con el presente.
 · País: EE.UU
@@ -257,8 +257,8 @@
 · Productora: Warner Bros, Sonny Mallhi, Bruce Berman, Erwin Stoff, Village Roadshow Pictures, Warner Bros. Pictures, Vertigo Entertainment, Sound for Film</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3747777?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016093500 +0200" stop="20261016111700 +0200" channel="M+ Romance">
-    <title lang="es">Ver Sing Street (2016) | Movistar Plus</title>
+  <programme start="20261016093700 +0200" stop="20261016112000 +0200" channel="M+ Romance">
+    <title lang="es">Sing Street (2016)</title>
     <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *4.0/5
 · Dublín, década de 1980. La recesión económica hace que Connor deba abandonar la comodidad de la escuela privada en la que estudia y tenga que sobrevivir en la escuela pública del centro de la ciudad, donde el clima es mucho más tenso.
 · País: EE.UU, Irlanda y R.U
@@ -269,8 +269,8 @@
 · Productora: Merced Media, PalmStar Media, FilmNation Entertainment, Cosmo Films, Distressed Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3910604?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016111700 +0200" stop="20261016125700 +0200" channel="M+ Romance">
-    <title lang="es">Ver ¡Porque lo digo yo! (2007) | Movistar Plus</title>
+  <programme start="20261016112000 +0200" stop="20261016130100 +0200" channel="M+ Romance">
+    <title lang="es">¡Porque lo digo yo! (2007)</title>
     <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.5/5
 · Para evitarle a su hija menor sus errores de juventud, Daphne decide buscarle personalmente el novio perfecto.
 · País: EE.UU
@@ -282,8 +282,8 @@
 · Productora: Gold Circle Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4474052?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016125700 +0200" stop="20261016144400 +0200" channel="M+ Romance">
-    <title lang="es">Ver Bridget Jones: Sobreviviré (2004) | Movistar Plus</title>
+  <programme start="20261016130100 +0200" stop="20261016144600 +0200" channel="M+ Romance">
+    <title lang="es">Bridget Jones: Sobreviviré (2004)</title>
     <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.3/5
 · Bridget Jones, ahora junto a Mark Darcy, quiere triunfar como intrépida reportera. Pero su antiguo jefe y amante reaparecerá.
 · País: Alemania, EE.UU, Francia, Irlanda y R.U
@@ -295,8 +295,8 @@
 · Productora: Tim Bevan, Jonathan Cavendish, StudioCanal, Liza Chasin, Eric Fellner, Working Title Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4057308?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016144400 +0200" stop="20261016165600 +0200" channel="M+ Romance">
-    <title lang="es">Ver Drácula de Bram Stoker (1992) | Movistar Plus</title>
+  <programme start="20261016144600 +0200" stop="20261016165600 +0200" channel="M+ Romance">
+    <title lang="es">Drácula de Bram Stoker (1992)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.9/5
 · Antes de convertirse en vampiro, el conde Drácula era el príncipe Vlad, que vendió su alma al diablo al enterarse de la muerte de su amada. Cuatro siglos más tarde, un joven abogado que viaja por el este de Europa es capturado por el conde Drácula.
 · País: EE.UU y R.U
@@ -309,7 +309,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4365646?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261016165600 +0200" stop="20261016185600 +0200" channel="M+ Romance">
-    <title lang="es">Ver Love &amp; Mercy (2014) | Movistar Plus</title>
+    <title lang="es">Love &amp; Mercy (2014)</title>
     <desc lang="es">Drama | No recomendado para menores de doce años | *3.2/5
 · Biopic sobre el músico y compositor Brian Wilson, fundador de los Beach Boys, sobre su influencia en la música, y sus problemas nerviosos que propiciaron su relación con el controvertido terapeuta Dr. Eugene Landy.
 · País: EE.UU
@@ -321,7 +321,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4126513?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261016185600 +0200" stop="20261016214100 +0200" channel="M+ Romance">
-    <title lang="es">Ver El curioso caso de Benjamin Button (2008) | Movistar Plus</title>
+    <title lang="es">El curioso caso de Benjamin Button (2008)</title>
     <desc lang="es">Drama romántico | Apto para todos los públicos | *3.7/5
 · Benjamin Button nace con la apariencia de un hombre de 80 años. Es criado por su madre adoptiva en una residencia de ancianos, en la cual descubren cómo el tiempo no pasa igual por Benjamin: cada año que pasa se hace más joven.
 · País: EE.UU
@@ -334,7 +334,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3925167?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261016214100 +0200" stop="20261016220000 +0200" channel="M+ Romance">
-    <title lang="es">Ver El vestido piel (2026) | Movistar Plus</title>
+    <title lang="es">El vestido piel (2026)</title>
     <desc lang="es">Corto animación | No recomendado para menores de siete años | *3.0/5
 · John, un viejo sastre nostálgico, hace que su esposa trabaje en vestidos pasados de moda. Un evento macabro inspira al diseñador a un vestido nuevo, precioso pero extraño.
 · País: Francia
@@ -345,7 +345,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4502973?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261016220000 +0200" stop="20261017001200 +0200" channel="M+ Romance">
-    <title lang="es">Ver Call Me by Your Name (2017) | Movistar Plus</title>
+    <title lang="es">Call Me by Your Name (2017)</title>
     <desc lang="es">Drama | No recomendado para menores de doce años | *3.9/5
 · Verano de 1983. El joven Elio Perlman pasa las vacaciones junto a su familia en una villa italiana del siglo XVII, dedicado a la música y a flirtear con su amiga Marzi. Todo cambia cuando Oliver, un estudiante de doctorado, llega a la casa.
 · País: Brasil, EE.UU, Francia e Italia
@@ -358,7 +358,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3566584?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261016001200 +0200" stop="20261016020500 +0200" channel="M+ Romance">
-    <title lang="es">Ver La ironía del amor (2025) | Movistar Plus</title>
+    <title lang="es">La ironía del amor (2025)</title>
     <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.1/5
 · Grace, crítica musical de Toronto, se instala en Montreal para escribir un libro sobre Alanis Morissette y dar un giro a su vida. Allí se cruza con una banda indie y con nuevas relaciones que pondrán a prueba su lugar en el mundo.
 · País: Canadá
@@ -368,8 +368,8 @@
 · Productora: IPR.VC, Ontario Creates</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4479372?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016020500 +0200" stop="20261016034900 +0200" channel="M+ Romance">
-    <title lang="es">Ver Big (1988) | Movistar Plus</title>
+  <programme start="20261016020500 +0200" stop="20261016034800 +0200" channel="M+ Romance">
+    <title lang="es">Big (1988)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.7/5
 · Josh Baskin es un niño de 12 años que juega con el ordenador, monta en bici y se siente atraído por una chica de su clase. Para poder enamorarla formula un deseo en una máquina de feria mágica: hacerse mayor.
 · País: EE.UU
@@ -381,8 +381,8 @@
 · Productora: Twentieth Century Fox, Gracie Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3664828?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016034900 +0200" stop="20261016053600 +0200" channel="M+ Romance">
-    <title lang="es">Ver El perro del hortelano (1996) | Movistar Plus</title>
+  <programme start="20261016034800 +0200" stop="20261016053500 +0200" channel="M+ Romance">
+    <title lang="es">El perro del hortelano (1996)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.2/5
 · Diana, condesa de Belflor, se enamora de su secretario Teodoro, quien, a su vez, está prometido a Marcela. Diana es una mujer que lucha por aquello que quiere, así que decide utilizar su ingenio y posición para conseguir al hombre que ama.
 · País: España y Portugal
@@ -393,8 +393,8 @@
 · Productora: CARTEL (Creativos Asociados de Radio y TV), Enrique Cerezo Producciones Cinematográficas S.A, Lolafilms S.A.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3779701?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017053600 +0200" stop="20261017073100 +0200" channel="M+ Romance">
-    <title lang="es">Ver La pasión turca (1994) | Movistar Plus</title>
+  <programme start="20261017053500 +0200" stop="20261017073000 +0200" channel="M+ Romance">
+    <title lang="es">La pasión turca (1994)</title>
     <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.0/5
 · Desideria, una mujer de la burguesía que lleva una vida apacible pero carente de amor y sexo, sufre un cambio radical en su viaje a Estambul, donde descubre que unos simples roces de piel con piel, pueden hacer que su mundo se tambalee.
 · País: España
@@ -406,8 +406,8 @@
 · Productora: Lolafilms S.A., Cartel Films, CARTEL (Creativos Asociados de Radio y TV), Sogepaq</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3848531?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017073100 +0200" stop="20261017080000 +0200" channel="M+ Romance">
-    <title lang="es">Ver Las vueltas que da la vida (2026) | Movistar Plus</title>
+  <programme start="20261017073000 +0200" stop="20261017080000 +0200" channel="M+ Romance">
+    <title lang="es">Las vueltas que da la vida (2026)</title>
     <desc lang="es">Corto de comedia | Apto para todos los públicos | *3.2/5
 · Per tiene casi 400 años y es inmortal. Cuando lo confiesa sin querer en su pódcast, se hace viral y un equipo decide grabar un documental sobre su día a día.
 · País: España
@@ -417,7 +417,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4456050?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017080000 +0200" stop="20261017104000 +0200" channel="M+ Romance">
-    <title lang="es">Ver West Side Story (2021) | Movistar Plus</title>
+    <title lang="es">West Side Story (2021)</title>
     <desc lang="es">Cine musical | No recomendado para menores de doce años | *3.1/5
 · Del productor y director Steven Spielberg, con guion del guionista y autor teatral Tony Kushner, llega &quot;West Side Story&quot;. La película es una adaptación del musical de 1957 y cuenta la historia de un amor prohibido.
 · País: EE.UU
@@ -429,7 +429,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4355053?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017104000 +0200" stop="20261017121100 +0200" channel="M+ Romance">
-    <title lang="es">Ver Bodas reales (1951) | Movistar Plus</title>
+    <title lang="es">Bodas reales (1951)</title>
     <desc lang="es">Cine musical | Apto para todos los públicos | *3.2/5
 · Un chico y una chica, hermanos y bailarines, viajan a Londres para estrenar un musical. El viaje les traerá el amor a los dos.
 · País: EE.UU
@@ -442,7 +442,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4075677?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017121100 +0200" stop="20261017142400 +0200" channel="M+ Romance">
-    <title lang="es">Ver Ha nacido una estrella (2018) | Movistar Plus</title>
+    <title lang="es">Ha nacido una estrella (2018)</title>
     <desc lang="es">Cine musical | No recomendado para menores de dieciséis años | *4.1/5
 · Jackson Maine, una estrella consagrada de la música, conoce casualmente a Ally, una joven cantante que no ha tenido mucha suerte en el mundo del espectáculo.
 · País: EE.UU
@@ -454,7 +454,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3661509?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017142400 +0200" stop="20261017164100 +0200" channel="M+ Romance">
-    <title lang="es">Ver Decision to Leave (2022) | Movistar Plus</title>
+    <title lang="es">Decision to Leave (2022)</title>
     <desc lang="es">Thriller | No recomendado para menores de doce años | *3.2/5
 · Hae-Joon es el encargado de investigar la sospechosa muerte de un hombre que cayó desde la cima de una montaña.  Pronto, Hae-Joon comienza a sentir no solo sospechas por Sore, la mujer del difunto.
 · País: Corea del Sur
@@ -467,7 +467,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4373339?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017164100 +0200" stop="20261017183100 +0200" channel="M+ Romance">
-    <title lang="es">Ver Con amor, Simon (2018) | Movistar Plus</title>
+    <title lang="es">Con amor, Simon (2018)</title>
     <desc lang="es">Acción | No recomendado para menores de doce años | *4.2/5
 · Simon Spier tiene la vida normal de un chico en su último año de instituto, una familia estupenda y unos amigos maravillosos. Lo único que complica su vida es que aún no se ha atrevido a revelarle a nadie su gran secreto.
 · País: EE.UU
@@ -480,7 +480,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3635351?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017183100 +0200" stop="20261017200900 +0200" channel="M+ Romance">
-    <title lang="es">Ver Y que le gusten los perros (2005) | Movistar Plus</title>
+    <title lang="es">Y que le gusten los perros (2005)</title>
     <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.3/5
 · Sarah es una profesora treintañera que lleva divorciada ocho meses. Sus hermanas, con el deseo de que se anime, deciden introducir sus datos en una página de contactos de internet.
 · País: EE.UU
@@ -493,7 +493,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3835114?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017200900 +0200" stop="20261017214800 +0200" channel="M+ Romance">
-    <title lang="es">Ver Bella de día (1967) | Movistar Plus</title>
+    <title lang="es">Bella de día (1967)</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
 · Catherine Deneuve es Sévérine, una joven casada que lleva una doble vida al ejercer la prostitución por el día. Obra maestra de Luis Buñuel.
 · País: Francia e Italia
@@ -504,7 +504,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4061801?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017214800 +0200" stop="20261017220000 +0200" channel="M+ Romance">
-    <title lang="es">Ver Buffet Paraíso (2024) | Movistar Plus</title>
+    <title lang="es">Buffet Paraíso (2024)</title>
     <desc lang="es">Corto animación | No recomendado para menores de dieciséis años | *3.1/5
 · Un variopinto grupo de personajes unidos por su pasión por la comida, son  atraídos por un restaurante-buffet que promete unos platos nunca vistos.
 vistos.
@@ -513,7 +513,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4323002?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017220000 +0200" stop="20261018000400 +0200" channel="M+ Romance">
-    <title lang="es">Ver La forma del agua (2017) | Movistar Plus</title>
+    <title lang="es">La forma del agua (2017)</title>
     <desc lang="es">Fantástico | No recomendado para menores de doce años | *3.4/5
 · Baltimore, años 60. Elisa, muda desde que era un bebé, trabaja como limpiadora nocturna en un centro de investigación aeroespacial. Cuando está limpiando en un zona de alta seguridad, llevan al laboratorio una cápsula con un extraño ser en su interior.
 · País: Canadá, EE.UU y México
@@ -526,7 +526,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4064664?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017000400 +0200" stop="20261017011600 +0200" channel="M+ Romance">
-    <title lang="es">Ver Drácula (1931) (1931) | Movistar Plus</title>
+    <title lang="es">Drácula (1931) (1931)</title>
     <desc lang="es">Terror | No recomendado para menores de siete años | *3.2/5
 · A mediados del siglo XIX, el conde Drácula llega a Londres para vivir en una mansión. Su vecino es un prestigioso psiquiatra.
 · País: EE.UU
@@ -539,7 +539,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3836333?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017011600 +0200" stop="20261017025700 +0200" channel="M+ Romance">
-    <title lang="es">Ver Navidad en Baltimore (2025) | Movistar Plus</title>
+    <title lang="es">Navidad en Baltimore (2025)</title>
     <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.2/5
 · Cliff lleva seis meses sobrio y va a cenar en Nochebuena con la familia de su prometida. Sin embargo, un golpe tonto lo lleva a visitar a la única dentista abierta... y eso lo lleva al depósito de coches... y eso lo lleva a la más insólita Nochebuena.
 · País: EE.UU
@@ -552,7 +552,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441607?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017025700 +0200" stop="20261017043500 +0200" channel="M+ Romance">
-    <title lang="es">Ver Dieta mediterránea (2009) | Movistar Plus</title>
+    <title lang="es">Dieta mediterránea (2009)</title>
     <desc lang="es">Comedia romántica | No recomendado para menores de siete años | *3.1/5
 · Sofía, una mujer trabajadora y ambiciosa que ha crecido entre fogones, se enamora de dos hombres: Toni, con el que se casa, y Frank, con quien descubre la alta cocina. Con los dos llega a un acuerdo profesional y sentimental.
 · País: España
@@ -564,7 +564,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4315095?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017043500 +0200" stop="20261017055800 +0200" channel="M+ Romance">
-    <title lang="es">Ver Peter von Kant (2022) | Movistar Plus</title>
+    <title lang="es">Peter von Kant (2022)</title>
     <desc lang="es">Drama romántico | No recomendado para menores de dieciséis años | *3.1/5
 · Peter Von Kant es un exitoso director de cine quien, gracias a su musa conoce y se enamora de Amir, un apuesto joven, a quien ofrece vivir con él e introducirle en el mundo del cine.
 · País: Bélgica y Francia
@@ -577,7 +577,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4069829?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015051300 +0200" stop="20261015063800 +0200" channel="M+ Terror">
-    <title lang="es">Ver Gretel &amp; Hansel (2020) | Movistar Plus</title>
+    <title lang="es">Gretel &amp; Hansel (2020)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.2/5
 · Gretel y Hansel viven en la miseria. Debido a la falta de alimentos y al terror que les produce su padrastro, ambos niños huyen de casa en busca de algo mejor.
 · País: Irlanda
@@ -588,8 +588,8 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4066462?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015063800 +0200" stop="20261015080000 +0200" channel="M+ Terror">
-    <title lang="es">Ver No entres (2025) | Movistar Plus</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
+    <title lang="es">No entres (2025)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.1/5
 · Dos amigos, aspirantes a YouTubers, se meten donde no deben. Su aventura da un giro aterrador cuando se enfrentan a un horror inimaginable
 · País: Argentina y Paraguay
 · Director: Hugo Cardozo
@@ -599,7 +599,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4503287?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015080000 +0200" stop="20261015094500 +0200" channel="M+ Terror">
-    <title lang="es">Ver No dormirás (2018) | Movistar Plus</title>
+    <title lang="es">No dormirás (2018)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
 · Un grupo de teatro vanguardista experimenta con el insomnio para la preparación del montaje de una obra creada por pacientes psiquiátricos.
 · País: Argentina, España y Uruguay
@@ -610,7 +610,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4495688?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015094500 +0200" stop="20261015112800 +0200" channel="M+ Terror">
-    <title lang="es">Ver Black Phone (2021) | Movistar Plus</title>
+    <title lang="es">Black Phone (2021)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.6/5
 · En la década de 1970, en un pequeño pueblo de Colorado, varios chicos han desaparecido a manos de El captor. Su última víctima es el adolescente Finney Shaw, encerrado en un sótano junto a un teléfono negro desconectado.
 · País: EE.UU
@@ -623,7 +623,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4042408?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015112800 +0200" stop="20261015130400 +0200" channel="M+ Terror">
-    <title lang="es">Ver La marca del hombre lobo (1968) | Movistar Plus</title>
+    <title lang="es">La marca del hombre lobo (1968)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.1/5
 · Un hombre que sufre la enfermedad de la licantropía termina transformándose en hombre lobo. Asustado de lo que le está ocurriendo, decide acudir al médico. Sin embargo, la visita al doctor no lo ayuda a solucionar su problema.
 · País: España
@@ -635,7 +635,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3824542?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015130400 +0200" stop="20261015144700 +0200" channel="M+ Terror">
-    <title lang="es">Ver Nunca te sueltes (2024) | Movistar Plus</title>
+    <title lang="es">Nunca te sueltes (2024)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.1/5
 · Una madre desesperada y sus dos hijos gemelos necesitan estar conectados en todo momento, aferrándose los unos a los otros. Pero, cuando uno de los niños se pregunta si el mal es real, los lazos que los unen se rompen, desencadenando la maldición.
 · País: Canadá, EE.UU y Francia
@@ -648,8 +648,8 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4347855?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015144700 +0200" stop="20261015163300 +0200" channel="M+ Terror">
-    <title lang="es">Ver Devuélvemela (2025) | Movistar Plus</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.3/5
+    <title lang="es">Devuélvemela (2025)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.2/5
 · Tras la muerte de su padre, dos hermanos huérfanos son adoptados por la única trabajadora social que cuenta con una casa adaptada a la ceguera de la más pequeña. Una mujer en apariencia dulce que esconde intereses muy oscuros.
 · País: Australia y EE.UU
 · Director: Danny Philippou, Michael Philippou
@@ -661,7 +661,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4420247?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015163300 +0200" stop="20261015181100 +0200" channel="M+ Terror">
-    <title lang="es">Ver Beyond Re-animator (2003) | Movistar Plus</title>
+    <title lang="es">Beyond Re-animator (2003)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.0/5
 · En catorce años de prisión, el doctor Herbert West no ha dejado de experimentar sus técnicas de reanimación de cadáveres.
 · País: EE.UU y España
@@ -674,7 +674,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4436885?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015181100 +0200" stop="20261015201400 +0200" channel="M+ Terror">
-    <title lang="es">Ver Entrevista con el vampiro (1994) | Movistar Plus</title>
+    <title lang="es">Entrevista con el vampiro (1994)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.8/5
 · A finales del siglo XX, Louis de Pointe relata a un periodista los oscuros secretos que rodean a su insoportable inmortalidad.
 · País: EE.UU
@@ -687,7 +687,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4048802?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015201400 +0200" stop="20261015220000 +0200" channel="M+ Terror">
-    <title lang="es">Ver Return to Silent Hill (2025) | Movistar Plus</title>
+    <title lang="es">Return to Silent Hill (2025)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
 · Tras recibir una inesperada carta de su difunta esposa Mary, James Sunderland regresa a Silent Hill para encontrarla. En ese lugar engullido por la oscuridad le esperan visiones, monstruos y un descenso cada vez más inquietante a su propio pasado.
 · País: Alemania, R.U y Serbia
@@ -696,7 +696,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4471797?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015220000 +0200" stop="20261015235200 +0200" channel="M+ Terror">
-    <title lang="es">Ver El secreto de Marrowbone (2017) | Movistar Plus</title>
+    <title lang="es">El secreto de Marrowbone (2017)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.7/5
 · En 1969, tras huir de Inglaterra, cuatro hermanos y su madre enferma comienzan una nueva vida en EE UU, en la casa materna de Marrowbone. Cuando la madre fallece, Jack, Billy, Jane y el pequeño Sam deciden ocultarlo hasta la mayoría de edad de Jack.
 · País: EE.UU y España
@@ -709,7 +709,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3943133?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015235200 +0200" stop="20261016001700 +0200" channel="M+ Terror">
-    <title lang="es">Ver Stallion y la bola de cristal (2026) | Movistar Plus</title>
+    <title lang="es">Stallion y la bola de cristal (2026)</title>
     <desc lang="es">Corto drama | No recomendado para menores de dieciséis años | *3.0/5
 · En la oscuridad y el silencio de su habitación, un adolescente aislado, enfermo de deseo, lanza un hechizo. Mientras visiones violentas deforman su realidad, una burbuja amenaza con explotar; algo se tiene que romper.
 · País: España
@@ -721,7 +721,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4480541?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015001700 +0200" stop="20261015023100 +0200" channel="M+ Terror">
-    <title lang="es">Ver Nosferatu (2024) | Movistar Plus</title>
+    <title lang="es">Nosferatu (2024)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.2/5
 · Ellen Hutter, una joven prometida en la Alemania del siglo XIX, comienza a sentirse acechada por un antiguo y terrorífico vampiro de Transilvania, el conde Orlok.
 · País: EE.UU, Hungría, R.U y República Checa
@@ -734,7 +734,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4362689?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015023100 +0200" stop="20261015034100 +0200" channel="M+ Terror">
-    <title lang="es">Ver El hijo de Kong (1933) | Movistar Plus</title>
+    <title lang="es">El hijo de Kong (1933)</title>
     <desc lang="es">Fantástico | No recomendado para menores de siete años | *3.0/5
 · El aventurero Carl Denham regresa a la isla donde fue capturado King Kong, en compañía de Hilda, hija del dueño de un circo.
 · País: EE.UU
@@ -747,7 +747,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4096733?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261015034100 +0200" stop="20261015051000 +0200" channel="M+ Terror">
-    <title lang="es">Ver La niebla (1980) | Movistar Plus</title>
+    <title lang="es">La niebla (1980)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.2/5
 · Los cadáveres de unos marineros vuelven a la vida para vengarse de los culpables de su naufragio.
 · País: EE.UU
@@ -759,7 +759,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4059291?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261016051000 +0200" stop="20261016065200 +0200" channel="M+ Terror">
-    <title lang="es">Ver Dog Soldiers (2002) | Movistar Plus</title>
+    <title lang="es">Dog Soldiers (2002)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.2/5
 · Un grupo de soldados ingleses es enviado a los bosques de Escocia para realizar maniobras. Lo que tenía que haber sido una maniobra rutinaria se transforma en una pesadilla.
 · País: Luxemburgo y R.U
@@ -771,7 +771,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4502622?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261016065200 +0200" stop="20261016080000 +0200" channel="M+ Terror">
-    <title lang="es">Ver Dementia 13 (1963) | Movistar Plus</title>
+    <title lang="es">Dementia 13 (1963)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
 · Cuando John Halloran muere de un infarto, su esposa teme no cobrar la herencia. Escribe entonces una carta al resto de la familia anunciando que John ha tenido que viajar.
 · País: EE.UU e Irlanda
@@ -782,8 +782,8 @@ vistos.
 · Productora: Roger Corman Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4474878?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016080000 +0200" stop="20261016093000 +0200" channel="M+ Terror">
-    <title lang="es">Ver Inquisición (1976) | Movistar Plus</title>
+  <programme start="20261016080000 +0200" stop="20261016093400 +0200" channel="M+ Terror">
+    <title lang="es">Inquisición (1976)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.0/5
 · En el siglo XVI, un inquisidor llega a un pequeño pueblo español y, en su lucha contra herejes y adoradores de Satán, no duda utilizar las más crueles torturas para satisfacer sus perversos instintos y conseguir el favor de los poderosos.
 · País: España
@@ -794,8 +794,8 @@ vistos.
 · Productora: Ancla Century Films, Anubis Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4103176?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016093000 +0200" stop="20261016105600 +0200" channel="M+ Terror">
-    <title lang="es">Ver Km. 666 (2003) | Movistar Plus</title>
+  <programme start="20261016093400 +0200" stop="20261016110000 +0200" channel="M+ Terror">
+    <title lang="es">Km. 666 (2003)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.5/5
 · Chris Flynn, un joven que llega tarde a una entrevista de trabajo, se ve obligado a cambiar de ruta cuando un camión vuelca en la carretera. Tratando de ganar tiempo, descubre un nuevo acceso a su destino que consigue evitar el tráfico generado.
 · País: Alemania, Canadá y EE.UU
@@ -806,8 +806,8 @@ vistos.
 · Productora: Summit Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3646152?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016105600 +0200" stop="20261016124500 +0200" channel="M+ Terror">
-    <title lang="es">Ver La cosa (El enigma de otro mundo) (1982) | Movistar Plus</title>
+  <programme start="20261016110000 +0200" stop="20261016124900 +0200" channel="M+ Terror">
+    <title lang="es">La cosa (El enigma de otro mundo) (1982)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.5/5
 · Las investigaciones de una expedición científica a la Antártida se ven interrumpidas bruscamente por el accidente de un helicóptero que trata de dar caza a un perro. Cuando comprueban que todos los tripulantes han muerto, los científicos acogen al perro.
 · País: EE.UU
@@ -819,8 +819,8 @@ vistos.
 · Productora: Universal Pictures, Turman-Foster Company</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3851032?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016124500 +0200" stop="20261016142500 +0200" channel="M+ Terror">
-    <title lang="es">Ver The Ritual (2025) | Movistar Plus</title>
+  <programme start="20261016124900 +0200" stop="20261016142900 +0200" channel="M+ Terror">
+    <title lang="es">The Ritual (2025)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.1/5
 · Cuando una joven es poseída por una entidad demoníaca implacable, dos sacerdotes deben juntarse para un ritual que pondrá a prueba sus creencias, su cordura y sus vidas.
 · País: EE.UU e India
@@ -832,8 +832,8 @@ vistos.
 · Productora: Cinemachine Shop, Andrew Stevens Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4412811?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016142500 +0200" stop="20261016161600 +0200" channel="M+ Terror">
-    <title lang="es">Ver Sé lo que hicisteis el último verano (2025) | Movistar Plus</title>
+  <programme start="20261016142900 +0200" stop="20261016161900 +0200" channel="M+ Terror">
+    <title lang="es">Sé lo que hicisteis el último verano (2025)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
 · Cinco amigos provocan un accidente de coche mortal y, temerosos de las consecuencias, deciden ocultar el cadáver y guardar el secreto para siempre. Un año después, sin embargo, descubren que alguien conoce lo ocurrido y busca venganza.
 · País: Australia, Canadá y EE.UU
@@ -845,8 +845,8 @@ vistos.
 · Productora: Columbia Pictures, Screen Gems</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4417221?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016161600 +0200" stop="20261016180300 +0200" channel="M+ Terror">
-    <title lang="es">Ver El orfanato (2007) | Movistar Plus</title>
+  <programme start="20261016161900 +0200" stop="20261016180600 +0200" channel="M+ Terror">
+    <title lang="es">El orfanato (2007)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.4/5
 · Laura regresa con su marido y su hijo Simón -enfermo de VIH y adoptado por la pareja cuando era un bebé- al ahora abandonado orfanato donde Laura se crió, con la intención de abrir una residencia para niños discapacitados.
 · País: España
@@ -858,8 +858,8 @@ vistos.
 · Productora: Rodar y Rodar Cine y Televisión S.L, Telecinco Cinema, Warner Bros. Pictures, Canal+ España, Televisió de Catalunya (TV3)</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4205538?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016180300 +0200" stop="20261016195300 +0200" channel="M+ Terror">
-    <title lang="es">Ver Antebellum (2020) | Movistar Plus</title>
+  <programme start="20261016180600 +0200" stop="20261016195800 +0200" channel="M+ Terror">
+    <title lang="es">Antebellum (2020)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.4/5
 · En una plantación de esclavos, durante la guerra de Secesión, la vida es muy dura, con castigos corporales y un estado constante de miedo. Pero nada es lo que parece, y muchos de los esclavos ven a una mujer como posible salvadora.
 · País: EE.UU
@@ -871,8 +871,8 @@ vistos.
 · Productora: Lionsgate, QC Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3883563?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016195300 +0200" stop="20261016220000 +0200" channel="M+ Terror">
-    <title lang="es">Ver Mandy (2018) | Movistar Plus</title>
+  <programme start="20261016195800 +0200" stop="20261016220000 +0200" channel="M+ Terror">
+    <title lang="es">Mandy (2018)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *2.9/5
 · En 1983, Red Miller y Mandy Bloom viven aislados en una casa en mitad de las Montañas Sombrías. Su idílica vida se ve truncada cuando en su camino se cruza la secta de los Hijos del Nuevo Amanecer.
 · País: Bélgica, EE.UU y R.U
@@ -884,8 +884,8 @@ vistos.
 · Productora: SpectreVision, Umedia, XYZ Films, Legion M</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3673847?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016220000 +0200" stop="20261016235100 +0200" channel="M+ Terror">
-    <title lang="es">Ver La hermanastra fea (2025) | Movistar Plus</title>
+  <programme start="20261016220000 +0200" stop="20261016234800 +0200" channel="M+ Terror">
+    <title lang="es">La hermanastra fea (2025)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.2/5
 · Cuando su último marido muere inesperadamente, Rebekka descubre que no es un hombre adinerado. La única esperanza para la familia es que su hija Elvira se case con el príncipe. Pero, Rebekka sabe que Elvira no tiene posibilidades.
 · País: Dinamarca, Noruega, Polonia, Rumanía y Suecia
@@ -897,8 +897,8 @@ vistos.
 · Productora: Mer Film</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455775?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016235100 +0200" stop="20261017014800 +0200" channel="M+ Terror">
-    <title lang="es">Ver Smile (2022) | Movistar Plus</title>
+  <programme start="20261016234800 +0200" stop="20261017014200 +0200" channel="M+ Terror">
+    <title lang="es">Smile (2022)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.2/5
 · La doctora Rose Cotter, extenuada tras horas de guardia en el Servicio de Urgencias Psiquiátricas, atiende a una joven aterrada por una presencia maligna. Cuando por fin la chica parece calmada, dibuja en su cara una gran sonrisa y se corta el cuello.
 · País: EE.UU
@@ -910,8 +910,8 @@ vistos.
 · Productora: Paramount Players, Temple Hill Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4056038?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016014800 +0200" stop="20261016032100 +0200" channel="M+ Terror">
-    <title lang="es">Ver En tierra de muertos (2024) | Movistar Plus</title>
+  <programme start="20261016014200 +0200" stop="20261016031600 +0200" channel="M+ Terror">
+    <title lang="es">En tierra de muertos (2024)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *2.9/5
 · Ava busca a su marido, desaparecido tras un experimento militar que ha devastado Tasmania. Para encontrarlo se une a una unidad que recupera cadáveres, pero su misión cambia cuando los cuerpos que entierra empiezan a dar inquietantes señales de vida.
 · País: Australia y EE.UU
@@ -922,8 +922,8 @@ vistos.
 · Productora: Screen Australia</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4483260?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261016032100 +0200" stop="20261016043000 +0200" channel="M+ Terror">
-    <title lang="es">Ver Yo anduve con un zombie (1943) | Movistar Plus</title>
+  <programme start="20261016031600 +0200" stop="20261016042800 +0200" channel="M+ Terror">
+    <title lang="es">Yo anduve con un zombie (1943)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.1/5
 · Betsy Cornell, una enfermera canadiense, llega a una isla del Caribe para cuidar a una mujer que padece un inexplicable mal.
 · País: EE.UU
@@ -932,8 +932,8 @@ vistos.
 · Guion: Curt Siodmak</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3931265?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017043000 +0200" stop="20261017062000 +0200" channel="M+ Terror">
-    <title lang="es">Ver Sombras tenebrosas (Dark Shadows) (2012) | Movistar Plus</title>
+  <programme start="20261017042800 +0200" stop="20261017061800 +0200" channel="M+ Terror">
+    <title lang="es">Sombras tenebrosas (Dark Shadows) (2012)</title>
     <desc lang="es">Terror | No recomendado para menores de siete años | *3.2/5
 · En el año 1752, Joshua y Naomi Collins, con su joven hijo Barnabas, zarpan de Liverpool para iniciar una nueva vida en América. Dos décadas después, Barnabas se ha convertido en un hombre que lo tiene todo... hasta que ofende a la mujer equivocada.
 · País: Australia, EE.UU y R.U
@@ -944,8 +944,8 @@ vistos.
 · Productora: Warner Bros, Village Roadshow Pictures, Infinitum Nihil</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4284205?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017062000 +0200" stop="20261017080000 +0200" channel="M+ Terror">
-    <title lang="es">Ver La ley de Jenny Pen (2024) | Movistar Plus</title>
+  <programme start="20261017061800 +0200" stop="20261017080000 +0200" channel="M+ Terror">
+    <title lang="es">La ley de Jenny Pen (2024)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
 · Tras un derrame cerebral, el juez Stefan está internado en una residencia de ancianos que detesta. Allí conoce a Dave, un interno perturbado que, junto a una muñeca, somete a los demás a un juego sádico conocido como 'La Ley de Jenny Pen'.
 · País: Nueva Zelanda
@@ -958,7 +958,7 @@ vistos.
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4447999?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261017080000 +0200" stop="20261017092800 +0200" channel="M+ Terror">
-    <title lang="es">Ver Pesadillas 2: Noche de Halloween (2018) | Movistar Plus</title>
+    <title lang="es">Pesadillas 2: Noche de Halloween (2018)</title>
     <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.4/5
 · Los jóvenes Sarah, Sonny y Sam encuentran en un viejo arcón un misterioso libro de la saga &quot;Pesadillas&quot; de R.L Stine cerrado con un candado... y cometen el error de abrirlo.
 · País: EE.UU
@@ -970,8 +970,8 @@ vistos.
 · Productora: Columbia Pictures Corporation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3648293?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017092800 +0200" stop="20261017105800 +0200" channel="M+ Terror">
-    <title lang="es">Ver Turbo Kid (2015) | Movistar Plus</title>
+  <programme start="20261017092800 +0200" stop="20261017110000 +0200" channel="M+ Terror">
+    <title lang="es">Turbo Kid (2015)</title>
     <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *3.4/5
 · Es 1997, la lluvia ácida ha dejado la Tierra yerma y ha envenenado las aguas. En este mundo sumido en un invierno nuclear perpetuo, un joven huérfano vaga con su bicicleta BMX en busca de cómics y cachivaches de los 80 que después cambiará por agua.
 · País: Canadá, EE.UU y Nueva Zelanda
@@ -983,8 +983,8 @@ vistos.
 · Productora: EMA Films, Epic Pictures Group, Timpson Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3718548?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017105800 +0200" stop="20261017123600 +0200" channel="M+ Terror">
-    <title lang="es">Ver Feliz día de tu muerte 2 (2019) | Movistar Plus</title>
+  <programme start="20261017110000 +0200" stop="20261017123800 +0200" channel="M+ Terror">
+    <title lang="es">Feliz día de tu muerte 2 (2019)</title>
     <desc lang="es">Terror | No recomendado para menores de doce años | *3.4/5
 · El día de Ryan no puede ir peor. Ha dormido en el coche porque su compañero de habitación no lo deja entrar ni a cambiarse el calzoncillo, el decano suspende su proyecto de tesis y, encima, es apuñalado por alguien con una máscara de bebé.
 · País: EE.UU y Japón
@@ -996,8 +996,8 @@ vistos.
 · Productora: Blumhouse Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3717105?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017123600 +0200" stop="20261017140000 +0200" channel="M+ Terror">
-    <title lang="es">Ver New Life (2023) | Movistar Plus</title>
+  <programme start="20261017123800 +0200" stop="20261017140300 +0200" channel="M+ Terror">
+    <title lang="es">New Life (2023)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
 · Una misteriosa mujer a la fuga y un ingenioso agente encargado de atraparla. Sus dos historias únicas se entrelazan inextricablemente, a medida que lo que está en juego en la persecución adquiere proporciones apocalípticas.
 · País: EE.UU
@@ -1009,8 +1009,8 @@ vistos.
 · Productora: Great Lakes Vacuum Supplies Unlimited, American Storyworks</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4414801?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017140000 +0200" stop="20261017160600 +0200" channel="M+ Terror">
-    <title lang="es">Ver Drácula de Bram Stoker (1992) | Movistar Plus</title>
+  <programme start="20261017140300 +0200" stop="20261017160900 +0200" channel="M+ Terror">
+    <title lang="es">Drácula de Bram Stoker (1992)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.9/5
 · Antes de convertirse en vampiro, el conde Drácula era el príncipe Vlad, que vendió su alma al diablo al enterarse de la muerte de su amada. Cuatro siglos más tarde, un joven abogado que viaja por el este de Europa es capturado por el conde Drácula.
 · País: EE.UU y R.U
@@ -1022,8 +1022,8 @@ vistos.
 · Productora: Columbia Pictures, American Zoetrope, Osiris Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4365646?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017160600 +0200" stop="20261017175600 +0200" channel="M+ Terror">
-    <title lang="es">Ver Scream 4 (2011) | Movistar Plus</title>
+  <programme start="20261017160900 +0200" stop="20261017175900 +0200" channel="M+ Terror">
+    <title lang="es">Scream 4 (2011)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.3/5
 · Sidney Prescott ha logrado olvidar los asesinatos que ocurrieron en Woodsboro 10 años atrás. Su regreso a su pueblo natal, ahora como escritora de éxito, viene acompañado de una oleada de crímenes perpretados por su viejo conocido: Ghostface.
 · País: EE.UU
@@ -1034,8 +1034,8 @@ vistos.
 · Productora: Dimension Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3670356?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017175600 +0200" stop="20261017194600 +0200" channel="M+ Terror">
-    <title lang="es">Ver Big Bad Wolves (2013) | Movistar Plus</title>
+  <programme start="20261017175900 +0200" stop="20261017194900 +0200" channel="M+ Terror">
+    <title lang="es">Big Bad Wolves (2013)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.4/5
 · Una serie de brutales asesinatos ponen en contacto a tres hombres: el padre de la última víctima, un detective de policía y el principal sospechoso de los homicidios.
 · País: Israel
@@ -1045,8 +1045,8 @@ vistos.
 · Productora: United King Films, United Channel Movies</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4491822?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017194600 +0200" stop="20261017205800 +0200" channel="M+ Terror">
-    <title lang="es">Ver Dementia 13 (1963) | Movistar Plus</title>
+  <programme start="20261017194900 +0200" stop="20261017210100 +0200" channel="M+ Terror">
+    <title lang="es">Dementia 13 (1963)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
 · Cuando John Halloran muere de un infarto, su esposa teme no cobrar la herencia. Escribe entonces una carta al resto de la familia anunciando que John ha tenido que viajar.
 · País: EE.UU e Irlanda
@@ -1057,8 +1057,8 @@ vistos.
 · Productora: Roger Corman Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4474878?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017205800 +0200" stop="20261017220000 +0200" channel="M+ Terror">
-    <title lang="es">Ver Los monstruos de Tim Burton (2025) | Movistar Plus</title>
+  <programme start="20261017210100 +0200" stop="20261017220000 +0200" channel="M+ Terror">
+    <title lang="es">Los monstruos de Tim Burton (2025)</title>
     <desc lang="es">Biografía | Apto para todos los públicos | *3.1/5
 · Tim Burton es uno de los cineastas más singulares de nuestro tiempo. En sus películas, ha explorado las heridas de la infancia y el mundo de la fantasía a través de personajes extraños y marginales, rechazados por una sociedad que idolatra la perfección.
 · País: Francia
@@ -1067,8 +1067,8 @@ vistos.
 · Productora: Haut et Court TV</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4422938?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017220000 +0200" stop="20261018001200 +0200" channel="M+ Terror">
-    <title lang="es">Ver Un fantasma útil (2025) | Movistar Plus</title>
+  <programme start="20261017220000 +0200" stop="20261018000900 +0200" channel="M+ Terror">
+    <title lang="es">Un fantasma útil (2025)</title>
     <desc lang="es">Fantástico | No recomendado para menores de dieciséis años | *3.0/5
 · Tras perder a su esposa, March descubre que su espíritu habita en una aspiradora. Entre el duelo y lo absurdo, ambos intentan reconstruir su vínculo mientras  desafian las normas con un amor único.
 · País: Alemania, Francia, Singapur y Tailandia
@@ -1079,8 +1079,8 @@ vistos.
 · Productora: 185 Films, Haut les mains Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454579?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017001200 +0200" stop="20261017015100 +0200" channel="M+ Terror">
-    <title lang="es">Ver En compañía de lobos (1984) | Movistar Plus</title>
+  <programme start="20261017000900 +0200" stop="20261017014800 +0200" channel="M+ Terror">
+    <title lang="es">En compañía de lobos (1984)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.3/5
 · El director desarrolla en clave fantástica y con un tratamiento freudiano el cuento clásico infantil 'Caperucita Roja'. Una de las películas fantásticas más premiadas de su época que desafía las convenciones del género de terror.
 · País: EE.UU y R.U
@@ -1091,8 +1091,8 @@ vistos.
 · Productora: Palace Productions</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3933757?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017015100 +0200" stop="20261017032900 +0200" channel="M+ Terror">
-    <title lang="es">Ver King Kong (1933) | Movistar Plus</title>
+  <programme start="20261017014800 +0200" stop="20261017032700 +0200" channel="M+ Terror">
+    <title lang="es">King Kong (1933)</title>
     <desc lang="es">Fantástico | Apto para todos los públicos | *3.3/5
 · Un gigantesco gorila pasa de ser una terrorífica atracción de feria a convertirse en un monstruo que siembra el pánico en la ciudad de Nueva York.
 · País: EE.UU
@@ -1104,8 +1104,8 @@ vistos.
 · Productora: RKO Radio Pictures Inc</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3836249?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261017032900 +0200" stop="20261017043900 +0200" channel="M+ Terror">
-    <title lang="es">Ver El guerrero de la venganza (2019) | Movistar Plus</title>
+  <programme start="20261017032700 +0200" stop="20261017043900 +0200" channel="M+ Terror">
+    <title lang="es">El guerrero de la venganza (2019)</title>
     <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
 · En la Edad Oscura, un cazarrecompensas vive aislado cazando bestias que aterrorizan un reino. Atormentado por el asesinato de su hija por un monstruo, descubre que su próxima presa es el mismo monstruo.
 · País: EE.UU
