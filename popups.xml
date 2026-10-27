@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 26/10/2026 03:22">
+<tv generator-info-name="MultiPopUps FullDesc 27/10/2026 03:50">
   <channel id="M+ Romance">
     <display-name>M+ Romance</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MROMA"/>
@@ -8,178 +8,6 @@
     <display-name>M+ Terror</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TERROR"/>
   </channel>
-  <programme start="20261026052300 +0100" stop="20261026071100 +0100" channel="M+ Romance">
-    <title lang="es">God Help the Girl (2014)</title>
-    <desc lang="es">Cine musical | No recomendado para menores de doce años | *3.1/5
-· Musical escrito y dirigido por Stuart Murdoch, vocalista de Belle &amp; Sebastian, sobre Eve, una joven que escribe canciones para superar sus problemas emocionales.
-· País: R.U
-· Director: Stuart Murdoch
-· Reparto: Emily Browning, Olly Alexander, Hannah Murray, Cora Bisset, Pierre Boulanger
-· Guion: Stuart Murdoch
-· Producción: Barry Mendel
-· Productora: Barry Mendel Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454933?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026071100 +0100" stop="20261026080000 +0100" channel="M+ Romance">
-    <title lang="es">Un día en Nueva York con Woody Allen (2024)</title>
-    <desc lang="es">Programa de cine | Apto para todos los públicos | *3.2/5
-· Todo lo que quiso saber sobre Woody Allen y no se atrevió a preguntar ya se lo pregunta David Trueba en esta entrevista en profundidad donde el neoyorkino desgrana todas las inquietudes que lleva mostrando en más de medio centenar de películas.
-· País: España
-· Director: David Trueba
-· Producción: Raúl de Lamo Villarroel</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4171891?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026080000 +0100" stop="20261026094500 +0100" channel="M+ Romance">
-    <title lang="es">Ese oscuro objeto del deseo (1977)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.1/5
-· Un soltero está perdidamente enamorado de una joven que no quiere saber nada de él. Última película de Buñuel.
-· País: España y Francia
-· Director: Luis Buñuel
-· Reparto: Fernando Rey, Ángela Molina, Carole Bouquet, María Asquerino, Julien Bertheau, André Weber, Milena Vukotic, Phillip Terry, André Lacombe, Leslie Daniels, Valerie Blanco, Claude Jaeger, Jacques Debary, Bernard Musson, Lita Peiro, Jean-Claude Montalban
-· Guion: Luis Buñuel,Jean-Claude Carrière
-· Música: Richard Wagner
-· Producción: Serge Silberman
-· Productora: In-Cine Compañía Industrial Cinematográfica</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4113257?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026094500 +0100" stop="20261026122200 +0100" channel="M+ Romance">
-    <title lang="es">West Side Story (2021)</title>
-    <desc lang="es">Cine musical | No recomendado para menores de doce años | *3.1/5
-· Del productor y director Steven Spielberg, con guion del guionista y autor teatral Tony Kushner, llega &quot;West Side Story&quot;. La película es una adaptación del musical de 1957 y cuenta la historia de un amor prohibido.
-· País: EE.UU
-· Director: Steven Spielberg
-· Reparto: Ansel Elgort, Rachel Zegler, Ariana DeBose, David Álvarez, Rita Moreno, Brian D'Arcy James, Corey Stoll, Mike Faist
-· Guion: Tony Kushner
-· Música: Leonard Bernstein
-· Productora: 20th Century Studios, Amblin Entertainment, Amblin Partners</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4355053?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026122200 +0100" stop="20261026141200 +0100" channel="M+ Romance">
-    <title lang="es">Belle époque (1992)</title>
-    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.3/5
-· Poco antes de la proclamación de la Segunda República en España, Fernando, un joven desertor, conoce a Manolo, un viejo pintor sabio que le ofrece cobijo y amistad. La llegada de las cuatro hijas del artista hace que el joven prolongue su estancia.
-· País: España, Francia y Portugal
-· Director: Fernando Trueba
-· Reparto: Fernando Fernán Gómez, Jorge Sanz, Ariadna Gil, Maribel Verdú, Penélope Cruz, Miriam Díaz Aroca, Gabino Diego, Agustín González, Chus Lampreave, María del Carmen Ramírez
-· Guion: Rafael Azcona,José Luis García Sánchez,Fernando Trueba
-· Música: Antoine Duhamel
-· Producción: Andrés Vicente Gómez
-· Productora: Fernando Trueba, Producciones Cinematográficas, S.A, Lolafilms, Cartel, Sogepaq</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4070594?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026141200 +0100" stop="20261026154900 +0100" channel="M+ Romance">
-    <title lang="es">La Celestina (1996)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
-· El joven e impulsivo Calisto, aconsejado por su criado Sempronio, reclama los servicios de Celestina para conseguir ganar el corazón de la bella Melibea, a quien sus padres planean casar rápidamente y con el mejor partido.
-· País: España
-· Director: Gerardo Vera
-· Reparto: Penélope Cruz, Juan Diego Botto, Terele Pávez, Maribel Verdú, Jordi Mollà, Nancho Novo, Nathalie Seseña, Carlos Fuentes, Candela Peña, Ángel de Andrés López, Ana Risueño
-· Guion: Gerardo Vera,Rafael Azcona,Francisco Rico
-· Música: Alejandro Massó
-· Producción: Andrés Vicente Gómez
-· Productora: Sogetel, Lolafilms S.A., Sogepaq, Canal+ España, Sociedad General de Televisión S.A. (Sogetel)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3691671?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026154900 +0100" stop="20261026180700 +0100" channel="M+ Romance">
-    <title lang="es">Anora (2024)</title>
-    <desc lang="es">Comedia dramática | No recomendado para menores de dieciséis años | *3.3/5
-· Anora es una joven trabajadora sexual de Brooklyn que tiene la oportunidad de hacer realidad la historia de Cenicienta cuando conoce al infantil niño de papá de un oligarca ruso que le promete una vida de joyas, drogas y despilfarro.
-· País: EE.UU
-· Director: Sean Baker
-· Reparto: Mikey Madison, Mark Eydelshteyn, Lindsey Normington, Karren  Karagulian, Yura Borisov
-· Guion: Sean Baker
-· Música: Drew Daniels
-· Producción: Sean Baker, Alex Coco
-· Productora: Cre Film, FilmNation Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4341225?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026180700 +0100" stop="20261026194400 +0100" channel="M+ Romance">
-    <title lang="es">El diario de Bridget Jones (2001)</title>
-    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.4/5
-· Una treintañera sumida en plena crisis existencial decide escribir un diario con el que tratará de enfrentarse a sus obsesiones.
-· País: EE.UU, Francia y R.U
-· Director: Sharon Maguire
-· Reparto: Renée Zellweger, Hugh Grant, Colin Firth, Matthew Bates, Gemma Jones, Paul Ross, Neil Pearson, Celia Imrie, Rhydian Jai-Persad, Joseph Alessi, Lisa Barbuscia, Joan Blackham, Dominic McHale, Jim Broadbent, Embeth Davidtz, Shirley Henderson, James Callis, Sally Phillips
-· Guion: Richard Curtis,Andrew Davies,Helen Fielding,Patrick Dempsey
-· Música: Patrick Doyle
-· Producción: Tim Bevan, Jonathan Cavendish, Eric Fellner
-· Productora: Working Title Films, StudioCanal, Miramax, Universal Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4057250?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026194400 +0100" stop="20261026214100 +0100" channel="M+ Romance">
-    <title lang="es">Nuestro momento perfecto (2023)</title>
-    <desc lang="es">Drama romántico | No recomendado para menores de doce años | *3.2/5
-· Kira e Ian son dos personas que están huyendo de sus vidas cuando coinciden durante un fin de semana en la isla escocesa de Skype y viven una conexión al instante. Pero, cuando ambos regresan a Londres, cada uno debe seguir con su vida y su pasado.
-· País: Alemania y R.U
-· Director: Aylin Tezel
-· Reparto: Aylin Tezel, Chris Fulton, Alexandra Dowling, Rory Fleck Byrne, Samuel Anderson
-· Guion: Aylin Tezel
-· Música: Ben Lukas Boysen, Jon Hopkins
-· Producción: Yvonne Wellie, Milena Klemke
-· Productora: Weydemann Bros.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4338459?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026214100 +0100" stop="20261026220000 +0100" channel="M+ Romance">
-    <title lang="es">Una vocal (2025)</title>
-    <desc lang="es">Corto drama | No recomendado para menores de doce años | *3.0/5
-· Ana y Amparo, hija y madre, se enfrentan a los recuerdos familiares en uno de los lugares más extraños de su vida: la salita de espera de un anatómico forense.
-· País: España
-· Director: Polo Menárguez
-· Reparto: Sonia Almarcha, Mirela Balic, Fran Cantos
-· Guion: Polo Menárguez
-· Producción: María del Puy Alvarado</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4485246?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026220000 +0100" stop="20261027000600 +0100" channel="M+ Romance">
-    <title lang="es">Family Man (2000)</title>
-    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.5/5
-· Jack Campbell, un ambicioso y egocéntrico broker de Wall Street obsesionado con su trabajo que ve cómo su vida da un vuelco.
-· País: EE.UU
-· Director: Brett Ratner
-· Reparto: Nicolas Cage, Téa Leoni, Don Cheadle, Jeremy Piven, Mary Beth Hurt, Saul Rubinek, Amber Valletta, Josef Sommer, Tamás Sas
-· Guion: David Diamond,David Weissman
-· Música: Danny Elfman
-· Producción: Marc Abraham, Alan Riche, Tony Ludwig, Howard Rosenman
-· Productora: Universal Pictures, Beacon Communications, Riche-Ludwig Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4119635?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026000600 +0100" stop="20261026015900 +0100" channel="M+ Romance">
-    <title lang="es">La ironía del amor (2025)</title>
-    <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.0/5
-· Grace, crítica musical de Toronto, se instala en Montreal para escribir un libro sobre Alanis Morissette y dar un giro a su vida. Allí se cruza con una banda indie y con nuevas relaciones que pondrán a prueba su lugar en el mundo.
-· País: Canadá
-· Director: Chandler Levack
-· Reparto: Jay Baruchel, Barbie Ferreira, Pat Kiely, Brent Skagford, Nicolas Wright, Alain Goulem, Robert Naylor, Juliette Gariépy, Sabrina Jalees, Devon Bostick, Stanley Simons, Danielle Fichaud
-· Producción: Julie Groleau, Pat Kiely
-· Productora: IPR.VC, Ontario Creates</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4479372?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026015900 +0100" stop="20261026034300 +0100" channel="M+ Romance">
-    <title lang="es">Cartas a Julieta (2010)</title>
-    <desc lang="es">Comedia romántica | Apto para todos los públicos | *3.7/5
-· Una aspirante a escritora viaja a la Toscana junto a su novio para reavivar el romance.
-· País: EE.UU
-· Director: Gary Winick
-· Reparto: Amanda Seyfried, Gael García Bernal, Vanessa Redgrave, Giordano Formenti, Paolo Arvedi, Christopher Egan, Fabio Testi, Marcia DeBonis
-· Guion: Tim Sullivan,José Rivera
-· Música: Andrea Guerra
-· Producción: Eric Feig, Caroline Kaplan, Ellen Barkin, Patrick Wachsberger, Mark Canton
-· Productora: Applehead Pictures, Summit Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3621502?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026034300 +0100" stop="20261026055200 +0100" channel="M+ Romance">
-    <title lang="es">Los puentes de Madison (1995)</title>
-    <desc lang="es">Drama romántico | Apto para todos los públicos | *3.6/5
-· La última voluntad de Francesca Johnson, una mujer considerada modélica como madre y como esposa, es que sus cenizas sean esparcidas junto a los puentes de Madison, en Iowa. Sus hijos descubrirán, a través de unas notas guardadas en un arca, por qué.
-· País: EE.UU
-· Director: Clint Eastwood
-· Reparto: Clint Eastwood, Meryl Streep, Jim Haynie, Annie Corley, Victor Slezak, Sarah Kathryn Schmitt, Phyllis Lyons, Debra Monk, Christopher Kroon, Kyle Eastwood, George Orrison, Julio Manrique, James Gavin, Billie McNabb
-· Guion: Richard LaGravenese,Michael Ansara (I)
-· Música: Lennie Niehaus, Clint Eastwood
-· Producción: Kathleen Kennedy, Clint Eastwood
-· Productora: Warner Bros, Amblin Entertainment, Malpaso Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3652326?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20261027055200 +0100" stop="20261027074500 +0100" channel="M+ Romance">
     <title lang="es">Materialistas (2025)</title>
     <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.0/5
@@ -526,191 +354,176 @@
 · Productora: El Deseo, Vía Digital, Antena 3 Televisión, Good Machine</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4172296?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261026055000 +0100" stop="20261026071700 +0100" channel="M+ Terror">
-    <title lang="es">Tiburón blanco: la bestia del mar (2025)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *2.9/5
-· Un grupo de soldados australianos es enviado al mar durante la Segunda Guerra Mundial cuando un ataque enemigo les deja varados en una bolsa y frente a la amenaza de un enorme tiburón blanco.
-· País: Australia
-· Director: Kiah Roache-Turner
-· Reparto: Mark Coles Smith, Joel Nankervis, Maximillian Johnson, Lee Tiger Halley, Sam Parsonson, Sam Delich, Jay Gallagher, Masa Yamaguchi, Steve Le Marquand
-· Guion: Kiah Roache-Turner
-· Música: François Tétaz
-· Producción: Blake Northfield, Chris Brown
-· Productora: Bronte Pictures, Pictures in Paradise</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4428873?od[]=Z1V:MM3_V"/>
+  <programme start="20261029051400 +0100" stop="20261029070500 +0100" channel="M+ Romance">
+    <title lang="es">Soñadores (2003)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.4/5
+· París, 1968. Isabelle y su hermano Theo, invitan a un joven, al que han conocido en el cine, a su apartamento.
+· País: EE.UU, Francia, Italia y R.U
+· Director: Bernardo Bertolucci
+· Reparto: Michael Pitt, Eva Green, Louis Garrel, Florian Cadiou, Ingy Fillion, Jean-Pierre Kalfon, Anna Chancellor, Jean-Pierre Léaud, Robin Renucci
+· Guion: Gilbert Adair
+· Producción: Jeremy Thomas
+· Productora: Peninsula Films Inc, Fiction Films, Recorded Picture Company (RPC), Jeremy Thomas</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4393682?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261026071700 +0100" stop="20261026073500 +0100" channel="M+ Terror">
-    <title lang="es">Hannah y el cocodrilo (2024)</title>
-    <desc lang="es">Corto animación | Apto para todos los públicos | *3.1/5
-· Cuando Fien descubre que su hermana Hannah está siendo amenazada por un cruel cocodrilo que la está volviendo muy delgada y enferma, su mundo se pone patas arriba. Fien pide ayuda a su madre y a su padre para ayudar a Hannah a derrotar al cocodrilo.
-· País: Bélgica
-· Director: Lore Mechelaere</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4482424?od[]=Z1V:MM3_V"/>
+  <programme start="20261029070500 +0100" stop="20261029080000 +0100" channel="M+ Romance">
+    <title lang="es">Tom Cruise, de oficio estrella (2020)</title>
+    <desc lang="es">Biografía | No recomendado para menores de doce años | *3.1/5
+· Tom Cruise es una metáfora viviente, el más puro ejemplo del hombre americano hecho a sí mismo: un chico pobre y disléxico que pasó por más de quince escuelas en catorce años y ha logrado convertirse en el actor más importante de su generación.
+· País: Francia
+· Director: Régis Brochier
+· Productora: Arte France</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3851015?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261026073500 +0100" stop="20261026092500 +0100" channel="M+ Terror">
-    <title lang="es">28 años después: el templo de los huesos (2026)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.2/5
-· 28 años tras el brote, el joven Spike recorre un mundo donde los infectados no son el único peligro. El hallazgo del Dr. Kelson (Ralph Fiennes) podría salvar a la humanidad, mientras una comunidad brutal revela la desesperación del colapso mundial.
+  <programme start="20261029080000 +0100" stop="20261029094500 +0100" channel="M+ Romance">
+    <title lang="es">La gata sobre el tejado de zinc (1958)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.5/5
+· Un autoritario terrateniente reúne a su familia para celebrar su cumpleaños. La tensión, entre la familia, se hace insoportable.
 · País: EE.UU
-· Director: Nia DaCosta
-· Reparto: Ralph Fiennes, Jack O'Connell, Alfie Williams, Chi Lewis-Parry, Erin Kellyman
-· Guion: Alex Garland
-· Música: Hildur Guðnadóttir
-· Producción: Danny Boyle
-· Productora: TSG Entertainment, Decibel Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4460947?od[]=Z1V:MM3_V"/>
+· Director: Richard Brooks
+· Reparto: Elizabeth Taylor, Paul Newman, Burl Ives, Jack Carson, Jeane Wood, Madeleine Sherwood, Vince Townsend Jr, Judith Anderson, Robert 'Rusty' Stevens, Larry Gates, Walter Merrill, Zelda Cleaver, Hugh Corcoran, Patty Ann Gerrity, Bobby Johnson, Vaughn Taylor, Deborah Miller, Brian Corcoran
+· Guion: Richard Brooks,James Poe
+· Producción: Lawrence Weingarten
+· Productora: Metro-Goldwyn-Mayer (MGM), Avon Productions, Lawrence Weingarten</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4485576?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261026092500 +0100" stop="20261026115600 +0100" channel="M+ Terror">
-    <title lang="es">Doctor Sueño (2019)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.7/5
-· Tras huir del Hotel Overlook, el niño Danny Torrance vive acosado por las visiones de su don 'resplandeciente'. Ya adulto, intenta ahogarlas en alcohol, mientras Rose la Chistera busca la inmortalidad arrebatando el 'resplandor' a otros niños.
-· País: Canadá, EE.UU y R.U
-· Director: Mike Flanagan
-· Reparto: Ewan McGregor, Rebecca Ferguson, Kyliegh Curran, Cliff Curtis, Carl Lumbly, Zahn McClarnon, Emily Alyn Lind, Bruce Greenwood
-· Guion: Mike Flanagan
-· Música: The Newton Brothers
-· Producción: Jon Berg, Trevor Macy
-· Productora: Intrepid Pictures, Vertigo Entertainment, Warner Bros</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3848770?od[]=Z1V:MM3_V"/>
+  <programme start="20261029094500 +0100" stop="20261029112600 +0100" channel="M+ Romance">
+    <title lang="es">Primavera en Beechwood (2021)</title>
+    <desc lang="es">Drama romántico | No recomendado para menores de doce años | *3.2/5
+· 30 de marzo de 1924, Beechwood (Inglaterra). El matrimonio Niven (Olivia Colman &amp; Colin Firth) perteneciente a la aristocracia inglesa y que ha perdido a sus hijos en la guerra, se prepara para celebrar el Día de la Madre y el compromiso de Paul.
+· País: Alemania y R.U
+· Director: Eva Husson
+· Reparto: Odessa Young, Josh O'Connor, Colin Firth, Olivia Colman, Sope Dirisu, Glenda Jackson, Patsy Ferran, Emma D'Arcy, Simon Shepherd
+· Guion: Alice Birch
+· Música: Morgan Kibby
+· Producción: Elizabeth Karlsen, Stephen Woolley
+· Productora: Lipsync Productions, Number 9 Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4008489?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261026115600 +0100" stop="20261026133400 +0100" channel="M+ Terror">
-    <title lang="es">Adivina quién muere esta noche (2024)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
-· Una pareja gay, a punto de convertirse en padres, se va de vacaciones a Italia para celebrar su décimo aniversario. Todo es perfecto, el epítome de la luna de miel europea... hasta que las cosas empiezan a descontrolarse.
-· País: EE.UU e Italia
-· Director: Brian Crano, David Joseph Craig
-· Reparto: Andrew Rannells, Nick Kroll, Morgan Spector, Nunzia Schiano, Amanda Seyfried
-· Guion: Brian Crano,David Joseph Craig
-· Música: Danny Bensi, Saunder Jurriaans
-· Producción: Kara Durrett, Jessamine Burgum
-· Productora: Pinky Promise, Panoramic Media</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4414187?od[]=Z1V:MM3_V"/>
+  <programme start="20261029112600 +0100" stop="20261029124800 +0100" channel="M+ Romance">
+    <title lang="es">Este amor sí que duele (2025)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.0/5
+· Marvin Gable, agente inmobiliario y exasesino, recibe una carta de Rose, abogada que debía eliminar, pero dejó escapar.
+· País: EE.UU y Japón
+· Director: Jonathan Eusebio
+· Reparto: Ke Huy Quan, Ariana DeBose, Daniel Wu, Mustafa Shakir, Lio Tipton
+· Guion: Matthew Murray,Josh Stoddard
+· Música: Dominic Lewis
+· Producción: Kelly McCormick
+· Productora: 87North</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4370934?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261026133400 +0100" stop="20261026151000 +0100" channel="M+ Terror">
-    <title lang="es">Noche de bodas (2019)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.6/5
-· Grace acaba de casarse con Alex Le Domas, hijo de una riquísima familia con una tradición bastante peculiar: la noche de bodas, a las 12 en punto, el nuevo miembro de la familia debe participar en un juego.
-· País: Canadá y EE.UU
-· Director: Matt Bettinelli-Olpin, Tyler Gillett
-· Reparto: Samara Weaving, Adam Brody, Mark O'Brien, Andie MacDowell, Henry Czerny, Nicky Guadagni
-· Guion: Guy Busick,Ryan Murphy
-· Música: Brian Tyler
-· Producción: James Vanderbilt, Bradley J. Fischer, William Sherak, Tripp Vinson
-· Productora: Fox Searchlight Pictures, Mythology Entertainment, Vinson Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3803318?od[]=Z1V:MM3_V"/>
+  <programme start="20261029124800 +0100" stop="20261029151600 +0100" channel="M+ Romance">
+    <title lang="es">La decisión de Sophie (1982)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
+· Un aspirante a escritor entabla íntima amistad con una pareja de amantes cuyo pasado está marcado por el Holacausto nazi.
+· País: EE.UU y R.U
+· Director: Alan J. Pakula
+· Reparto: Meryl Streep, Kevin Kline, Vida Jerman, Rita Karin, Peter MacNicol, Peter Wagenbreth
+· Guion: Alan J. Pakula
+· Música: Marvin Hamlisch
+· Producción: Alan J. Pakula, Keith Barish
+· Productora: Universal Pictures, ITC Entertainment, ITC Entertainment Group, Keith Barish Productions, Incorporated Television Company (ITC), Jadran Film</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3805010?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261026151000 +0100" stop="20261026165100 +0100" channel="M+ Terror">
-    <title lang="es">Los sin nombre (1999)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.0/5
-· Una llamada telefónica sacude la vida de una madre que inicia la búsqueda de su hija, a quien creía asesinada tiempo atrás.
-· País: España
-· Director: Jaume Balagueró
-· Reparto: Karra Elejalde, Tristán Ulloa, Toni Sevilla, Emma Vilarasau, Jordi Dauder, Pep Tosar, Carlos Lasarte, Jessica Del Pozo
-· Guion: Ramsey Campbell,Jaume Balagueró
-· Música: Carles Cases
-· Producción: Julio Fernández, Joan Ginard
-· Productora: Filmax, P.C. Joan Ginard</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4380636?od[]=Z1V:MM3_V"/>
+  <programme start="20261029151600 +0100" stop="20261029163800 +0100" channel="M+ Romance">
+    <title lang="es">Te querré siempre (1954)</title>
+    <desc lang="es">Drama | No recomendado para menores de siete años | *3.1/5
+· Un matrimonio inglés viaja a Italia para vender una villa que ha heredado cerca de Nápoles.
+· País: Francia e Italia
+· Director: Roberto Rossellini
+· Reparto: Ingrid Bergman, Natalia Ray, Maria Mauban, Leslie Daniels, George Sanders
+· Guion: Vitaliano Brancati,Roberto Rossellini
+· Música: Renzo Rossellini
+· Productora: Les Films Ariane, Cine-Italia Film, Francinex, Junio-Speva Film</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3994673?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261026165100 +0100" stop="20261026183100 +0100" channel="M+ Terror">
-    <title lang="es">Zombies Party (Una noche... de muerte) (2004)</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.2/5
-· Un joven decide cambiar de vida justo en el momento en el que los muertos reviven y tratan de devorar a los vivos. Todo un contratiempo.
-· País: EE.UU, Francia y R.U
-· Director: Edgar Wright
-· Reparto: Simon Pegg, Kate Ashfield, Nick Frost, Lucy Davis, Dylan Moran, Bill Nighy, Penelope Wilton, Jessica Stevenson, Reece Shearsmith, David Park
-· Guion: Simon Pegg,Edgar Wright
-· Música: Daniel Mudford, Pete Woodhead, Dan Mudford
-· Producción: Nira Park
-· Productora: Rogue Pictures, StudioCanal, Working Title Films, WT2</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3971590?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026183100 +0100" stop="20261026201400 +0100" channel="M+ Terror">
-    <title lang="es">The Hole (2001)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.3/5
-· La única superviviente de la desaparición de cuatro jóvenes intenta recordar lo ocurrido en el búnker donde fueron encerrados.
-· País: R.U
-· Director: Nick Hamm
-· Reparto: Thora Birch, Desmond Harrington, Keira Knightley, Laurence Fox, Steven Waddington, Embeth Davidtz, Daniel Brocklebank
-· Guion: Ben Court,Caroline Ip
-· Música: Clint Mansell
-· Producción: Jeremy Bolt, Lisa Bryer, Pippa Cross</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3629516"/>
-  </programme>
-  <programme start="20261026201400 +0100" stop="20261026220000 +0100" channel="M+ Terror">
-    <title lang="es">Hombre lobo (2025)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.1/5
-· En 1995 desaparece un excursionista en las montañas de Oregón. Los habitantes de la zona sospechan que ha sido infectado por la 'fiebre de las colinas'... una enfermedad que las antiguas poblaciones indígenas conocían con otro nombre: 'rostro del lobo'.
-· País: EE.UU, Irlanda y Nueva Zelanda
-· Director: Leigh Whannell
-· Reparto: Christopher Abbott, Julia Garner, Matilda Firth, Sam Jaeger, Ben Prendergast
-· Guion: Leigh Whannell,Corbett Tuck
-· Música: Benjamin Wallfisch
-· Producción: Jason Blum
-· Productora: Universal Pictures, Cloak &amp; Co, Blumhouse Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4370960?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026220000 +0100" stop="20261026234300 +0100" channel="M+ Terror">
-    <title lang="es">El vengador tóxico (2023)</title>
-    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.1/5
-· Winston Gooze es un conserje que, tras un accidente tóxico, se transforma en &quot;Toxie&quot;, un peculiar antihéroe mutante dispuesto a enfrentarse a despiadados magnates y fuerzas corruptas en una lucha por la justicia.
+  <programme start="20261029163800 +0100" stop="20261029175700 +0100" channel="M+ Romance">
+    <title lang="es">Outlander: Sangre... (T1): Ep.1 Providencia (2025)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de dieciséis años | *3.1/5
+· Tras la muerte del jefe del clan Mackenzie, Red Jacob, sus hijos, Colum y Dougal, compiten por el liderazgo durante la reunión de los MacKenzie. Brian Fraser y Ellen MacKenzie se encuentran y se sienten instantáneamente atraídos el uno por el otro.
 · País: EE.UU
-· Director: Macon Blair
-· Reparto: Peter Dinklage, Jacob Tremblay, Taylour Paige, Julia Davis, Elijah Wood, Kevin Bacon
-· Guion: Macon Blair
-· Música: Brooke Blair, Will Blair
-· Producción: Mary Parent
-· Productora: Legendary Entertainment, Troma Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4448019?od[]=Z1V:MM3_V"/>
+· Reparto: Tony Curran, Conor MacNeill, Jeremy Irvine, Jamie Roy, Harriet Slater, Rory Alexander, Sam Retford, Seamus McLean Ross</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4383530?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20261026234300 +0100" stop="20261027012700 +0100" channel="M+ Terror">
-    <title lang="es">Cuckoo (2024)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *2.9/5
-· Gretchen, de 17 años, abandona a regañadientes su hogar estadounidense para vivir con su padre, que acaba de mudarse a un complejo turístico en los Alpes alemanes con su nueva familia, pero algo no parece ir bien.
+  <programme start="20261029175700 +0100" stop="20261029185700 +0100" channel="M+ Romance">
+    <title lang="es">Outlander: Sangre... (T1): Ep.2 Sellado con un beso (2025)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de dieciséis años | *3.1/5
+· En 1917 Henry y Julia se enamoran a través de las cartas que se escriben. El destino acaba por unirlos, pero poco después los vuelve a separar. En un tiempo distinto deben sobrevivir a sus nuevos roles y encontrar el camino de regreso el uno al otro.
+· País: EE.UU
+· Reparto: Tony Curran, Conor MacNeill, Jeremy Irvine, Jamie Roy, Harriet Slater, Rory Alexander, Sam Retford, Seamus McLean Ross</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4416261?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029185700 +0100" stop="20261029195700 +0100" channel="M+ Romance">
+    <title lang="es">Outlander: Sangre... (T1): Ep.3 La escuela de la luna (2025)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de dieciséis años | *3.1/5
+· El compromiso de Ellen con Malcom Grant parece ser un hecho mientras sus hermanos conspiran para hacerse con el control del clan. La situación de Julia se complica cuando la señora Porter descubre su estado y le aconseja tomar una decisión drástica.
+· País: EE.UU
+· Reparto: Tony Curran, Conor MacNeill, Jeremy Irvine, Jamie Roy, Harriet Slater, Rory Alexander, Sam Retford, Seamus McLean Ross</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4383550?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20261029195700 +0100" stop="20261029205900 +0100" channel="M+ Romance">
+    <title lang="es">Outlander: Sangre... (T1): Ep.4 El corazón de un soldado (2025)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de dieciséis años | *3.0/5
+· Atrapada en el castillo de los Fraser, Julia sigue escribiendo a Henry mientras ejecuta su plan para proteger a su bebé. Él continúa buscándola al tiempo que lidia con las exigencias del jefe de los Grant.
+· País: EE.UU
+· Reparto: Tony Curran, Conor MacNeill, Jeremy Irvine, Jamie Roy, Harriet Slater, Rory Alexander, Sam Retford, Seamus McLean Ross</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4383552?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20261029205900 +0100" stop="20261029220000 +0100" channel="M+ Romance">
+    <title lang="es">Outlander: Sangre... (T1): Ep.5 Fuego ceremonial (2025)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de dieciséis años | *3.1/5
+· Los planes de Julia para escapar se complican. Brian parte hacia el festival de Beltane acompañado de su primo Murtagh con la intención de encontrarse en secreto con Ellen. Ella por su parte acude con su hermana Yocasta.
+· País: EE.UU
+· Reparto: Tony Curran, Conor MacNeill, Jeremy Irvine, Jamie Roy, Harriet Slater, Rory Alexander, Sam Retford, Seamus McLean Ross</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4416329?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20261029220000 +0100" stop="20261030000300 +0100" channel="M+ Romance">
+    <title lang="es">Las cosas que decimos, las cosas que hacemos (2020)</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.2/5
+· Máxime, un joven traductor con ambiciones literarias, rememora una experiencia amorosa que le dejó huella: su complicada relación con la excéntrica Sandra.
+· País: Francia
+· Director: Emmanuel Mouret
+· Reparto: Camélia Jordana, Niels Schneider, Vincent Macaigne, Émilie Dequenne, Jenna Thiam, Guillaume Gouix, Julia Piaton, Jean-Baptiste Anoumon
+· Guion: Emmanuel Mouret
+· Producción: Frédéric Niedermayer
+· Productora: Canal+, Ciné+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3951935?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029000300 +0100" stop="20261029015000 +0100" channel="M+ Romance">
+    <title lang="es">La mancha humana (2003)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.2/5
+· Un hombre, que lleva toda la vida escondiendo en secreto su identidad, debe enfrentarse al pasado tras conocer a una mujer.
+· País: Alemania, EE.UU y Francia
+· Director: Robert Benton
+· Reparto: Anthony Hopkins, Nicole Kidman, Ed Harris, Gary Sinise, Wentworth Miller
+· Guion: Nicholas Meyer
+· Música: Rachel Portman
+· Producción: Tom Rosenberg, Gary Lucchesi, Scott Steindorff
+· Productora: Miramax Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4502177?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029015000 +0100" stop="20261029035700 +0100" channel="M+ Romance">
+    <title lang="es">La mujer del predicador (1996)</title>
+    <desc lang="es">Drama | Apto para todos los públicos | *3.1/5
+· El reverendo de un pequeño pueblo sufre una profunda crisis existencial que afecta a su matrimonio.
+· País: EE.UU
+· Director: Penny Marshall
+· Reparto: Denzel Washington, Gregory Hines, Whitney Houston, Courtney B. Vance, Jenifer Lewis, Lionel Richie, Justin Pierre Edmund
+· Guion: Allan Scott,Nat Nauldin
+· Música: Hans Zimmer
+· Producción: Samuel Goldwyn Jr
+· Productora: Touchstone Pictures, Buena Vista Pictures, Samuel Goldwyn Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4445610?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029035700 +0100" stop="20261029055500 +0100" channel="M+ Romance">
+    <title lang="es">El matrimonio de María Braun (1978)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
+· María, joven alemana, tiene que prostituirse para sobrevivir cuando dan por desaparecido en el frente a su marido, Hermann Braun.
 · País: Alemania
-· Director: Tilman Singer
-· Reparto: Hunter Schafer, Jan Bluthardt, Marton Csokas, Jessica Henwick, Dan Stevens
-· Guion: Tilman Singer
-· Música: Simon Waskow
-· Productora: Fiction Park</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4469722?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026012700 +0100" stop="20261026025800 +0100" channel="M+ Terror">
-    <title lang="es">Aullidos (1980)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.1/5
-· Una popular presentadora sufre una crisis nerviosa provocada por un terrible incidente: está a punto de ser atacada por un presunto violador y éste es acribillado a balazos ante sus ojos.
-· País: EE.UU
-· Director: Joe Dante
-· Reparto: Dee Wallace, Patrick Macnee, Dennis Dugan, Christopher Stone, Belinda Balaski
-· Guion: John Sayles
-· Música: Pino Donaggio
-· Productora: Embassy Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4059351?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026025800 +0100" stop="20261026045100 +0100" channel="M+ Terror">
-    <title lang="es">28 días después (2002)</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.3/5
-· Cerca de Cambridge, un grupo de activistas pro derechos de los animales ataca un laboratorio en el que se experimenta con primates y los libera. Lo que ellos ignoran es que los animales han sido infectados con una poderosa variante del virus de la rabia.
-· País: R.U
-· Director: Danny Boyle
-· Reparto: Cillian Murphy, Naomie Harris, Megan Burns, Brendan Gleeson, Christopher Eccleston
-· Guion: Alex Garland
-· Música: John Murphy
-· Producción: Andrew MacDonald
-· Productora: Canal+, UK Film Council, DNA Films, Fox Searchlight Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3642089?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261026045100 +0100" stop="20261026050800 +0100" channel="M+ Terror">
-    <title lang="es">Los murciélagos han abandonado el campanario (2025)</title>
-    <desc lang="es">Corto fantástico | No recomendado para menores de doce años | *3.3/5
-· En una oscura y solitaria morada escondida en el bosque, conviven en comuna un viejo vampiro cineasta y sus cinco discípulos. La noche del cumpleaños del vampiro, durante el desayuno nocturno, éste les comunica su último deseo.
-· País: España
-· Director: Manuel Bernal, Alfonso Bernal
-· Reparto: Manolo Caro, Estefanía de los Santos, Emilio Linder, María Romanillos, Nacho Sánchez
-· Guion: Lucía Angulo
-· Música: Enrico Barbaro JR
-· Productora: Escuela de Cinema y Audiovisual Comunidad de Madrid (ECAM)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4470642?od[]=Z1V:MM3_V"/>
+· Director: Rainer Werner Fassbinder
+· Reparto: Hanna Schygulla, Klaus Löwitsch</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4382861?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261027050800 +0100" stop="20261027065300 +0100" channel="M+ Terror">
     <title lang="es">Return to Silent Hill (2025)</title>
@@ -1077,5 +890,199 @@
 · Producción: Nira Park, Andrew Starke, Claire Jones
 · Productora: BFI TV, StudioCanal, Film4</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4102996?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029052400 +0100" stop="20261029065200 +0100" channel="M+ Terror">
+    <title lang="es">Relic (2020)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *2.9/5
+· La desaparición de la anciana Edna lleva a su hija y a su nieta a viajar a la decadente casa de campo familiar, donde encuentran indicios de la progresiva demencia de la mujer. De pronto, Edna reaparece tan misteriosamente como desapareció.
+· País: Australia y EE.UU
+· Director: Natalie Erika James
+· Reparto: Emily Mortimer, Robyn Nevin, Bella Heathcote, Steve Rodgers, Chris Bunton
+· Guion: Natalie Erika James,Christian White
+· Música: Brian Reitzell
+· Producción: Jake Gyllenhaal, Sarah Shaw
+· Productora: AGBO</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3925913?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029065200 +0100" stop="20261029080000 +0100" channel="M+ Terror">
+    <title lang="es">Dementia 13 (1963)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
+· Cuando John Halloran muere de un infarto, su esposa teme no cobrar la herencia. Escribe entonces una carta al resto de la familia anunciando que John ha tenido que viajar.
+· País: EE.UU e Irlanda
+· Director: Francis Ford Coppola
+· Reparto: William Campbell, Luana Anders, Bart Patton, Mary Mitchel, Patrick Magee
+· Guion: Francis Ford Coppola
+· Música: Ronald Stein
+· Productora: Roger Corman Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4474878?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029080000 +0100" stop="20261029085500 +0100" channel="M+ Terror">
+    <title lang="es">50 años de Tiburón (2024)</title>
+    <desc lang="es">Documental cine | Apto para todos los públicos | *3.0/5
+· En junio de 2025 es el 50 aniversario de &quot;Tiburón&quot; de Steven Spielberg, una película que marcó un antes y un después en la historia del cine estadounidense y este documental nos cuenta por qué.
+· País: Francia
+· Director: Olivier Bonnard, Antoine Coursat</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4343483?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029085500 +0100" stop="20261029090000 +0100" channel="M+ Terror">
+    <title lang="es">Grano (2025)</title>
+    <desc lang="es">Corto de comedia | No recomendado para menores de dieciséis años | *3.0/5
+· A un niño le revienta un grano y se produce un desastre sangriento.
+· País: Portugal
+· Director: Fernando Alle</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4467894?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029090000 +0100" stop="20261029104000 +0100" channel="M+ Terror">
+    <title lang="es">Feliz día de tu muerte 2 (2019)</title>
+    <desc lang="es">Terror | No recomendado para menores de doce años | *3.4/5
+· El día de Ryan no puede ir peor. Ha dormido en el coche porque su compañero de habitación no lo deja entrar ni a cambiarse el calzoncillo, el decano suspende su proyecto de tesis y, encima, es apuñalado por alguien con una máscara de bebé.
+· País: EE.UU y Japón
+· Director: Christopher Landon
+· Reparto: Jessica Rothe, Israel Broussard, Phi Vu, Suraj Sharma, Sarah Yarkin
+· Guion: Christopher Landon,Scott Lobdell
+· Música: Bear McCreary
+· Producción: Jason Blum
+· Productora: Blumhouse Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3717105?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029104000 +0100" stop="20261029121000 +0100" channel="M+ Terror">
+    <title lang="es">Seis mujeres para un asesino (1964)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *3.1/5
+· La policía busca al responsable de los brutales asesinatos que están acabando con las modelos de una firma de alta costura.
+· País: Italia
+· Director: Mario Bava
+· Reparto: Cameron Mitchell, Eva Bartok, Thomas Reiner
+· Guion: Marcello Fondato
+· Productora: Emmepi Cinematografica</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4087283?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029121000 +0100" stop="20261029134700 +0100" channel="M+ Terror">
+    <title lang="es">Exit 8 (2025)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.2/5
+· Una joven anónima se encuentra en una estación de metro atrapada en un bucle en donde debe avanzar solo y cuando ninguna anomalía aparezca en su campo de visión… o volverá al inicio sin ser capaz de huir de ese lugar.
+· País: Japón
+· Director: Genki Kawamura
+· Reparto: Kazunari Ninomiya, Yamato Kôchi, Naru Asanuma, Kotone Hanase, Nana Komatsu
+· Guion: Kentaro Hirase,Genki Kawamura
+· Música: Yasutaka Nakata, Shouhei Amimori
+· Producción: Yuto Sakata
+· Productora: AOI Promotion, Toho</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4448954?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029134700 +0100" stop="20261029152300 +0100" channel="M+ Terror">
+    <title lang="es">Ben (1972)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
+· Un chico solitario se convierte en el mejor amigo de una rata llamada Ben, que es la líder de un grupo de ratas asesinas que matan seres humanos.
+· País: EE.UU
+· Director: Phil Karlson
+· Reparto: Lee Montgomery, Joseph Campanella, Kaz Garas, Kenneth Tobey, Norman Alden, Scott Garrett, James Luisi, Meredith Baxter, Rosemary Murphy, Arthur O'Connell, Paul Carr
+· Guion: Gilbert Ralston,Stephen Gilbert
+· Música: Walter Scharf
+· Producción: Mort Briskin</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4429121?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029152300 +0100" stop="20261029171400 +0100" channel="M+ Terror">
+    <title lang="es">Tras el cristal (1985)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciocho años | *2.9/5
+· Un exoficial nazi, asociado a experimentos con niños deportados, sufre un accidente que le obliga a vivir conectado a un pulmón de acero. Para su cuidado contrata a Ángelo, un hombre que iniciará una extraña relación con él y con su familia.
+· País: España
+· Director: Agustí Villaronga
+· Reparto: Gunter Meisner, David Sust, Marisa Paredes, Gisèle Echevarría
+· Guion: Agustí Villaronga
+· Música: Javier Navarrete
+· Productora: T.E.M. Productores S.A.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4121352?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029171400 +0100" stop="20261029184700 +0100" channel="M+ Terror">
+    <title lang="es">Turbo Kid (2015)</title>
+    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *3.4/5
+· Es 1997, la lluvia ácida ha dejado la Tierra yerma y ha envenenado las aguas. En este mundo sumido en un invierno nuclear perpetuo, un joven huérfano vaga con su bicicleta BMX en busca de cómics y cachivaches de los 80 que después cambiará por agua.
+· País: Canadá, EE.UU y Nueva Zelanda
+· Director: François Simard, Anouk Whissell, Yoann-Karl Whissell
+· Reparto: Munro Chambers, Michael Ironside, Laurence Leboeuf, Aaron Jeffery, Edwin Wright, Romano Orzari
+· Guion: Anouk Whissell,Yoann-Karl Whissell,François Simard
+· Música: Le Matos
+· Producción: Anne-Marie Gélinas, Ant Timpson, Benoit Beaulieu, Tim Riley
+· Productora: EMA Films, Epic Pictures Group, Timpson Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3718548?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029184700 +0100" stop="20261029202700 +0100" channel="M+ Terror">
+    <title lang="es">La virgen de la tosquera (2025)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
+· En las afueras de Buenos Aires, durante el verano de la crisis argentina de 2001, Natalia y sus dos amigas están enamoradas de Diego, su amigo de la infancia. Cuando una mujer mayor se interpone, ella recurre a su abuela y a la magia negra.
+· País: Argentina, España y México
+· Director: Laura Casabé
+· Reparto: Luisa Merelas, Dady Brieva, Dolores Oliverio, Isabel Bracamonte
+· Guion: Benjamin Naishtat
+· Producción: Ángeles Hernández, Diego Martínez Ulanosky, David Matamoros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4475195?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029202700 +0100" stop="20261029220000 +0100" channel="M+ Terror">
+    <title lang="es">Verano infernal (2023)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
+· En un campamento de verano, los dueños son asesinados por un enmascarado. Jason, un joven monitor, es el nuevo encargado de asumir el liderazgo. Lo que no sabe es que un asesino enmascarado está al acecho, matando brutalmente a los monitores uno a uno.
+· País: Canadá y EE.UU
+· Director: Billy Bryk, Finn Wolfhard
+· Reparto: Adam Pally, Rosebud Baker, Fred Hechinger, Susan Coyne, Billy Bryk, Finn Wolfhard, D'Pharaoh Woon-A-Tai, Abby Quinn, Julia Doyle, Julia Lalonde, Pardis Saremi
+· Guion: Billy Bryk,Finn Wolfhard
+· Producción: Jason Bateman, Billy Bryk, Michael Costigan, Fred Hechinger, Jay Van Hoy, Finn Wolfhard</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4387371?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029220000 +0100" stop="20261029234500 +0100" channel="M+ Terror">
+    <title lang="es">Black Phone (2021)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.6/5
+· En la década de 1970, en un pequeño pueblo de Colorado, varios chicos han desaparecido a manos de El captor. Su última víctima es el adolescente Finney Shaw, encerrado en un sótano junto a un teléfono negro desconectado.
+· País: EE.UU
+· Director: Scott Derrickson
+· Reparto: Ethan Hawke, Mason Thames, Madeleine McGraw, Jeremy Davies, James Ransone, E. Roger Mitchell, Troy Rudeseal
+· Guion: Scott Derrickson,C. Robert Cargill
+· Música: Mark Korven
+· Producción: Jason Blum, Scott Derrickson, C. Robert Cargill
+· Productora: Blumhouse Productions, Universal Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4042408?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029234500 +0100" stop="20261030010000 +0100" channel="M+ Terror">
+    <title lang="es">Hold the Fort (2025)</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciocho años | *2.8/5
+· Lucas y Jenny celebran haber comprado su primera casa, pero la ilusión dura poco: la comunidad de propietarios les obliga a participar en una batalla anual contra los monstruos que emergen de un portal infernal oculto bajo la urbanización cada verano.
+· País: EE.UU
+· Director: William Bagley
+· Reparto: Chris Mayers, Levi Burdick, Mark Ashworth</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4493392?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029010000 +0100" stop="20261029022500 +0100" channel="M+ Terror">
+    <title lang="es">Mamá y papá (2017)</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *2.6/5
+· Una mañana, una madre abandona su coche en las vías del tren con la sillita de su hijo (y su hijo) dentro. Poco después, la familia de la adolescente Carly ve la noticia del atropello del niño mientras comparte un típicamente tenso desayuno familiar.
+· País: EE.UU y R.U
+· Director: Brian Taylor
+· Reparto: Nicolas Cage, Selma Blair, Anne Winters, Zackary Arthur, Robert Cunningham, Olivia Crocicchia, Joseph D. Reitman, Rachel Melvin, Lance Henriksen
+· Guion: Brian Taylor
+· Producción: Tim Zajaros
+· Productora: Armory Films, Ingenious Media, The Fyzz Facility Film Five, XYZ Films, Zeal Media, Ingenious</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3637306?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029022500 +0100" stop="20261029042500 +0100" channel="M+ Terror">
+    <title lang="es">La sonrisa del mal (2025)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
+· 'Thriller' rural de atmósfera asfixiante y terror psicológico sobre culpa, duelo y pertenencia dirigido por una figura clave del cine de género italiano, Paolo Strippoli.
+· País: Eslovenia e Italia
+· Director: Paolo Stroppoli
+· Reparto: Michele Riondino, Romana Maggiora Vergano, Roberto Citran, Paolo Pierobon
+· Guion: Paolo Strippoli
+· Producción: Domenico Procacci, Stefano Sardo
+· Productora: NIghtswim</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4473895?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261029042500 +0100" stop="20261029054900 +0100" channel="M+ Terror">
+    <title lang="es">No entres (2025)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.0/5
+· Dos amigos, aspirantes a YouTubers, se meten donde no deben. Su aventura da un giro aterrador cuando se enfrentan a un horror inimaginable
+· País: Argentina y Paraguay
+· Director: Hugo Cardozo
+· Reparto: Lucas Caballero, Pablo Martínez, Rafael Alfaro, Andy Romero, Lara Chamorro, Santi Martínez
+· Música: Hugo Cardozo
+· Productora: FilmSharks International</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4503287?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
