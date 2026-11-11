@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 10/11/2026 06:00">
+<tv generator-info-name="MultiPopUps FullDesc 11/11/2026 04:48">
   <channel id="M+ Romance">
     <display-name>M+ Romance</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MROMA"/>
@@ -8,17 +8,4 @@
     <display-name>M+ Terror</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TERROR"/>
   </channel>
-  <programme start="20261110044100 +0100" stop="20261110064400 +0100" channel="M+ Romance">
-    <title lang="es">Quédate a mi lado (1998)</title>
-    <desc lang="es">Drama | Apto para todos los públicos | *3.4/5
-· Isabel es una joven fotógrafa que vive con su novio Luke y con Anna y Ben, los dos hijos que éste tuvo con su ex-mujer Jackie. Isabel y Jackie se odian, pero pronto sus vidas darán un giro total al descubrir que el futuro de los niños está en sus manos.
-· País: EE.UU
-· Director: Chris Columbus
-· Reparto: Julia Roberts, Susan Sarandon, Ed Harris, Jena Malone, Lynn Whitfield, Liam Aiken, Wagner Moura
-· Guion: Jessie Nelson,Ron Bass,Steven Rogers,Gigi Levangie,Karel Leigh Hopkins
-· Música: John Williams
-· Producción: Wendy Finerman
-· Productora: Columbia Pictures Corporation</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4507351?od[]=Z1V:MM3_V"/>
-  </programme>
 </tv>
