@@ -1,899 +1,795 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 17/11/2026 06:42">
-  <channel id="Pop Up 2">
-    <display-name>Pop Up 2</display-name>
-    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/POPUP2"/>
+<tv generator-info-name="MultiPopUps FullDesc 18/11/2026 06:00">
+  <channel id="M+ Thriller">
+    <display-name>M+ Thriller</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTHRI"/>
   </channel>
-  <channel id="Pop Up">
-    <display-name>Pop Up</display-name>
-    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/POPUP"/>
+  <channel id="M+ Navidad">
+    <display-name>M+ Navidad</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID"/>
   </channel>
-  <programme start="20261117060000 +0100" stop="20261117075000 +0100" channel="Pop Up 2">
-    <title lang="es">Telediario Matinal (2023)</title>
-    <desc lang="es">Informativo | *3.0/5
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
-  </programme>
-  <programme start="20261117075000 +0100" stop="20261117103500 +0100" channel="Pop Up 2">
-    <title lang="es">La hora de La 1:... (T10): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Un magacine en el que se aborda la actualidad política y social.
-· País: España
-· Presenta: Aida Bao
-· Productora: Javier Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4452930"/>
-  </programme>
-  <programme start="20261117103500 +0100" stop="20261117145500 +0100" channel="Pop Up 2">
-    <title lang="es">Mañaneros 360 (T3): Ep.62 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.
-· País: España
-· Director: Alberto Fructuoso, Joseba Gast, Juan Lopez-Pastor
-· Productora: Belén Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383283"/>
-  </programme>
-  <programme start="20261117145500 +0100" stop="20261117153000 +0100" channel="Pop Up 2">
-    <title lang="es">Telediario 1 (2014)</title>
-    <desc lang="es">Informativo | *3.1/5
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
-  </programme>
-  <programme start="20261117153000 +0100" stop="20261117153500 +0100" channel="Pop Up 2">
-    <title lang="es">Deportes 1 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
-  </programme>
-  <programme start="20261117153500 +0100" stop="20261117154000 +0100" channel="Pop Up 2">
-    <title lang="es">El tiempo (2014)</title>
-    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
-· Información sobre la previsión meteorológica de TVE.
-· País: España
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP332735"/>
-  </programme>
-  <programme start="20261117154000 +0100" stop="20261117155000 +0100" channel="Pop Up 2">
-    <title lang="es">Informativo territorial 2 (2023)</title>
-    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
-· Espacio de emisión del informativo de cada centro territorial de TVE.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
-  </programme>
-  <programme start="20261117155000 +0100" stop="20261117174500 +0100" channel="Pop Up 2">
-    <title lang="es">Directo al grano (T3): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383285"/>
-  </programme>
-  <programme start="20261117174500 +0100" stop="20261117183500 +0100" channel="Pop Up 2">
-    <title lang="es">Valle Salvaje (T4) (2026)</title>
-    <desc lang="es">Telenovela | No recomendado para menores de doce años | *3.1/5
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Director: Miguel Conde
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado
-· Productora: Bambú Producciones, Radio Televisión Española (RTVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4314916"/>
-  </programme>
-  <programme start="20261117183500 +0100" stop="20261117193500 +0100" channel="Pop Up 2">
-    <title lang="es">La Promesa (T1): Ep.948  (2026)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2162814"/>
-  </programme>
-  <programme start="20261117193500 +0100" stop="20261117202500 +0100" channel="Pop Up 2">
-    <title lang="es">Malas lenguas (T3): Ep.501 (2026)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
-· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4453018"/>
-  </programme>
-  <programme start="20261117202500 +0100" stop="20261117205500 +0100" channel="Pop Up 2">
-    <title lang="es">Aquí la Tierra (T15): Ep.882 (2026)</title>
-    <desc lang="es">Magacín | Apto para todos los públicos
-· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4338882"/>
-  </programme>
-  <programme start="20261117205500 +0100" stop="20261117215000 +0100" channel="Pop Up 2">
-    <title lang="es">Telediario 2 (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno,Carlos Franganillo Hernández
-· Director: Germán Sancho
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
-  </programme>
-  <programme start="20261117215000 +0100" stop="20261117215500 +0100" channel="Pop Up 2">
-    <title lang="es">Deportes 2 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
-  </programme>
-  <programme start="20261117215500 +0100" stop="20261117231500 +0100" channel="Pop Up 2">
-    <title lang="es">La revuelta (T3): Ep.359 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de doce años
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Productora: Lydia Cerrudo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394609"/>
-  </programme>
-  <programme start="20261117231500 +0100" stop="20261118002500 +0100" channel="Pop Up 2">
-    <title lang="es">La cena de los... (T1): El Valor del dinero (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años
-· Gonzalo Miró hablará con Pablo Iglesias, Cayetano Martínez de Irujo, Begoña Villacís y Carmen Tomás sobre dinero, privilegios y orígenes sociales.
-· País: España
-· Guion: Miguel Ángel Hernández Arango</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445969"/>
-  </programme>
-  <programme start="20261117002500 +0100" stop="20261117014500 +0100" channel="Pop Up 2">
-    <title lang="es">La cena de los idiotas (T1): Ep.1 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años | *3.6/5
-· Se reúnen Bertín Osborne, Pablo Echenique, Cristina Cifuentes y Montserrat Domínguez.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445971"/>
-  </programme>
-  <programme start="20261117014500 +0100" stop="20261117044500 +0100" channel="Pop Up 2">
-    <title lang="es">La noche en 24 horas (2018)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Informativo diario nocturno presentado por Marc Sala que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Presenta: Marc Sala
-· Director: Marc Sala
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP1573081"/>
-  </programme>
-  <programme start="20261118060000 +0100" stop="20261118075000 +0100" channel="Pop Up 2">
-    <title lang="es">Telediario Matinal (2023)</title>
-    <desc lang="es">Informativo | *3.0/5
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
-  </programme>
-  <programme start="20261118075000 +0100" stop="20261118103500 +0100" channel="Pop Up 2">
-    <title lang="es">La hora de La 1:... (T10): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Un magacine en el que se aborda la actualidad política y social.
-· País: España
-· Presenta: Aida Bao
-· Productora: Javier Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4452930"/>
-  </programme>
-  <programme start="20261118103500 +0100" stop="20261118145500 +0100" channel="Pop Up 2">
-    <title lang="es">Mañaneros 360 (T3): Ep.62 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.
-· País: España
-· Director: Alberto Fructuoso, Joseba Gast, Juan Lopez-Pastor
-· Productora: Belén Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383283"/>
-  </programme>
-  <programme start="20261118145500 +0100" stop="20261118153000 +0100" channel="Pop Up 2">
-    <title lang="es">Telediario 1 (2014)</title>
-    <desc lang="es">Informativo | *3.1/5
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
-  </programme>
-  <programme start="20261118153000 +0100" stop="20261118153500 +0100" channel="Pop Up 2">
-    <title lang="es">Deportes 1 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
-  </programme>
-  <programme start="20261118153500 +0100" stop="20261118154000 +0100" channel="Pop Up 2">
-    <title lang="es">El tiempo (2014)</title>
-    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
-· Información sobre la previsión meteorológica de TVE.
-· País: España
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP332735"/>
-  </programme>
-  <programme start="20261118154000 +0100" stop="20261118155000 +0100" channel="Pop Up 2">
-    <title lang="es">Informativo territorial 2 (2023)</title>
-    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
-· Espacio de emisión del informativo de cada centro territorial de TVE.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
-  </programme>
-  <programme start="20261118155000 +0100" stop="20261118174500 +0100" channel="Pop Up 2">
-    <title lang="es">Directo al grano (T3): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383285"/>
-  </programme>
-  <programme start="20261118174500 +0100" stop="20261118183500 +0100" channel="Pop Up 2">
-    <title lang="es">Valle Salvaje (T4) (2026)</title>
-    <desc lang="es">Telenovela | No recomendado para menores de doce años | *3.1/5
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Director: Miguel Conde
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado
-· Productora: Bambú Producciones, Radio Televisión Española (RTVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4314916"/>
-  </programme>
-  <programme start="20261118183500 +0100" stop="20261118193500 +0100" channel="Pop Up 2">
-    <title lang="es">La Promesa (T1): Ep.948  (2026)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2162814"/>
-  </programme>
-  <programme start="20261118193500 +0100" stop="20261118202500 +0100" channel="Pop Up 2">
-    <title lang="es">Malas lenguas (T3): Ep.501 (2026)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
-· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4453018"/>
-  </programme>
-  <programme start="20261118202500 +0100" stop="20261118205500 +0100" channel="Pop Up 2">
-    <title lang="es">Aquí la Tierra (T15): Ep.882 (2026)</title>
-    <desc lang="es">Magacín | Apto para todos los públicos
-· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4338882"/>
-  </programme>
-  <programme start="20261118205500 +0100" stop="20261118215000 +0100" channel="Pop Up 2">
-    <title lang="es">Telediario 2 (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno,Carlos Franganillo Hernández
-· Director: Germán Sancho
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
-  </programme>
-  <programme start="20261118215000 +0100" stop="20261118215500 +0100" channel="Pop Up 2">
-    <title lang="es">Deportes 2 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
-  </programme>
-  <programme start="20261118215500 +0100" stop="20261118231500 +0100" channel="Pop Up 2">
-    <title lang="es">La revuelta (T3): Ep.359 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de doce años
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Productora: Lydia Cerrudo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394609"/>
-  </programme>
-  <programme start="20261118231500 +0100" stop="20261119002500 +0100" channel="Pop Up 2">
-    <title lang="es">La cena de los... (T1): El Valor del dinero (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años
-· Gonzalo Miró hablará con Pablo Iglesias, Cayetano Martínez de Irujo, Begoña Villacís y Carmen Tomás sobre dinero, privilegios y orígenes sociales.
-· País: España
-· Guion: Miguel Ángel Hernández Arango</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445969"/>
-  </programme>
-  <programme start="20261118002500 +0100" stop="20261118014500 +0100" channel="Pop Up 2">
-    <title lang="es">La cena de los idiotas (T1): Ep.1 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años | *3.6/5
-· Se reúnen Bertín Osborne, Pablo Echenique, Cristina Cifuentes y Montserrat Domínguez.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445971"/>
-  </programme>
-  <programme start="20261118014500 +0100" stop="20261118044500 +0100" channel="Pop Up 2">
-    <title lang="es">La noche en 24 horas (2018)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Informativo diario nocturno presentado por Marc Sala que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Presenta: Marc Sala
-· Director: Marc Sala
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP1573081"/>
-  </programme>
-  <programme start="20261119060000 +0100" stop="20261119075000 +0100" channel="Pop Up 2">
-    <title lang="es">Telediario Matinal (2023)</title>
-    <desc lang="es">Informativo | *3.0/5
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
-  </programme>
-  <programme start="20261119075000 +0100" stop="20261119103500 +0100" channel="Pop Up 2">
-    <title lang="es">La hora de La 1:... (T10): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Un magacine en el que se aborda la actualidad política y social.
-· País: España
-· Presenta: Aida Bao
-· Productora: Javier Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4452930"/>
-  </programme>
-  <programme start="20261119103500 +0100" stop="20261119145500 +0100" channel="Pop Up 2">
-    <title lang="es">Mañaneros 360 (T3): Ep.62 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.
-· País: España
-· Director: Alberto Fructuoso, Joseba Gast, Juan Lopez-Pastor
-· Productora: Belén Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383283"/>
-  </programme>
-  <programme start="20261119145500 +0100" stop="20261119153000 +0100" channel="Pop Up 2">
-    <title lang="es">Telediario 1 (2014)</title>
-    <desc lang="es">Informativo | *3.1/5
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
-  </programme>
-  <programme start="20261119153000 +0100" stop="20261119153500 +0100" channel="Pop Up 2">
-    <title lang="es">Deportes 1 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
-  </programme>
-  <programme start="20261119153500 +0100" stop="20261119154000 +0100" channel="Pop Up 2">
-    <title lang="es">El tiempo (2014)</title>
-    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
-· Información sobre la previsión meteorológica de TVE.
-· País: España
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP332735"/>
-  </programme>
-  <programme start="20261119154000 +0100" stop="20261119155000 +0100" channel="Pop Up 2">
-    <title lang="es">Informativo territorial 2 (2023)</title>
-    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
-· Espacio de emisión del informativo de cada centro territorial de TVE.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
-  </programme>
-  <programme start="20261119155000 +0100" stop="20261119174500 +0100" channel="Pop Up 2">
-    <title lang="es">Directo al grano (T3): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383285"/>
-  </programme>
-  <programme start="20261119174500 +0100" stop="20261119183500 +0100" channel="Pop Up 2">
-    <title lang="es">Valle Salvaje (T4) (2026)</title>
-    <desc lang="es">Telenovela | No recomendado para menores de doce años | *3.1/5
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Director: Miguel Conde
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado
-· Productora: Bambú Producciones, Radio Televisión Española (RTVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4314916"/>
-  </programme>
-  <programme start="20261119183500 +0100" stop="20261119193500 +0100" channel="Pop Up 2">
-    <title lang="es">La Promesa (T1): Ep.948  (2026)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2162814"/>
-  </programme>
-  <programme start="20261119193500 +0100" stop="20261119202500 +0100" channel="Pop Up 2">
-    <title lang="es">Malas lenguas (T3): Ep.501 (2026)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
-· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4453018"/>
-  </programme>
-  <programme start="20261119202500 +0100" stop="20261119205500 +0100" channel="Pop Up 2">
-    <title lang="es">Aquí la Tierra (T15): Ep.882 (2026)</title>
-    <desc lang="es">Magacín | Apto para todos los públicos
-· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4338882"/>
-  </programme>
-  <programme start="20261119205500 +0100" stop="20261119215000 +0100" channel="Pop Up 2">
-    <title lang="es">Telediario 2 (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno,Carlos Franganillo Hernández
-· Director: Germán Sancho
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
-  </programme>
-  <programme start="20261119215000 +0100" stop="20261119215500 +0100" channel="Pop Up 2">
-    <title lang="es">Deportes 2 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
-  </programme>
-  <programme start="20261119215500 +0100" stop="20261119231500 +0100" channel="Pop Up 2">
-    <title lang="es">La revuelta (T3): Ep.359 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de doce años
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Productora: Lydia Cerrudo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394609"/>
-  </programme>
-  <programme start="20261119231500 +0100" stop="20261120002500 +0100" channel="Pop Up 2">
-    <title lang="es">La cena de los... (T1): El Valor del dinero (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años
-· Gonzalo Miró hablará con Pablo Iglesias, Cayetano Martínez de Irujo, Begoña Villacís y Carmen Tomás sobre dinero, privilegios y orígenes sociales.
-· País: España
-· Guion: Miguel Ángel Hernández Arango</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445969"/>
-  </programme>
-  <programme start="20261119002500 +0100" stop="20261119014500 +0100" channel="Pop Up 2">
-    <title lang="es">La cena de los idiotas (T1): Ep.1 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años | *3.6/5
-· Se reúnen Bertín Osborne, Pablo Echenique, Cristina Cifuentes y Montserrat Domínguez.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445971"/>
-  </programme>
-  <programme start="20261119014500 +0100" stop="20261119044500 +0100" channel="Pop Up 2">
-    <title lang="es">La noche en 24 horas (2018)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Informativo diario nocturno presentado por Marc Sala que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Presenta: Marc Sala
-· Director: Marc Sala
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP1573081"/>
-  </programme>
-  <programme start="20261117060000 +0100" stop="20261117075000 +0100" channel="Pop Up">
-    <title lang="es">Telediario Matinal (2023)</title>
-    <desc lang="es">Informativo | *3.0/5
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
-  </programme>
-  <programme start="20261117075000 +0100" stop="20261117103500 +0100" channel="Pop Up">
-    <title lang="es">La hora de La 1:... (T10): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Un magacine en el que se aborda la actualidad política y social.
-· País: España
-· Presenta: Aida Bao
-· Productora: Javier Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4452930"/>
-  </programme>
-  <programme start="20261117103500 +0100" stop="20261117145500 +0100" channel="Pop Up">
-    <title lang="es">Mañaneros 360 (T3): Ep.62 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.
-· País: España
-· Director: Alberto Fructuoso, Joseba Gast, Juan Lopez-Pastor
-· Productora: Belén Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383283"/>
-  </programme>
-  <programme start="20261117145500 +0100" stop="20261117153000 +0100" channel="Pop Up">
-    <title lang="es">Telediario 1 (2014)</title>
-    <desc lang="es">Informativo | *3.1/5
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
-  </programme>
-  <programme start="20261117153000 +0100" stop="20261117153500 +0100" channel="Pop Up">
-    <title lang="es">Deportes 1 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
-  </programme>
-  <programme start="20261117153500 +0100" stop="20261117154000 +0100" channel="Pop Up">
-    <title lang="es">El tiempo (2014)</title>
-    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
-· Información sobre la previsión meteorológica de TVE.
-· País: España
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP332735"/>
-  </programme>
-  <programme start="20261117154000 +0100" stop="20261117155000 +0100" channel="Pop Up">
-    <title lang="es">Informativo territorial 2 (2023)</title>
-    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
-· Espacio de emisión del informativo de cada centro territorial de TVE.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
-  </programme>
-  <programme start="20261117155000 +0100" stop="20261117174500 +0100" channel="Pop Up">
-    <title lang="es">Directo al grano (T3): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383285"/>
-  </programme>
-  <programme start="20261117174500 +0100" stop="20261117183500 +0100" channel="Pop Up">
-    <title lang="es">Valle Salvaje (T4) (2026)</title>
-    <desc lang="es">Telenovela | No recomendado para menores de doce años | *3.1/5
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Director: Miguel Conde
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado
-· Productora: Bambú Producciones, Radio Televisión Española (RTVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4314916"/>
-  </programme>
-  <programme start="20261117183500 +0100" stop="20261117193500 +0100" channel="Pop Up">
-    <title lang="es">La Promesa (T1): Ep.948  (2026)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2162814"/>
-  </programme>
-  <programme start="20261117193500 +0100" stop="20261117202500 +0100" channel="Pop Up">
-    <title lang="es">Malas lenguas (T3): Ep.501 (2026)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
-· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4453018"/>
-  </programme>
-  <programme start="20261117202500 +0100" stop="20261117205500 +0100" channel="Pop Up">
-    <title lang="es">Aquí la Tierra (T15): Ep.882 (2026)</title>
-    <desc lang="es">Magacín | Apto para todos los públicos
-· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4338882"/>
-  </programme>
-  <programme start="20261117205500 +0100" stop="20261117215000 +0100" channel="Pop Up">
-    <title lang="es">Telediario 2 (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno,Carlos Franganillo Hernández
-· Director: Germán Sancho
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
-  </programme>
-  <programme start="20261117215000 +0100" stop="20261117215500 +0100" channel="Pop Up">
-    <title lang="es">Deportes 2 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
-  </programme>
-  <programme start="20261117215500 +0100" stop="20261117231500 +0100" channel="Pop Up">
-    <title lang="es">La revuelta (T3): Ep.359 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de doce años
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Productora: Lydia Cerrudo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394609"/>
-  </programme>
-  <programme start="20261117231500 +0100" stop="20261118002500 +0100" channel="Pop Up">
-    <title lang="es">La cena de los... (T1): El Valor del dinero (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años
-· Gonzalo Miró hablará con Pablo Iglesias, Cayetano Martínez de Irujo, Begoña Villacís y Carmen Tomás sobre dinero, privilegios y orígenes sociales.
-· País: España
-· Guion: Miguel Ángel Hernández Arango</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445969"/>
-  </programme>
-  <programme start="20261117002500 +0100" stop="20261117014500 +0100" channel="Pop Up">
-    <title lang="es">La cena de los idiotas (T1): Ep.1 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años | *3.6/5
-· Se reúnen Bertín Osborne, Pablo Echenique, Cristina Cifuentes y Montserrat Domínguez.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445971"/>
-  </programme>
-  <programme start="20261117014500 +0100" stop="20261117044500 +0100" channel="Pop Up">
-    <title lang="es">La noche en 24 horas (2018)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Informativo diario nocturno presentado por Marc Sala que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Presenta: Marc Sala
-· Director: Marc Sala
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP1573081"/>
-  </programme>
-  <programme start="20261118060000 +0100" stop="20261118075000 +0100" channel="Pop Up">
-    <title lang="es">Telediario Matinal (2023)</title>
-    <desc lang="es">Informativo | *3.0/5
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
-  </programme>
-  <programme start="20261118075000 +0100" stop="20261118103500 +0100" channel="Pop Up">
-    <title lang="es">La hora de La 1:... (T10): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Un magacine en el que se aborda la actualidad política y social.
-· País: España
-· Presenta: Aida Bao
-· Productora: Javier Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4452930"/>
-  </programme>
-  <programme start="20261118103500 +0100" stop="20261118145500 +0100" channel="Pop Up">
-    <title lang="es">Mañaneros 360 (T3): Ep.62 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.
-· País: España
-· Director: Alberto Fructuoso, Joseba Gast, Juan Lopez-Pastor
-· Productora: Belén Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383283"/>
-  </programme>
-  <programme start="20261118145500 +0100" stop="20261118153000 +0100" channel="Pop Up">
-    <title lang="es">Telediario 1 (2014)</title>
-    <desc lang="es">Informativo | *3.1/5
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
-  </programme>
-  <programme start="20261118153000 +0100" stop="20261118153500 +0100" channel="Pop Up">
-    <title lang="es">Deportes 1 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
-  </programme>
-  <programme start="20261118153500 +0100" stop="20261118154000 +0100" channel="Pop Up">
-    <title lang="es">El tiempo (2014)</title>
-    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
-· Información sobre la previsión meteorológica de TVE.
-· País: España
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP332735"/>
-  </programme>
-  <programme start="20261118154000 +0100" stop="20261118155000 +0100" channel="Pop Up">
-    <title lang="es">Informativo territorial 2 (2023)</title>
-    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
-· Espacio de emisión del informativo de cada centro territorial de TVE.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
-  </programme>
-  <programme start="20261118155000 +0100" stop="20261118174500 +0100" channel="Pop Up">
-    <title lang="es">Directo al grano (T3): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383285"/>
-  </programme>
-  <programme start="20261118174500 +0100" stop="20261118183500 +0100" channel="Pop Up">
-    <title lang="es">Valle Salvaje (T4) (2026)</title>
-    <desc lang="es">Telenovela | No recomendado para menores de doce años | *3.1/5
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Director: Miguel Conde
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado
-· Productora: Bambú Producciones, Radio Televisión Española (RTVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4314916"/>
-  </programme>
-  <programme start="20261118183500 +0100" stop="20261118193500 +0100" channel="Pop Up">
-    <title lang="es">La Promesa (T1): Ep.948  (2026)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2162814"/>
-  </programme>
-  <programme start="20261118193500 +0100" stop="20261118202500 +0100" channel="Pop Up">
-    <title lang="es">Malas lenguas (T3): Ep.501 (2026)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
-· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4453018"/>
-  </programme>
-  <programme start="20261118202500 +0100" stop="20261118205500 +0100" channel="Pop Up">
-    <title lang="es">Aquí la Tierra (T15): Ep.882 (2026)</title>
-    <desc lang="es">Magacín | Apto para todos los públicos
-· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4338882"/>
-  </programme>
-  <programme start="20261118205500 +0100" stop="20261118215000 +0100" channel="Pop Up">
-    <title lang="es">Telediario 2 (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno,Carlos Franganillo Hernández
-· Director: Germán Sancho
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
-  </programme>
-  <programme start="20261118215000 +0100" stop="20261118215500 +0100" channel="Pop Up">
-    <title lang="es">Deportes 2 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
-  </programme>
-  <programme start="20261118215500 +0100" stop="20261118231500 +0100" channel="Pop Up">
-    <title lang="es">La revuelta (T3): Ep.359 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de doce años
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Productora: Lydia Cerrudo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394609"/>
-  </programme>
-  <programme start="20261118231500 +0100" stop="20261119002500 +0100" channel="Pop Up">
-    <title lang="es">La cena de los... (T1): El Valor del dinero (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años
-· Gonzalo Miró hablará con Pablo Iglesias, Cayetano Martínez de Irujo, Begoña Villacís y Carmen Tomás sobre dinero, privilegios y orígenes sociales.
-· País: España
-· Guion: Miguel Ángel Hernández Arango</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445969"/>
-  </programme>
-  <programme start="20261118002500 +0100" stop="20261118014500 +0100" channel="Pop Up">
-    <title lang="es">La cena de los idiotas (T1): Ep.1 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años | *3.6/5
-· Se reúnen Bertín Osborne, Pablo Echenique, Cristina Cifuentes y Montserrat Domínguez.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445971"/>
-  </programme>
-  <programme start="20261118014500 +0100" stop="20261118044500 +0100" channel="Pop Up">
-    <title lang="es">La noche en 24 horas (2018)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Informativo diario nocturno presentado por Marc Sala que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Presenta: Marc Sala
-· Director: Marc Sala
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP1573081"/>
-  </programme>
-  <programme start="20261119060000 +0100" stop="20261119075000 +0100" channel="Pop Up">
-    <title lang="es">Telediario Matinal (2023)</title>
-    <desc lang="es">Informativo | *3.0/5
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian,Lorena Baeza,Álex Barreiro
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518404"/>
-  </programme>
-  <programme start="20261119075000 +0100" stop="20261119103500 +0100" channel="Pop Up">
-    <title lang="es">La hora de La 1:... (T10): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Un magacine en el que se aborda la actualidad política y social.
-· País: España
-· Presenta: Aida Bao
-· Productora: Javier Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP4452930"/>
-  </programme>
-  <programme start="20261119103500 +0100" stop="20261119145500 +0100" channel="Pop Up">
-    <title lang="es">Mañaneros 360 (T3): Ep.62 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.
-· País: España
-· Director: Alberto Fructuoso, Joseba Gast, Juan Lopez-Pastor
-· Productora: Belén Cruz</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383283"/>
-  </programme>
-  <programme start="20261119145500 +0100" stop="20261119153000 +0100" channel="Pop Up">
-    <title lang="es">Telediario 1 (2014)</title>
-    <desc lang="es">Informativo | *3.1/5
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438"/>
-  </programme>
-  <programme start="20261119153000 +0100" stop="20261119153500 +0100" channel="Pop Up">
-    <title lang="es">Deportes 1 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384"/>
-  </programme>
-  <programme start="20261119153500 +0100" stop="20261119154000 +0100" channel="Pop Up">
-    <title lang="es">El tiempo (2014)</title>
-    <desc lang="es">Meteorología | Apto para todos los públicos | *3.1/5
-· Información sobre la previsión meteorológica de TVE.
-· País: España
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP332735"/>
-  </programme>
-  <programme start="20261119154000 +0100" stop="20261119155000 +0100" channel="Pop Up">
-    <title lang="es">Informativo territorial 2 (2023)</title>
-    <desc lang="es">Informativo | Apto para todos los públicos | *3.0/5
-· Espacio de emisión del informativo de cada centro territorial de TVE.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999"/>
-  </programme>
-  <programme start="20261119155000 +0100" stop="20261119174500 +0100" channel="Pop Up">
-    <title lang="es">Directo al grano (T3): Ep.227 (2026)</title>
-    <desc lang="es">Informativo | No recomendado para menores de dieciséis años
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383285"/>
-  </programme>
-  <programme start="20261119174500 +0100" stop="20261119183500 +0100" channel="Pop Up">
-    <title lang="es">Valle Salvaje (T4) (2026)</title>
-    <desc lang="es">Telenovela | No recomendado para menores de doce años | *3.1/5
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Director: Miguel Conde
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado
-· Productora: Bambú Producciones, Radio Televisión Española (RTVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4314916"/>
-  </programme>
-  <programme start="20261119183500 +0100" stop="20261119193500 +0100" channel="Pop Up">
-    <title lang="es">La Promesa (T1): Ep.948  (2026)</title>
-    <desc lang="es">Drama | No recomendado para menores de doce años
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2162814"/>
-  </programme>
-  <programme start="20261119193500 +0100" stop="20261119202500 +0100" channel="Pop Up">
-    <title lang="es">Malas lenguas (T3): Ep.501 (2026)</title>
-    <desc lang="es">Magacín | No recomendado para menores de dieciséis años
-· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4453018"/>
-  </programme>
-  <programme start="20261119202500 +0100" stop="20261119205500 +0100" channel="Pop Up">
-    <title lang="es">Aquí la Tierra (T15): Ep.882 (2026)</title>
-    <desc lang="es">Magacín | Apto para todos los públicos
-· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4338882"/>
-  </programme>
-  <programme start="20261119205500 +0100" stop="20261119215000 +0100" channel="Pop Up">
-    <title lang="es">Telediario 2 (2021)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno,Carlos Franganillo Hernández
-· Director: Germán Sancho
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518466"/>
-  </programme>
-  <programme start="20261119215000 +0100" stop="20261119215500 +0100" channel="Pop Up">
-    <title lang="es">Deportes 2 (2025)</title>
-    <desc lang="es">Programa deportes | Apto para todos los públicos | *3.0/5
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez,Lara Gandarillas,Marcos López</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921386"/>
-  </programme>
-  <programme start="20261119215500 +0100" stop="20261119231500 +0100" channel="Pop Up">
-    <title lang="es">La revuelta (T3): Ep.359 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de doce años
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Productora: Lydia Cerrudo</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4394609"/>
-  </programme>
-  <programme start="20261119231500 +0100" stop="20261120002500 +0100" channel="Pop Up">
-    <title lang="es">La cena de los... (T1): El Valor del dinero (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años
-· Gonzalo Miró hablará con Pablo Iglesias, Cayetano Martínez de Irujo, Begoña Villacís y Carmen Tomás sobre dinero, privilegios y orígenes sociales.
-· País: España
-· Guion: Miguel Ángel Hernández Arango</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445969"/>
-  </programme>
-  <programme start="20261119002500 +0100" stop="20261119014500 +0100" channel="Pop Up">
-    <title lang="es">La cena de los idiotas (T1): Ep.1 (2026)</title>
-    <desc lang="es">Variedades | No recomendado para menores de siete años | *3.6/5
-· Se reúnen Bertín Osborne, Pablo Echenique, Cristina Cifuentes y Montserrat Domínguez.
-· País: España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4445971"/>
-  </programme>
-  <programme start="20261119014500 +0100" stop="20261119044500 +0100" channel="Pop Up">
-    <title lang="es">La noche en 24 horas (2018)</title>
-    <desc lang="es">Informativo | *3.1/5
-· Informativo diario nocturno presentado por Marc Sala que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Presenta: Marc Sala
-· Director: Marc Sala
-· Productora: Televisión Española (TVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP1573081"/>
+  <programme start="20261118060000 +0100" stop="20261118100000 +0100" channel="M+ Thriller">
+    <title lang="es">Próximamente Thriller por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Thriller por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711257V4452725"/>
+  </programme>
+  <programme start="20261118100000 +0100" stop="20261118140000 +0100" channel="M+ Thriller">
+    <title lang="es">Próximamente Thriller por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Thriller por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711257V4452725"/>
+  </programme>
+  <programme start="20261118140000 +0100" stop="20261118180000 +0100" channel="M+ Thriller">
+    <title lang="es">Próximamente Thriller por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Thriller por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711257V4452725"/>
+  </programme>
+  <programme start="20261118180000 +0100" stop="20261118220000 +0100" channel="M+ Thriller">
+    <title lang="es">Próximamente Thriller por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Thriller por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711257V4452725"/>
+  </programme>
+  <programme start="20261118220000 +0100" stop="20261119020000 +0100" channel="M+ Thriller">
+    <title lang="es">Próximamente Thriller por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Thriller por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711257V4452725"/>
+  </programme>
+  <programme start="20261119020000 +0100" stop="20261119070000 +0100" channel="M+ Thriller">
+    <title lang="es">Próximamente Thriller por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Thriller por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711257V4452725"/>
+  </programme>
+  <programme start="20261119070000 +0100" stop="20261119084800 +0100" channel="M+ Thriller">
+    <title lang="es">Big Bad Wolves (2013)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.4/5
+· Una serie de brutales asesinatos ponen en contacto a tres hombres: el padre de la última víctima, un detective de policía y el principal sospechoso de los homicidios.
+· País: Israel
+· Director: Aharon Keshales, Navot Papushado
+· Reparto: Lior Ashkenazi, Tzahi Grad, Rotem Keinan, Dov Glickman, Menashe Noy, Doval'e Glickman
+· Guion: Aharon Keshales
+· Productora: United King Films, United Channel Movies</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4491822?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119084800 +0100" stop="20261119113000 +0100" channel="M+ Thriller">
+    <title lang="es">Carlos (2010)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.0/5
+· Después de emprender una serie de ataques terroristas en Londres, Ilich Ramírez Sánchez se traslada a París. Es allí donde el Frente Popular para la Liberación de Palestina le da responsabilidades.
+· País: Francia
+· Director: Olivier Assayas
+· Reparto: Fadi Abi Samra, Rodney El Haddad, Christoph Bach, Édgar Ramírez, Ahmad Kaabour
+· Guion: Olivier Assayas
+· Productora: Egoli Tossell Film</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4457393?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119113000 +0100" stop="20261119134800 +0100" channel="M+ Thriller">
+    <title lang="es">Encontré al diablo (2010)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
+· Un psicópata al que sólo le motiva el placer de matar y utiliza los métodos más bestiales consigue esquivar con facilidad a la policía coreana. Hasta que un día se equivoca de víctima: la prometida de un agente secreto que no parará hasta acabar con él.
+· País: Corea del Sur
+· Director: Kim Jee-woon
+· Reparto: Lee Byung-hun, Choi Min-sik, Jeon Gook-hwan, Chun Ho-jin, San-ha Oh
+· Guion: Park Hoon-jung
+· Música: Mowg
+· Productora: Peppermint &amp; Company</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4421803?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119134800 +0100" stop="20261119161000 +0100" channel="M+ Thriller">
+    <title lang="es">Diamante de sangre (2006)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciocho años | *3.8/5
+· En 1999, cuando Sierra Leona se encuentra en plena guerra civil, Danny, un contrabandista de piedras preciosas, se cruza en el camino de Solomon, un pescador nativo que, cuando trabajaba en la mina como esclavo, enterró una enorme piedra de diamante.
+· País: Alemania, EE.UU y R.U
+· Director: Edward Zwick
+· Reparto: Leonardo DiCaprio, Jennifer Connelly, Djimon Hounsou, Michael Sheen, Arnold Vosloo, Kagiso Kuypers, David Harewood, Basil Wallace, Jimi Mistry
+· Guion: Charles Leavitt
+· Música: James Newton Howard
+· Producción: Gillian Gorfil, Marshall Herskovitz, Graham King, Paula Weinstein, Edward Zwick
+· Productora: Warner Bros. Pictures, Virtual Studios, Spring Creek Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3811056?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119161000 +0100" stop="20261119161900 +0100" channel="M+ Thriller">
+    <title lang="es">Así se hizo 'Cronos': los testimonios reales (2026)</title>
+    <desc lang="es">Making of | No recomendado para menores de doce años | *3.1/5
+· Contenido exclusivo de la película 'Cronos', ya en cines. Los testimonios de los protagonistas reales del dispositivo activado tras al atentado terrorista de Las Ramblas.
+· País: España
+· Productora: Nostromo Pictures, Beta Fiction Spain</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4502094?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119161900 +0100" stop="20261119171700 +0100" channel="M+ Thriller">
+    <title lang="es">El Castillo (T1): Ep.1 Carlos, el cuidador (2026)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
+· Suizo y sus socios planean abrir un macroburdel en Castilla-La Mancha. Mientras dos inspectores de la UCRIF investigan la llegada masiva de mujeres colombianas a los clubes, Claudia llega a España buscando un futuro mejor.
+· País: España
+· Director: Elena Martín Gimeno, Sandra Romero
+· Reparto: Raúl Arévalo, Omar Ayuso, Valentina Vidal, Laia Marull, Marc Rodríguez, Claudio Villarrubia, Rubén Martínez
+· Productora: Caballo Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4508089?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20261119171700 +0100" stop="20261119181400 +0100" channel="M+ Thriller">
+    <title lang="es">El Castillo (T1): Ep.2 David, el crítico (2026)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
+· Claudia cree estar a punto de saldar su deuda, pero descubre que Suizo tiene otros planes. Mientras el negocio de los clubes sigue creciendo, la UCRIF aumenta la presión para encontrar pruebas contra los proxenetas.
+· País: España
+· Director: Elena Martín Gimeno, Sandra Romero
+· Reparto: Raúl Arévalo, Omar Ayuso, Valentina Vidal, Laia Marull, Marc Rodríguez, Claudio Villarrubia, Rubén Martínez
+· Productora: Caballo Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4508091?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20261119181400 +0100" stop="20261119190600 +0100" channel="M+ Thriller">
+    <title lang="es">El Castillo (T1): Ep.3 Julián, el macho (2026)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.5/5
+· Suizo empieza a colaborar con la UCRIF como confidente para reducir la presión sobre sus clubes. Mientras Claudia sigue trabajando para saldar su deuda, los proxenetas crean una asociación para legitimar su negocio.
+· País: España
+· Director: Elena Martín Gimeno, Sandra Romero
+· Reparto: Raúl Arévalo, Omar Ayuso, Valentina Vidal, Laia Marull, Marc Rodríguez, Claudio Villarrubia, Rubén Martínez
+· Productora: Caballo Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4508092?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20261119190600 +0100" stop="20261119200100 +0100" channel="M+ Thriller">
+    <title lang="es">El Castillo (T1): Ep.4 Pablo, el universitario (2026)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
+· Los proxenetas buscan nuevas mujeres en Paraguay y nuevas vías para blanquear sus beneficios. Mientras la UCRIF intenta salvar el caso contra la mafia rumana, Claudia se siente cada vez más atrapada.
+· País: España
+· Director: Elena Martín Gimeno, Sandra Romero
+· Reparto: Raúl Arévalo, Omar Ayuso, Valentina Vidal, Laia Marull, Marc Rodríguez, Claudio Villarrubia, Rubén Martínez
+· Productora: Caballo Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4508100?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20261119200100 +0100" stop="20261119205200 +0100" channel="M+ Thriller">
+    <title lang="es">El Castillo (T1): Ep.5 Rachid, el derrochador (2026)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.6/5
+· Suizo empieza a perder autoridad ante sus socios mientras continúa colaborando con la UCRIF. Su relación con Liesa es cada vez más cercana, pero el peligroso juego entre policías y proxenetas amenaza con volverse en su contra.
+· País: España
+· Director: Elena Martín Gimeno, Sandra Romero
+· Reparto: Raúl Arévalo, Omar Ayuso, Valentina Vidal, Laia Marull, Marc Rodríguez, Claudio Villarrubia, Rubén Martínez
+· Productora: Caballo Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4508107?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20261119205200 +0100" stop="20261119220000 +0100" channel="M+ Thriller">
+    <title lang="es">El Castillo (T1): Ep.6 Alfredo, el enamorado (2026)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.4/5
+· La investigación contra Suizo entra en una fase decisiva y la UCRIF necesita construir un caso sólido. Liesa y Osés buscan un testimonio que pueda sostenerlo mientras Suizo se prepara para defender su negocio.
+· País: España
+· Director: Elena Martín Gimeno, Sandra Romero
+· Reparto: Raúl Arévalo, Omar Ayuso, Valentina Vidal, Laia Marull, Marc Rodríguez, Claudio Villarrubia, Rubén Martínez
+· Productora: Caballo Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4508110?od[]=Z1H:MORIG3_H"/>
+  </programme>
+  <programme start="20261119220000 +0100" stop="20261119235100 +0100" channel="M+ Thriller">
+    <title lang="es">Misterioso asesinato en la montaña (2024)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.1/5
+· Michel y Cathy son un matrimonio común que lleva una vida monótona en las montañas hasta que un oso aparece delante del coche de Michel y produce un accidente de tráfico que mata a dos traficantes de droga y revela un botín de dos millones de euros.
+· País: Bélgica y Francia
+· Director: Franck Dubosc
+· Reparto: Franck Dubosc, Laure Calamy, Benoît Poelvoorde, Joséphine de Meaux, Kim Higelin
+· Guion: Franck Dubosc,Sarah Kaminsky
+· Música: Sylvain Goldberg
+· Producción: Sidonie Dumas
+· Productora: Gaumont, Pour Toi Public Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4437706?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119235100 +0100" stop="20261120012800 +0100" channel="M+ Thriller">
+    <title lang="es">Black Jack. El síndrome de Moira (1996)</title>
+    <desc lang="es">Animación para adultos | No recomendado para menores de doce años | *3.1/5
+· Un cirujano sin licencia, llamado Black Jack, realiza operaciones imposibles por grandes sumas. Su vida da un giro al enfrentar un desafío único que pone a prueba su habilidad y cuestiona los límites de la ciencia médica.
+· País: Japón
+· Director: Osamu Dezaki
+· Reparto: Akio Otsuka, Kikuko Inoue
+· Guion: Osamu Tezuka,Osamu Dezaki</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4484521?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119012800 +0100" stop="20261119032500 +0100" channel="M+ Thriller">
+    <title lang="es">El cuarto protocolo (1987)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
+· El comandante Petrofsky, de la KGB, debe entrar en Inglaterra y montar, pieza a pieza, una devastadora bomba atómica.
+· País: R.U
+· Director: John Mackenzie
+· Reparto: Michael Caine, Pierce Brosnan, Ned Beatty, Joanna Cassidy, Julian Glover, Michael Gough
+· Guion: George Axelrod
+· Música: Lalo Schifrin
+· Productora: Fourth Protocol</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4447896?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119032500 +0100" stop="20261119050000 +0100" channel="M+ Thriller">
+    <title lang="es">Brothers' Nest (2018)</title>
+    <desc lang="es">Comedia | No recomendado para menores de dieciséis años | *3.0/5
+· Una fría mañana en el estado de Victoria (Australia), los hermanos Terry y Jeff llegan a la casa familiar con la intención de matar a su padrastro, Rodger, quien se casó con madre tras el suicidio de su padre biológico.
+· País: Australia y Austria
+· Director: Clayton Jacobson
+· Reparto: Shane Jacobson, Clayton Jacobson, Kim Gyngell, Lynette Curran, Sarah Snook
+· Guion: Jaime Browne
+· Música: Richard Pleasance
+· Producción: Clayton Jacobson, Jason Byrne
+· Productora: Bison Films, Jason Byrne Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3648142?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120050000 +0100" stop="20261120063200 +0100" channel="M+ Thriller">
+    <title lang="es">Luger (2024)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.9/5
+· Rafa y Toni, matones de una abogada de moral flexible, encuentran en un coche robado una caja fuerte con una pistola y documentos. Este hallazgo desencadena una peligrosa trama en los bajos fondos de Madrid, llena de enfrentamientos, mafias y traiciones.
+· País: España
+· Director: Bruno Martín
+· Reparto: David Sáinz, Ana Turpin, Ángel Acero, Ramiro Alonso, Mario Mayo, Mónica Miranda, Daniel Ortiz, Roberto García, Joaquín Ortega
+· Productora: La Dalia Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4482428?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120063200 +0100" stop="20261120080000 +0100" channel="M+ Thriller">
+    <title lang="es">Turno de guardia (2025)</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.6/5
+· Floria, una enfermera volcada con sus pacientes, afronta un turno de noche en una planta quirúrgica saturada y sin personal suficiente. Lo que parecía otra guardia difícil pronto se convierte en una carrera contrarreloj al límite.
+· País: Alemania y Suiza
+· Director: Petra Volpe
+· Reparto: Leonie Benesch, Sonja Riesen, Alireza Bayram, Selma Jamal Aldin
+· Guion: Petra Volpe</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4471793?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120080000 +0100" stop="20261120085500 +0100" channel="M+ Thriller">
+    <title lang="es">Generación Matrix (2023)</title>
+    <desc lang="es">Documental cine | No recomendado para menores de doce años | *3.0/5
+· Cuando se cumplen 25 años del estreno de &quot;The Matrix&quot;, &quot;Generación Matrix&quot; analiza el éxito mundial de taquilla que fue y el fenómeno de cultura pop en el que se convirtió hasta traspasar las fronteras del cine.
+· País: Francia
+· Director: Benjamin Clavel
+· Guion: Jérôme Dittmar,Benjamin Clavel,Julien Abadie
+· Productora: Bellota Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4215310?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120085500 +0100" stop="20261120103200 +0100" channel="M+ Thriller">
+    <title lang="es">La plaga (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *2.8/5
+· En un campamento masculino de waterpolo, Ben, un chico de 12 años con ansiedad social, intenta encajar cuando una cruel tradición señala a un compañero como portador de 'la plaga'. Pronto dudará de si todo es una broma o algo más real y peligroso.
+· País: Australia, EE.UU, Emiratos Árabes Unidos y Rumanía
+· Director: Charlie Polinger
+· Reparto: Joel Edgerton, Everett Blunck, Kayo Martin, Kenny Rasmussen
+· Guion: Charlie Polinger
+· Música: Johan Lenox
+· Producción: Lizzie Shapiro, Joel Edgerton, Roy Lee, Vindhya Sagar, Steven Schneider, Lucy McKendrick
+· Productora: Spooky Pictures, The Space Program</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4485673?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120103200 +0100" stop="20261120120200 +0100" channel="M+ Thriller">
+    <title lang="es">La astronauta (2025)</title>
+    <desc lang="es">Ciencia ficción | No recomendado para menores de doce años | *3.0/5
+· Tras regresar de su primera misión espacial, la astronauta Sam Walker queda bajo el cuidado de la NASA en una residencia de alta seguridad. Sin embargo, pronto comienzan a ocurrir sucesos inquietantes en la propiedad.
+· País: EE.UU
+· Director: Jess Varley
+· Reparto: Kate Mara, Laurence Fishburne, Gabriel Luna, Ivana Milicevic, Macy Gray
+· Música: Jacques Brautbar
+· Producción: Eric B. Fleischman, Brad Fuller
+· Productora: Fifth Season, Wild Atlantic Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4449975?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120120200 +0100" stop="20261120142400 +0100" channel="M+ Thriller">
+    <title lang="es">El mago del Kremlin (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.4/5
+· En la Rusia postsoviética de los años 90, un ambicioso joven ligado a la televisión, se convierte en estratega invisible del Kremlin y ayuda a fabricar el relato que acompaña el ascenso de Putin entre propaganda, cinismo y control político.
+· País: EE.UU y Francia
+· Director: Olivier Assayas
+· Reparto: Paul Dano, Jude Law, Alicia Vikander, Jeffrey Wright, Magne Håvard Brekke, Tom Sturridge, Will Keen, Emmanuel Carrère
+· Guion: Olivier Assayas,David H. Pickering,Emmanuel Carrère
+· Producción: Sidonie Dumas, Olivier Delbosc
+· Productora: Gaumont, France 2 Cinéma, Canal+, France Télévisions, Centre national du cinéma et de l'image animée (CNC), Disney+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4477115?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120142400 +0100" stop="20261120164900 +0100" channel="M+ Thriller">
+    <title lang="es">Núremberg (2025)</title>
+    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.5/5
+· Finalizada la II Guerra Mundial, con ocasión de los juicios de Núremberg de los Aliados contra el derrotado régimen nazi, el psiquiatra estadounidense Douglas Kelley recibe el encargo de determinar si los prisioneros nazis son aptos para ser juzgados.
+· País: EE.UU y Hungría
+· Director: James Vanderbilt
+· Reparto: Russell Crowe, Rami Malek, Leo Woodall, John Slattery, Mark O'Brien, Richard E. Grant, Michael Shannon
+· Guion: James Vanderbilt
+· Música: Brian Tyler
+· Producción: Richard Saperstein, Bradley J. Fischer
+· Productora: Walden Media, Bluestone Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4457871?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120164900 +0100" stop="20261120182900 +0100" channel="M+ Thriller">
+    <title lang="es">Gangster Nº 1 (2000)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *2.9/5
+· La carrera de un ambicioso gangster por llegar a conseguir lo que tiene el número uno.
+· País: Alemania, Irlanda y R.U
+· Director: Paul McGuigan
+· Reparto: Malcolm McDowell, David Thewlis, Paul Bettany, Saffron Burrows, Kenneth Cranham, Jamie Foreman
+· Guion: Johnny Ferguson,Louis Mellis,David Scinto
+· Producción: Jonathan Cavendish, Norma Heyman</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4488079?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120182900 +0100" stop="20261120201700 +0100" channel="M+ Thriller">
+    <title lang="es">Frío en julio (2014)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.3/5
+· Un padre de familia de una pequeña ciudad de Texas mata en defensa propia a un ladrón que había entrado en su casa. El padre del ladrón, un exconvicto con un largo historial delictivo, llega a la ciudad dispuesto a vengar la muerte de su hijo.
+· País: EE.UU y Francia
+· Director: Jim Mickle
+· Reparto: Michael C. Hall, Sam Shepard, Vinessa Shaw, Nick Damici, Wyatt Russell
+· Guion: Nick Damici,Jim Mickle
+· Música: Jeff Grace
+· Productora: Bullet Pictures, Backup Media</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3567585?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120201700 +0100" stop="20261120220000 +0100" channel="M+ Thriller">
+    <title lang="es">Black Phone (2021)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.6/5
+· En la década de 1970, en un pequeño pueblo de Colorado, varios chicos han desaparecido a manos de El captor. Su última víctima es el adolescente Finney Shaw, encerrado en un sótano junto a un teléfono negro desconectado.
+· País: EE.UU
+· Director: Scott Derrickson
+· Reparto: Ethan Hawke, Mason Thames, Madeleine McGraw, Jeremy Davies, James Ransone, E. Roger Mitchell, Troy Rudeseal
+· Guion: Scott Derrickson,C. Robert Cargill
+· Música: Mark Korven
+· Producción: Jason Blum, Scott Derrickson, C. Robert Cargill
+· Productora: Blumhouse Productions, Universal Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4042408?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120220000 +0100" stop="20261120234600 +0100" channel="M+ Thriller">
+    <title lang="es">Bala perdida (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
+· Nueva York, 1998. Hank tiene una perfecta vida disfuncional. Pero, cuando su vecino Russ le pide que cuide de su gato durante unos días, su suerte cambia. Al día siguiente dos mafiosos apalean a Hank en la puerta de su casa y Hank no sabe por qué.
+· País: EE.UU
+· Director: Darren Aronofsky
+· Reparto: Austin Butler, Regina King, Zoë Kravitz, Liev Schreiber, Vincent D'Onofrio, Bad Bunny, Griffin Dunne, Matt Smith, Nikita Kukushkin, Yuri Kolokolnikov, D'Pharaoh Woon-A-Tai, Will Brill, Gregg Bello, Carol Kane, Tenoch Huerta
+· Guion: Charlie Huston
+· Música: Rob Simonsen
+· Producción: Jeremy Dawson, Dylan Golden, Darren Aronofsky, Ari Handel
+· Productora: Columbia Pictures, Protozoa Pictures, TSG Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4442503?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120234600 +0100" stop="20261120235800 +0100" channel="M+ Thriller">
+    <title lang="es">El inmortal (extras) (T3): Ep.1 Making Of (2026)</title>
+    <desc lang="es">Making of | No recomendado para menores de dieciséis años | *3.0/5
+· El reparto y los directores de &quot;El inmortal&quot; indagan en las claves de la serie sobre el clan de Los Miami, el desarrollo de los personajes y el proceso de rodaje.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4477885"/>
+  </programme>
+  <programme start="20261120235800 +0100" stop="20261121014600 +0100" channel="M+ Thriller">
+    <title lang="es">13 días, 13 noches (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.4/5
+· Tras décadas de guerra, Estados Unidos decide retirar sus tropas de Afganistán. En poco tiempo, los talibanes se hacen con el control de la capital, Kabul. La última misión occidental aún abierta es la embajada de Francia: deben irse, y rápido.
+· País: Bélgica y Francia
+· Director: Martin Bourboulon
+· Reparto: Roschdy Zem, Lyna Khoudri, Sidse Babett Knudsen, Christophe Montenez, Nicolas Bridet, Sina Parvaneh, Yan Tual, Athena Strates, Grégoire Leprince-Ringuet, Avant Strangel
+· Guion: Alexandre Smia,Martin Bourboulon
+· Música: Guillaume Roussel
+· Producción: Dimitri Rassam, Ardavan Safaee
+· Productora: Chapter 2, Pathé, Umedia, Canal+, Disney+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4443381?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120014600 +0100" stop="20261120034400 +0100" channel="M+ Thriller">
+    <title lang="es">Rascacielos en llamas (2012)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.1/5
+· Una fiesta de Navidad en un lujoso rascacielos se convierte en una auténtica pesadilla cuando dos helicópteros se estrellan contra el edificio.
+· País: Corea del Sur
+· Director: Ji-hoon Kim
+· Reparto: Sung-ki Ahn, Ye-jin Son, Sol Kyung-gu, Sang-kyung Kim, In-kwon Kim, Jae-ho Song
+· Guion: Sang-don Kim
+· Productora: CJ Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4475424?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120034400 +0100" stop="20261120052700 +0100" channel="M+ Thriller">
+    <title lang="es">El final del asesino (2023)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
+· En los años 70 en Québec, Donald Lavoie, asesino a sueldo de una organización criminal, desobedece la orden de matar a su hermano. Su decisión lo convierte en objetivo de su propia organización y de un astuto policía que sigue sus pasos.
+· País: Canadá
+· Director: Raymond St-Jean
+· Reparto: Éric Bruneau, Benoît Gouin, Rose-Marie Perreault, Sylvain Marcel, Alexandre Castonguay, Paul Zinno, Judith Baribeau</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4476442?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120052700 +0100" stop="20261120054300 +0100" channel="M+ Thriller">
+    <title lang="es">Lengua (2025)</title>
+    <desc lang="es">Corto drama | No recomendado para menores de dieciocho años | *3.0/5
+· Después de soportar la verborrea incesante de su marido, una esposa decide cortar por lo sano arrancándole la lengua de un mordisco.
+· País: Corea del Sur
+· Director: LIM Da seul</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4509838?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261118060000 +0100" stop="20261118100000 +0100" channel="M+ Navidad">
+    <title lang="es">Próximamente Navidad por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Navidad por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711206V4452726"/>
+  </programme>
+  <programme start="20261118100000 +0100" stop="20261118140000 +0100" channel="M+ Navidad">
+    <title lang="es">Próximamente Navidad por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Navidad por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711206V4452726"/>
+  </programme>
+  <programme start="20261118140000 +0100" stop="20261118180000 +0100" channel="M+ Navidad">
+    <title lang="es">Próximamente Navidad por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Navidad por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711206V4452726"/>
+  </programme>
+  <programme start="20261118180000 +0100" stop="20261118220000 +0100" channel="M+ Navidad">
+    <title lang="es">Próximamente Navidad por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Navidad por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711206V4452726"/>
+  </programme>
+  <programme start="20261118220000 +0100" stop="20261119020000 +0100" channel="M+ Navidad">
+    <title lang="es">Próximamente Navidad por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Navidad por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711206V4452726"/>
+  </programme>
+  <programme start="20261119020000 +0100" stop="20261119070000 +0100" channel="M+ Navidad">
+    <title lang="es">Próximamente Navidad por M+ (2026)</title>
+    <desc lang="es">Promocional | Apto para todos los públicos
+· Próximamente Navidad por M+.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2711206V4452726"/>
+  </programme>
+  <programme start="20261119070000 +0100" stop="20261119083900 +0100" channel="M+ Navidad">
+    <title lang="es">La Lego película (2014)</title>
+    <desc lang="es">Animación | Apto para todos los públicos | *3.8/5
+· Emmet, una figurita Lego absolutamente normal y fiel a las normas, es confundido, por error, con la persona más extraordinaria del mundo Lego: una especie de mesías que va a salvarlos de las maquinaciones del Mega Malo.
+· País: Australia, Dinamarca y EE.UU
+· Director: Phil Lord, Christopher Miller
+· Guion: Phil Lord,Christopher Miller,Kevin Hageman,Dan Hageman
+· Música: Mark Mothersbaugh
+· Producción: Roy Lee, Dan Lin
+· Productora: Lin Pictures, Warner Bros, The Lego Group, Animal Logic, RatPac-Dune Entertainment, Village Roadshow Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3793909?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119083900 +0100" stop="20261119102500 +0100" channel="M+ Navidad">
+    <title lang="es">La Lego película 2 (2019)</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.4/5
+· Tras la destrucción provocada por las continuas incursiones extraterrestres de los Duplo, Ladriburgo se ha convertido en una triste, caótica y dura ciudad propia de un paisaje posapocalíptico... aunque para Emmet, como siempre, &quot;todo es fabuloso&quot;.
+· País: Australia, Dinamarca, EE.UU y Noruega
+· Director: Mike Mitchell
+· Guion: Phil Lord,Christopher Miller,Matthew Fogel
+· Música: Mark Mothersbaugh
+· Producción: Jinko Gotoh, Roy Lee, Dan Lin, Phil Lord, Christopher Miller
+· Productora: Warner Bros, Warner Animation Group, Rideback, Lord Miller, Vertigo Entertainment, Warner Bros. Animation, LEGO System A/S</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3737881?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119102500 +0100" stop="20261119111500 +0100" channel="M+ Navidad">
+    <title lang="es">Todas las... (T1): Ep.1 Hay que soñar (2020)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.1/5
+· El excéntrico veterinario Siegfried Farnon decide contratar al recién licenciado James Herriot como ayudante en su consulta de Skaldale House, Darrowby, un pueblo ubicado en la verde campiña inglesa de Yorkshire.
+· País: R.U
+· Director: Brian Percival
+· Reparto: Nicholas Ralph, Samuel West, Anna Madeley, Rachel Shenton, Callum Woodhouse
+· Guion: Ben Vanstone
+· Música: Alexandra Harwood
+· Productora: Playground Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3962258?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20261119111500 +0100" stop="20261119120400 +0100" channel="M+ Navidad">
+    <title lang="es">Todas las... (T1): Ep.2 ¿Otro Farnon? (2020)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.0/5
+· Helen da a James una razón para quedarse en Yorkshire Dales y él descubre que hay otro hermano Farnon con una igualmente peculiar y única personalidad.
+· País: R.U
+· Director: Brian Percival
+· Reparto: Nicholas Ralph, Samuel West, Anna Madeley, Rachel Shenton, Callum Woodhouse
+· Guion: Ben Vanstone
+· Música: Alexandra Harwood
+· Productora: Playground Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3962270?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119120400 +0100" stop="20261119125900 +0100" channel="M+ Navidad">
+    <title lang="es">La isla de los tigres: Ep.1 (2025)</title>
+    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
+· En una remota isla fluvial del oeste de Nepal, un sorprendente éxito de conservación ha multiplicado por seis la población local de tigres. Varios adultos y madres con cachorros comparten apenas cuatro kilómetros cuadrados, un comportamiento nunca visto.
+· País: R.U
+· Producción: Matthew Wright
+· Productora: BBC Studios</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4484781?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20261119125900 +0100" stop="20261119144800 +0100" channel="M+ Navidad">
+    <title lang="es">Sonic 3: la película (2024)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.3/5
+· Sonic, Tails y Knuckles forman equipo para pararle los pies a un nuevo contrincante, el erizo ultrarrápido Shadow. Después de cincuenta años en animación suspendida, Shadow escapa de un complejo de alta seguridad, sembrando el caos por todo Tokio.
+· País: EE.UU y Japón
+· Director: Jeff Fowler
+· Reparto: Ben Schwartz, Keanu Reeves, James Marsden, Idris Elba, Jim Carrey, Alyla Browne, Lee Majdoub
+· Guion: Pat Casey,Josh Miller,John Whittington
+· Música: Tom Holkenborg
+· Producción: Neal H. Moritz, Toby Ascher
+· Productora: Blur Studio, Paramount Pictures, Sega Sammy Group</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4358877?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119144800 +0100" stop="20261119160800 +0100" channel="M+ Navidad">
+    <title lang="es">Little Amélie (2025)</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.4/5
+· En el Japón de finales de los 60, Amélie, una niña belga de dos años e imaginación desbordante, descubre el mundo junto a su niñera Nishio-san. Entre lluvia, palabras nuevas y primeros miedos, su infancia es un viaje hacia la identidad y la conciencia.
+· País: Francia
+· Director: Maïlys Vallade, Liane-Cho Han Jin Kuang
+· Guion: Liane-Cho Han Jin Kuang
+· Música: Mari Fukuhara
+· Productora: Maybe Movies</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4476293?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119160800 +0100" stop="20261119173300 +0100" channel="M+ Navidad">
+    <title lang="es">Astérix: El secreto de la poción mágica (2018)</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.5/5
+· Tras sufrir una caída por trepar a los árboles en busca de los ingredientes para sus pociones, el druida Panorámix comienza a reflexionar: ha llegado la hora de jubilarse y buscar un sucesor apropiado.
+· País: Francia
+· Director: Alexandre Astier, Louis Clichy
+· Guion: René Goscinny,Albert Uderzo
+· Música: Philippe Rombi
+· Productora: M6 Studio</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3693774?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119173300 +0100" stop="20261119202600 +0100" channel="M+ Navidad">
+    <title lang="es">The Batman (2022)</title>
+    <desc lang="es">Acción | No recomendado para menores de doce años | *3.4/5
+· Tras dos años protegiendo la corrupta ciudad de Gotham como el superhéroe Batman, Bruce Wayne y sus escasos aliados van a enfrentarse a un asesino que tiene a la élite de la ciudad en su punto de mira.
+· País: EE.UU y R.U
+· Director: Matt Reeves
+· Reparto: Robert Pattinson, Zoë Kravitz, Jeffrey Wright, Colin Farrell, Paul Dano, Andy Serkis, John Turturro
+· Guion: Matt Reeves,Peter Craig
+· Música: Michael Giacchino
+· Producción: Matt Reeves, Dylan Clark
+· Productora: 6th &amp; Idaho Productions, DC Entertainment, DC Comics</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4196435?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119202600 +0100" stop="20261119220000 +0100" channel="M+ Navidad">
+    <title lang="es">Una Navidad diferente (2025)</title>
+    <desc lang="es">Comedia | No recomendado para menores de siete años | *3.0/5
+· Una egocéntrica estrella de Hollywood, con su carrera en declive, cree haber encontrado su camino de vuelta al estrellato en el Reino Unido... aunque quizá termine encontrando algo más importante.
+· País: R.U
+· Director: Chris Foggin
+· Reparto: Kiefer Sutherland, Alice Eve, Rebel Wilson, Katherine Ryan, Andromeda Godfrey, Meera Syal, Lucien Laviscount, Savannah Lee Smith, Asim Chaudhry, Ray Fearon, Danny Dyer, James Lance, Matilda Firth, Derek Jacobi, Eden Hamilton
+· Guion: Piers Ashworth,Adam Brown,Jake Brunger,Mark Huckerby,Nick Ostler
+· Música: Kara Talve
+· Producción: Matt Williams
+· Productora: Future Artists Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4442873?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119220000 +0100" stop="20261120000500 +0100" channel="M+ Navidad">
+    <title lang="es">Campeonex (2023)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.2/5
+· Con la llegada de una entrenadora novata a quien la suerte no le acompaña, el equipo de campeones se adentra por error en el complejo mundo del atletismo. Ha llegado la hora de volver a darlo todo demostrando que la amistad puede con todo.
+· País: España
+· Director: Javier Fesser
+· Reparto: Elisa Hipólito, Sergio Olmos, Brianeitor, Jesús Lago Solís, Juan Margallo, Jelen García, Roberto Chinchilla, Alberto Berzal, Gloria Ramos, Fran Fuentes, Alberto Nieto Ferrández, José de Luna, Jesús Vidal, Carolina Rubio, Carmen Mayordomo, Claudia Fesser
+· Guion: David Marqués,Javier Fesser,Athenea Mata
+· Música: Rafael Arnau
+· Producción: Javier Fesser, Álvaro Longoria, Luis Manso
+· Productora: Películas Pendelton, Rey de Babia, A.I.E., Morena Films S.L</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4143563?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119000500 +0100" stop="20261119003500 +0100" channel="M+ Navidad">
+    <title lang="es">Leo Talks (T5): Estrés de Vida (2025)</title>
+    <desc lang="es">Humor | No recomendado para menores de doce años | *3.2/5
+· Leo Harlem analiza con humor mordaz el estrés en la vida moderna: móviles, mudanzas, spas, true crime y terapias absurdas. Un monólogo repleto de ironía y verdades incómodas que nos hace reír mientras reflexionamos sobre nuestro modo de vivir.
+· País: España
+· Presenta: Leo Harlem
+· Producción: Isabel Guerrero Martínez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4390778?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20261119003500 +0100" stop="20261119023900 +0100" channel="M+ Navidad">
+    <title lang="es">Jurassic World (2015)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de doce años | *3.6/5
+· Han pasado 22 años desde que Jurassic Park sucumbiese al ataque de los dinosaurios. Ahora ha reabierto sus puertas más espectacular, más seguro y con una nueva y aterradora atracción en ciernes: el 'Indominus rex', un híbrido modificado genéticamente.
+· País: EE.UU
+· Director: Colin Trevorrow
+· Reparto: Chris Pratt, Bryce Dallas Howard, Nick Robinson, Ty Simpkins, Irrfan Khan, Vincent D'Onofrio, Omar Sy, Jake Johnson, Katie McGrath, Judy Greer, Lauren Lapkus, Eric Edelstein, Andy Buckley
+· Guion: Colin Trevorrow,Amanda Silver,Rick Jaffa,Derek Connolly
+· Música: Michael Giacchino
+· Producción: Frank Marshall, Patrick Crowley
+· Productora: Universal Pictures, Dentsu, Amblin Entertainment, Legendary Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3847935?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119023900 +0100" stop="20261119041900 +0100" channel="M+ Navidad">
+    <title lang="es">King Kong (1933)</title>
+    <desc lang="es">Fantástico | Apto para todos los públicos | *3.3/5
+· Un gigantesco gorila pasa de ser una terrorífica atracción de feria a convertirse en un monstruo que siembra el pánico en la ciudad de Nueva York.
+· País: EE.UU
+· Director: Merian C. Cooper, Ernest B. Schoedsack
+· Reparto: Fay Wray, Robert Armstrong, Bruce Cabot, Frank Reicher, Sam Hardy, Noble Johnson, Steve Clemente
+· Guion: Merian C. Cooper,Ruth Rose,James Ashmore Creelman,Edgar Wallace
+· Música: Max Steiner
+· Producción: Ernest B. Schoedsack, Merian C. Cooper
+· Productora: RKO Radio Pictures Inc</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3836249?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261119041900 +0100" stop="20261119052700 +0100" channel="M+ Navidad">
+    <title lang="es">El hijo de Kong (1933)</title>
+    <desc lang="es">Fantástico | No recomendado para menores de siete años | *3.0/5
+· El aventurero Carl Denham regresa a la isla donde fue capturado King Kong, en compañía de Hilda, hija del dueño de un circo.
+· País: EE.UU
+· Director: Ernest B. Schoedsack
+· Reparto: Robert Armstrong, Frank Reicher, Victor Wong, John Martson
+· Guion: Ruth Rose
+· Música: Max Steiner
+· Producción: Merian C. Cooper, Archie Marshek
+· Productora: RKO Radio Pictures Inc</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4096733?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120052700 +0100" stop="20261120074700 +0100" channel="M+ Navidad">
+    <title lang="es">Robin Hood, príncipe de los ladrones (1991)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.2/5
+· Tras cinco años en las cruzadas, Robin regresa a Inglaterra junto a un guerrero musulmán al que ha salvado la vida. Al llegar descubre que su padre ha sido asesinado por el 'sheriff' de Nottingham que se ha quedado con sus tierras.
+· País: EE.UU y R.U
+· Director: Kevin Reynolds
+· Reparto: Kevin Costner, Mary Elizabeth Mastrantonio, Morgan Freeman, Christian Slater, Andy Hockley, Alan Rickman
+· Guion: Pen Densham,John Watson
+· Música: Jeff Lynne, Michael Kamen
+· Producción: Richard Barton Lewis, Pen Densham
+· Productora: Morgan Creek Productions, Morgan Creek, Warner Bros</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4366234?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120074700 +0100" stop="20261120080000 +0100" channel="M+ Navidad">
+    <title lang="es">Siempre verde (2025)</title>
+    <desc lang="es">Corto animación | Apto para todos los públicos | *3.0/5
+· Un cachorro de oso huérfano encuentra un hogar en un árbol perenne paternal, hasta que su hambre de basura lo lleva al peligro.
+· País: EE.UU
+· Director: Jeremy Spears, Nathan Engelhardt</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4462601?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120080000 +0100" stop="20261120093000 +0100" channel="M+ Navidad">
+    <title lang="es">Hopper, el polloliebre (2022)</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.1/5
+· Hopper (&quot;polloliebre&quot;) está acomplejado por ser diferente. El joven sueña con convertirse en un gran aventurero como su padre y así ganarse el aprecio de todos. Por ello, se embarcará en una emocionante aventura en busca del &quot;Hámster Oscuro&quot;.
+· País: Bélgica y Francia
+· Director: Benjamin Mousquet, Ben Stassen
+· Guion: David Collard
+· Producción: Ben Stassen, Matthieu Zeller
+· Productora: nWave Pictures, Dark Horse Comics, Octopolis</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4069157?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120093000 +0100" stop="20261120095000 +0100" channel="M+ Navidad">
+    <title lang="es">Hannah y el cocodrilo (2024)</title>
+    <desc lang="es">Corto animación | Apto para todos los públicos | *3.1/5
+· Cuando Fien descubre que su hermana Hannah está siendo amenazada por un cruel cocodrilo que la está volviendo muy delgada y enferma, su mundo se pone patas arriba. Fien pide ayuda a su madre y a su padre para ayudar a Hannah a derrotar al cocodrilo.
+· País: Bélgica
+· Director: Lore Mechelaere</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4482424?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120095000 +0100" stop="20261120103900 +0100" channel="M+ Navidad">
+    <title lang="es">Todas las... (T1): Ep.3 Andante (2020)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.1/5
+· Mientras Siegfried espera convertirse en el veterinario oficial de la carrera de caballos local, un encuentro con uno de los caballos amenaza con poner fin a la carrera de James.
+· País: R.U
+· Director: Brian Percival
+· Reparto: Nicholas Ralph, Samuel West, Anna Madeley, Rachel Shenton, Callum Woodhouse
+· Guion: Ben Vanstone
+· Música: Alexandra Harwood
+· Productora: Playground Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3962276?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120103900 +0100" stop="20261120113000 +0100" channel="M+ Navidad">
+    <title lang="es">Todas las... (T1): Ep.4 Un día de perros (2020)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.1/5
+· James se alarma al recibir una llamada de la señora Pumphrey, quien teme que su querido perro Tricki Woo pueda estar muriendo.
+· País: R.U
+· Director: Brian Percival
+· Reparto: Nicholas Ralph, Samuel West, Anna Madeley, Rachel Shenton, Callum Woodhouse
+· Guion: Ben Vanstone
+· Música: Alexandra Harwood
+· Productora: Playground Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3962286?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20261120113000 +0100" stop="20261120122500 +0100" channel="M+ Navidad">
+    <title lang="es">La isla de los tigres: Ep.2 (2025)</title>
+    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
+· A medida que más tigres y comunidades humanas se acercan a la isla, la tensión entre ambas especies aumenta. Los conflictos emergen y las estrategias para gestionarlos, y la incertidumbre sobre el futuro de este ecosistema se manifiestan.
+· País: R.U
+· Producción: Matthew Wright
+· Productora: BBC Studios</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4484789?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120122500 +0100" stop="20261120124500 +0100" channel="M+ Navidad">
+    <title lang="es">Siempre verde (2025)</title>
+    <desc lang="es">Corto animación | Apto para todos los públicos | *3.0/5
+· Un cachorro de oso huérfano encuentra un hogar en un árbol perenne paternal, hasta que su hambre de basura lo lleva al peligro.
+· País: EE.UU
+· Director: Jeremy Spears, Nathan Engelhardt</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4462601?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120124500 +0100" stop="20261120142000 +0100" channel="M+ Navidad">
+    <title lang="es">El diario de Bridget Jones (2001)</title>
+    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.4/5
+· Una treintañera sumida en plena crisis existencial decide escribir un diario con el que tratará de enfrentarse a sus obsesiones.
+· País: EE.UU, Francia y R.U
+· Director: Sharon Maguire
+· Reparto: Renée Zellweger, Hugh Grant, Colin Firth, Matthew Bates, Gemma Jones, Paul Ross
+· Guion: Richard Curtis,Andrew Davies,Helen Fielding,Patrick Dempsey
+· Música: Patrick Doyle
+· Producción: Tim Bevan, Jonathan Cavendish, Eric Fellner
+· Productora: Working Title Films, StudioCanal, Miramax, Universal Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4057250?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120142000 +0100" stop="20261120161000 +0100" channel="M+ Navidad">
+    <title lang="es">Bridget Jones: Sobreviviré (2004)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.3/5
+· Bridget Jones, ahora junto a Mark Darcy, quiere triunfar como intrépida reportera. Pero su antiguo jefe y amante reaparecerá.
+· País: Alemania, EE.UU, Francia, Irlanda y R.U
+· Director: Beeban Kidron
+· Reparto: Rosalind Halstead, Flaminia Cinque, Jeremy Paxman, Stephanie O'Rourke, Mark Tandy, David Verrey
+· Guion: Adam Brooks,Andrew Davi,Richard Curtis,Helen Fielding,Andrew Davies
+· Música: Harry Gregson-Williams
+· Producción: Tim Bevan, Jonathan Cavendish, Eric Fellner
+· Productora: Tim Bevan, Jonathan Cavendish, StudioCanal, Liza Chasin, Eric Fellner, Working Title Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4057308?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120161000 +0100" stop="20261120181000 +0100" channel="M+ Navidad">
+    <title lang="es">Bridget Jones' Baby (2016)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de dieciséis años | *3.4/5
+· Después de romper con Mark Darcy, la idea que Bridget Jones se había hecho de su futuro no es del todo como había imaginado. Con los cuarenta recién cumplidos y soltera de nuevo, decide centrarse en su trabajo como productora de noticias.
+· País: EE.UU, Francia, Irlanda y R.U
+· Director: Sharon Maguire
+· Reparto: Renée Zellweger, Colin Firth, Patrick Dempsey, Jim Broadbent, Gemma Jones, Emma Thompson
+· Guion: Dan Mazer,Emma Thompson
+· Música: Craig Armstrong
+· Producción: Tim Bevan, Eric Fellner, Debra Hayward
+· Productora: Miramax Films, Perfect World Pictures, StudioCanal, Universal Pictures, Working Title Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4092125?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120181000 +0100" stop="20261120201700 +0100" channel="M+ Navidad">
+    <title lang="es">Bridget Jones: loca por él (2025)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.2/5
+· Tras enfrentarse a numerosas crisis existenciales, desengaños amorosos, situaciones absurdas, un embarazo y muchas dudas, Bridget debe hacer frente a una nueva realidad: la viudedad.
+· País: EE.UU, Francia y R.U
+· Director: Michael Morris
+· Reparto: Renée Zellweger, Chiwetel Ejiofor, Leo Woodall, Hugh Grant, Isla Ashworth, Joanna Scanlan, Casper Knopf, Mila Jankovic, Colin Firth, Oli Green, Ian Midlane, Jane Fowler, Ruth Gibson, James Wright
+· Guion: Richard Curtis,Helen Fielding,Dan Mazer,Abi Morgan
+· Música: Dustin O'Halloran
+· Producción: Tim Bevan, Eric Fellner
+· Productora: Working Title Films, Universal Pictures, Sarah Jane Wright</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4370952?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120201700 +0100" stop="20261120220000 +0100" channel="M+ Navidad">
+    <title lang="es">Navidad en Baltimore (2025)</title>
+    <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.1/5
+· Cliff lleva seis meses sobrio y va a cenar en Nochebuena con la familia de su prometida. Sin embargo, un golpe tonto lo lleva a visitar a la única dentista abierta... y eso lo lleva al depósito de coches... y eso lo lleva a la más insólita Nochebuena.
+· País: EE.UU
+· Director: Jay Duplass
+· Reparto: Michael Strassner, Liz Larsen, Olivia Luccardi, Mary Catherine Garrison
+· Guion: Jay Duplass,Michael Strassner
+· Música: Jordan Seigel
+· Producción: David Bonnett Jr., Michael Strassner, Jay Duplass
+· Productora: Duplass Brothers Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441607?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120220000 +0100" stop="20261120233800 +0100" channel="M+ Navidad">
+    <title lang="es">Los futbolísimos 2. El misterio del tesoro pirata (2025)</title>
+    <desc lang="es">Comedia | Especialmente recomendado para la infancia | *3.1/5
+· Una estafa inmobiliaria está a punto de dejar sin campo de fútbol a los chicos del Soto Alto F.C. y, de paso, a su pueblo en la ruina. Es la hora de que la pandilla futbolera entre en acción.
+· País: Colombia y España
+· Director: Miguel Ángel Lamata
+· Reparto: Nicolás Rodicio, Cosette Silguero, Martín Michinel, Joaquín Reyes, Carmen Ruiz, Arturo Valls, Norma Ruiz, Miguel Ángel Muñoz, William Miller
+· Guion: Bárbara Alpuente
+· Música: Alba S. Torremocha
+· Producción: Nico Matji, Jorge Sánchez Gallo
+· Productora: Misterio pirata A.I.E., Chester Media</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4443057?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120233800 +0100" stop="20261121000800 +0100" channel="M+ Navidad">
+    <title lang="es">Leo Talks (T5): ¿Bien, o en Familia? (2025)</title>
+    <desc lang="es">Humor | No recomendado para menores de doce años | *3.0/5
+· Leo critica con humor la idealización familiar: peleas, favoritismos y discusiones son la norma, no la excepción. La familia no es perfecta ,a veces estresa más que ayuda. La realidad familiar, dice, es mucho más caótica y real que la ficción.
+· País: España
+· Presenta: Leo Harlem
+· Producción: Isabel Guerrero Martínez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4390778?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20261120000800 +0100" stop="20261120022900 +0100" channel="M+ Navidad">
+    <title lang="es">Aquaman (2018)</title>
+    <desc lang="es">Fantástico | No recomendado para menores de doce años | *3.6/5
+· Tras descubrir que es el legítimo heredero del reino submarino de Atlantis, Arthur Curry deberá liderar a su pueblo y convertirse en un héroe para el mundo, tanto en la tierra como en los mares.
+· País: Australia y EE.UU
+· Director: James Wan
+· Reparto: Jason Momoa, Amber Heard, Willem Dafoe, Nicole Kidman, Patrick Wilson, Dolph Lundgren, Yahya Abdul-Mateen
+· Guion: David Leslie Johnson-McGoldrick,Will Beall,Dominique Swain
+· Música: Rupert Gregson-Williams
+· Producción: Rob Cowan, Peter Safran
+· Productora: DC Comics, DC Entertainment, The Safran Company, Warner Bros, Panoramic Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3682993?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261120022900 +0100" stop="20261120040900 +0100" channel="M+ Navidad">
+    <title lang="es">Atrapado en el tiempo (1993)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.9/5
+· Phil, un egocéntrico periodista y meteorólogo, tiene que retransmitir desde el pueblo de Punxsutawney el festival rural anual conocido como Día de la Marmota, en el que uno de esos roedores vaticina la duración del invierno.
+· País: EE.UU
+· Director: Harold Ramis
+· Reparto: Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky, Brian Doyle-Murray, Marita Geraghty, Angela Paton, Rick Ducommun, Rick Overton, Robin Duke, Carol Bivins, Willie Garson, Ken Hudson Campbell, Les Podewell
+· Guion: Danny Rubin,Harold Ramis
+· Música: George Fenton
+· Producción: Trevor Albert, Harold Ramis
+· Productora: Columbia Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3963448?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
