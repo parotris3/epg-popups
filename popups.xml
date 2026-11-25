@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="MultiPopUps FullDesc 24/11/2026 08:31">
+<tv generator-info-name="MultiPopUps FullDesc 25/11/2026 07:06">
   <channel id="M+ Thriller">
     <display-name>M+ Thriller</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MTHRI"/>
@@ -8,177 +8,6 @@
     <display-name>M+ Navidad</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MNAVID"/>
   </channel>
-  <programme start="20261124050000 +0100" stop="20261124061700 +0100" channel="M+ Thriller">
-    <title lang="es">An Inspector Calls (1954)</title>
-    <desc lang="es">Thriller | No recomendado para menores de doce años | *2.9/5
-· Un inspector que está investigando una trágica muerte interrumpe la cena de una familia rica. Todos los presentes pueden estar relacionados con la muerte de la víctima.
-· País: R.U
-· Director: Guy Hamilton
-· Reparto: Alastair Sim, Olga Lindo, Arthur Young, Eileen Moore, Bryan Forbes
-· Guion: Desmond Davis
-· Productora: British Lion Film Corporation, Watergate Productions Ltd</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4488457?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124061700 +0100" stop="20261124080800 +0100" channel="M+ Thriller">
-    <title lang="es">La casa al final de la curva (2024)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
-· Josh, Rachel y su hijo se acaban de mudar a la casa de sus sueños, pero pronto todo se vuelve una pesadilla cuando descubren que está situada justo al final de una curva en la que se suceden los accidentes de tráfico mortales.
-· País: Canadá, EE.UU e Irlanda
-· Director: Jason Buxton
-· Reparto: Ben Foster, Cobie Smulders, William Kosovic, Gavin Drea, Alexandra Castillo, Jonathan Watton, Andrew Shaver, Dan Lett
-· Guion: Jason Buxton
-· Música: Stephen McKeon
-· Producción: Paul Barkin, Jason Levangie, Susan Mullen
-· Productora: Alcina Pictures, Shut up &amp; Colour Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4410065?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124080800 +0100" stop="20261124104500 +0100" channel="M+ Thriller">
-    <title lang="es">Anatomía de un asesinato (1959)</title>
-    <desc lang="es">Thriller | Apto para todos los públicos | *3.6/5
-· Un abogado debe ponerse al frente de la defense de un militar acusado de asesinar al propietario de un bar que intentó violar a su mujer.
-· País: EE.UU
-· Director: Otto Preminger
-· Reparto: James Stewart, Lee Remick, Howard McNear, Ben Gazzara, Arthur O'Connell, James Waters
-· Guion: Wendell Mayes
-· Música: Duke Ellington
-· Producción: Otto Preminger
-· Productora: Columbia Pictures Corporation, Carlyle Productions, Carlyle Blackwell Productions, Otto Preminger Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4013528?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124104500 +0100" stop="20261124123900 +0100" channel="M+ Thriller">
-    <title lang="es">Siete días de mayo (1964)</title>
-    <desc lang="es">Thriller | No recomendado para menores de siete años | *3.3/5
-· Un general prepara un golpe de estado para derrocar al presidente de EE UU. Éste sólo dispone de siete días para abortarlo.
-· País: EE.UU
-· Director: John Frankenheimer
-· Reparto: Kirk Douglas, Edmond O'Brien, Martin Balsam, Fredric March, Ava Gardner, Burt Lancaster, Whit Bissell, Hugh Marlowe, George Macready, Andrew Duggan, Helen Kleeb, Clegg Hoyt, Collette Jackson
-· Guion: Rod Serling,Fletcher Knebel,Charles W Bailey II,Charles W Bailey
-· Música: Jerry Goldsmith
-· Producción: Edward Lewis
-· Productora: Joel Productions, Seven Arts Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4502169?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124123900 +0100" stop="20261124142100 +0100" channel="M+ Thriller">
-    <title lang="es">La muerte y la doncella (1994)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.1/5
-· Una mujer se reencuentra con su atroz pasado cuando su marido acoge en casa a un miembro del antiguo régimen fascista del país.
-· País: R.U
-· Director: Roman Polanski
-· Reparto: Sigourney Weaver, Ben Kingsley, Stuart Wilson, Krystia Mova, Gilberto Cortés, Jonathan Vega, Jorge Cruz, Carlos Moreno
-· Guion: Rafael Yglesias,Ariel Dorfman
-· Música: Wojciech Kilar
-· Producción: Thom Mount, Josh Kramer
-· Productora: Fine Line Features, Channel Four Films, Capitol Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4126643?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124142100 +0100" stop="20261124161300 +0100" channel="M+ Thriller">
-    <title lang="es">The Gentlemen: Los señores de la mafia (2019)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *4.2/5
-· El estadounidense Mickey Pearson ha conseguido llegar a lo más alto en el lucrativo negocio de las plantaciones clandestinas de marihuana del Reino Unido. Ahora pretende vender el negocio y retirarse para disfrutar de su fortuna.
-· País: EE.UU y R.U
-· Director: Guy Ritchie
-· Reparto: Matthew McConaughey, Charlie Hunnam, Colin Farrell, Hugh Grant, Henry Golding, Michelle Dockery, Jeremy Strong, Eddie Marsan
-· Guion: Guy Ritchie
-· Música: Christopher Benstead
-· Producción: Guy Ritchie, Ivan Atkinson, Bill Block
-· Productora: Miramax, Toff Guy Films, STX Entertainment, STX Films</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3839998?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124161300 +0100" stop="20261124181800 +0100" channel="M+ Thriller">
-    <title lang="es">Presunto inocente (1990)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
-· Un abogado mantiene una relación extra-marital con una colega. Cuando su amante aparece muerta, él es el principal sospechoso.
-· País: EE.UU
-· Director: Alan J. Pakula
-· Reparto: Harrison Ford, Brian Dennehy, Raul Julia, Bonnie Bedelia, Greta Scacchi, John Michael Bennett, Madison Arnold, Christine Estabrook, Richard L Newcomb, Paul Winfield, Joe Grifasi, John Spencer, Sab Shimono, Tom Mardirosian, Ed Wheeler
-· Guion: Frank Pierson,Alan J. Pakula
-· Música: John Williams
-· Producción: Mark Rosenberg, Sydney Pollack
-· Productora: Warner Bros, Mirage</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4510149"/>
-  </programme>
-  <programme start="20261124181800 +0100" stop="20261124202400 +0100" channel="M+ Thriller">
-    <title lang="es">Águilas de El Cairo (2025)</title>
-    <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.1/5
-· George Fahmy, el actor más querido de Egipto, acepta a regañadientes protagonizar una película de propaganda impulsada por el régimen. Pronto queda atrapado entre generales, secretos, vigilancia y una peligrosa red de deseo y corrupción.
-· País: Dinamarca, Finlandia, Francia y Suecia
-· Director: Tarik Saleh
-· Reparto: Fares Fares, Lyna Khoudri, Amr Waked, Zineb Triki, Cherien Dabis, Sherwan Haji, Husam Chadat, Ahmad Samir Farag
-· Guion: Tarik Saleh
-· Música: Alexandre Desplat
-· Producción: Alexandre Mallet-Guy, Linus Torell
-· Productora: Sveriges Television (SVT), Canal+</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4484065?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124202400 +0100" stop="20261124211200 +0100" channel="M+ Thriller">
-    <title lang="es">Objetivo: Apolo (T2): Ep.3  (2026)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.0/5
-· Zara alerta a sus superiores de la posible existencia de un infiltrado en el MI6, pero los acontecimientos dan un giro que la coloca en una situación comprometida. Mientras tanto, Vincent y Rachel intentan escapar de sus captores en Libia.
-· País: Francia
-· Director: David Caffrey
-· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4519932?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20261124211200 +0100" stop="20261124220000 +0100" channel="M+ Thriller">
-    <title lang="es">Objetivo: Apolo (T2): Ep.4  (2026)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.0/5
-· Perseguida y sin saber en quién confiar, Zara recurre a Keane, su antiguo mentor, para continuar investigando la conspiración dentro del MI6. Mientras tanto, en Libia, Vincent se enfrenta a una grave amenaza que pone su vida en peligro.
-· País: Francia
-· Director: David Caffrey
-· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4519938?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124220000 +0100" stop="20261125001100 +0100" channel="M+ Thriller">
-    <title lang="es">Todos los hombres del presidente (1976)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.4/5
-· Un robo aparentemente ordinario en el edificio de apartamentos Watergate, de Washington D.C. en 1972, desencadena una tormenta periodística que concluirá con la dimisión del presidente Richard Nixon.
-· País: EE.UU
-· Director: Alan J. Pakula
-· Reparto: Robert Redford, Dustin Hoffman, Jason Robards, Martin Balsam, Jane Alexander, Jack Warden, Robert Walden, Ned Beatty, Stephen Collins, Lindsay Crouse, Meredith Baxter, Hal Holbrook, F. Murray Abraham, John McMartin, Penny Fuller, Frank Wills
-· Guion: William Goldman
-· Música: David Shire
-· Producción: Walter Coblenz
-· Productora: Warner Bros, Wildwood</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4101081?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124001100 +0100" stop="20261124015700 +0100" channel="M+ Thriller">
-    <title lang="es">Vida privada (2025)</title>
-    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.1/5
-· Tras la muerte repentina de una de sus pacientes, Lilian Steiner, una psiquiatra de prestigio, está convencida de que fue asesinada y comienza una investigación privada.
-· País: Francia
-· Director: Rebecca Zlotowski
-· Reparto: Jodie Foster, Daniel Auteuil, Virginie Efira, Mathieu Amalric, Vincent Lacoste
-· Guion: Anne Berest
-· Música: Robin Coudert
-· Productora: Les Films Velvet</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4466825?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124015700 +0100" stop="20261124033900 +0100" channel="M+ Thriller">
-    <title lang="es">Sin límites (2011)</title>
-    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.7/5
-· La vida de Eddie Morra, un aspirante a escritor que sufre bloqueo crónico, da un giro completo cuando un viejo amigo le da a conocer el NZT, una droga revolucionaria que le permite aprovechar su potencial por completo.
-· País: EE.UU y R.U
-· Director: Neil Burger
-· Reparto: Bradley Cooper, Robert De Niro, Abbie Cornish, Andrew Howard, Anna Friel, Robert Burke, Robert John Burke, Patricia Kalember, Johnny Whitworth, Tomas Arana, Martha Ann Talman, Darren Goldstein
-· Guion: Leslie Dixon,Vivian Hsu
-· Música: Paul Leonard-Morgan
-· Producción: Leslie Dixon, Vivian Hsu, Ryan Kavanaugh
-· Productora: Relativity Media, Virgin Produced, Many Rivers Productions</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4507714?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124033900 +0100" stop="20261124051700 +0100" channel="M+ Thriller">
-    <title lang="es">Golpes (2025)</title>
-    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.1/5
-· Tosar y Carroza son dos hermanos marcados por la muerte de su padre, asesinado en la Guerra Civil. Ahora, uno es ladrón de bancos y el otro es policía. Separados desde niños, uno acabó adaptándose al sistema y el otro renegando de él.
-· País: España y Francia
-· Director: Rafael Cobos
-· Reparto: Luis Tosar, Jesús Carroza, Teresa Garzón, Cristina Alcázar, Carlos Bernardino, Cristalino, Mafo, Alejandro Escamilla, Gregor Acuña-Pohl, Rosario Lara, Rubén Carballés, Nico Montoya
-· Guion: Fernando Navarro,Rafael Cobos
-· Música: Bronquio
-· Producción: Borja Pena, Emma Lustres, Daniel Pérez Astiárraga
-· Productora: Vaca Films, Grupo Tranquilo PC, Movistar Plus+, Radio Televisión Española (RTVE)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459470?od[]=Z1V:MM3_V"/>
-  </programme>
   <programme start="20261125051700 +0100" stop="20261125071800 +0100" channel="M+ Thriller">
     <title lang="es">Los niños del Brasil (1978)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.2/5
@@ -393,7 +222,7 @@
 · Productora: Lionsgate, QC Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3883563?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126111400 +0100" stop="20261126131400 +0100" channel="M+ Thriller">
+  <programme start="20261126111400 +0100" stop="20261126131500 +0100" channel="M+ Thriller">
     <title lang="es">El hombre de las mil caras (2016)</title>
     <desc lang="es">Thriller | No recomendado para menores de siete años | *3.6/5
 · Madrid, 1995. Francisco Paesa y su amigo y socio Jesús Camoes acaban de participar en la entrega del prófugo más buscado de la historia de la democracia española y esperan contar pronto con una gran cantidad de dinero.
@@ -406,7 +235,7 @@
 · Productora: Movistar+, Atresmedia Cine, Atípica Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4048792?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126131400 +0100" stop="20261126154600 +0100" channel="M+ Thriller">
+  <programme start="20261126131500 +0100" stop="20261126154700 +0100" channel="M+ Thriller">
     <title lang="es">Medianoche en el jardín del bien y del mal (1997)</title>
     <desc lang="es">Drama | No recomendado para menores de dieciséis años | *3.3/5
 · Un periodista se convierte en cronista de excepción, durante el juicio a un sofisticado anticuario que acaba de matar a su amante.
@@ -419,7 +248,7 @@
 · Productora: Warner Bros, The Malpaso Company</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4191924?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126154600 +0100" stop="20261126180200 +0100" channel="M+ Thriller">
+  <programme start="20261126154700 +0100" stop="20261126180300 +0100" channel="M+ Thriller">
     <title lang="es">Ángeles y demonios (2009)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.4/5
 · Robert Langdon, profesor de Harvard experto en simbología, descubre evidencias del resurgimiento de una antigua hermandad secreta conocida como 'Illuminati', la organización clandestina más poderosa de la historia.
@@ -432,7 +261,7 @@
 · Productora: Imagine Entertainment, Columbia Pictures, Skylark Productions, Panorama Films</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3954872?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126180200 +0100" stop="20261126202900 +0100" channel="M+ Thriller">
+  <programme start="20261126180300 +0100" stop="20261126202900 +0100" channel="M+ Thriller">
     <title lang="es">El código Da Vinci (2006)</title>
     <desc lang="es">Thriller | No recomendado para menores de doce años | *3.6/5
 · El catedrático y experto en simbología religiosa Robert Langdon recibe una llamada en plena noche para que acuda al Museo del Louvre. Allí le muestran el cadáver de un eminente conservador de arte cuyo cuerpo aparece rodeado de extraños símbolos.
@@ -456,14 +285,14 @@
   </programme>
   <programme start="20261126211300 +0100" stop="20261126220000 +0100" channel="M+ Thriller">
     <title lang="es">Objetivo: Apolo (T2): Ep.8  (2026)</title>
-    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.0/5
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *3.2/5
 · Final de temporada. Los planes de Yuri Mishkin entran en su fase más peligrosa y Zara y Vincent deben actuar antes de que sea demasiado tarde. Una amenaza biológica de consecuencias devastadoras los enfrenta a una misión decisiva.
 · País: Francia
 · Director: David Caffrey
 · Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4519958?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20261126220000 +0100" stop="20261126235500 +0100" channel="M+ Thriller">
+  <programme start="20261126220000 +0100" stop="20261126235400 +0100" channel="M+ Thriller">
     <title lang="es">Presunción de inocencia (2024)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.3/5
 · Hace 15 años que Jean Monier decidió no aceptar más casos penales hasta que en su camino se cruza Nicolas Milik, un hombre acusado de asesinar a su esposa.
@@ -476,7 +305,7 @@
 · Productora: Zazi Films, Zinc</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4387888?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126235500 +0100" stop="20261127013900 +0100" channel="M+ Thriller">
+  <programme start="20261126235400 +0100" stop="20261127013900 +0100" channel="M+ Thriller">
     <title lang="es">Bala perdida (2025)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
 · Nueva York, 1998. Hank tiene una perfecta vida disfuncional. Pero, cuando su vecino Russ le pide que cuide de su gato durante unos días, su suerte cambia. Al día siguiente dos mafiosos apalean a Hank en la puerta de su casa y Hank no sabe por qué.
@@ -489,7 +318,7 @@
 · Productora: Columbia Pictures, Protozoa Pictures, TSG Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4442503?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126013900 +0100" stop="20261126031500 +0100" channel="M+ Thriller">
+  <programme start="20261126013900 +0100" stop="20261126031400 +0100" channel="M+ Thriller">
     <title lang="es">Kafka, la verdad oculta (1990)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.0/5
 · Praga, 1919. Obsesionado por la desaparición misteriosa de su mejor amigo, Kafka emprende una larga búsqueda que le introduce en un mundo peligroso y enigmático. Sus investigaciones le conducirán hasta los impenetrables muros del castillo de la ciudad.
@@ -498,7 +327,7 @@
 · Reparto: Jeremy Irons, Theresa Russell</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4487455"/>
   </programme>
-  <programme start="20261126031500 +0100" stop="20261126050300 +0100" channel="M+ Thriller">
+  <programme start="20261126031400 +0100" stop="20261126050200 +0100" channel="M+ Thriller">
     <title lang="es">13 días, 13 noches (2025)</title>
     <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.4/5
 · Tras décadas de guerra, Estados Unidos decide retirar sus tropas de Afganistán. En poco tiempo, los talibanes se hacen con el control de la capital, Kabul. La última misión occidental aún abierta es la embajada de Francia: deben irse, y rápido.
@@ -511,204 +340,195 @@
 · Productora: Chapter 2, Pathé, Umedia, Canal+, Disney+</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4443381?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261124042100 +0100" stop="20261124061700 +0100" channel="M+ Navidad">
-    <title lang="es">La red social (2010)</title>
-    <desc lang="es">Drama | No recomendado para menores de siete años | *3.3/5
-· Una noche de 2003, Mark Zuckerberg, alumno de Harvard y genio de la programación, se sienta ante su ordenador y comienza a desarrollar una nueva idea, un proyecto que pronto se convertirá en una red social global que revolucionará la comunicación.
+  <programme start="20261127050200 +0100" stop="20261127063900 +0100" channel="M+ Thriller">
+    <title lang="es">Headhunters (2011)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.4/5
+· Roger es el cazatalentos más exitoso de Noruega, está casado con Diana -la bella propietaria de una galería de arte- y posee una magnífica casa... pero lleva un tren de vida que no debería permitirse. Para conseguir ingresos extra, roba obras de arte.
+· País: Alemania, Dinamarca, Noruega y Suecia
+· Director: Morten Tyldum
+· Reparto: Aksel Hennie, Nikolaj Coster-Waldau, Baard Owe, Synnøve Macody Lund, Julie R. Ølgaard, Anjum Salwan, Eivind Sander, Daniel Bratterud, Torgrim Mellum Stene, Mattis Herman Nyquist, Martin Furulund, Kyrre Mosleth, Irina Eidsvold
+· Guion: Ulf Ryberg,Lars Gudmestad
+· Música: Jeppe Kaas, Trond Bjerknes
+· Producción: Asle Vatn, Marianne Gray
+· Productora: ARD Degeto Film, Asle Vatn, Mikael Wallen, Paul Røed, Nordisk Film, Yellow Bird Films AB, Friland A/S</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3663221?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127063900 +0100" stop="20261127080000 +0100" channel="M+ Thriller">
+    <title lang="es">Locke (2013)</title>
+    <desc lang="es">Drama | No recomendado para menores de doce años | *3.1/5
+· Ivan Locke ha trabajado duro para construirse una buena vida. En la víspera de su mayor reto laboral, Ivan recibe una llamada telefónica que desencadena una serie de acontecimientos que le darán la vuelta a su familia, a su trabajo y hasta a su alma.
+· País: EE.UU y R.U
+· Director: Steven Knight
+· Reparto: Tom Hardy
+· Guion: Steven Knight
+· Música: Dickon Hinchliffe
+· Productora: IM Global, Shoebox Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4445992?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127080000 +0100" stop="20261127095300 +0100" channel="M+ Thriller">
+    <title lang="es">The Gentlemen: Los señores de la mafia (2019)</title>
+    <desc lang="es">Acción | No recomendado para menores de dieciséis años | *4.2/5
+· El estadounidense Mickey Pearson ha conseguido llegar a lo más alto en el lucrativo negocio de las plantaciones clandestinas de marihuana del Reino Unido. Ahora pretende vender el negocio y retirarse para disfrutar de su fortuna.
+· País: EE.UU y R.U
+· Director: Guy Ritchie
+· Reparto: Matthew McConaughey, Charlie Hunnam, Colin Farrell, Hugh Grant, Henry Golding, Michelle Dockery, Jeremy Strong, Eddie Marsan
+· Guion: Guy Ritchie
+· Música: Christopher Benstead
+· Producción: Guy Ritchie, Ivan Atkinson, Bill Block
+· Productora: Miramax, Toff Guy Films, STX Entertainment, STX Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3839998?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127095300 +0100" stop="20261127112700 +0100" channel="M+ Thriller">
+    <title lang="es">Worldbreaker (2025)</title>
+    <desc lang="es">Ciencia ficción | No recomendado para menores de dieciséis años | *2.8/5
+· Un padre se refugia con su hija en una remota isla. Allí la entrena para sobrevivir a la guerra que se avecina, pero su paz se rompe cuando una misteriosa joven llega a la costa... atrayendo el peligro hacia su único refugio.
 · País: EE.UU
-· Director: David Fincher
-· Reparto: Jesse Eisenberg, Andrew Garfield, Justin Timberlake, Armie Hammer, Max Minghella, Rashida Jones, Rooney Mara
-· Guion: Aaron Sorkin
-· Música: Trent Reznor, Atticus Ross
-· Productora: Relativity Media</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3777658?od[]=Z1V:MM3_V"/>
+· Director: Brad Anderson
+· Reparto: Luke Evans, Milla Jovovich, Billie Boullet, Meadow Williams, Mila Harris, Chris Finlayson
+· Guion: Joshua Rollins
+· Producción: Jib Polhemus</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4467902?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261124061700 +0100" stop="20261124075600 +0100" channel="M+ Navidad">
-    <title lang="es">Kimba, el león blanco (1997)</title>
-    <desc lang="es">Animación | Apto para todos los públicos | *3.0/5
-· En África Oriental, Leo, un león blanco, vive en paz con su familia. La calma se rompe cuando mercenarios invaden la jungla en busca de piedras valiosas, mientras una enfermedad amenaza a los animales, desatando tensiones que transforman su mundo.
-· País: Japón
-· Director: Yoshio Takeuchi
-· Reparto: Chieko Baishô, Masatô Ibu, Chafurin
-· Guion: Osamu Tezuka</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4483230?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124075600 +0100" stop="20261124093400 +0100" channel="M+ Navidad">
-    <title lang="es">Cortocircuito (1986)</title>
-    <desc lang="es">Acción | No recomendado para menores de siete años | *3.3/5
-· Un sofisticado robot huye después de sufrir un cortocircuito que lo convierte en un ser inteligente y casi humano.
+  <programme start="20261127112700 +0100" stop="20261127124900 +0100" channel="M+ Thriller">
+    <title lang="es">Más allá de la duda (1956)</title>
+    <desc lang="es">Thriller | Apto para todos los públicos | *3.2/5
+· Un escritor intenta demostrar las deficiencias de la ley y la policía colocando falsas pruebas contra sí mismo en un caso de asesinato. Éste es el último largometraje americano de Fritz Lang, que pone fin a una larga serie de brillantes películas.
 · País: EE.UU
-· Director: John Badham
-· Reparto: Ally Sheedy, Steve Guttenberg, Austin Pendleton, Fisher Stevens, Brian McNamara, G.W. Bailey
-· Guion: Brent Maddock,S.S. Wilson
-· Música: David Shire
-· Producción: David Foster, Lawrence Turman
-· Productora: TriStar Pictures, Turman-Foster Company, Producers Sales Organization  (PSO)</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3853512?od[]=Z1V:MM3_V"/>
+· Director: Fritz Lang
+· Reparto: Dana Andrews, Joan Fontaine, Barbara Nichols, Sidney Blackmer, Arthur Franz
+· Guion: Douglas Morrow
+· Música: Herschel Burke Gilbert
+· Productora: A Bert Friedlob Productions, Inc. Production</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3935937?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261124093400 +0100" stop="20261124110600 +0100" channel="M+ Navidad">
-    <title lang="es">Cuerpos locos (2025)</title>
-    <desc lang="es">Comedia | Especialmente recomendado para la infancia | *3.0/5
-· Una niña de diez años, Ana, y su futura madrastra, Sara, que está a punto de casarse con su padre, intercambian sus cuerpos por una extraña magia que se produce durante un insólito fenómeno meteorológico.
-· País: España
-· Director: Ana Murugarren
-· Reparto: Paz Padilla, Maia Zaitegi, Raúl Fernández de Pablo, Antonio Resines, David Fernández, Athenea Mata, Diego García Arroba, &quot;el Cejas&quot;, Ricardo Castella, Maribel Salas, Goizalde Núñez, Carlos González Morollón, El Langui, Lander Otaola, Òscar Rabadan, Miguel Ángel Revilla
-· Guion: Ana Galán,Ana Murugarren
-· Música: Isabel Royán
-· Producción: Joaquín Trincado, Aníbal Vázquez
-· Productora: Cuerpos locos, A.I.E., Blogmedia</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4454620?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124110600 +0100" stop="20261124112800 +0100" channel="M+ Navidad">
-    <title lang="es">Un amigo de Dorothy (2025)</title>
-    <desc lang="es">Corto drama | No recomendado para menores de siete años | *3.0/5
-· La tranquila vida de una viuda se ve alterada cuando un adolescente lanza accidentalmente su balón de fútbol a su jardín.
-· País: R.U
-· Director: Lee Knight
-· Reparto: Stephen Fry, Miriam Margolyes</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4462039?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124112800 +0100" stop="20261124121600 +0100" channel="M+ Navidad">
-    <title lang="es">Todas las... (T1): Ep.6 Una cura para todos los males (2020)</title>
-    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.2/5
-· Es el cumpleaños de James, pero algunas preocupaciones personales y profesionales enturbian la celebración. James y Tristan ignoran el consejo de Siegfried y se lanzan a una operación.
-· País: R.U
-· Director: Brian Percival
-· Reparto: Nicholas Ralph, Samuel West, Anna Madeley, Rachel Shenton, Callum Woodhouse
-· Guion: Ben Vanstone
-· Música: Alexandra Harwood
-· Productora: Playground Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3962301?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124121600 +0100" stop="20261124131800 +0100" channel="M+ Navidad">
-    <title lang="es">Todas las... (T1): Ep.7 Nochebuena (2020)</title>
-    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.1/5
-· Especial de Navidad. Mientras James intenta encajar sus sentimientos hacia Helen, su Nochebuena se complica cuando recibe una llamada urgente para atender un parto canino y Helen se ofrece voluntaria para ayudarlo.
-· País: R.U
-· Director: Brian Percival
-· Reparto: Nicholas Ralph, Samuel West, Anna Madeley, Rachel Shenton, Callum Woodhouse
-· Guion: Ben Vanstone
-· Música: Alexandra Harwood
-· Productora: Playground Entertainment</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3962304?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20261124131800 +0100" stop="20261124141000 +0100" channel="M+ Navidad">
-    <title lang="es">Caminando entre...: La lucha en el río del Spinosaurus (2025)</title>
-    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
-· En el norte de África, hace cien millones de años, un padre Spinosaurus debe embarcarse en un peligroso viaje para alimentar a sus crías. Para llegar a su destino, debe guiar a su joven familia a través de uno de los entornos más mortíferos.
-· País: R.U
-· Producción: Kirsty Wilson</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4373123?od[]=Z1H:MM3_H"/>
-  </programme>
-  <programme start="20261124141000 +0100" stop="20261124160500 +0100" channel="M+ Navidad">
-    <title lang="es">Pride/Orgullo (2014)</title>
-    <desc lang="es">Comedia dramática | No recomendado para menores de siete años | *3.6/5
-· Verano de 1984. Margaret Thatcher gobierna el Reino Unido y el Sindicato Nacional de Mineros ha convocado una huelga. Durante la manifestación del Orgullo Gay en Londres, un grupo de lesbianas y gais recauda fondos para ayudar a los huelguistas.
-· País: Francia y R.U
-· Director: Matthew Warchus
-· Reparto: Bill Nighy, Imelda Staunton, Dominic West, Paddy Considine, George MacKay, Joseph Gilgun, Andrew Scott
-· Guion: Stephen Beresford
-· Música: Christopher Nightingale
-· Producción: David Livingstone
-· Productora: BBC Films, Pathé, Calamity</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4086587?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124160500 +0100" stop="20261124174600 +0100" channel="M+ Navidad">
-    <title lang="es">Una función inesperada (2023)</title>
-    <desc lang="es">Comedia dramática | No recomendado para menores de doce años | *3.2/5
-· Ezra, un niño de 11 años dentro del espectro autista, acaba de ser expulsado de otro colegio. La única solución parece medicarlo y enviarlo a un centro de educación especial, pero su padre no está de acuerdo.
-· País: EE.UU
-· Director: Tony Goldwyn
-· Reparto: Bobby Cannavale, Rose Byrne, Vera Farmiga, Whoopi Goldberg, Robert De Niro, Tony Goldwyn
-· Guion: Tony Spiridakis
-· Producción: Tony Goldwyn, Tony Spiridakis, Jon Kilik, William Horberg
-· Productora: Wayfarer Studios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4410069?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124174600 +0100" stop="20261124195300 +0100" channel="M+ Navidad">
-    <title lang="es">Green Book (2018)</title>
-    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.5/5
-· Estados Unidos, década de 1960. Tony Lip, un brusco y malhablado italoamericano, consigue trabajo como conductor de Don Shirley, un refinado pianista afroamericano.
-· País: EE.UU
-· Director: Peter Farrelly
-· Reparto: Viggo Mortensen, Mahershala Ali, Iqbal Theba, Linda Cardellini, Ricky Muse
-· Guion: Peter Farrelly,Brian Currie,Nick Vallelonga
-· Música: Kris Bowers
-· Productora: Participant Productions, DreamWorks, Amblin Partners, Participant Media</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3696921?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124195300 +0100" stop="20261124213200 +0100" channel="M+ Navidad">
-    <title lang="es">Como cabras (2026)</title>
-    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.6/5
-· Will, una pequeña cabra con grandes sueños, recibe la oportunidad de unirse al equipo profesional de rugebol, un deporte de alta intensidad dominado por los animales más rápidos y feroces. Ahora, está decidido a demostrar que ¡los pequeños saben jugar!
-· País: Canadá y EE.UU
-· Director: Tyree Dillihay, Adam Rosette
-· Reparto: Gabrielle Union, Jenifer Lewis, Jennifer Hudson, Patton Oswalt, Nick Kroll, David Harbour, Caleb McLaughlin, Eduardo Franco, Bobby Lee, Derek Mio, Nicola Coughlan, Sherry Cola, Stephen Curry, Aaron Pierre, Andrew Santino, Ayesha Curry
-· Guion: Peter Chiarelli,Aaron Buchsbaum
-· Música: Kris Bowers
-· Producción: Rodney Rothman, Michelle Raimo, Stephen Curry, Erick Peyton
-· Productora: Columbia Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4466821?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124213200 +0100" stop="20261124220000 +0100" channel="M+ Navidad">
-    <title lang="es">Leo Talks (T5): Regreso al Pasado (2025)</title>
-    <desc lang="es">Humor | No recomendado para menores de doce años | *3.0/5
-· Leo Harlem reflexiona con humor sobre cómo Internet y los smartphones nos han complicado la vida, recordando la nostalgia de épocas sin tecnología, la dependencia actual y las anécdotas que muestran la pérdida de la comunicación de tú a tú.
-· País: España
-· Presenta: Leo Harlem
-· Producción: Isabel Guerrero Martínez</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4390778"/>
-  </programme>
-  <programme start="20261124220000 +0100" stop="20261124234200 +0100" channel="M+ Navidad">
-    <title lang="es">Pequeña Miss Sunshine (2006)</title>
-    <desc lang="es">Comedia | No recomendado para menores de siete años | *4.1/5
-· Una desestructurada familia estadounidense inicia un largo viaje en furgoneta para presentar a la pequeña de la familia a un concurso de belleza.
-· País: EE.UU
-· Director: Jonathan Dayton, Valerie Faris
-· Reparto: Abigail Breslin, Toni Collette, Greg Kinnear, Alan Arkin, Steve Carell, Paul Dano
-· Guion: Michael Arndt
-· Música: Mychael Danna
-· Producción: Marc Turtletaub, Albert Berger, Ron Yerxa, David T. Friendly, Peter Saraf
-· Productora: Bona Fide Productions, Big Beach Films, Deep River Productions, Third Gear Productions, Fox Searchlight Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4062043?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124234200 +0100" stop="20261125014700 +0100" channel="M+ Navidad">
-    <title lang="es">Campeonex (2023)</title>
-    <desc lang="es">Comedia | Apto para todos los públicos | *3.2/5
-· Con la llegada de una entrenadora novata a quien la suerte no le acompaña, el equipo de campeones se adentra por error en el complejo mundo del atletismo. Ha llegado la hora de volver a darlo todo demostrando que la amistad puede con todo.
-· País: España
-· Director: Javier Fesser
-· Reparto: Elisa Hipólito, Sergio Olmos, Brianeitor, Jesús Lago Solís, Juan Margallo, Jelen García, Roberto Chinchilla, Alberto Berzal, Gloria Ramos, Fran Fuentes, Alberto Nieto Ferrández, José de Luna, Jesús Vidal, Carolina Rubio, Carmen Mayordomo, Claudia Fesser
-· Guion: David Marqués,Javier Fesser,Athenea Mata
-· Música: Rafael Arnau
-· Producción: Javier Fesser, Álvaro Longoria, Luis Manso
-· Productora: Películas Pendelton, Rey de Babia, A.I.E., Morena Films S.L</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4143563?od[]=Z1V:MM3_V"/>
-  </programme>
-  <programme start="20261124014700 +0100" stop="20261124031400 +0100" channel="M+ Navidad">
-    <title lang="es">Un guía muy perdido (2025)</title>
-    <desc lang="es">Comedia | No recomendado para menores de doce años | *2.9/5
-· Yann acaba de lograr el empleo de sus sueños: trabajar para la famosa guía de viajes Routard. Su primera misión: Marrakech, 40 visitas en 5 días. Pero Yann olvidó mencionar un pequeño detalle... nunca ha viajado en su vida.
+  <programme start="20261127124900 +0100" stop="20261127143900 +0100" channel="M+ Thriller">
+    <title lang="es">Acosada (2024)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.1/5
+· Durante 15 años, Julien y Marie han disfrutado de un feliz matrimonio. Sin embargo, la vuelta de Anaëlle, expareja de Julien, amenaza con destruirlo todo. Marie teme que Julien se vuelva a sentir atraído por Anaëlle.
 · País: Bélgica y Francia
-· Director: Philippe Mechelen
-· Reparto: Hakim Jemili, Christian Clavier, Michel Blanc, Manon Azem, Fred Testot
-· Guion: Philippe Mechelen
-· Música: Ludovic Bource
-· Producción: Julien Hervé, Philippe Mechelen
-· Productora: White and Yellow Films, StudioCanal</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4436877?od[]=Z1V:MM3_V"/>
+· Director: Anne Le Ny
+· Reparto: Omar Sy, Élodie Bouchez, José García, Vanessa Paradis, Jennifer Decker
+· Guion: Anne Le Ny
+· Música: Benjamin Esdraffo
+· Producción: Bruno Levy, Omar Sy
+· Productora: Move Movie, Korokoro</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441603?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261124031400 +0100" stop="20261124054700 +0100" channel="M+ Navidad">
-    <title lang="es">West Side Story (2021)</title>
-    <desc lang="es">Cine musical | No recomendado para menores de doce años | *3.1/5
-· Del productor y director Steven Spielberg, con guion del guionista y autor teatral Tony Kushner, llega &quot;West Side Story&quot;. La película es una adaptación del musical de 1957 y cuenta la historia de un amor prohibido.
+  <programme start="20261127143900 +0100" stop="20261127152000 +0100" channel="M+ Thriller">
+    <title lang="es">Sicarios: Los avisos (2026)</title>
+    <desc lang="es">True crime | No recomendado para menores de dieciséis años | *3.9/5
+· Un tiroteo tiene lugar a la salida de una comunión en San Pedro de Alcántara, Marbella. La investigación destapa una peligrosa banda de sicarios asentada en la Costa del Sol. Disparos, explosiones, ajustes de cuentas y mucha violencia.
+· País: España
+· Presenta: Carles Porta
+· Productora: Movistar Plus+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4507189?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20261127152000 +0100" stop="20261127160300 +0100" channel="M+ Thriller">
+    <title lang="es">Sicarios: Los suecos (2026)</title>
+    <desc lang="es">True crime | No recomendado para menores de dieciséis años | *3.5/5
+· Los sospechosos son profesionales, escurridizos y peligrosos. Las primeras investigaciones llevan el rastro hasta Malmö, Suecia. Las cámaras de seguridad serán claves para seguir avanzando en el caso. ¿Qué relación hay entre Marbella y Malmö?
+· País: España
+· Presenta: Carles Porta
+· Productora: Movistar Plus+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4507189?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20261127160300 +0100" stop="20261127164300 +0100" channel="M+ Thriller">
+    <title lang="es">Sicarios: El puzzle (2026)</title>
+    <desc lang="es">True crime | No recomendado para menores de dieciséis años | *3.4/5
+· Asesinatos, bombas y mucha violencia. La banda actúa como si nada ni nadie pudiera detenerlos. Cambian constantemente de coche, de casa, de colaboradores y de país, pero la policía española y sueca los tiene cada vez más localizados.
+· País: España
+· Presenta: Carles Porta
+· Productora: Movistar Plus+</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4507189?od[]=Z1V:MORIG3_V"/>
+  </programme>
+  <programme start="20261127164300 +0100" stop="20261127183400 +0100" channel="M+ Thriller">
+    <title lang="es">La residencia (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
+· Una escritora se retira a una residencia 'inteligente' para terminar su libro, pero el lugar y su asistente virtual empiezan a comportarse de forma cada vez más perturbadora.
+· País: Francia
+· Director: Yann Gozlan
+· Reparto: Cécile De France, Lars Mikkelsen, Anna Mouglalis, Frédéric Pierrot, Freya Mavor, Mylène Farmer, Pili Groyne, Mark Irons, Juliette Goudot, Stéphanie Van Vyve, Sophie Maréchal
+· Guion: Yann Gozlan,Thomas Kruithof,Tatiana de Rosnay
+· Producción: Éric Altmayer, Nicolas Altmayer
+· Productora: Gaumont, Panache Productions, La Compagnie Cinématographique, Canal+, Netflix, Radio Télévision Belge Francophone (RTBF)</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4477542?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127183400 +0100" stop="20261127201300 +0100" channel="M+ Thriller">
+    <title lang="es">Spider (2002)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciséis años | *3.2/5
+· Tras una temporada en el psiquiátrico, y aparentemente recuperado, la estabilidad mental de un muchacho comienza a derrumbarse.
+· País: Canadá, Francia y R.U
+· Director: David Cronenberg
+· Reparto: Ralph Fiennes, Gabriel Byrne, Miranda Richardson
+· Productora: Capitol Films, Sony Pictures Classics</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4470784?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127201300 +0100" stop="20261127214900 +0100" channel="M+ Thriller">
+    <title lang="es">Noche de bodas (2019)</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.6/5
+· Grace acaba de casarse con Alex Le Domas, hijo de una riquísima familia con una tradición bastante peculiar: la noche de bodas, a las 12 en punto, el nuevo miembro de la familia debe participar en un juego.
+· País: Canadá y EE.UU
+· Director: Matt Bettinelli-Olpin, Tyler Gillett
+· Reparto: Samara Weaving, Adam Brody, Mark O'Brien, Andie MacDowell, Henry Czerny, Nicky Guadagni
+· Guion: Guy Busick,Ryan Murphy
+· Música: Brian Tyler
+· Producción: James Vanderbilt, Bradley J. Fischer, William Sherak, Tripp Vinson
+· Productora: Fox Searchlight Pictures, Mythology Entertainment, Vinson Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3803318?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127214900 +0100" stop="20261127220000 +0100" channel="M+ Thriller">
+    <title lang="es">Así se hizo la película dentro de ‘El ser querido’ (2026)</title>
+    <desc lang="es">Making of | No recomendado para menores de doce años | *3.0/5
+· 'El ser querido', de Rodrigo Sorogoyen, incluye el rodaje de una película dentro de la propia película. Sus creadores cuentan cómo afrontaron este reto en Fuerteventura.
+· País: España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4502829?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127220000 +0100" stop="20261127233400 +0100" channel="M+ Thriller">
+    <title lang="es">Septiembre 5 (2024)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.1/5
+· Durante los Juegos Olímpicos de Múnich de 1972, el equipo de periodistas deportivos estadounidenses de la ABC encargados de retransmitir los juegos se vieron obligados a cubrir la crisis de los atletas israelíes que fueron tomados como rehenes.
+· País: Alemania y EE.UU
+· Director: Tim Fehlbaum
+· Reparto: Peter Sarsgaard, John Magaro, Leonie Benesch, Ben Chaplin, Zinedine Soualem, Georgina Rich, Corey Johnson
+· Guion: Moritz Binder,Tim Fehlbaum
+· Música: Lorenz Dangel
+· Producción: Mark Nolting
+· Productora: BerghausWöbke Filmproduktion, Projected Picture Works</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4365636?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127233400 +0100" stop="20261128010700 +0100" channel="M+ Thriller">
+    <title lang="es">Confidencial (Black Bag) (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de doce años | *3.2/5
+· Un eminente y metódico agente de inteligencia británico debe investigar a sus colegas, entre ellos a su propia esposa Kathryn, cuando se descubre una traición dentro de la organización.
+· País: EE.UU y R.U
+· Director: Steven Soderbergh
+· Reparto: Michael Fassbender, Cate Blanchett, Marisa Abela, Tom Burke, Naomie Harris, Regé-Jean Page, Pierce Brosnan, Gustaf Skarsgård, Kae Alexander, Ambika Mod
+· Guion: David Koepp
+· Música: David Holmes
+· Producción: Casey Silver, Gregory Jacobs
+· Productora: Focus Features, Casey Silver Productions</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4383537?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127010700 +0100" stop="20261127030300 +0100" channel="M+ Thriller">
+    <title lang="es">Hunter (1986)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *2.8/5
+· Un asesino en serie mata una familia cada vez que hay luna llena. La policía y el FBI no tienen ni una sola pista sobre este criminal así que recurren a Will Graham, un agente del FBI que capturó al mismísimo Doctor Hannibal Lecter.
 · País: EE.UU
-· Director: Steven Spielberg
-· Reparto: Ansel Elgort, Rachel Zegler, Ariana DeBose, David Álvarez, Rita Moreno, Brian D'Arcy James, Corey Stoll, Mike Faist
-· Guion: Tony Kushner
-· Música: Leonard Bernstein
-· Productora: 20th Century Studios, Amblin Entertainment, Amblin Partners</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4355053?od[]=Z1V:MM3_V"/>
+· Director: Michael Mann
+· Reparto: Kim Greist, Joan Allen, William Petersen, Stephen Lang, Dan Butler, Dennis Farina
+· Guion: Michael Mann
+· Música: Klaus Schulze, Michel Rubini
+· Productora: De Laurentiis Entertainment Group (DEG), Red Dragon Productions S.A.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4087243?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127030300 +0100" stop="20261127045100 +0100" channel="M+ Thriller">
+    <title lang="es">Métodos violentos (2025)</title>
+    <desc lang="es">Thriller | No recomendado para menores de dieciocho años | *3.0/5
+· En las montañas Ozark, Lucas Frost lucha por dejar atrás la sombra de su familia criminal y forjar una vida tranquila con Emma, pero un violento robo cometido por su primo Eli amenaza con arrastrarle de nuevo a un mundo del que intenta escapar.
+· País: EE.UU
+· Director: John-Michael Powell
+· Reparto: Billy Magnussen, James Badge Dale, Kate Burton, Ray McKinnon, Alexandra Shipp, Nick Stahl, Jared Bankens, David Ury</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4478556?od[]=Z1V:MM3_V"/>
   </programme>
   <programme start="20261125054700 +0100" stop="20261125074900 +0100" channel="M+ Navidad">
     <title lang="es">Big Fish (2003)</title>
@@ -733,7 +553,7 @@
 · Producción: Ron Dyens</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4481776?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125080000 +0100" stop="20261125094000 +0100" channel="M+ Navidad">
+  <programme start="20261125080000 +0100" stop="20261125094100 +0100" channel="M+ Navidad">
     <title lang="es">Pesadillas (2015)</title>
     <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.7/5
 · Meses después de la muerte de su padre, el adolescente Zach Cooper y su madre se mudan desde la gran ciudad a un pequeño pueblo. Allí, nada más llegar, Zach conoce a su vecina, Hannah, la guapa chica que vive en la casa de al lado.
@@ -746,7 +566,7 @@
 · Productora: LStar Capital, Columbia Pictures, Original Film, Scholastic Entertainment, Sony Pictures, Village Roadshow Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4034653?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125094000 +0100" stop="20261125110800 +0100" channel="M+ Navidad">
+  <programme start="20261125094100 +0100" stop="20261125111000 +0100" channel="M+ Navidad">
     <title lang="es">Pesadillas 2: Noche de Halloween (2018)</title>
     <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.4/5
 · Los jóvenes Sarah, Sonny y Sam encuentran en un viejo arcón un misterioso libro de la saga &quot;Pesadillas&quot; de R.L Stine cerrado con un candado... y cometen el error de abrirlo.
@@ -759,7 +579,7 @@
 · Productora: Columbia Pictures Corporation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3648293?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125110800 +0100" stop="20261125115500 +0100" channel="M+ Navidad">
+  <programme start="20261125111000 +0100" stop="20261125115800 +0100" channel="M+ Navidad">
     <title lang="es">Todas las... (T2): Ep.1 Donde está el corazón (2021)</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.0/5
 · James Herriot regresa a su adorado Darrowby después de que le ofrezcan un nuevo trabajo en Glasgow. Mientras busca una razón para rechazarlo y quedarse en el pueblo, allí se reencuentra con Siegfried, Tristan, la señora Hall y también con Helen.
@@ -771,7 +591,7 @@
 · Productora: Playground Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3962453?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125115500 +0100" stop="20261125124300 +0100" channel="M+ Navidad">
+  <programme start="20261125115800 +0100" stop="20261125124700 +0100" channel="M+ Navidad">
     <title lang="es">Todas las... (T2): Ep.2 Semper Progrediens (2021)</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.0/5
 · Animado por Tristan, James pregunta a Helen si le gustaría ir con él al baile de primavera. Pero Gerald, uno de los lugareños, entorpece sus planes cuando llega con su perro Rock herido. Tristan teme que Siegfried esté perdiendo facultades.
@@ -783,7 +603,7 @@
 · Productora: Playground Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3962462?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125124300 +0100" stop="20261125133400 +0100" channel="M+ Navidad">
+  <programme start="20261125124700 +0100" stop="20261125133900 +0100" channel="M+ Navidad">
     <title lang="es">Caminando entre...: Los hermanos Utahraptor (2025)</title>
     <desc lang="es">Naturaleza | Apto para todos los públicos | *3.0/5
 · Utah, hace 130 millones de años, una manada de dinosaurios lucha por alcanzar la edad adulta, perseguidos por un grupo de Utahraptors, uno de los mayores depredadores. Una lucha a vida o muerte que culmina en un enfrentamiento final.
@@ -791,7 +611,7 @@
 · Producción: Kirsty Wilson</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4373124?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20261125133400 +0100" stop="20261125153000 +0100" channel="M+ Navidad">
+  <programme start="20261125133900 +0100" stop="20261125153500 +0100" channel="M+ Navidad">
     <title lang="es">La saga Crepúsculo: Amanecer - Parte 1 (2011)</title>
     <desc lang="es">Fantástico | No recomendado para menores de doce años | *3.6/5
 · Parte 1 - Bella Swan y Edward Cullen deciden casarse. Durante la luna de miel, Bella queda embarazada. El nacimiento de su primera hija trae consigo una imprevista y sorprendente consecuencia para Jacob Black.
@@ -803,7 +623,7 @@
 · Productora: TSBD Louisiana, Sunswept Entertainment, Temple Hill Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4489422?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125153000 +0100" stop="20261125170300 +0100" channel="M+ Navidad">
+  <programme start="20261125153500 +0100" stop="20261125170900 +0100" channel="M+ Navidad">
     <title lang="es">Shrek (2001)</title>
     <desc lang="es">Animación | Apto para todos los públicos | *3.5/5
 · Shrek es un ogro verde, solitario y gruñón que vive feliz en su ciénaga. Hasta que su tranquilidad se ve interrumpida.
@@ -815,7 +635,7 @@
 · Productora: Pacific Data Images (PDI), DreamWorks SKG</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3948163?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125170300 +0100" stop="20261125183600 +0100" channel="M+ Navidad">
+  <programme start="20261125170900 +0100" stop="20261125184100 +0100" channel="M+ Navidad">
     <title lang="es">Shrek 2 (2004)</title>
     <desc lang="es">Animación | Apto para todos los públicos | *3.4/5
 · Shrek y Fiona, acompañados por Asno, visitan a los padres de la Princesa, que no se muestran muy felices con la boda de su hija.
@@ -828,7 +648,7 @@
 · Productora: DreamWorks SKG, DreamWorks Animation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3948177?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125183600 +0100" stop="20261125201100 +0100" channel="M+ Navidad">
+  <programme start="20261125184100 +0100" stop="20261125201200 +0100" channel="M+ Navidad">
     <title lang="es">Shrek tercero (2007)</title>
     <desc lang="es">Animación | Apto para todos los públicos | *3.2/5
 · Shrek se casó con Fiona, pero lo que no tuvo en cuenta es que al contraer matrimonio con una princesa terminaría siendo rey. Y es que, cuando su suegro cae enfermo, el ogro se convierte en el candidato principal para ocupar el trono.
@@ -841,7 +661,7 @@
 · Productora: Pacific Data Images (PDI), DreamWorks Animation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3948181?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125201100 +0100" stop="20261125214600 +0100" channel="M+ Navidad">
+  <programme start="20261125201200 +0100" stop="20261125214400 +0100" channel="M+ Navidad">
     <title lang="es">Shrek, felices para siempre (2010)</title>
     <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.2/5
 · La nostalgia por los tiempos en los que se sentía un 'ogro de verdad' hace caer a Shrek en la trampa de firmar un pacto con un persuasivo empresario.
@@ -850,7 +670,7 @@
 · Reparto: Cameron Diaz, Eddie Murphy, Mike Myers</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3948185?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125214600 +0100" stop="20261125220000 +0100" channel="M+ Navidad">
+  <programme start="20261125214400 +0100" stop="20261125220000 +0100" channel="M+ Navidad">
     <title lang="es">¡Pito, pito, gorgorito! (2026)</title>
     <desc lang="es">Corto animación | Apto para todos los públicos | *2.9/5
 · En las nubes se encuentra un patio de juegos mítico donde los hijos de los dioses y monstruos griegos van a jugar.
@@ -879,7 +699,7 @@
 · Director: J.P. Vine</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455795?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125000700 +0100" stop="20261125013500 +0100" channel="M+ Navidad">
+  <programme start="20261125000700 +0100" stop="20261125013900 +0100" channel="M+ Navidad">
     <title lang="es">Mi perro y yo (2026)</title>
     <desc lang="es">Comedia | Apto para todos los públicos | *3.0/5
 · La vida ordenada y solitaria de Paul salta por los aires cuando hereda un perro imposible de controlar. El animal no solo revoluciona su rutina: también lo empuja a salir de su zona de confort y a tener un encuentro inesperado.
@@ -890,7 +710,7 @@
 · Producción: Marcel de Block, Tom de Mol</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4476565?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125013500 +0100" stop="20261125032000 +0100" channel="M+ Navidad">
+  <programme start="20261125013900 +0100" stop="20261125032200 +0100" channel="M+ Navidad">
     <title lang="es">Jasón y los argonautas (1963)</title>
     <desc lang="es">Fantástico | Apto para todos los públicos | *3.2/5
 · Jasón, hijo de Esón -el que fuera rey legítimo de Yolco hasta ser destronado por su hermanastro Pelías-, decide ir en busca del vellocino de oro que le permitirá recuperar el trono de su padre.
@@ -903,7 +723,7 @@
 · Productora: Morningside Worldwide S.A, Columbia Pictures Corporation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3828084?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261125032000 +0100" stop="20261125054000 +0100" channel="M+ Navidad">
+  <programme start="20261125032200 +0100" stop="20261125054100 +0100" channel="M+ Navidad">
     <title lang="es">Robin Hood, príncipe de los ladrones (1991)</title>
     <desc lang="es">Aventuras | No recomendado para menores de siete años | *3.2/5
 · Tras cinco años en las cruzadas, Robin regresa a Inglaterra junto a un guerrero musulmán al que ha salvado la vida. Al llegar descubre que su padre ha sido asesinado por el 'sheriff' de Nottingham que se ha quedado con sus tierras.
@@ -916,7 +736,7 @@
 · Productora: Morgan Creek Productions, Morgan Creek, Warner Bros</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4366234?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126054000 +0100" stop="20261126072700 +0100" channel="M+ Navidad">
+  <programme start="20261126054100 +0100" stop="20261126072600 +0100" channel="M+ Navidad">
     <title lang="es">Un monstruo viene a verme (2016)</title>
     <desc lang="es">Drama | No recomendado para menores de doce años | *3.8/5
 · Esta historia empieza como tantas otras: con un chico demasiado mayor para ser un niño y demasiado joven para ser un hombre... y con una pesadilla.
@@ -929,14 +749,14 @@
 · Productora: Apache Entertainment, Mediaset, Movistar+, La Trini, A Monster Calls, Participant Media, River Road Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4031752?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126072700 +0100" stop="20261126080000 +0100" channel="M+ Navidad">
+  <programme start="20261126072600 +0100" stop="20261126080000 +0100" channel="M+ Navidad">
     <title lang="es">Ni tan mal. Leo Harlem (2025)</title>
     <desc lang="es">Entretenimiento | No recomendado para menores de doce años | *3.2/5
 · Leo Harlem se rodea de algunos de sus amigos para contarnos sus más de 25 años de carrera. Anabel Alonso, Santiago Segura, Pablo Motos, el chef Pepe Rodríguez y muchos más se unen al cómico en este programa de humor y anécdotas.
 · País: España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441879?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126080000 +0100" stop="20261126093700 +0100" channel="M+ Navidad">
+  <programme start="20261126080000 +0100" stop="20261126093800 +0100" channel="M+ Navidad">
     <title lang="es">Una hija en Tokio (2024)</title>
     <desc lang="es">Drama | No recomendado para menores de siete años | *3.2/5
 · Jay, un taxista francés en Tokio, lleva nueve años buscando a Lily, la hija que perdió tras su divorcio. Cuando está a punto de abandonar Japón y regresar a Francia, la joven sube por azar a su taxi, pero ella no le reconoce ni sospecha quién es.
@@ -948,7 +768,7 @@
 · Productora: Versus Production, France Télévisions, Centre national du cinéma et de l'image animée (CNC), Disney+</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4486749?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126093700 +0100" stop="20261126110300 +0100" channel="M+ Navidad">
+  <programme start="20261126093800 +0100" stop="20261126110600 +0100" channel="M+ Navidad">
     <title lang="es">Los exploradores (2024)</title>
     <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.1/5
 · En un pueblo de La Mancha azotado por terribles tormentas, Alfonso de 11 años, no está dispuesto a que el avaricioso Carrasco, saque provecho inmobiliario de esta situación. El objetivo de Alfonso es detener sea como sea este fenómeno climático.
@@ -959,7 +779,7 @@
 · Producción: Thorsten Wegener, Florencia Lemoine</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4443375?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126110300 +0100" stop="20261126112400 +0100" channel="M+ Navidad">
+  <programme start="20261126110600 +0100" stop="20261126112700 +0100" channel="M+ Navidad">
     <title lang="es">Autobús (2025)</title>
     <desc lang="es">Corto animación | Apto para todos los públicos | *3.0/5
 · En la década de 1990, Agata, de 8 años, abandona Polonia para irse a Bélgica. Su perspectiva transforma la realidad migratoria en una experiencia iniciática.
@@ -968,7 +788,7 @@
 · Reparto: Barbara Kurzaj, Mariusz Ostrowski:</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4455791?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126112400 +0100" stop="20261126121100 +0100" channel="M+ Navidad">
+  <programme start="20261126112700 +0100" stop="20261126121500 +0100" channel="M+ Navidad">
     <title lang="es">Todas las... (T2): Ep.3 Solo nos queda esperar (2021)</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.0/5
 · El destino de una joven viuda complica el incipiente idilio de James y Helen. Siegfried da con una nueva forma de enderezar a Tristan. La señora Pumphrey visita la clínica con Tricki.
@@ -980,7 +800,7 @@
 · Productora: Playground Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3962468?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126121100 +0100" stop="20261126125900 +0100" channel="M+ Navidad">
+  <programme start="20261126121500 +0100" stop="20261126130300 +0100" channel="M+ Navidad">
     <title lang="es">Todas las... (T2): Ep.4 Felices reencuentros (2021)</title>
     <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.1/5
 · Siegfried da a su hermano nuevas responsabilidades y Tristan debe afrontar la presión y salir airoso del reto antes de volver a Skeldale para celebrar su cumpleaños. La señora Hall recuerda a James que necesita contarle a Helen la verdad.
@@ -992,7 +812,7 @@
 · Productora: Playground Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3962476?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126125900 +0100" stop="20261126135200 +0100" channel="M+ Navidad">
+  <programme start="20261126130300 +0100" stop="20261126135600 +0100" channel="M+ Navidad">
     <title lang="es">Caminando entre...: La manada de Albertosaurus (2025)</title>
     <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
 · Hace 71 millones de años vivió un Albertosaurus adolescente. Debía ganarse su lugar en una manada feroz y letal o morir de hambre. Hoy, paleontólogos del oeste de Canadá están desenterrando sus restos, lo que nos permite imaginar su historia.
@@ -1000,7 +820,7 @@
 · Producción: Kirsty Wilson</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4373125?od[]=Z1H:MM3_H"/>
   </programme>
-  <programme start="20261126135200 +0100" stop="20261126151600 +0100" channel="M+ Navidad">
+  <programme start="20261126135600 +0100" stop="20261126152100 +0100" channel="M+ Navidad">
     <title lang="es">Héroes de Central Park (2023)</title>
     <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.0/5
 · Un títere de Don Quijote con gran imaginación y DJ 'Didier' Doggy Dog, un peluche abandonado, se encuentran en Central Park. Juntos inician una aventura en Nueva York, enfrentándose a una épica aventura que pondrán a prueba su amistad y valentía.
@@ -1012,7 +832,7 @@
 · Productora: A Contracorriente Films, nWave Pictures</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4322450?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126151600 +0100" stop="20261126165100 +0100" channel="M+ Navidad">
+  <programme start="20261126152100 +0100" stop="20261126165400 +0100" channel="M+ Navidad">
     <title lang="es">Una Navidad diferente (2025)</title>
     <desc lang="es">Comedia | No recomendado para menores de siete años | *3.0/5
 · Una egocéntrica estrella de Hollywood, con su carrera en declive, cree haber encontrado su camino de vuelta al estrellato en el Reino Unido... aunque quizá termine encontrando algo más importante.
@@ -1025,7 +845,7 @@
 · Productora: Future Artists Entertainment</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4442873?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126165100 +0100" stop="20261126182400 +0100" channel="M+ Navidad">
+  <programme start="20261126165400 +0100" stop="20261126182700 +0100" channel="M+ Navidad">
     <title lang="es">Siempre a tu lado (Hachiko) (2009)</title>
     <desc lang="es">Drama | Apto para todos los públicos | *4.0/5
 · Parker es un apacible profesor de música que recoge, en la estación por la que pasa a diario, a un perro vagabundo. De nombre Hachiko, el perro le demostrará, meditante la entrega y la fidelidad, lo que es verdaderamente importante en la vida.
@@ -1038,7 +858,7 @@
 · Productora: Grand Army Entertainment, Opperman Viner Chrystyn Entertainment, Inferno Distribution</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3979445?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126182400 +0100" stop="20261126200100 +0100" channel="M+ Navidad">
+  <programme start="20261126182700 +0100" stop="20261126200300 +0100" channel="M+ Navidad">
     <title lang="es">El bebé jefazo (2017)</title>
     <desc lang="es">Cine infantil | No recomendado para menores de siete años | *3.9/5
 · La idílica vida del pequeño Tim, un niño de siete años al que sus padres adoran, se evapora de pronto con la llegada de un pequeño y (a su entender) malévolo y manipulador hermanito.
@@ -1050,7 +870,7 @@
 · Productora: DreamWorks Animation</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4100607?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126200100 +0100" stop="20261126213200 +0100" channel="M+ Navidad">
+  <programme start="20261126200300 +0100" stop="20261126213200 +0100" channel="M+ Navidad">
     <title lang="es">Los Pitufos: La aldea escondida (2017)</title>
     <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.7/5
 · En la aldea de los pitufos, cada habitante tiene un trabajo... excepto Pitufina que está cansada de no saber cuál es su propósito en la vida.
@@ -1072,7 +892,7 @@
 · Producción: Isabel Guerrero Martínez</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4390778"/>
   </programme>
-  <programme start="20261126220000 +0100" stop="20261126235300 +0100" channel="M+ Navidad">
+  <programme start="20261126220000 +0100" stop="20261126235200 +0100" channel="M+ Navidad">
     <title lang="es">Lo que aprendí de mi pingüino (2024)</title>
     <desc lang="es">Comedia dramática | No recomendado para menores de siete años | *3.3/5
 · Un desilusionado profesor inglés acepta trabajar en una escuela en la Argentina de 1976. Allí encuentra una nación compleja y dividida y un trabajo con una clase llena de jóvenes a los que considera prácticamente imposibles de enseñar.
@@ -1085,7 +905,7 @@
 · Productora: Nostromo Pictures, Penguin Lessons LTD.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4438943?od[]=Z1V:MM3_V"/>
   </programme>
-  <programme start="20261126235300 +0100" stop="20261127013400 +0100" channel="M+ Navidad">
+  <programme start="20261126235200 +0100" stop="20261127013400 +0100" channel="M+ Navidad">
     <title lang="es">Navidad en Baltimore (2025)</title>
     <desc lang="es">Comedia romántica | No recomendado para menores de doce años | *3.1/5
 · Cliff lleva seis meses sobrio y va a cenar en Nochebuena con la familia de su prometida. Sin embargo, un golpe tonto lo lleva a visitar a la única dentista abierta... y eso lo lleva al depósito de coches... y eso lo lleva a la más insólita Nochebuena.
@@ -1122,5 +942,190 @@
 · Música: Romeo Díaz
 · Productora: Cinema City</desc>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4435770?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127043700 +0100" stop="20261127062100 +0100" channel="M+ Navidad">
+    <title lang="es">Una historia china de fantasmas II (1990)</title>
+    <desc lang="es">Fantástico | Apto para todos los públicos | *3.1/5
+· Ling, junto a un monje llamado Chi Chau, se encuentra con dos hermanas que se hacen pasar por fantasmas para salvar a su padre.
+· País: China
+· Director: Ching Siu Tung
+· Reparto: Leslie Cheung, Joey Wong, Michelle Reis
+· Guion: Kan Keito
+· Productora: Film Workshop</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4435778?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127062100 +0100" stop="20261127081000 +0100" channel="M+ Navidad">
+    <title lang="es">Una historia china de fantasmas III (1991)</title>
+    <desc lang="es">Fantástico | Apto para todos los públicos | *3.0/5
+· En el corazón de un bosque encantado está el Templo de la Orquídea. Allí, el monje Fong se enamora de Loto, esclava del Diablo.
+· País: China
+· Director: Ching Siu Tung
+· Reparto: Tony Leung Chiu-wai, Jacky Cheung, Nina Li Chi
+· Guion: Roy Szeto
+· Música: Romeo Díaz
+· Productora: Golden Princess Film Production</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4435340?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127081000 +0100" stop="20261127093400 +0100" channel="M+ Navidad">
+    <title lang="es">La oveja Shaun. La película: Granjaguedón (2019)</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.5/5
+· La oveja Shaun intenta hacer más divertida la vida en la granja ideando mil travesuras junto a sus compañeras de rebaño. Sin embargo, las prohibiciones del perro Bitzer cada vez se lo ponen más difícil hasta la llegada de un visitante de muuuuy lejos.
+· País: EE.UU, Francia y R.U
+· Director: Will Becher, Richard Phelan
+· Guion: Jon Brown,Mark Burton,Nick Park
+· Música: Tom Howe
+· Producción: Paul Kewley
+· Productora: Aardman Animations Productions, Amazon Prime Video</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3805817?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127093400 +0100" stop="20261127110800 +0100" channel="M+ Navidad">
+    <title lang="es">100% Wolf: Pequeño gran lobo (2020)</title>
+    <desc lang="es">Animación | Especialmente recomendado para la infancia | *3.4/5
+· Freddy Lupin, hijo del macho alfa de la manada de hombres lobo, está deseando hacerse mayor para poder transformarse y ayudar a su padre, su tío y demás poderosos licántropos en sus audaces salvamentos nocturnos.
+· País: Australia, Bélgica y R.U
+· Director: Alexs Stadermann
+· Reparto: Jane Lynch, Rhys Darby
+· Guion: Alexs Stadermann,Fin Edquist
+· Producción: Alexia Gates-Foale, Barbara Stephen
+· Productora: Create NSW, Flying Bark Productions, Gregory Gavanski, Anand Jani, Eoin Hegan, Lotterywest</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3864474?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127110800 +0100" stop="20261127115500 +0100" channel="M+ Navidad">
+    <title lang="es">Todas las... (T2): Ep.5 El último en llegar (2021)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.1/5
+· Una cara conocida del pasado de Helen reaparece en Darrowby y James se pone competitivo, aprovechando el partido de críquet de la señora Pumphrey para ganar puntos.
+· País: R.U
+· Director: Brian Percival
+· Reparto: Nicholas Ralph, Samuel West, Anna Madeley, Rachel Shenton, Callum Woodhouse, Patricia Hodge
+· Guion: Ben Vanstone
+· Música: Alexandra Harwood
+· Productora: Playground Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3962487?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127115500 +0100" stop="20261127124200 +0100" channel="M+ Navidad">
+    <title lang="es">Todas las... (T2): Ep.6 Verdades incómodas (2021)</title>
+    <desc lang="es">Comedia dramática | Apto para todos los públicos | *3.1/5
+· La guerra es inminente. James se prepara para contarles noticias difíciles a sus padres, pero sus planes se complican cuando debe atender a la yegua embarazada de Alderson.
+· País: R.U
+· Director: Brian Percival
+· Reparto: Nicholas Ralph, Samuel West, Anna Madeley, Rachel Shenton, Callum Woodhouse, Patricia Hodge
+· Guion: Ben Vanstone
+· Música: Alexandra Harwood
+· Productora: Playground Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3962499?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127124200 +0100" stop="20261127133300 +0100" channel="M+ Navidad">
+    <title lang="es">Caminando entre...: El viaje al norte del Pachyrhinosaurus (2025)</title>
+    <desc lang="es">Naturaleza | Apto para todos los públicos | *3.1/5
+· Un nuevo descubrimiento en Canadá revela la historia de una de las manadas de dinosaurios más grandes que jamás haya existido, el Pachyrhinosaurus y uno de sus miembros más jóvenes. Para sobrevivir, debe embarcarse en una agotadora migración.
+· País: R.U
+· Producción: Kirsty Wilson</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4373126?od[]=Z1H:MM3_H"/>
+  </programme>
+  <programme start="20261127133300 +0100" stop="20261127151700 +0100" channel="M+ Navidad">
+    <title lang="es">Big (1988)</title>
+    <desc lang="es">Comedia | Apto para todos los públicos | *3.7/5
+· Josh Baskin es un niño de 12 años que juega con el ordenador, monta en bici y se siente atraído por una chica de su clase. Para poder enamorarla formula un deseo en una máquina de feria mágica: hacerse mayor.
+· País: EE.UU
+· Director: Penny Marshall
+· Reparto: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard, Jared Rushton, David Moscow, Jon Lovitz
+· Guion: Gary Ross,Anne Spielberg
+· Música: Howard Shore
+· Producción: James L. Brooks, Robert Greenhut
+· Productora: Twentieth Century Fox, Gracie Films</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3664828?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127151700 +0100" stop="20261127161300 +0100" channel="M+ Navidad">
+    <title lang="es">Tom Hanks: un héroe corriente (2026)</title>
+    <desc lang="es">Biografía | Apto para todos los públicos | *3.0/5
+· A lo largo de su carrera,Tom Hanks se ha hecho famoso por interpretar a personas normales que, cuando la vida las pone a prueba, terminan haciendo cosas extraordinarias.
+· País: Francia
+· Director: Pierre-François Didek</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4490334?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127161300 +0100" stop="20261127174900 +0100" channel="M+ Navidad">
+    <title lang="es">La leyenda de Ochi (2025)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de doce años | *3.1/5
+· Yuri ha crecido escuchando que los ochi son una amenaza. Pero cuando encuentra a una cría abandonada, emprende una misión para llevarla de vuelta con los suyos y descubre otra forma de mirar el mundo.
+· País: EE.UU, Finlandia y R.U
+· Director: Isaiah Saxon
+· Reparto: Helena Zengel, Finn Wolfhard, Emily Watson, Willem Dafoe, Gabriel Spahiu
+· Guion: Isaiah Saxon
+· Producción: Traci Carlson, Richard Peete, Jonathan Wang
+· Productora: A24, IPR.VC, AGBO</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4471781?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127174900 +0100" stop="20261127193400 +0100" channel="M+ Navidad">
+    <title lang="es">Proyecto Rampage (2018)</title>
+    <desc lang="es">Acción | No recomendado para menores de doce años | *3.5/5
+· Davis Okoye es un primatólogo muy poco sociable pero con un sólido vínculo con el inteligente gorila al que cuida desde bebé. Cuando éste se convierte en un incontrolable 'kaiju', Okoye descubre que hay otros animales con la misma alteración genética.
+· País: EE.UU
+· Director: Brad Peyton
+· Reparto: Dwayne Johnson, Naomie Harris, Malin Akerman, Jake Lacy, Joe Manganiello, Allyssa Brooke
+· Guion: Ryan Engle,Carlton Cuse,Adam Sztykiel,Ryan J. Condal
+· Música: Andrew Lockington
+· Producción: Brad Peyton, Beau Flynn, Hiram Garcia, John Rickard
+· Productora: New Line Cinema, Flynn Picture Company, Twisted Media, Wrigley Pictures, ASAP Entertainment, 7 Bucks Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3538166?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127193400 +0100" stop="20261127220000 +0100" channel="M+ Navidad">
+    <title lang="es">Hook (El capitán Garfio) (1991)</title>
+    <desc lang="es">Fantástico | Apto para todos los públicos | *3.6/5
+· Peter Banning, un abogado de 40 años, tiene una familia feliz y gran éxito en los negocios... pero ha perdido su capacidad de dejar volar al niño que lleva dentro. Cuando sus hijos son secuestrados, Peter se ve obligado a viajar al País de Nunca Jamás.
+· País: EE.UU
+· Director: Steven Spielberg
+· Reparto: Dustin Hoffman, Robin Williams, Julia Roberts, Bob Hoskins, Maggie Smith, Dante Basco, Caroline Goodall, Charlie Korsmo, Amber Scott
+· Guion: Jim V. Hart,Malia Scotch Marmo
+· Música: John Williams
+· Producción: Kathleen Kennedy, Frank Marshall, Gerald R. Molen
+· Productora: TriStar Pictures, Amblin Entertainment</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4366216?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127220000 +0100" stop="20261127234000 +0100" channel="M+ Navidad">
+    <title lang="es">Campamento Garra de Oso (2025)</title>
+    <desc lang="es">Comedia | Especialmente recomendado para la infancia | *3.0/5
+· Dos niños tendrán que unir fuerzas y luchar a contrarreloj para salvar el campamento de verano amenazado por el excéntrico constructor Sebastián. Para ello, deben buscar a un oso que creen que nadie ha visto pero sigue habitando el valle.
+· País: España y Portugal
+· Director: Sílvia Quer
+· Reparto: Júlia Raya, Martín Abelló, Anabel Alonso, Edu Soto, Ana Morgade
+· Guion: Marta Armengol,Daniel González
+· Música: Cláudia Correia
+· Producción: Oriol Marcos
+· Productora: A Film About Quiet Jazz, Boavista Filmes Lda.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4441633?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127234000 +0100" stop="20261128000900 +0100" channel="M+ Navidad">
+    <title lang="es">Leo Talks (T5): Tontería e Historia (2025)</title>
+    <desc lang="es">Humor | No recomendado para menores de doce años | *3.0/5
+· Leo desmonta la idealización del pasado, mostrando que la vida en civilizaciones antiguas era dura y poco cómoda. Entre cocodrilos, malos olores y prácticas extrañas, el humorista invita a valorar el presente y dejar de romantizar épocas antiguas.
+· País: España
+· Presenta: Leo Harlem
+· Producción: Isabel Guerrero Martínez</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4390778"/>
+  </programme>
+  <programme start="20261127000900 +0100" stop="20261127021500 +0100" channel="M+ Navidad">
+    <title lang="es">El mundo perdido (Jurassic Park) (1997)</title>
+    <desc lang="es">Aventuras | No recomendado para menores de doce años | *3.4/5
+· Hammond, creador del primer Parque Jurásico, revela al doctor Malcolm la existencia de otra isla en la que se criaban los dinosaurios antes de ser transportados.
+· País: EE.UU
+· Director: Steven Spielberg
+· Reparto: Jeff Goldblum, Julianne Moore, Pete Postlethwaite, Arliss Howard, Vince Vaughn, Richard Attenborough, Vanessa Lee Chester, Peter Stormare, Harvey Jason, Richard Schiff, Thomas F. Duffy, Joseph Mazzello, Ariana Richards
+· Guion: David Koepp
+· Música: John Williams
+· Producción: Colin Wilson, Gerald Molen
+· Productora: Universal Pictures, Amblin Entertainment, Digital Image Associates</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3847906?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261127021500 +0100" stop="20261127042100 +0100" channel="M+ Navidad">
+    <title lang="es">Green Book (2018)</title>
+    <desc lang="es">Comedia | No recomendado para menores de doce años | *3.5/5
+· Estados Unidos, década de 1960. Tony Lip, un brusco y malhablado italoamericano, consigue trabajo como conductor de Don Shirley, un refinado pianista afroamericano.
+· País: EE.UU
+· Director: Peter Farrelly
+· Reparto: Viggo Mortensen, Mahershala Ali, Iqbal Theba, Linda Cardellini, Ricky Muse
+· Guion: Peter Farrelly,Brian Currie,Nick Vallelonga
+· Música: Kris Bowers
+· Productora: Participant Productions, DreamWorks, Amblin Partners, Participant Media</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3696921?od[]=Z1V:MM3_V"/>
   </programme>
 </tv>
